@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 141069accee3a91abaec15a22ee1628de03d64e4
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et les [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Importation -  [!DNL Commerce] guide ](https://docs.magento.com/user-guide/system/data-import.html)
-[de l’utilisateurExport -  [!DNL Commerce]  guide d’utilisation](https://docs.magento.com/user-guide/system/data-export.html)
+[Import - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/system/data-import.html)
+
+[Export - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/system/data-export.html)
