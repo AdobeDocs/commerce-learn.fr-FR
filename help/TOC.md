@@ -1,9 +1,9 @@
 ---
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source.
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,15 @@ ht-degree: 0%
       + [10 - Suivi des retours sur investissement](./merchant/business-intelligence/10-roi-tracking.md)
       + [11 - Partage des résultats et exportation des données](./merchant/business-intelligence/11-share-results-export-data.md)
       + [12 - Témoignages client](./merchant/business-intelligence/12-customer-success.md)
+
++ Utilisation de l’administrateur {#admin}
+   + [Utilisateurs, rôles et autorisations](./merchant/users-roles-permissions.md)
+   + [Authentification à deux facteurs](./merchant/two-factor-authentication.md)
+   + [Ajout de sites web, de magasins et d’affichages de magasin](./merchant/add-websites-stores-views.md)
+   + [Modification de l’URL d’un magasin](./merchant/change-store-url.md)
+   + [Configuration de la carte du site de magasin](./merchant/site-map-setup.md)
+   + [Règles de prix promotionnelles](./merchant/promotions-price-rules.md)
+   + [Aperçu du créateur de pages](./merchant/page-builder-overview.md)
 
 + Développement principal {#backend-development}
    + [Ajouter une nouvelle table à une base de données](./developer/add-new-db-table.md)
