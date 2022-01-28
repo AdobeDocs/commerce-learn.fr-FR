@@ -1,14 +1,16 @@
 ---
 title: Atelier de mise à niveau vers Adobe Commerce 2.4
-description: Regardez ce webinaire enregistré pour découvrir les étapes de mise à niveau de !DNL Commerce] et les bonnes pratiques pour la version 2.4.4 ou ultérieure.
+description: Regardez ce webinaire enregistré pour découvrir les étapes de mise à niveau d’Adobe Commerce et les bonnes pratiques relatives à la version 2.4.4 ou ultérieure.
+landing-page-description: Regardez ce webinaire enregistré pour en savoir plus sur les étapes de mise à niveau d’Adobe Commerce 2.4 et les bonnes pratiques.
 kt: 9620
 doc-type: technical video
 role: Admin, Leader, Developer
 audience: all
 activity: use
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
+source-git-commit: 7b29026613fc14ba1f2db1bbd21d3ebff51d4377
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
