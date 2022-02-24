@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] pour les utilisateurs professionnels - Storefront'
+title: '"[!DNL Commerce] pour les utilisateurs professionnels - Storefront"'
 description: Découvrez l’expérience client sur le storefront, notamment la création de compte, les listes de souhaits et l’ajout d’éléments de liste de souhaits au panier
 topic: Commerce
 kt: 5778
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
-source-git-commit: aab81d4383df3a077a67aec3f73341af9f08c028
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 0%

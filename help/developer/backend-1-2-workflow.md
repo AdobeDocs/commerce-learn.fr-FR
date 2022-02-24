@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] pour les développeurs - Workflow de développement'
+title: '"[!DNL Commerce] pour les développeurs - Workflow de développement"'
 description: Découvrez le processus de développement type pour Commerce.
 kt: 5691
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36193.jpeg
 activity: use
 exl-id: f6c0dcbc-a0ef-43fb-bc38-cc7692c73487
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Dans cette vidéo :
 
 >[!IMPORTANT]
 >
->Le Commerce Marketplace n’inclut plus le bouton **Télécharger**. Vous devez utiliser la ligne de commande pour installer ou mettre à niveau les extensions. Pour plus d’informations, consultez la rubrique [Installation générale de l’interface de ligne de commande](https://devdocs.magento.com/extensions/install/) de la documentation destinée aux développeurs.
+>Le Commerce Marketplace n’inclut plus la variable **Télécharger** bouton . Vous devez utiliser la ligne de commande pour installer ou mettre à niveau les extensions. Reportez-vous à la section [Installation de l’interface de ligne de commande générale](https://devdocs.magento.com/extensions/install/) pour plus d’informations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

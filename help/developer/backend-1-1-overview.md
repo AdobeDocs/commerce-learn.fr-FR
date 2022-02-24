@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] pour les développeurs - Aperçu'
+title: '"[!DNL Commerce] pour les développeurs - Aperçu"'
 description: 'Découvrez les principes de base de la plateforme du point de vue de plusieurs audiences : commerçants, développeurs de magasins web et intégrateurs.'
 landing-page-description: Regardez cette série de vidéos pour commencer votre projet de développement principal pour Commerce.
 doc-type: video
@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: fe1b7ac9f162e25ca078841e8c21cf0b2e78ad70
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---

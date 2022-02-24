@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] pour les développeurs : post-installation'
+title: '"[!DNL Commerce] pour les développeurs : post-installation"'
 description: Vérifier et configurer votre instance, définir un masque u, installer des exemples de données, définir le mode d’exécution approprié
 kt: 5693
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et les [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
 >
 >La fonctionnalité de division de la base de données a été abandonnée dans la version 2.4.2.
 

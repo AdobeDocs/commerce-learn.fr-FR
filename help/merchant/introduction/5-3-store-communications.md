@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] pour les utilisateurs professionnels - Communications par e-mail'
+title: '"[!DNL Commerce] pour les utilisateurs professionnels - Communications par e-mail"'
 description: Communiquez avec vos clients à l’aide d’emails transactionnels déclenchés par leurs actions sur le storefront. Personnalisez et configurez les modèles de courrier électronique pour votre boutique.
 topic: Commerce
 kt: 5780
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: 0342ad31cbae1dd5af211ea90784a08e7568e9ca
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] pour les utilisateurs professionnels - Portées des rôles et autorisations'
+title: '"[!DNL Commerce] pour les utilisateurs professionnels - Portées des rôles et autorisations"'
 description: Découvrez comment définir des portées de rôle (exclusives à Adobe Commerce) et les autorisations associées par site ou magasin.
 topic: Commerce
 kt: 5763
@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
-source-git-commit: cc755b9b630a382fa3703416588dfed0724452c9
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
