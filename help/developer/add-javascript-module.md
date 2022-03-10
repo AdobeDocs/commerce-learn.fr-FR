@@ -8,7 +8,7 @@ activity: use
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Cette vidéo fournit une présentation pour le développement d’un module JS s
 ## Étapes
 
 - Création d’un module
-- Créer un fichier `requirejs-config.js` et un fichier de module JavaScript
+- Créez un `requirejs-config.js` et un fichier de module JavaScript
 - Créer une mise à jour de mise en page pour l’ajout d’un modèle qui active le module JS
 - Créer un fichier de modèle
 - Ajoutez le module et testez-le.

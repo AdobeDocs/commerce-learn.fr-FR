@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Création d’un module
 
-Module est un élément structurel de [!DNL Commerce] : l’ensemble du système repose sur des modules. En règle générale, la première étape de la création d’une personnalisation est la création d’un module.
+Le module est un élément structurel de [!DNL Commerce] - l’ensemble du système repose sur des modules. En règle générale, la première étape de la création d’une personnalisation est la création d’un module.
 
 ## Pour qui est cette vidéo ?
 
