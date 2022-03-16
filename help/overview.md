@@ -1,15 +1,15 @@
 ---
-title: '"[!DNL Commerce] Vidéos et Tutorials"'
+title: '"[!DNL Commerce] Vidéos et tutoriels"'
 description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '294'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# [!DNL Commerce] Vidéos et Tutorials
+# [!DNL Commerce] Vidéos et tutoriels
 
 ![](./assets/banner.png)
 
