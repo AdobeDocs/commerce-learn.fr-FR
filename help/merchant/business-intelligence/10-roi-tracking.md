@@ -3,11 +3,11 @@ title: Business Intelligence - Suivi des retours sur investissement
 description: Découvrez les informations sur les Business Intelligence qui vous aident à effectuer le suivi de votre retour sur investissement.
 kt: 5737
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

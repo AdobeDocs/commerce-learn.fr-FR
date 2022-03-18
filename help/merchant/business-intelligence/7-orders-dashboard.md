@@ -3,11 +3,11 @@ title: Business Intelligence - Tableau de bord des commandes
 description: Découvrez le tableau de bord Commandes et les rapports qui facilitent la gestion des commandes et des ventes de produits.
 kt: 5735
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 44a41664-8ebd-4ec1-9ea0-433717e196e9
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
