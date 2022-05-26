@@ -1,10 +1,10 @@
 ---
 user-guide-title: Vidéos et tutoriels
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source.
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 7%
+source-wordcount: '297'
+ht-degree: 6%
 
 ---
 
@@ -82,6 +82,14 @@ ht-degree: 7%
    + [Visionneuses de filtres](./merchant/business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](./merchant/business-intelligence/cohort-report-builder.md)
    + [Report Builder SQL](./merchant/business-intelligence/sql-report-builder.md)
+   + [Préparer l&#39;avenir](./merchant/business-intelligence/prepare-for-future.md)
+   + Webinaires {#webinars}
+      + [Prise en main du Business Intelligence](merchant/business-intelligence/webinars/getting-started.md)
+      + [Gestion des jeux de données](merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [Optimisation de votre Data Warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [Préparation des vacances](merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [Poser une question à un expert, session 1](merchant/business-intelligence/webinars/ask-expert-1.md)
+      + [Poser une question à un expert, session 2](merchant/business-intelligence/webinars/ask-expert-2.md)
 
 + Mises à niveau {#upgrade}
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](./upgrade/2.4-upgrade-workshop.md)
