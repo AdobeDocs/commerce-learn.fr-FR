@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Mesures
-description: Découvrez les mesures de Business Intelligence et leur utilisation pour créer des rapports.
+title: IMS - Mesures
+description: Découvrez les mesures de l’IMS et leur utilisation pour créer des rapports.
 kt: 5725
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 5aca35dd-d956-499b-9791-738c33d6cc41
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Mesures
+# IMS - Mesures
 
 Une mesure est une mesure. Dans les structures SQL et de base de données, une mesure est comme une requête stockée sur une période variable. Votre équipe crée les mesures pertinentes utilisées pour créer les rapports nécessaires à votre entreprise.
 
@@ -27,7 +27,7 @@ Une mesure est une mesure. Dans les structures SQL et de base de données, une m
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur de Business Intelligence](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35980?quality=12&learn=on)
 

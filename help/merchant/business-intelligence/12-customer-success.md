@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Témoignages client
-description: Découvrez les success stories client à l’aide de Business Intelligence.
+title: IMS - Témoignages client
+description: Découvrez les success stories client à l’aide de l’IMS.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Témoignages client
+# IMS - Témoignages client
 
-Lorsque vous connaissez certains des types d’analyses les plus utiles que les marchands effectuent en Business Intelligence, passez en revue les réussites de certains clients et la manière dont ils ont utilisé leur analyse pour obtenir de vrais résultats.
+Lorsque vous connaissez certains des types d’analyses les plus utiles que les marchands effectuent dans l’IMS, passez en revue les réussites de certains clients et la manière dont ils ont utilisé leur analyse pour obtenir de vrais résultats.
 
 ## Pour qui est cette vidéo ?
 

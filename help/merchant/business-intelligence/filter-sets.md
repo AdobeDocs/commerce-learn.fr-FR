@@ -1,22 +1,23 @@
 ---
-title: Business Intelligence - Visionneuses de filtres
-description: Découvrez comment utiliser la fonction ensembles de filtres du Business Intelligence pour simplifier la création de rapports de données d’entreprise pour Adobe Commerce et Magento Open Source.
-landing-page-description: Regardez cette vidéo pour découvrir comment utiliser la fonction ensembles de filtres du Business Intelligence pour simplifier la création de rapports de données d’entreprise.
+title: MBI - Visionneuses de filtres
+description: Découvrez comment utiliser la fonction ensembles de filtres MBI pour simplifier la création de rapports de données d’entreprise pour Adobe Commerce et Magento Open Source.
+landing-page-description: Regardez cette vidéo pour découvrir comment utiliser la fonction ensembles de filtres de l’IMS pour simplifier la création de rapports de données d’entreprise.
 kt: 10289
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Visionneuses de filtres
+# MBI - Visionneuses de filtres
 
-Voulez-vous analyser uniquement certaines parties de vos données commerciales ? Fatigué de faire un nettoyage manuel ? Dans Business Intelligence, vous pouvez utiliser la fonction ensembles de filtres pour simplifier ce processus.
+Voulez-vous analyser uniquement certaines parties de vos données commerciales ? Fatigué de faire un nettoyage manuel ? Dans l’IMS, vous pouvez utiliser la fonction ensembles de filtres pour simplifier ce processus.
 
 Dans cette vidéo :
 
@@ -27,7 +28,7 @@ Dans cette vidéo :
 
 >[!TIP]
 >
->Si vous découvrez Business Intelligence, la variable [Série de vidéos Prise en main](1-overview.md) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez l’IMS, la variable [Série de vidéos Prise en main](1-overview.md) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## Pour qui est cette vidéo ?
 

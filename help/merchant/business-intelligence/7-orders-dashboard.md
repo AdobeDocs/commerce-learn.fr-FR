@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Tableau de bord des commandes
+title: MBI - Tableau de bord des commandes
 description: Découvrez le tableau de bord Commandes et les rapports qui facilitent la gestion des commandes et des ventes de produits.
 kt: 5735
 doc-type: feature video
@@ -7,14 +7,14 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 44a41664-8ebd-4ec1-9ea0-433717e196e9
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Tableau de bord des commandes
+# MBI - Tableau de bord des commandes
 
 Dans le tableau de bord Commandes, vous pouvez afficher les valeurs moyennes des commandes, les commandes par statut, l’utilisation des coupons et les ventilations des frais d’expédition et des taxes collectées par région de facturation et d’expédition. Si vous ouvrez le rapport Commandes par état et que vous constatez un pic dans l’état de traitement ou en attente, vous pouvez créer un rapport pour toutes les commandes de cet état au cours de cette période. Vous pouvez ensuite les ventiler par email et identifiant de commande, puis générer un résumé d’email qui sera automatiquement envoyé à votre responsable de l’entrepôt pour suivi.
 
@@ -28,7 +28,7 @@ Dans le tableau de bord Commandes, vous pouvez afficher les valeurs moyennes des
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur de Business Intelligence](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)
 

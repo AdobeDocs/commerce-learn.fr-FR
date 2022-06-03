@@ -1,22 +1,22 @@
 ---
-title: Business Intelligence - Rapports standard
-description: Découvrez les rapports Business Intelligence standard, disponibles en standard.
+title: MBI - Rapports standard
+description: Découvrez les rapports MBI standard, disponibles en standard.
 kt: 5733
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Rapports standard
+# MBI - Rapports standard
 
-Les tableaux de bord de Business Intelligence par défaut, prêts à l’emploi, contiennent des rapports prédéfinis qui couvrent les rapports IPC de commerce électronique dont la plupart des commerçants ont besoin. Les commerçants peuvent automatiser ces rapports afin de gérer plus efficacement leurs activités et éliminer l’analyse manuelle qu’ils effectuent à la main avec des requêtes SQL ou dans Excel.
+Les tableaux de bord MBI par défaut, prêts à l’emploi, contiennent des rapports prédéfinis qui couvrent les rapports d’indicateurs de performance clés du commerce électronique dont la plupart des commerçants ont besoin. Les commerçants peuvent automatiser ces rapports afin de gérer plus efficacement leurs activités et éliminer l’analyse manuelle qu’ils effectuent à la main avec des requêtes SQL ou dans Excel.
 
 ## Pour qui est cette vidéo ?
 
@@ -27,7 +27,7 @@ Les tableaux de bord de Business Intelligence par défaut, prêts à l’emploi,
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur de Business Intelligence](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35987?quality=12&learn=on)
 

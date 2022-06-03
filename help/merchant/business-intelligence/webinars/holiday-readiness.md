@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Préparation des vacances
+title: Préparation des vacances avec l'IMS
 description: Regardez ce webinaire pour savoir comment exploiter vos données eCommerce pour garantir le succès pendant la période des fêtes.
 landing-page-description: Regardez ce webinaire enregistré pour savoir comment exploiter vos données eCommerce pour garantir le succès pendant la période des fêtes.
 kt: 10409
@@ -7,16 +7,17 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: bf28c64dd61bbf53210ca9aa17ab20d1a2a1dac5
+exl-id: 7390d8ca-494e-4fe0-a4da-a03afd2ef8e2
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Demander à un expert, Partie 2
+# Préparation des vacances avec l&#39;IMS
 
-Tirez parti de vos données eCommerce pour garantir le succès pendant la période des fêtes. Ce webinaire met en évidence certains cas d’utilisation et méthodes d’analyse saisonnière courants pour les traiter à l’aide de fonctionnalités Business Intelligence clés, notamment :
+Tirez parti de vos données eCommerce pour garantir le succès pendant la période des fêtes. Ce webinaire met en évidence certains cas d’utilisation et méthodes d’analyse saisonnière courants pour les traiter à l’aide de fonctionnalités IMS clés, notamment :
 
 - Évitez les stocks en créant un nouveau rapport de suivi des stocks et en envoyant des mises à jour quotidiennes par l’intermédiaire de la synthèse des emails
 - Déterminez l’impact des ajustements de votre stratégie de vente cette année en créant un rapport sur les performances d’une année à l’autre autour d’une date clé (Noël, par exemple), en exploitant les colonnes calculées
@@ -24,7 +25,7 @@ Tirez parti de vos données eCommerce pour garantir le succès pendant la pério
 
 >[!TIP]
 >
->Si vous découvrez Business Intelligence, la variable [Série de vidéos Prise en main](./../1-overview.md) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez l’IMS, la variable [Série de vidéos Prise en main](./../1-overview.md) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## Pour qui est cette vidéo ?
 
@@ -37,5 +38,5 @@ Tirez parti de vos données eCommerce pour garantir le succès pendant la pério
 
 ## Ressources utiles
 
-[Guide de l’utilisateur de Business Intelligence](https://docs.magento.com/mbi/)
-[Prise en charge des Business Intelligence](https://support.magento.com/hc/en-us/articles/360016730811)s
+[Guide de l’utilisateur MBI](https://docs.magento.com/mbi/)
+[Prise en charge de MBI](https://support.magento.com/hc/en-us/articles/360016730811)s

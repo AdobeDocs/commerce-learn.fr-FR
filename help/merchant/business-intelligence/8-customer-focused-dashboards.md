@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Tableaux de bord axés sur les clients
+title: IMS - Tableaux de bord axés sur les clients
 description: Consultez une démonstration et une explication détaillée des tableaux de bord axés sur les clients.
 kt: 5736
 doc-type: feature video
@@ -7,14 +7,14 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Tableaux de bord axés sur les clients
+# IMS - Tableaux de bord axés sur les clients
 
 Pour permettre des décisions professionnelles éclairées, les tableaux de bord axés sur les clients fournissent de nombreuses informations à vos clients. Il s’agit par exemple des clients nouveaux par rapport aux clients enregistrés, de la valeur de durée de vie des clients, des recettes ventilées par groupes de clients et de l’utilisation des bons par vos clients.
 
@@ -27,7 +27,7 @@ Pour permettre des décisions professionnelles éclairées, les tableaux de bord
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur de Business Intelligence](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
