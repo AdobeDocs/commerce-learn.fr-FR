@@ -1,10 +1,10 @@
 ---
 user-guide-title: Vidéos et tutoriels
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source.
-source-git-commit: 24873fdb03bd158f4705e8da34d60bd17b0a53c5
+source-git-commit: 11a59c534f1907d63073bc2a1541d39f02428da1
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 5%
+source-wordcount: '422'
+ht-degree: 4%
 
 ---
 
@@ -60,10 +60,11 @@ ht-degree: 5%
    + [Gestion des rôles et des autorisations des utilisateurs](./merchant/users-roles-permissions.md)
    + [Authentification à deux facteurs](./merchant/two-factor-authentication.md)
    + [Gestion des règles de devise et de taxe](./merchant/currency-tax-rules.md)
-   + [Modes de livraison et de livraison](./merchant/shipping-delivery.md)
    + [Ajout de sites web, de magasins et de vues de magasin](./merchant/add-websites-stores-views.md)
    + [Modification de l’URL d’un magasin](./merchant/change-store-url.md)
    + [Configuration de la carte du site de magasin](./merchant/site-map-setup.md)
+   + [Modes de livraison et de livraison](./merchant/shipping-delivery.md)
+   + [Utilisation des services de paiement](./merchant/payment-services.md)
 
 + Gestion des clients {#customers}
    + [Création de segments client](./merchant/customer-segments.md)
@@ -76,14 +77,33 @@ ht-degree: 5%
    + [Gestion des produits dans une catégorie](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
    + [Création d’attributs de produit](./merchant/product-attributes-create.md)
+   + [Utilisation des attributs de produit avec PWA Studio](./merchant/product-attributes-pwa.md)
    + [Gestion des métadonnées d’optimisation pour les moteurs de recherche](./merchant/seo-metadata.md)
    + [Gestion des réécritures d’URL pour l’optimisation pour les moteurs de recherche](./merchant/seo-url-rewrites.md)
 
 + Gestion de contenu {#content}
    + [Aperçu du créateur de pages](./merchant/page-builder-overview.md)
+   + [Création de blocs statiques et dynamiques](./merchant/static-dynamic-blocks.md)
+   + [Créer des widgets](./merchant/widgets.md)
+   + [Utilisation de modèles de contenu](./merchant/content-templates.md)
+   + [Évaluation du contenu](./merchant/content-staging.md)
+   + [Gestion de la galerie de médias](./merchant/media-gallery.md)
 
 + Outils marketing {#marketing}
    + [Règles de prix promotionnel](./merchant/promotions-price-rules.md)
+   + [Créer des règles de prix de catalogue](./merchant/catalog-price-rules.md)
+   + [Créer des règles de prix de panier](./merchant/cart-price-rules.md)
+   + [Gestion des règles de produit connexes](./merchant/related-product-rules.md)
+   + [Configuration de Recommendations de produit](./merchant/product-recommendations.md)
+   + [Utilisation de la recherche en direct](./merchant/live-search.md)
+
++ Commandes et exécution {#orders}
+   + [Présentation de l’exécution du magasin](./merchant/store-fulfillment.md)
+   + [Gérer l’état de la commande](./merchant/order-status.md)
+
++ Outils système {#tools}
+   + [Tableau de bord de l’outil d’analyse à l’échelle du site](./tools/site-wide-analysis-tool.md)
+   + [Utilisation de l’outil de correctif de qualité](./tools/quality-patch-tool.md)
 
 + MBI {#mbi}
    + [Visionneuses de filtres](./merchant/business-intelligence/filter-sets.md)
@@ -111,15 +131,15 @@ ht-degree: 5%
       + [Partage de résultats et exportation de données](./merchant/business-intelligence/11-share-results-export-data.md)
       + [Témoignages client](./merchant/business-intelligence/12-customer-success.md)
 
-+ Mises à niveau commerciales {#upgrade}
++ Mises à niveau commerciales et outils système {#upgrade}
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](./upgrade/2.4-upgrade-workshop.md)
    + [Présentation de l’outil de compatibilité de mise à niveau](./upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilisation de l’outil de compatibilité de mise à niveau dans PHP Storm](./upgrade/uct-phpstorm.md)
 
 + Développement principal {#backend-development}
-   + [Ajouter une nouvelle table à une base de données](./developer/add-new-db-table.md)
+   + [Ajouter une table à une base de données](./developer/add-new-db-table.md)
    + [Création d’un module](developer/create-module.md)
-   + [Ajout d’un nouvel attribut de produit](./developer/add-product-attribute.md)
+   + [Ajout d’un attribut de produit](./developer/add-product-attribute.md)
    + [Exemple d’injection de dépendance](./developer/dependency-injection.md)
 
 + Le développement des frontières {#frontend-development}
