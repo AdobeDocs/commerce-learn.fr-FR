@@ -1,10 +1,10 @@
 ---
 user-guide-title: Vidéos et tutoriels
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source.
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '441'
+ht-degree: 4%
 
 ---
 
@@ -73,6 +73,7 @@ ht-degree: 0%
    + [Achat assisté par le vendeur](./merchant/seller-assisted-shopping.md)
 
 + Gestion de catalogue {#catalog}
+   + [Service de catalogue pour Adobe Commerce](./merchant/catalog-service.md)
    + [Création d’une catégorie](./merchant/category-create.md)
    + [Gestion des produits dans une catégorie](./merchant/category-products.md)
    + [Inventory management](./merchant/inventory-management.md)
