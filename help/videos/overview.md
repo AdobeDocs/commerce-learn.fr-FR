@@ -1,11 +1,11 @@
 ---
-title: '"[!DNL Commerce] Vidéos et tutoriels"'
+title: "[!DNL Commerce] Vidéos et tutoriels"
 description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -27,7 +27,10 @@ Découvrez les derniers ajouts et mises à jour :
 | Commandes et exécution | [Présentation de l’exécution du magasin](./merchant/store-fulfillment.md) <br>[Gérer l’état de la commande](./merchant/order-status.md) |
 | B2B pour Adobe Commerce | [Gestion des comptes d’entreprise](./merchant/b2b/company-accounts.md)  <br>[Gestion des catalogues partagés](./merchant/b2b/shared-catalogs.md) <br>[Gérer le crédit de l’entreprise](./merchant/b2b/company-credit.md) <br>[Commandes et validations d’achat](./merchant/b2b/purchase-orders.md) |
 | Outils système | [Tableau de bord de l’outil d’analyse à l’échelle du site](./tools/site-wide-analysis-tool.md) <br>[Observation pour Adobe Commerce](./tools/observation-tool.md) <br>[Utilisation de l’outil de correctif de qualité](./tools/quality-patch-tool.md) |
-| MBI | [Prise en main de l’IMS](./merchant/business-intelligence/webinars/getting-started.md) <br>[Gestion des jeux de données dans l’IMS](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[Optimisation de votre Data Warehouse MBI](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[Exploration approfondie des tableaux de bord de l&#39;IMS](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[Préparation des vacances avec l&#39;IMS](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[Préparer l&#39;avenir](./merchant/business-intelligence/prepare-for-future.md) <br>[IMS - Demander à un expert](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>Le [Événements de commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) l’espace permet d’accéder au contenu d’événement enregistré que vous pouvez regarder à la demande.
 
 ## Ressources supplémentaires
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Vidéos et tutoriels
 user-guide-description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source.
-source-git-commit: 2f59b215be07ab9041efc38254e816b91613c6d3
+source-git-commit: 327c70006c2f1b8b85781cf0059b1386535bb7b4
 workflow-type: tm+mt
-source-wordcount: '441'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -116,14 +116,14 @@ ht-degree: 4%
    + [Visionneuses de filtres](./merchant/business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](./merchant/business-intelligence/cohort-report-builder.md)
    + [Report Builder SQL](./merchant/business-intelligence/sql-report-builder.md)
+   + [Préparer l&#39;avenir](./merchant/business-intelligence/prepare-for-future.md)
    + Webinaires enregistrés {#webinars}
-      + [Prise en main de l’IMS](./merchant/business-intelligence/webinars/getting-started.md)
-      + [Gestion des jeux de données dans l’IMS](./merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [Optimisation de votre Data Warehouse MBI](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [Exploration approfondie des tableaux de bord de l&#39;IMS](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
-      + [Préparation des vacances avec l&#39;IMS](./merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [Préparer l&#39;avenir](./merchant/business-intelligence/prepare-for-future.md)
-      + [IMS - Demander à un expert](./merchant/business-intelligence/webinars/ask-expert.md)
+      + [Prise en main de l’IMS](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/getting-started.html)
+      + [Gestion des jeux de données dans l’IMS](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2022/manage-data-sets.html)
+      + [Optimisation de votre Data Warehouse MBI](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/optimize-data-warehouse.html)
+      + [Exploration approfondie des tableaux de bord de l&#39;IMS](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/dashboards-deep-dive.html)
+      + [Préparation des vacances avec l&#39;IMS](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/holiday-readiness.html)
+      + [IMS - Demander à un expert](https://experienceleague.adobe.com/docs/commerce-events/events/mbi/2021/ask-expert.html)
    + Présentation des séries de vidéos sur l’IMS {#introduction}
       + [Présentation](./merchant/business-intelligence/1-overview.md)
       + [Entrepôt de données](./merchant/business-intelligence/2-data-warehousing.md)
