@@ -1,29 +1,27 @@
 ---
-title: "[!DNL Commerce] Vidéos et tutoriels"
+title: '[!DNL Commerce] Vidéos et tutoriels'
 description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source
-source-git-commit: 6684a5e813f7a3a829f378f7e45755c2fc093ee1
+last-substantial-update: 2023-01-19T00:00:00Z
+exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
+source-git-commit: 6635d5dc0aab027fe77796a824d3e375d5bf0083
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 11%
 
 ---
 
-# <!-- use banner as heading -->![Vidéos et tutoriels sur Commerce](../assets/banner-videos-home.png) {#videos}
+# Tutoriels sur Commerce {#videos}
 
-Bienvenue dans la [!DNL Commerce] collection de vidéos et de tutoriels. L’utilisation de ces ressources, ainsi que la variable [documentation](https://experienceleague.adobe.com/docs/commerce.html), découvrez comment utiliser Adobe Commerce et Magento Open Source pour prendre en charge votre activité d’e-commerce. La collection est conçue pour fournir du contenu utile aux développeurs principaux, aux développeurs frontaux, aux administrateurs système, aux commerçants et à d’autres rôles au sein de votre organisation.
+Bienvenue dans la [!DNL Commerce] collection de vidéos et de tutoriels. L’utilisation de ces ressources, ainsi que la variable [documentation](https://experienceleague.adobe.com/docs/commerce.html), vous donne la possibilité d’apprendre à utiliser Adobe Commerce et Magento Open Source pour soutenir votre activité de commerce électronique. La collection est conçue pour fournir du contenu utile aux développeurs principaux, aux développeurs frontaux, aux administrateurs système, aux commerçants et à d’autres rôles au sein de votre organisation.
 
 <div id="whats-new-section">
 
 ## Nouveautés
 
-</div>
+- [Présentation de GraphQL](../graphql-rest/intro-graphql.md)
+- [Localisation d’une adresse IP malveillante](../new-relic/malicious-ip.md)
 
-<div id="recs-overview-body-1"></div>
-<div id="recs-overview-body-2"></div>
-<div id="recs-overview-body-3"></div>
-<div id="recs-overview-body-4"></div>
-<div id="recs-overview-body-5"></div>
-<div id="recs-overview-body-6"></div>
+</div>
 
 >[!TIP]
 >
