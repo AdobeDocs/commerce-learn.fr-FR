@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -28,10 +28,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Commandes de grille - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/stores/admin-grid-controls.html)
+[Contrôles de la grille d’administration - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

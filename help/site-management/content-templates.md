@@ -6,10 +6,10 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
@@ -28,5 +28,5 @@ L’utilisation de modèles vous permet d’économiser du temps et des efforts 
 
 ## Ressources supplémentaires
 
-- [Modèles de créateur de pages](https://docs.magento.com/user-guide/cms/page-builder-templates.html)
-- [Ajouter des modèles - développeur](https://devdocs.magento.com/page-builder/docs/content-types/create/add-templates.html)
+- [[!DNL Page Builder] Templates - [!DNL Page Builder] Guide de l’utilisateur](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [Ajouter des modèles - [!DNL Page Builder] Guide du développeur](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

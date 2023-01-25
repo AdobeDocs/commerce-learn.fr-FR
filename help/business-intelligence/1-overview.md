@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -38,11 +38,11 @@ Avec ces trois éléments technologiques de base intégrés à une solution uniq
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
 ## Ressources utiles
 
-- [Présentation du MBI](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [Prise en charge de MBI](https://support.magento.com/hc/en-us/articles/360016730811)
+- [Présentation de l’IMS - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
+- [Prise en charge de MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

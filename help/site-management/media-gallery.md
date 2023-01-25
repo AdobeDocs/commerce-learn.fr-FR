@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Avec Adobe Commerce ou Magento Open Source 2.4, les marchands peuvent utiliser l
 
 ## Ressources supplémentaires
 
-- [Media Gallery](https://docs.magento.com/user-guide/cms/media-gallery.html)
-- [Autre stockage de médias](https://docs.magento.com/user-guide/system/media-storage.html)
+- [La galerie de médias - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/gallery/media-gallery.html)
+- [Autre stockage de médias - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/media/storage/media-storage.html)

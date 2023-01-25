@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 44a41664-8ebd-4ec1-9ea0-433717e196e9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,11 @@ Dans le tableau de bord Commandes, vous pouvez afficher les valeurs moyennes des
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Tableau de bord des commandes](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#orders)
-- [Création de résumés d’emails automatisés](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Tableau de bord Commandes - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#orders)
+- [Création de résumés d’email automatisés - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

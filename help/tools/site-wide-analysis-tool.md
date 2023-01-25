@@ -6,9 +6,9 @@ role: Developer, Admin
 audience: all
 activity: use
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -29,4 +29,4 @@ L’outil d’analyse à l’échelle du site est un outil en libre-service proa
 ## Ressources supplémentaires
 
 - [Outil d’analyse à l’échelle du site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Affichage et gestion des journaux](https://devdocs.magento.com/cloud/project/log-locations.html)
+- [Affichage et gestion des journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

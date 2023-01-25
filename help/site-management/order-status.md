@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Lorsqu’un client passe une commande, une commande client est créée en tant q
 
 ## Ressources supplémentaires
 
-- [Traitement de la commande](https://docs.magento.com/user-guide/sales/order-processing.html)
-- [État de la commande](https://docs.magento.com/user-guide/sales/order-status.html)
+- [Traitement d’une commande - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [État de la commande - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

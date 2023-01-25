@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 32ed7126-825c-475f-8e7d-69a754077589
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Pour permettre des décisions professionnelles éclairées, les tableaux de bord
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35990?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Clients (passage en caisse autorisé pour les invités)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-guest-checkout-allowed)
-- [Clients (aucun passage en caisse autorisé pour les invités)](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#customers-no-guest-checkout-allowed)
+- [Clients (passage en caisse des invités autorisé) - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [Clients (pas de passage en caisse des invités autorisé) - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

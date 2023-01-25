@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ L’évaluation de contenu permet à votre équipe d’entreprise de créer, de 
 
 ## Ressources supplémentaires
 
-- [Évaluation du contenu](https://docs.magento.com/user-guide/cms/content-staging.html)
-- [Aperçu d’une campagne](https://docs.magento.com/user-guide/cms/content-staging-preview.html)
+- [Évaluation du contenu - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
+- [Aperçu d’une campagne - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)

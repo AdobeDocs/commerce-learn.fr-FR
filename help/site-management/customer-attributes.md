@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Les attributs du client fournissent les informations nécessaires à la prise en
 
 ## Ressources supplémentaires
 
-- [Attributs du client](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-- [Création d’un compte client individuel](https://docs.magento.com/user-guide/customers/account-create.html)
+- [Propriétés d’attribut du client - [!DNL Commerce] Guide de gestion client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Création d’un compte client individuel - [!DNL Commerce] Guide de gestion client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

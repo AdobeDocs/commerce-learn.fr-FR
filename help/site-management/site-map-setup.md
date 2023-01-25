@@ -6,9 +6,9 @@ doc-type: feature video
 audience: all
 activity: use
 exl-id: 819e15cc-c712-463d-a6ee-0e9e5bad20e7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Une carte du site améliore la manière dont votre boutique est indexée par les
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35748?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Utilisation d’une carte de site](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
-- [Plan du site XML](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+- [Mappages de site - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/sitemap-xml.html)
+- [Catalogue > plan de site XML - [!DNL Commerce] Guide de référence de configuration](https://experienceleague.adobe.com/docs/commerce-admin/config/catalog/xml-sitemap.html)

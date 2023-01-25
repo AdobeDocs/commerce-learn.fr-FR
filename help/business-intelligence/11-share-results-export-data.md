@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Les utilisateurs de l’IMS peuvent se voir accorder des niveaux d’autorisatio
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35983?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Exportation des données graphiques](https://docs.magento.com/mbi/data-user/export-data/exp-chart-dash.html)
-- [Création de résumés d’emails automatisés](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Exporter des données de graphique - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
+- [Création de résumés d’email automatisés - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

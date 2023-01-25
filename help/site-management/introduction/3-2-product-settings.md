@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -30,14 +30,14 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35953?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Création de produits - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/catalog/product-create.html)
+[Création d’un produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
 
-[Paramètres du produit - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/catalog/settings.html)
+[Paramètres du produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
 
-[Attributs de produit - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+[Présentation des attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

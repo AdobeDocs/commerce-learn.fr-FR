@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 17dca70a-bd71-4f52-b034-8f8f31b71fec
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -29,10 +29,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Attributs de produit - [!DNL Commerce] guide de l’utilisateur](https://docs.magento.com/user-guide/catalog/product-attributes.html)
+[Présentation des attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)

@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36196.jpeg
 activity: use
 exl-id: f0c7b27d-7071-4454-9fbc-622d7d248188
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) et [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notes de mise à jour.
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36196?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [À propos de la structure de fichiers de composant](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/prepare/prepare_file-str.html)
-- [Développement des composants](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/module-development.html)
-- [Extensibilité et modularité](https://devdocs.magento.com/guides/v2.4/architecture/extensibility.html)
-- [[!DNL Commerce] guide de référence du module](https://devdocs.magento.com/guides/v2.4/mrg/intro.html)
+- [À propos de la structure de fichiers de composant](https://developer.adobe.com/commerce/php/development/prepare/component-file-structure/)
+- [Développement des composants](https://developer.adobe.com/commerce/php/development/components/)
+- [Extensibilité et modularité](https://developer.adobe.com/commerce/php/architecture/modules/)
+- [[!DNL Commerce] guide de référence du module](https://developer.adobe.com/commerce/php/module-reference/)

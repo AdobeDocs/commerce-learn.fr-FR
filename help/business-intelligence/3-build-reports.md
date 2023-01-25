@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Il existe deux options pour créer des rapports et des analyses dans l’IMS : l
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35981?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Quel Report Builder dois-je utiliser ?](https://docs.magento.com/mbi/data-user/reports/report-builder-options.html)
-- [Report Builder visuel](https://docs.magento.com/mbi/data-user/reports/ess-rpt-build-visual.html)
+- [Quel Report Builder dois-je utiliser ? - Guide de l’utilisateur de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/report-builder-options.html)
+- [Report Builder visuel - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-rpt-build-visual.html)

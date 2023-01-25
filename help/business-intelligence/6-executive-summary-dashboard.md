@@ -7,9 +7,9 @@ solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Le tableau de bord Aperçu de l’exécution fournit des informations de haut ni
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://docs.magento.com/mbi/) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 2.2. Voir [Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Résumé](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#executive-summary-guest-checkout-allowed)
-- [Partage de tableaux de bord avec d’autres utilisateurs](https://docs.magento.com/mbi/data-user/dashboards/share-dashboard-with-users.html)
+- [Résumé - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#executive-summary-(guest-checkout-allowed))
+- [Partage de tableaux de bord avec d’autres utilisateurs - Guide de l’utilisateur de l’IMS](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/share-dashboard-with-users.html)
