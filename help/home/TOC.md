@@ -1,18 +1,18 @@
 ---
-user-guide-title: Vidéos et tutoriels
-user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
-breadcrumb-title: Vidéos et tutoriels
-source-git-commit: acd5985b189eec564964c3329befe92149f2ee0e
+user-guide-title: Vidéos et Tutorials
+user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
+breadcrumb-title: Vidéos et Tutorials
+source-git-commit: 4fa3419cbf300022277b08ebbeb8f6cab0018eb3
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 3%
+source-wordcount: '553'
+ht-degree: 0%
 
 ---
 
 
 # Vidéos et Tutorials Adobe Commerce {#tutorials}
 
-+ [[!DNL Commerce] Vidéos, cours et Tutorials](overview.md)
++ [[!DNL Commerce] Tutorials](overview.md)
 + Prise en main {#getting-started}
    + [!DNL Commerce] Cloud{#cloud}
       + [1 - Présentation](../cloud/1-overview.md)
