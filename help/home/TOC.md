@@ -2,9 +2,9 @@
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
-source-git-commit: 4fa3419cbf300022277b08ebbeb8f6cab0018eb3
+source-git-commit: f3b9d1b0a8de9dbd5b2f5b7dd57959a9328c747a
 workflow-type: tm+mt
-source-wordcount: '553'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
@@ -67,6 +67,10 @@ ht-degree: 0%
    + [Structure d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Démonstration fonctionnelle pour App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Présentation technique d’App Builder](../app-builder/app-builder-technical-overview.md)
+   + [Tutoriels sur le maillage API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+
++ Mesh de l’API {#api-mesh}
+   + [Tutoriels sur le maillage API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
 
 + Administration des magasins {#admin}
    + [Gestion des rôles et des autorisations des utilisateurs](../site-management/users-roles-permissions.md)
