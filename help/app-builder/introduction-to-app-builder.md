@@ -5,8 +5,8 @@ landing-page-description: Découvrez ce qu’est App Builder et comment il peut 
 kt: 11433
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
 source-wordcount: '746'
 ht-degree: 0%
@@ -89,3 +89,5 @@ Prêts à se développer ? Le lien suivant contient des exemples d’application
 ## Assistance {#support}
 
 Pour les demandes d’assistance aux développeurs, utilisez le [Forum des Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) pour obtenir de l’aide.
+
+{{$include /help/_includes/app-builder-related-links.md}}
