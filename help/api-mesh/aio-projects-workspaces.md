@@ -6,9 +6,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -16,30 +16,31 @@ ht-degree: 0%
 
 # Utilisation de projets et d’espaces de travail
 
-Informations de base pour faciliter la création d’un projet et d’un espace de travail. La plupart de votre travail dans l’interface utilisateur se produit dans [Console Adobe Developer](https://developer.adobe.com/console).
+Ce tutoriel explique comment créer un projet et un espace de travail pour contenir votre impression. Ce travail se produit principalement dans la [Console Adobe Developer](https://developer.adobe.com/console) Interface utilisateur.
 
 ## Pour qui est cette vidéo ?
 
-* Développeurs qui créent un point de terminaison API unique avec Adobe App Builder en utilisant un espace de travail qui compose plusieurs sources ou simplement des proxys dans une source
+* Les développeurs qui ont accès à un compte de la console Adobe Developer et qui souhaitent créer un projet et un espace de travail.
 
 ## Contenu vidéo
 
 * Utilisation de projets et d’espaces de travail dans la console Adobe Developer
-* Ajout du maillage API à l’espace de travail dans la console Adobe Developer
-* Connexion à l’aide de la console Adobe Developer
-* Afficher le projet et l’espace de travail à partir de la ligne de commande Adobe Developer
-* Modification de l’organisation si vous êtes connecté au mauvais noeud
-* Sélectionnez un projet Adobe Developer et Workspace et connectez-vous à ce dernier à partir de la ligne de commande Adobe Developer.
-* Test des commandes de base d’impression d’API
+* Ajout d’un maillage d’API à l’espace de travail dans la console Adobe Developer
+* Connexion à la console Adobe Developer dans l’interface de ligne de commande
+* Afficher le projet et l’espace de travail sélectionnés dans l’interface en ligne de commande
+* Modification de l’organisation, du projet ou de l’espace de travail sélectionné dans l’interface en ligne de commande
+* Test de commandes simples de maillage d’API
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414123/)
 
-## En savoir plus sur Adobe Developer Console
+## En savoir plus sur la console Adobe Developer
 
-Il existe plusieurs aspects de la console Adobe Developer que vous devez connaître, tels que les projets, les espaces de travail et les organisations. Pour obtenir des informations plus détaillées sur Adobe App Builder, la manière de se connecter à la console et la résolution des problèmes, consultez la page [Création de votre première application App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+Dans la console Adobe Developer, la hiérarchie suivante représente la manière dont vos API s’intègrent à votre organisation : `Organization > Project > Workspace > [API]`. Pour en savoir plus sur Adobe App Builder, la connexion à la console et le dépannage de base, rendez-vous sur la page [Création de votre première application App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
 
 ## Présentation des projets dans la console Adobe Developer
 
-Tous les travaux de développement dans la console Adobe Developer sont effectués dans le cadre d’un projet. Un projet peut inclure un ou plusieurs produits, ainsi qu’une combinaison d’API, d’événements, d’exécution et de modules externes. Pour plus d’informations sur les projets dans la console Adobe Developer, consultez la page [Présentation des projets](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Tous les travaux de développement dans la console Adobe Developer sont effectués dans le cadre d’un projet. Un projet peut inclure un ou plusieurs produits, ainsi qu’une combinaison d’API, d’événements, d’exécutions et de modules externes. Pour plus d’informations sur les projets dans la console Adobe Developer, voir [Projets](https://developer.adobe.com/developer-console/docs/guides/projects/).
+
+Pour plus d’informations sur l’utilisation de projets et d’espaces de travail dans le contexte du maillage API, voir [Modification de projets et d’espaces de travail](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
 
 {{$include /help/_includes/api-mesh-related-links.md}}

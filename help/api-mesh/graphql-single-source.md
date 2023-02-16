@@ -1,39 +1,39 @@
 ---
-title: Création d’une requête source unique GraphQL à utiliser dans le maillage API
-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment créer une requête qui possède une source.
-landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment créer une requête qui possède une source.
+title: Création d’un maillage source unique GraphQL dans le maillage API
+description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
+landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-# Création d’un maillage d’API GraphQL source unique
+# Création d’un maillage à partir d’une source unique
 
-La vidéo aide un développeur à comprendre comment créer un proxy inverse GraphQL et disposer d’une source unique. N’oubliez pas que pour que GraphQL Mesh fonctionne comme prévu, une URL accessible publiquement avec un schéma GraphQL valide est requise. La vidéo explique également comment configurer le fichier json initial à utiliser avec votre site web commercial. Pour consulter des exemples de code de base utilisés dans la vidéo, rendez-vous sur la page [Création d’un maillage](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Cette vidéo aide les développeurs à comprendre comment créer un maillage avec une seule source dans le maillage API pour Adobe Developer App Builder. Pour que cet exemple de base fonctionne comme prévu, vous avez besoin d’une API accessible publiquement ou d’un point de terminaison GraphQL. La vidéo explique également comment créer une `mesh.json` à utiliser avec votre instance Commerce. Pour plus d’informations et d’exemples de code, consultez la page [Création d’un maillage](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
 
 ## Pour qui est cette vidéo ?
 
-* Toute personne qui découvre le maillage de l’API
-* Développeurs intéressés par l’utilisation de plusieurs sources graphql
-* Quiconque doit savoir comment filtrer l’onglet réseau et filtrer par graphql
+* Toute nouvelle personne qui découvre le maillage API
+* Développeurs intéressés par la combinaison de plusieurs sources GraphQL et API
+* Quiconque doit savoir comment filtrer l’onglet réseau et filtrer par GraphQL
 
 ## Contenu vidéo
 
-* Utilisation de l’API comme proxy inverse
-* Configuration JSON avec l’interface de ligne de commande Adobe Developer
+* Utilisation du maillage d’API comme proxy inverse
+* Création d’un maillage à partir d’un fichier de configuration JSON
 * Accès au point de terminaison GraphQL nouvellement créé
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124)
 
 ## Création du fichier de configuration json
 
-Pour qu’Adobe App Builder sache quelles sont vos sources, vous pouvez les définir dans une configuration JSON. Chaque source est un élément d’un tableau et vous pouvez en avoir un ou plusieurs. Voici un exemple d’une source unique
+Le maillage d’API utilise un fichier de configuration JSON pour définir vos gestionnaires de sources. Le fichier JSON contient une `sources` qui contient les sources de votre impression. Voici un exemple d’impression à partir d’une seule source.
 
 ```json
 {
