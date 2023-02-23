@@ -2,9 +2,9 @@
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
-source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Schéma déclaratif](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - Routage](../backend-development/backend-5-3-routing.md)
       + [5.4 - Créez une [!DNL Admin] Page](../backend-development/backend-5-4-admin-page.md)
-      + [6 - Exercices](../backend-development/backend-6-practice.md)
+   + [6 - Exercices](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] pour les utilisateurs professionnels {#merchants}
       + [1.1 - [!DNL Admin] Menus](../site-management/introduction/1-1-menus.md)
       + [1.2 - Grilles de données](../site-management/introduction/1-2-data-grids.md)
@@ -56,25 +56,30 @@ ht-degree: 0%
       + [5.2 - Gestion des clients](../site-management/introduction/5-2-customer-management.md)
       + [5.3 - Communications par e-mail](../site-management/introduction/5-3-store-communications.md)
       + [5.4 - Architecture de référence globale](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/architecture/global-reference.html)
-
-
-
 + GraphQL et REST {#graphql-rest}
-   + [Présentation de GraphQL](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)
-
+   + [Prise en main de GraphQL](../graphql-rest/getting-started-graphql.md)
+   + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
+   + [Requêtes](../graphql-rest/graphql-queries.md)
+   + [Mutations](../graphql-rest/graphql-mutations.md)
+   + [Schéma](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
    + [Structure d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Démonstration fonctionnelle pour App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Présentation technique d’App Builder](../app-builder/app-builder-technical-overview.md)
-
-+ Mesh de l’API {#api-mesh}
-   + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
-   + [Installation des E/S d’Adobe et du module externe maillage](../api-mesh/installing-aio-mesh-plugin.md)
-   + [Utilisation de projets et d’espaces de travail](../api-mesh/aio-projects-workspaces.md)
-   + [Création d’un maillage d’API GraphQL source unique](../api-mesh/graphql-single-source.md)
-   + [Création de plusieurs mailles d’API GraphQL source](../api-mesh/graphql-multiple-source.md)
-
+   + Événements d’E/S pour Adobe Commerce {#io-events}
+      + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Création d’un projet App Builder](../io-events/create-app-builder-project.md)
+      + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
+      + [Développement de module Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
+   + Mesh de l’API {#api-mesh}
+      + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
+      + [Installation des E/S d’Adobe et du module externe maillage](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Utilisation de projets et d’espaces de travail](../api-mesh/aio-projects-workspaces.md)
+      + [Création d’un maillage d’API GraphQL source unique](../api-mesh/graphql-single-source.md)
+      + [Création de plusieurs mailles d’API GraphQL source](../api-mesh/graphql-multiple-source.md)
 + Administration des magasins {#admin}
    + [Gestion des rôles et des autorisations des utilisateurs](../site-management/users-roles-permissions.md)
    + [Authentification à deux facteurs](../site-management/two-factor-authentication.md)
@@ -84,14 +89,11 @@ ht-degree: 0%
    + [Configuration de la carte du site de magasin](../site-management/site-map-setup.md)
    + [Modes de livraison et de livraison](../site-management/shipping-delivery.md)
    + [Utilisation des services de paiement](../site-management/payment-services.md)
-
-
 + Gestion des clients {#customers}
    + [Création de segments client](../site-management/customer-segments.md)
    + [Création de groupes de clients](../site-management/customer-groups.md)
    + [Création d’attributs du client](../site-management/customer-attributes.md)
    + [Achat assisté par le vendeur](../site-management/seller-assisted-shopping.md)
-
 + Gestion de catalogue {#catalog}
    + [Service de catalogue pour Adobe Commerce](../site-management/catalog-service.md)
    + [Création d’une catégorie](../site-management/category-create.md)
@@ -101,7 +103,6 @@ ht-degree: 0%
    + [Utilisation des attributs de produit avec PWA Studio](../site-management/product-attributes-pwa.md)
    + [Gestion des métadonnées d’optimisation pour les moteurs de recherche](../site-management/seo-metadata.md)
    + [Gestion des réécritures d’URL pour l’optimisation pour les moteurs de recherche](../site-management/seo-url-rewrites.md)
-
 + Gestion de contenu {#content}
    + [Aperçu du créateur de pages](../site-management/page-builder-overview.md)
    + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
@@ -109,7 +110,6 @@ ht-degree: 0%
    + [Utilisation de modèles de contenu](../site-management/content-templates.md)
    + [Évaluation du contenu](../site-management/content-staging.md)
    + [Gestion de la galerie de médias](../site-management/media-gallery.md)
-
 + Outils marketing {#marketing}
    + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
    + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
@@ -117,24 +117,20 @@ ht-degree: 0%
    + [Configuration de Recommendations de produit](../site-management/product-recommendations.md)
    + [Présentation de la recherche en direct](../site-management/live-search.md)
    + [Recherche en direct pour les recommandations](../site-management/live-search-recommendations.md)
-
 + Commandes et exécution {#orders}
    + [Présentation de l’exécution du magasin](../site-management/store-fulfillment.md)
    + [Gérer l’état de la commande](../site-management/order-status.md)
-
 + B2B pour Adobe Commerce {#b2b}
    + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
    + [Gestion des catalogues partagés](../b2b/shared-catalogs.md)
    + [Gérer le crédit de l’entreprise](../b2b/company-credit.md)
    + [Commandes et validations d’achat](../b2b/purchase-orders.md)
-
 + Outils et services externes {#tools}
    + [Tableau de bord de l’outil d’analyse à l’échelle du site](../tools/site-wide-analysis-tool.md)
    + [Observation pour Adobe Commerce](../tools/observation-tool.md)
    + [Outil Correctif de qualité](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Localisation d’une adresse IP malveillante](../new-relic/malicious-ip.md)
-
 + MBI {#mbi}
    + [Visionneuses de filtres](../business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
@@ -160,19 +156,16 @@ ht-degree: 0%
       + [Suivi des retours sur investissement](../business-intelligence/10-roi-tracking.md)
       + [Partage de résultats et exportation de données](../business-intelligence/11-share-results-export-data.md)
       + [Témoignages client](../business-intelligence/12-customer-success.md)
-
 + Mises à niveau commerciales {#upgrade}
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2.4-upgrade-workshop.md)
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilisation de l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
-
 + Développement principal {#backend-development}
    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Ajouter une table à une base de données](../backend-development/new-db-table.md)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
-
 + Le développement des frontières {#frontend-development}
    + Créateur de pages pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -183,7 +176,6 @@ ht-degree: 0%
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
    + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
    + [Création d’une page](../frontend-development/create-page.md)
-
 + PWA Studio {#pwa-studio}
    + Présentation du PWA Studio {#introduction}
       + [1 - Présentation](../pwa/introduction/1-overview.md)

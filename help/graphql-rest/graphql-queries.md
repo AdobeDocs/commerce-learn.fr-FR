@@ -6,7 +6,8 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 9dc530107470617f88992d8eb2ed9feb017a6530
+exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 0%
@@ -108,7 +109,7 @@ L’exemple ci-dessus repose sur le schéma GraphQL prêt à l’emploi pour Mag
 
 >[!NOTE]
 >
->Les clients GraphQL obscurcissent le formulaire de la requête HTTP réelle envoyée, mais cela est facile à découvrir. Si vous utilisez un client basé sur un navigateur, observez la variable [!UICONTROL Network] lorsqu’une requête est envoyée. Vous voyez que la requête contient un corps brut constitué de &quot;requête : `{string}`&quot;, où `{string}` est simplement la chaîne brute de votre requête entière. Si la demande est envoyée en tant que GET, la requête peut être codée dans le paramètre de chaîne de requête &quot;query&quot; à la place. Contrairement à REST, le type de requête HTTP n’a pas d’importance, mais seulement le contenu de la requête.
+>Les clients GraphQL obscurcissent le formulaire de la requête HTTP réelle envoyée, mais cela est facile à découvrir. Si vous utilisez un client basé sur un navigateur, observez la variable [!UICONTROL Network] lorsqu’une requête est envoyée. Vous voyez que la requête contient un corps brut constitué de &quot;requête : `{string}`&quot;, où `{string}` est simplement la chaîne brute de votre requête entière. Si la requête est envoyée en tant que GET, elle peut être codée dans le paramètre de chaîne de requête &quot;query&quot; à la place. Contrairement à REST, le type de requête HTTP n’a pas d’importance, mais seulement le contenu de la requête.
 
 
 ## Requête pour ce que vous souhaitez
@@ -186,5 +187,6 @@ Dans tout client compatible avec GraphQL que vous utilisez pour les tests (comme
 
 Comme vous l’avez vu, la requête HTTP réelle pour une requête GraphQL contient &quot;query: `{string}`&quot; dans son corps, toute requête contenant un dictionnaire de variables inclut simplement une variable &quot;supplémentaire : `{json}`&quot; dans le même corps, où `{json}` est la chaîne JSON avec les valeurs de variable.
 
-La nouvelle requête utilise également un _fragment_ (`productDetails`) pour réutiliser la même sélection de champ à plusieurs endroits. [En savoir plus sur les fragments](https://graphql.org/learn/queries/#fragments) dans la documentation de GraphQL.
+La nouvelle requête utilise également un _fragment_ (`productDetails`) pour réutiliser la même sélection de champ à plusieurs endroits. [En savoir plus sur les fragments](https://graphql.org/learn/queries/#fragments){target="_blank"} dans la documentation de GraphQL.
 
+{{$include /help/_includes/graphql-rest-related-links.md}}
