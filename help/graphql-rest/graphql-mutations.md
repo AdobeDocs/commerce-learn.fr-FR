@@ -7,7 +7,7 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: a92537cdb2538743042e136467b389bbe49178fe
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -84,7 +84,7 @@ La principale chose à noter à propos de l&#39;exemple ci-dessus est que, à pa
 * Un champ initial (`addProductsToCart`) avec des arguments (par exemple, `cartId`, défini sur la valeur de `$cartId`) entre parenthèses.
 * Sous-sélection de champs entre accolades
 
-La sous-sélection des champs permet de définir de manière flexible les champs que vous souhaitez renvoyer (à partir du type affecté comme valeur de retour de `addProductsToCart` - `AddProductsToCartOutput`) une fois la mutation terminée.
+La sous-sélection de champs vous permet de définir de manière flexible les champs que vous souhaitez renvoyer (à partir du type affecté comme valeur renvoyée de `addProductsToCart` - `AddProductsToCartOutput`) une fois la mutation terminée.
 
 Comme expliqué précédemment, les champs définis dans un schéma GraphQL commencent sur un type racine pour les requêtes (généralement appelé `Query`). De même, il existe un autre type de racine pour les mutations (généralement appelées `Mutation`). `addProductsToCart` est un champ de ce type racine.
 

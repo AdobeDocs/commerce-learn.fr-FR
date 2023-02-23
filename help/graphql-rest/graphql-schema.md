@@ -7,16 +7,16 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Langage de schéma
 
-Les requêtes et mutations avec lesquelles nous avons travaillé reposent sur un graphique de données spécifique mis en oeuvre sur le serveur, que l’exécution GraphQL utilise pour résoudre la requête. La spécification GraphQL définit un langage agnostique pour exprimer les types et relations de votre graphique de données.
+Les requêtes et les mutations utilisées reposent sur un graphique de données spécifique mis en oeuvre sur le serveur, que l’exécution GraphQL utilise pour résoudre la requête. La spécification GraphQL définit un langage agnostique pour exprimer les types et relations de votre graphique de données.
 
 Voici un schéma de type abrégé qui prend en charge les requêtes et les mutations que vous avez étudiées jusqu’à présent :
 
@@ -98,6 +98,6 @@ La syntaxe `[CartItemInput!]!` a l&#39;air délicat mais est assez intuitif au f
 
 >[!NOTE]
 >
->La logique de la manière dont les données sont récupérées et formatées selon un schéma, ainsi que la manière dont cette logique est mappée à des types particuliers, dépend de l’implémentation du runtime GraphQL. Toutefois, les implémentations doivent suivre un flux conceptuel qui soit logique à la lumière de notre compréhension des champs imbriqués : Une opération de résolution associée à la racine `Query` ou `Mutation` est exécuté, qui examine chaque champ spécifié dans la requête. Pour chaque champ qui correspond à un type complexe, une résolution similaire est effectuée pour ce type, etc., jusqu’à ce que tout ait été résolu en valeurs scalaires.
+>La logique de la manière dont les données sont récupérées et formatées selon un schéma, ainsi que la manière dont cette logique est mappée à des types particuliers, dépend de l’implémentation du runtime GraphQL. Toutefois, les implémentations doivent suivre un flux conceptuel logique à la lumière d’une compréhension autour des champs imbriqués : Une opération de résolution associée à la racine `Query` ou `Mutation` est exécuté, qui examine chaque champ spécifié dans la requête. Pour chaque champ qui correspond à un type complexe, une résolution similaire est effectuée pour ce type, etc., jusqu’à ce que tout ait été résolu en valeurs scalaires.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}
