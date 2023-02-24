@@ -6,7 +6,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Si vous découvrez le Mesh API pour Adobe Developer App Builder, Adobe recommand
 
 Le maillage d’API combine plusieurs sources de données pour obtenir une seule réponse à utiliser par votre application.
 
-[Afficher la documentation complète sur le maillage API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[Afficher la documentation complète sur le maillage API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Exemples de cas d’utilisation
 
@@ -31,7 +31,7 @@ Votre application Commerce dispose d’une API REST et d’un point de terminais
 
 En tant que développeur utilisant Adobe App Builder et le maillage d’API, il n’est pas nécessaire de comprendre ce qu’est un proxy inverse. Cependant, si la fonctionnalité globale d’Adobe App Builder vous intéresse, utilisez les ressources suivantes :
 
-* [Qu’est-ce qu’un proxy inverse ?](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [Qu’est-ce qu’un proxy inverse et pourquoi est-ce important ?](https://blog.hubspot.com/website/reverse-proxy)
+* [Qu’est-ce qu’un proxy inverse ?](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Qu’est-ce qu’un proxy inverse et pourquoi est-ce important ?](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

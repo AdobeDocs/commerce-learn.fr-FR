@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Création d’un maillage avec plusieurs sources
 
-Cette vidéo aide les développeurs à comprendre comment créer un maillage avec plusieurs sources dans le maillage API pour Adobe Developer App Builder. Cette vidéo montre comment créer un maillage avec plusieurs sources et identifier les erreurs. Pour plus d’informations et d’exemples de code, consultez la page [Création d’un maillage](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Cette vidéo aide les développeurs à comprendre comment créer un maillage avec plusieurs sources dans le maillage API pour Adobe Developer App Builder. Cette vidéo montre comment créer un maillage avec plusieurs sources et identifier les erreurs. Pour plus d’informations et d’exemples de code, consultez la page [Création d’un maillage](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 
@@ -24,7 +24,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 
 ## Contenu vidéo
 
-* Utilisation [transformations](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) modification du schéma source par défaut
+* Utilisation [transformations](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} modification du schéma source par défaut
 * Comment résoudre les erreurs, telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre impression avec une configuration modifiée
 
