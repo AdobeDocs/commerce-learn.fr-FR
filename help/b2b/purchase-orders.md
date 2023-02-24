@@ -5,11 +5,12 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B pour Adobe Commerce" type="Positif"
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 1%
+source-wordcount: '163'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +18,7 @@ ht-degree: 1%
 
 {{b2b-feature}}
 
-La plupart des sociétés B2B ont des règles d&#39;approbation de commande pour les commandes. Les entreprises peuvent contrôler qui peut créer des commandes et combien elles peuvent dépenser. Par exemple :
+La plupart des sociétés B2B ont des règles d&#39;approbation de commande pour les commandes. Les entreprises peuvent contrôler qui peut créer des commandes et combien elles peuvent dépenser. Par exemple :
 
 - Toute valeur de bon de commande inférieure à X est automatiquement approuvée.
 - Les commandes dont la valeur est supérieure à X mais inférieure à Q doivent être approuvées par Y.
@@ -37,5 +38,5 @@ Avec les autorisations requises pour leur rôle, les clients B2B peuvent configu
 
 ## Ressources supplémentaires
 
-- [Commandes pour les entreprises](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html)
-- [Règles d’approbation des commandes d’achat](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html)
+- [Commandes pour les entreprises](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [Règles d’approbation des commandes d’achat](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
