@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
+source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -72,6 +72,10 @@ Les tutoriels suivants montrent comment connecter Adobe Commerce à Amazon Sales
 * [générateur d’applications de démonstration fonctionnel](../app-builder/app-builder-functional-demonstration.md)
 
 ## Prise en main d’App Builder {#additional-resources}
+
+Vous trouverez un aperçu de la stratégie de commerce composable, qui inclut la configuration initiale en lisant le billet de blog suivant :
+
+[Comment App Builder contribue à accroître l’agilité de votre entreprise pour votre plateforme commerciale](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
 
 Pour vous aider à prendre en main App Builder, Adobe a créé la documentation suivante :
 
