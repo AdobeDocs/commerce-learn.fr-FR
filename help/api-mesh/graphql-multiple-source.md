@@ -2,11 +2,12 @@
 title: Création d’un GraphQL source multiple à utiliser dans le maillage API
 description: Découvrez comment utiliser plusieurs sources pour le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez les erreurs courantes et comment les résoudre.
 landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment créer un message comportant plusieurs sources et comment résoudre certaines erreurs courantes.
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about creating a mesh that has multiple sources and how to resolve some common errors.
 kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -25,7 +26,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 ## Contenu vidéo
 
 * Utilisation [transformations](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} modification du schéma source par défaut
-* Comment résoudre les erreurs, telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
+* Comment résoudre les erreurs, telles que les conflits de noms, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre impression avec une configuration modifiée
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125)

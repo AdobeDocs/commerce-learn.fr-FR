@@ -1,17 +1,18 @@
 ---
 title: Utilisation de l’outil de compatibilité de mise à niveau sur PHP Storm
-description: Regardez cette vidéo technique pour savoir comment utiliser l’outil de compatibilité de mise à niveau avec le plug-in PHP Storm.
-landing-page-description: Découvrez comment utiliser l’outil de compatibilité de mise à niveau avec le plug-in PHP Storm afin de faciliter l’identification et la résolution des incompatibilités.
+description: Regardez cette vidéo technique pour savoir comment utiliser l’outil de compatibilité de mise à niveau avec le module externe PHP Storm.
+landing-page-description: Découvrez comment utiliser l’outil de compatibilité de mise à niveau avec le module externe PHP Storm afin de faciliter l’identification et la résolution des incompatibilités.
+short-description: Learn about using the Upgrade Compatibility Tool with the PHP Storm plugin that makes it easy to identify and address incompatibilities.
 kt: 9651
 doc-type: technical video
 role: Developer
 audience: all
 activity: use
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 23%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
