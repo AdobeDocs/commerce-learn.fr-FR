@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
+source-git-commit: 021df5e5f98341204e9cc486c249dcd87fab2aa3
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Historiquement, le développement d’Adobe Commerce utilisait l’extensibilité du processus. Le modèle en cours de traitement nécessite que tout nouveau code soit compatible avec les mises à niveau, la version PHP du serveur et de nombreux autres services et applications de serveur essentiels utilisés par Commerce. Adobe Developer App Builder utilise l’extensibilité hors processus pour éviter ces problèmes de compatibilité.
 
-## App Builder pour Adobe Commerce {#project-firefly}
+## App Builder pour Adobe Commerce {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839)
 
@@ -32,7 +32,7 @@ App Builder permet aux clients d’étendre [!DNL Adobe Commerce] dans divers ca
 * extensibilité des services principaux - Étendez les fonctionnalités de l’application principale en étendant le comportement par défaut avec des fonctionnalités personnalisées et une logique métier.
 * extensibilité de l’expérience utilisateur : étendez l’expérience principale pour répondre aux besoins de l’entreprise ou créez des propriétés numériques, des vitrines et des applications de back-office spécifiques aux clients.
 
-App Builder (précédemment connu sous le nom de Project Firefly) est une solution cloud, ce qui signifie qu’elle est automatiquement mise à l’échelle. Ce service est également distribué à l’échelle mondiale afin d’offrir des performances optimales, quel que soit votre emplacement géographique.
+Adobe Developer App Builder est une solution cloud qui se met automatiquement à l’échelle. Ce service est également distribué à l’échelle mondiale afin d’offrir des performances optimales, quel que soit votre emplacement géographique.
 
 ## Pourquoi en savoir plus sur App Builder
 
@@ -55,7 +55,7 @@ Au lieu d’une solution prête à l’emploi, Adobe Developer App Builder fourn
 
 Le diagramme suivant illustre la manière dont une application standard créée sur App Builder utilise ces fonctionnalités :
 
-![Architecture](/help/assets/app-builder/firefly-architecture.jpeg)
+![Architecture](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Pour plus d’informations sur l’architecture du créateur d’applications, voir [Présentation de l’architecture](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
