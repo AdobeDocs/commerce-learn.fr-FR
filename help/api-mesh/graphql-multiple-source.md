@@ -26,7 +26,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 ## Contenu vidéo
 
 * Utilisation [transformations](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} modification du schéma source par défaut
-* Comment résoudre les erreurs, telles que les conflits de noms, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
+* Comment résoudre les erreurs, telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre impression avec une configuration modifiée
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125)
