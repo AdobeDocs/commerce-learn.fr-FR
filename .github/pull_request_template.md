@@ -1,7 +1,7 @@
 ---
-source-git-commit: b89fe908caa88a154481d21ff6170234dde794c1
+source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -44,10 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Normes de dénomination suivies]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)).
-- [ ] La table des matières et le H1 correspondent-ils à chaque page créée ou mise à jour ?
-- [ ] La table des matières et le H1 ont-ils un exemple d’action : Découvrez comment créer une requête de tirage
+- [ ] [Normes de dénomination suivies]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] La table des matières et le H1 correspondent pour chaque page créée ou mise à jour.
+- [ ] La table des matières et le H1 sont associés à une action, par exemple : Découvrez comment créer une requête de tirage GutHub
 - [ ] Rien ne doit être monospace dans H1
-- [ ] Chaque titre de page doit commencer par une lettre majuscule
-- [ ] Les vidéos comportent des chapitres
-- [ ] Une affiche est affectée aux vidéos pour représenter correctement la vidéo.
+- [ ] Chaque titre de page doit commencer par une lettre ***C***apitol
+- [ ] J’ai vérifié si des vidéos doivent comporter des chapitres.
+- [ ] Une affiche est affectée à toutes les vidéos pour représenter correctement la vidéo.
+- [ ] Avez-vous utilisé [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
