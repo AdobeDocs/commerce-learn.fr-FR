@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# Le `web-src` folder {#web-src-folder}
+# Découvrez l’objectif du dossier web-src {#web-src-folder}
 
 Le dossier web-src de cet exemple d’application contient de nombreux fichiers et dossiers JavaScript. Ce dossier est utilisé pour les applications disposant d’une interface utilisateur. Toutes les applications n’utilisent pas cette fonctionnalité. Par exemple, une intégration Commerce avec un système de gestion d’inventaire externe peut ne pas nécessiter d’interface frontale et de code.
 

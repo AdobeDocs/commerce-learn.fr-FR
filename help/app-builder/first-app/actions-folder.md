@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` folder {#actions-folder}
+# En savoir plus sur le dossier actions {#actions-folder}
 
 Le `actions` Le dossier de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le code JavaScript affiché est un excellent exemple de fichier qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
 
