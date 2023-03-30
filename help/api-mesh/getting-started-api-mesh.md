@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Si vous découvrez le Mesh API pour Adobe Developer App Builder, Adobe recommand
 Le maillage d’API combine plusieurs sources de données pour obtenir une seule réponse à utiliser par votre application.
 
 [Afficher la documentation complète sur le maillage API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## Pour qui est cette vidéo ?
+
+* Les développeurs qui découvrent le maillage d’API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
+
+## Contenu vidéo
+
+* Présentation du maillage API
+* Liens vers la documentation complémentaire
+* Cas pratique de vérification d’inventaire en temps réel au passage en caisse
+* Déplacement des efforts de développement et de l’utilisation des ressources loin de votre application commerciale
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## Exemples de cas d’utilisation
 
