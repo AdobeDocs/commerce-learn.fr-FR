@@ -6,9 +6,9 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Le dossier web-src de cet exemple d’application contient de nombreux fichiers 
 * Fichiers et dossiers généralement inclus
 * Comment `web-src` Le dossier et le contenu à l’intérieur sont utilisés dans l’exemple d’application.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## Exemples de code
 

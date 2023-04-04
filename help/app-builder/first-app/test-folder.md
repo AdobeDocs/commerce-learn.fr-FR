@@ -6,9 +6,9 @@ kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-10T00:00:00Z
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Il s’agit d’un exemple simple qui peut être développé afin de créer des 
 * Une brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## Exemples de code
 

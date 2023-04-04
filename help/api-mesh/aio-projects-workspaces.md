@@ -7,9 +7,9 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Ce tutoriel explique comment créer un projet et un espace de travail pour conte
 * Modification de l’organisation, du projet ou de l’espace de travail sélectionné dans l’interface en ligne de commande
 * Test de commandes simples de maillage d’API
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123/)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## En savoir plus sur la console Adobe Developer
 

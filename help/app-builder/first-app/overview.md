@@ -6,9 +6,9 @@ kt: 12421
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 82f8911c4490d06433f1a7a475ee65bccbe04ef4
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Ce tutoriel a été conçu pour vous permettre de suivre l’ordre des pages dan
 * Attentes pour l’utilisation de l’exemple de module
 * Parties réutilisables de dans l’exemple de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 
 {{avoid-400-error}}
 

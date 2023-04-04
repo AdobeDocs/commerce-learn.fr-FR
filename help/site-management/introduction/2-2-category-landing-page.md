@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Dans cette vidéo :
 >
 >Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/36388/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
