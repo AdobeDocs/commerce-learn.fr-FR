@@ -2,18 +2,18 @@
 title: Présentation technique d’App Builder
 description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une présentation technique
 landing-page-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une présentation technique
-short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical overview
+short-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une présentation technique
 kt: 11763
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
-
 
 # Présentation technique d’App Builder
 

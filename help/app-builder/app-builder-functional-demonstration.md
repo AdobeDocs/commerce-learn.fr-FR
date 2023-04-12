@@ -2,18 +2,18 @@
 title: Démonstration fonctionnelle du générateur d’applications
 description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
 landing-page-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
-short-description: Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration
+short-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
 kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Démonstration fonctionnelle pour App Builder
 

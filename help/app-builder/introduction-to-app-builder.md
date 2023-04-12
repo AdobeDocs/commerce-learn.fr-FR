@@ -2,18 +2,18 @@
 title: Extensibilité hors processus pour Adobe Commerce
 description: Découvrez Adobe App Builder et pourquoi il s’agit d’un aspect important de l’extensibilité hors processus.
 landing-page-description: Découvrez ce qu’est App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
-short-description: Learn what is App Builder and how it can help with Adobe Commerce development strategies.
+short-description: Découvrez ce qu’est App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '831'
 ht-degree: 0%
 
 ---
-
 
 # Présentation d’App Builder
 

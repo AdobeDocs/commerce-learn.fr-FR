@@ -2,14 +2,15 @@
 title: Prise en main du maillage API
 description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment installer Adobe App Builder, travailler avec des projets, créer un proxy inverse graphique et bien plus encore.
 landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez l’installation d’Adobe IO, l’utilisation de projets, la création d’un proxy inverse graphique et bien plus encore.
-short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
+short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez l’installation d’Adobe IO, l’utilisation de projets, la création d’un proxy inverse graphique et bien plus encore.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---

@@ -2,7 +2,7 @@
 title: Présentation de l’exécution du magasin
 description: Découvrez la solution d’exécution de magasins pour Adobe Commerce par Walmart Commerce Technologies, une solution d’exécution de magasins omnicanaux avancée qui offre une expérience d’achat en ligne, prise en charge en magasin (BOPIS) de bout en bout.
 landing-page-description: Regardez cette vidéo pour découvrir comment la solution d’exécution des magasins offre aux clients la commodité d’un nettoyage en magasin et à l’aide d’un curbside et permet aux employés de stocker des workflows d’exécution plus efficaces et prêts pour les appareils mobiles afin de sélectionner, préparer et transmettre des commandes de prise en main de magasin aux clients.
-short-description: Watch this video to learn how the Store Fulfillment solution offers customers the convenience of in-store and curbside pick-up and store employees more efficient, mobile-ready fulfillment workflows to pick, stage, and hand-off store pickup orders to customers.
+short-description: Regardez cette vidéo pour découvrir comment la solution d’exécution des magasins offre aux clients la commodité d’un nettoyage en magasin et à l’aide d’un curbside et permet aux employés de stocker des workflows d’exécution plus efficaces et prêts pour les appareils mobiles afin de sélectionner, préparer et transmettre des commandes de prise en main de magasin aux clients.
 doc-type: feature video
 solution: Commerce
 audience: all
@@ -10,7 +10,7 @@ activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
