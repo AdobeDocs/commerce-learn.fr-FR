@@ -2,9 +2,9 @@
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
-source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
+source-git-commit: 133b6f366cee2e51cd150649e2ff1865e1ee23e9
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ ht-degree: 0%
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
-+ Le développement des frontières {#frontend-development}
++ Développement de Luma pour Native Frontend {#frontend-development}
    + Créateur de pages pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuration et contenu](../frontend-development/page-builder/2-config-create-content.md)
@@ -187,7 +187,10 @@ ht-degree: 0%
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
    + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
    + [Création d’une page](../frontend-development/create-page.md)
-+ PWA Studio {#pwa-studio}
+
++ Architecture headless {#headless-architecture}
+   + Introduction à headless {#introduction-to-headless}
+      + [Architecture sans tête - Session 1](../headless/session-1.md)
    + Présentation du PWA Studio {#introduction}
       + [1 - Présentation](../pwa/introduction/1-overview.md)
       + [2 - Outils de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
