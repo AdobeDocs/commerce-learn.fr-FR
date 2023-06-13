@@ -2,9 +2,9 @@
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
-source-git-commit: 9c25b5980c34347eecfa8fc608f50576615f0ac4
+source-git-commit: b8dd6c146735721612d55365e9559c925953f062
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -138,6 +138,14 @@ ht-degree: 0%
    + [Gestion des catalogues partagés](../b2b/shared-catalogs.md)
    + [Gérer le crédit de l’entreprise](../b2b/company-credit.md)
    + [Commandes et validations d’achat](../b2b/purchase-orders.md)
+   + Citation {#b2b-quote}
+      + [Le représentant commercial lance un devis](../b2b/sales-rep-initiates-quote.md)
+      + [Validation des citations de l’administrateur](../b2b/quote-validation-admin-panel.md)
+      + [Le représentant commercial lance l’API REST de devis](../b2b/sales-rep-initiates-quote-api.md)
+      + [Remises sur les articles entre guillemets](../b2b/quote-line-item-discount.md)
+      + [Notes d’élément de ligne entre guillemets](../b2b/quote-line-item-notes.md)
+      + [GraphQL de remise sur article entre guillemets](../b2b/quote-graphql-line-item-discount.md)
+      + [API REST de remise sur article entre guillemets](../b2b/quote-rest-api-line-item-notes.md)
 + Outils et services externes {#tools}
    + [Tableau de bord de l’outil d’analyse à l’échelle du site](../tools/site-wide-analysis-tool.md)
    + [Observation pour Adobe Commerce](../tools/observation-tool.md)
