@@ -1,17 +1,17 @@
 ---
-title: MBI - Report Builder SQL
-description: Découvrez comment utiliser le Report Builder SQL MBI pour interroger directement votre entrepôt de données, afficher les résultats et rapidement les transformer en graphique.
-landing-page-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder SQL MBI pour interroger directement votre entrepôt de données, afficher les résultats et les transformer rapidement en graphique.
-short-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder SQL MBI pour interroger directement votre entrepôt de données, afficher les résultats et les transformer rapidement en graphique.
+title: Commerce Intelligence - Report Builder SQL
+description: Découvrez comment utiliser le Report Builder SQL de Commerce Intelligence pour interroger directement votre entrepôt de données, afficher les résultats et rapidement les transformer en graphique.
+landing-page-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder SQL de Commerce Intelligence pour interroger directement votre entrepôt de données, afficher les résultats et rapidement les transformer en graphique.
+short-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder SQL de Commerce Intelligence pour interroger directement votre entrepôt de données, afficher les résultats et rapidement les transformer en graphique.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Dans cette vidéo :
 
 >[!TIP]
 >
->Si vous découvrez l’IMS, la variable [Série de vidéos Prise en main](1-overview.md) offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez Commerce Intelligence, la variable [Guide de l’utilisateur d’Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## Pour qui est cette vidéo ?
 
@@ -45,6 +45,6 @@ Dans cette vidéo :
 
 ## Ressources utiles
 
-[Utilisation du Report Builder SQL - Guide de l’utilisateur MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Utilisation de SQL Report Builder - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Création de visualisations à partir de requêtes SQL - Guide de l’utilisateur de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[Création de visualisations à partir de requêtes SQL - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
