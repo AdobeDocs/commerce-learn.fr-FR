@@ -2,9 +2,9 @@
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
-source-git-commit: b8dd6c146735721612d55365e9559c925953f062
+source-git-commit: 94a690fb12faa26385b42069682dd72fe2a22a6a
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '695'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,6 @@ ht-degree: 0%
       + [4 - Déploiement](../cloud/4-deployment.md)
       + [5 - Développement](../cloud/5-dev-config.md)
       + [6 - Services et DNS](../cloud/6-launch.md)
-   + [!DNL Commerce] pour les développeurs {#development}
-      + [1.1 - Présentation](../backend-development/backend-1-1-overview.md)
-      + [1.2 - Workflow de développement](../backend-development/backend-1-2-workflow.md)
-      + [2 - Installation](../backend-development/backend-2-install.md)
-      + [3 - Installation après installation](../backend-development/backend-3-post-install.md)
-      + [4 - Base de code](../backend-development/backend-4-code-base.md)
-      + [5.1 - Principes de développement](../backend-development/backend-5-1-dev-basics.md)
-      + [5.2 - Schéma déclaratif](../backend-development/backend-5-2-declarative-schema.md)
-      + [5.3 - Routage](../backend-development/backend-5-3-routing.md)
-      + [5.4 - Créez une [!DNL Admin] Page](../backend-development/backend-5-4-admin-page.md)
-      + [6 - Exercices](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] pour les utilisateurs professionnels {#merchants}
       + [1.1 - [!DNL Admin] Menus](../site-management/introduction/1-1-menus.md)
       + [1.2 - Grilles de données](../site-management/introduction/1-2-data-grids.md)
