@@ -3,11 +3,15 @@ title: En savoir plus sur les niveaux de validation du processus de guillemet B2
 description: Découvrez comment l’application Adobe Commerce dispose de processus de validation stricts.  Ce tutoriel vidéo présente le processus de validation à partir du panneau d’administration d’Adobe Commerce afin de s’assurer que la procédure de citation est valide et cohérente.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B pour Adobe Commerce" type="Positif"
-last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
+last-substantial-update: 2023-6-13
+feature: Configuration, System, Quotes, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
+exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
+source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

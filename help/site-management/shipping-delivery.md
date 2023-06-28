@@ -1,13 +1,17 @@
 ---
 title: Gestion des méthodes d’expédition et de diffusion
-description: Découvrez comment configurer l’origine des frais d’expédition, la livraison multiple, les frais de livraison et les paramètres de l’opérateur pour votre boutique de commerce.
+description: Découvrez comment configurer l’origine de la livraison, les frais de livraison multiples, les frais de livraison et les paramètres de l’opérateur pour votre boutique de commerce.
 kt: 10543
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Shipping/Delivery
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -16,7 +20,7 @@ ht-degree: 0%
 
 # Gestion des méthodes d’expédition et de diffusion
 
-La gestion de vos méthodes d’expédition et de livraison est essentielle pour vous assurer que vous êtes en mesure de mettre votre produit entre les mains de vos clients. Dans cette vidéo, vous apprendrez à gérer l’origine de vos envois, la livraison multiple, les frais de livraison et les paramètres de l’opérateur.
+La gestion de vos méthodes d’expédition et de livraison est essentielle pour vous assurer que vous êtes en mesure de mettre votre produit entre les mains de vos clients. Dans cette vidéo, vous apprendrez à gérer l’origine de vos envois, les frais de livraison multiples, les frais de livraison et les paramètres de l’opérateur.
 
 ## Pour qui est cette vidéo ?
 

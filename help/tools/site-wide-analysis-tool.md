@@ -2,11 +2,15 @@
 title: Tableau de bord de l’outil d’analyse à l’échelle du site
 description: Regardez cette vidéo technique et apprenez à utiliser le tableau de bord de l’outil d’analyse à l’échelle du site pour accéder à des informations détaillées sur le système et des recommandations afin de garantir la sécurité et la maniabilité de votre installation Adobe Commerce.
 doc-type: technical video
-role: Developer, Admin
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Security, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%

@@ -5,14 +5,18 @@ landing-page-description: Découvrez comment tester votre première application 
 kt: 12427
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+last-substantial-update: 2023-3-13
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
+exl-id: c916c94b-eb14-48c5-ad1d-695730135939
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # Test local {#testing-locally}
 

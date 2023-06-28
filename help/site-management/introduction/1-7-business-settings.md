@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] pour les utilisateurs professionnels - Paramètres du magasin"
 description: Découvrez les paramètres régionaux, les informations de magasin, les URL sécurisées et non sécurisées, le titre du site web, le logo, les informations de copyright, les logos des emails de communication, les adresses électroniques de magasin, les options de devise et les taux de change.
-topic: Commerce
 kt: 5764
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
