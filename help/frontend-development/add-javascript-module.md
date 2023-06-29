@@ -1,12 +1,15 @@
 ---
 title: Ajout d’un module JavaScript
 description: Cette vidéo fournit une présentation pour le développement d’un module JS simple qui fournit le message "Hello World".
-topic: Development
 kt: 5612
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development, Themes, Configuration
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
