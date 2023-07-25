@@ -1,9 +1,9 @@
 ---
 title: Pages connexes du maillage d’API
 description: Liens vers les pages connexes dans App Builder
-source-git-commit: 94e47457420ee60dead6f0ddedd1d680e2dd014d
+source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -18,3 +18,5 @@ ht-degree: 0%
 * [Présentation technique d’App Builder](../app-builder/app-builder-technical-overview.md)
 * [Envoyer l’application au Marketplace](../app-builder/submit-app-process.md)
 * [Présentation des informations sur l’extension](https://developer.adobe.com/commerce/marketplace/guides/sellers/extension-information/){target="_blank"}
+* [Amazon Sales Channel sur App Builder](https://developer.adobe.com/commerce/extensibility/amazon-sales-channel/){target="_blank"}
+* [SDK de l’interface utilisateur d’administration](https://developer.adobe.com/commerce/extensibility/admin-ui-sdk/){target="_blank"}
