@@ -3,9 +3,9 @@ user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 0%
    + [Gestion des rôles et des autorisations des utilisateurs](../site-management/users-roles-permissions.md)
    + [Authentification à deux facteurs](../site-management/two-factor-authentication.md)
    + [Gestion des règles de devise et de taxe](../site-management/currency-tax-rules.md)
-   + [Ajout de sites web, de magasins et de vues de magasin](../site-management/add-websites-stores-views.md)
+   + [Ajout de sites web, de magasins et d’affichages de magasin](../site-management/add-websites-stores-views.md)
    + [Modification de l’URL d’un magasin](../site-management/change-store-url.md)
    + [Modes de livraison et de livraison](../site-management/shipping-delivery.md)
    + [Utilisation des services de paiement](../site-management/payment-services.md)
@@ -79,7 +79,7 @@ ht-degree: 0%
    + [Création d’attributs de produit](../site-management/product-attributes-create.md)
    + [Utilisation des attributs de produit avec PWA Studio](../site-management/product-attributes-pwa.md)
    + [Gestion des métadonnées d’optimisation pour les moteurs de recherche](../site-management/seo-metadata.md)
-   + [Gestion des réécritures d’URL pour l’optimisation pour les moteurs de recherche](../site-management/seo-url-rewrites.md)
+   + [Gestion des réécritures d’URL pour SEO](../site-management/seo-url-rewrites.md)
 + Gestion de contenu {#content}
    + [Aperçu du créateur de pages](../site-management/page-builder-overview.md)
    + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
@@ -92,7 +92,7 @@ ht-degree: 0%
    + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
    + [Gestion des règles de produit connexes](../site-management/related-product-rules.md)
    + [Configuration de Recommendations de produit](../site-management/product-recommendations.md)
-   + [Présentation de la recherche en direct](../site-management/live-search.md)
+   + [Présentation de Live Search](../site-management/live-search.md)
    + [Recherche en direct pour les recommandations](../site-management/live-search-recommendations.md)
    + [Démonstration complète de la recherche en direct](../site-management/live-search-full-demonstration.md)
 + Commandes et exécution {#orders}
@@ -120,19 +120,20 @@ ht-degree: 0%
 + Commerce Intelligence {#mbi}
    + [Visionneuses de filtres](../business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
-   + [Report Builder SQL](../business-intelligence/sql-report-builder.md)
+   + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
    + [Préparer l&#39;avenir](../business-intelligence/prepare-for-future.md)
-+ Mises à niveau commerciales {#upgrade}
++ Mises à niveau de commerce {#upgrade}
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2.4-upgrade-workshop.md)
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilisation de l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement principal {#backend-development}
-   + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+   + [Bonnes pratiques pour modifier les tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Ajouter une table à une base de données](../backend-development/new-db-table.md)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
    + [Réplication lente de la grappe Galerie](../backend-development/galera-db-slow-replication.md)
+   + [Cache de requête MySQL](../backend-development/mysql-query-cache.md)
 + Développement de Luma pour Native Frontend {#frontend-development}
    + Créateur de pages pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -141,9 +142,8 @@ ht-degree: 0%
       + [4 - Modèles et styles](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
       + [5 - Thèmes personnalisés](../frontend-development/page-builder/5-customize-theme.md)
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
-   + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
-   + [Création d’une page](../frontend-development/create-page.md)
-
+   + [Ajouter un module JavaScript](../frontend-development/add-javascript-module.md)
+   + [Créer une page](../frontend-development/create-page.md)
 + Architecture headless {#headless-architecture}
    + Introduction à headless {#introduction-to-headless}
       + [Architecture sans tête - Session 1](../headless/session-1.md)
