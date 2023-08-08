@@ -9,9 +9,9 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visionneuse AR disponible dans le Commerce Marketplace
-source-git-commit: 3561fe3635d823853df3b99b9bb4695a72e42db4
+source-git-commit: 488f5b181a97ee222ab72fd547e5fd090a23d34e
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,6 @@ Une fois que le visiteur analyse le code QR avec son appareil, l’élément est
 ## Ressources utiles
 
 [Visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Exigences relatives aux visionneuses AR](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-requirements.html){target="_blank"}
 [Gestion des modèles 3D de produit avec la visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extension Adobe Commerce Marketplace
