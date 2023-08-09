@@ -2,7 +2,7 @@
 title: Fichier app.config.yaml
 description: Découvrez les types de fichiers du fichier app.config.yaml pour cet exemple d’application.
 landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers contenus dans app.config.yaml.
-kt: 12426
+kt: 12429
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Ce fichier détermine la configuration de l’application.
 
 ## Contenu vidéo
 
-* Le `app.config.yaml` fichier discuté
+* La variable `app.config.yaml` fichier discuté
 * Comment les définitions sont-elles liées à d’autres `.js` files
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
