@@ -2,10 +2,9 @@
 user-guide-title: Vidéos et Tutorials
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et Tutorials
-solution: Commerce
-source-git-commit: 2aa87ee8b350fd134afd44409d5bbc6e514dd4d7
+source-git-commit: 9dcbee360b0c25b83116ff5b1379052cf9b8fa62
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -80,6 +79,7 @@ ht-degree: 0%
    + [Gestion des métadonnées d’optimisation pour les moteurs de recherche](../site-management/seo-metadata.md)
    + [Gestion des réécritures d’URL pour SEO](../site-management/seo-url-rewrites.md)
    + [Visionneuse AR](../site-management/augmented-reality.md)
+   + [Importation et mise à jour du catalogue](../site-management/catalog-import.md)
 + Gestion de contenu {#content}
    + [Aperçu du créateur de pages](../site-management/page-builder-overview.md)
    + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
