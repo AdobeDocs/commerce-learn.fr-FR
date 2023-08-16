@@ -39,7 +39,7 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[Création d’un produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
+[Créer un produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html)
 
 [Paramètres du produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-settings)
 

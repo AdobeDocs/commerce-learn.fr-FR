@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] pour les utilisateurs professionnels : vues des magasins et effacement de la mémoire cache
+# [!DNL Commerce] pour les utilisateurs professionnels : vues des magasins et effacement du cache
 
 Dans cette vidéo :
 
@@ -34,6 +34,6 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[Sites web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Sites web, magasins et vues - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
 [Gestion du cache - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

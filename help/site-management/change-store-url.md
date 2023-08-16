@@ -1,6 +1,6 @@
 ---
 title: Modification de l’URL d’un magasin
-description: Découvrez comment modifier votre [!DNL Commerce] stockez l’URL de base dans Admin.
+description: Découvrez comment modifier votre [!DNL Commerce] stockez l’URL de base dans l’Admin.
 kt: 5605
 doc-type: feature video
 audience: all

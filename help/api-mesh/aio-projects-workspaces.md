@@ -40,7 +40,7 @@ Ce tutoriel explique comment créer un projet et un espace de travail pour conte
 
 ## En savoir plus sur la console Adobe Developer
 
-Dans la console Adobe Developer, la hiérarchie suivante représente la manière dont vos API s’intègrent à votre organisation : `Organization > Project > Workspace > [API]`. Pour en savoir plus sur Adobe App Builder, la connexion à la console et le dépannage de base, rendez-vous sur la page [Création de votre première application App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
+Dans la console Adobe Developer, la hiérarchie suivante représente la manière dont vos API s’intègrent à votre organisation : `Organization > Project > Workspace > [API]`. Pour en savoir plus sur Adobe App Builder, la connexion à la console et le dépannage de base, consultez la page [Création de votre première application App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Présentation des projets dans la console Adobe Developer
 

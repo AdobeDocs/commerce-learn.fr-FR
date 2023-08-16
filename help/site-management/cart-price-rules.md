@@ -36,7 +36,7 @@ Il existe des scénarios uniques qui exigent que chaque article affiche sa remis
 
 >[!BEGINSHADEBOX]
 
-Règle de prix du panier = 10 % de remise appliquée à 2 produits dans la condition du panier pour que la règle de prix entre en vigueur : le total des articles dans le panier est de 2 Actions applique le pourcentage de remise sur le prix du produit et ce montant de remise est de 10
+Règle de prix du panier = 10 % de réduction appliquée à 2 produits dans la condition du panier pour que la règle de prix entre en vigueur : le total des articles dans le panier est 2 Actions appliquez le pourcentage de remise sur le prix du produit et ce montant de remise est 10
 
 2 éléments sont ajoutés au panier, chacun étant de 19,95 $
 
@@ -58,9 +58,9 @@ Même remise de 10 % que la règle de panier ci-dessus en vigueur Ajoutez 2 prod
 
 Chaque produit doit obtenir 1,995 $ de remises Produit 1 - 19,95 x 0,1 = 1,995 2 - 19,95 x 0,1 = 1,995
 
-Un total total de 3,99 est fourni sous forme de remise au client
+Un total total de 3,99 est fourni en remise au client
 
-Lors de l’affichage des éléments de ligne au propriétaire du magasin dans l’administrateur, nous devons ajuster le premier élément et l’arrondir à 2 000. Le deuxième élément est le troisième produit décimal 1 = 2,00 Produit 2 = 1,99.
+Lors de l’affichage des éléments de ligne au propriétaire du magasin dans l’administrateur, nous devons ajuster le premier élément et l’arrondir à 2 000. Le deuxième élément est le troisième produit décimal 1 = 2,00 Produit 2 = 1,99
 
 La remise totale des deux produits cumulée correspond désormais à la remise réelle accordée à un client.
 >[!ENDSHADEBOX]
@@ -93,7 +93,7 @@ Même problème si la troisième décimale était supprimée pour tous les artic
 
 Même remise de 10 % que la règle de panier ci-dessus en vigueur Ajoutez 2 produits au panier qui sont de 19,95
 
-Chaque produit doit obtenir des remises de 1,995 $. Toutefois, si nous déposez simplement la troisième décimale, ceci se produit : Produit 1 - 19.95 x 0.1 = 1.995 Produit 2 - 19.95 x 0.1 = 1.995
+Chaque produit doit obtenir 1,995 $ de remises. Toutefois, si nous faisons glisser la troisième décimale, cela se produit : Produit 1 - 19,95 x 0,1 = 1,995 Produit 2 - 19,95 x 0,1 = 1,995
 
 Convertir pour supprimer la troisième décimale pour tous les éléments Produit 1 Nouvelle valeur : 1,99 Produit 2 Nouvelle valeur : 1,99
 

@@ -23,7 +23,7 @@ L’ajout d’un attribut de produit est l’une des opérations les plus popula
 
 Dans cette vidéo :
 
-- Ajoutez un attribut appelé clothing_matter avec les valeurs possibles : Coton, cuir, soie, denim, fourrure et laine
+- Ajoutez un attribut appelé clothing_Matériau avec les valeurs possibles : Coton, Cuir, Silk, Denim, Fourrure et Laine
 - Rendre cet attribut visible sur la page de consultation du produit, en gras, en texte
 - Affectez-la au jeu d’attributs par défaut et ajoutez une restriction
 - Ajouter le nouvel attribut

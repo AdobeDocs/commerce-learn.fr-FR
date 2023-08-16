@@ -22,7 +22,7 @@ ht-degree: 0%
 Dans cette vidéo :
 
 - Présentation de la périodicité
-- La bibliothèque Peregrine
+- La bibliothèque Granulaire
 - Comprendre les motivations de Peregrine
 - Distinguer les points d’extension et les points d’extension Peregrine
 

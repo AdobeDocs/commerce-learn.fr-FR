@@ -38,14 +38,14 @@ Regardez cette série de vidéos pour mieux comprendre les changements sans pré
 - Utilisateurs professionnels
 - Analystes de données
 
-## Partie 1 : Augmentation du trafic dans le commerce numérique
+## Partie 1 : intensification du trafic dans le commerce numérique
 
 >[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
 
-## Partie 2 : Segmentation des augmentations de trafic par secteur industriel
+## Partie 2 : segmentation de la hausse du trafic par secteur industriel
 
 >[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
 
-## Partie 3 : Impacts sur le comportement d’achat des clients
+## Partie 3 : impacts sur le comportement d’achat des clients
 
 >[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)

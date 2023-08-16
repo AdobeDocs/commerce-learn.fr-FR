@@ -11,7 +11,7 @@ level: Intermediate
 last-substantial-update: 2023-04-13T00:00:00Z
 source-git-commit: dfc148423f3a6512ec4a37e85e6c6d87dfbc47bd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '344'
 ht-degree: 0%
 
 ---
@@ -25,16 +25,16 @@ Héros peut être n&#39;importe qui. Même un homme qui sait quelque chose d&#39
 
 Ce n&#39;est pas qui je suis en-dessous mais ce que je fais qui me définit. Est-ce qu&#39;il vient en noir ? Ce n&#39;est pas une voiture. C&#39;était un chien. C&#39;était un gros chien. Je me tiendrai là où je serai. Entre toi et le peopIe de Gotham.
 
-Je cherche les moyens de lutter contre l&#39;injustice. Tourner la peur contre ceux qui s&#39;attaquent aux peurs. Je me tiendrai là où je serai. Entre toi et le peopIe de Gotham. Je ne peux pas le faire en tant que Bruce Wayne.. en tant qu&#39;homme. Je suis chair et sang. Je peux être ignoré, détruit. Mais comme symbole, je peux être incorruptible, je peux être éternel.
+Je cherche les moyens de lutter contre l&#39;injustice. Tourner la peur contre ceux qui s&#39;attaquent aux peurs. Je me tiendrai là où je serai. Entre toi et le peopIe de Gotham. Je ne peux pas le faire en tant que Bruce Wayne.. en tant qu&#39;homme. Je suis en chair et en os. Je peux être ignoré, détruit. Mais comme symbole, je peux être incorruptible, je peux être éternel.
 
 ## Options d’intégration
 
 Ce n&#39;est pas une voiture. Jure-moi ! Je me tiendrai là où je serai. Entre toi et le peopIe de Gotham.
 
-Je suis Batman, pas d&#39;armes, pas de meurtre. Je ne peux pas le faire en tant que Bruce Wayne.. en tant qu&#39;homme. Je suis chair et sang. Je peux être ignoré, détruit. Mais comme symbole, je peux être incorruptible, je peux être éternel.
+Je suis Batman, pas d&#39;armes, pas de meurtre. Je ne peux pas le faire en tant que Bruce Wayne.. en tant qu&#39;homme. Je suis en chair et en os. Je peux être ignoré, détruit. Mais comme symbole, je peux être incorruptible, je peux être éternel.
 
 
-## Exemple de configuration et de configuration
+## Exemple de configuration
 
 Voici une capture d&#39;écran :
 
@@ -49,4 +49,4 @@ Pour finir, procédez comme suit :
 ## Autres tutoriels et vidéos
 
 * [Lien vers la vidéo](https://example.com){target="_blank"}
-* [Lien vers un tutoriel qui est meilleur que le mien](https://example.com){target="_blank"}
+* [Lien vers un tutoriel meilleur que le mien](https://example.com){target="_blank"}

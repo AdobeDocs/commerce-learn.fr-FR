@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # En savoir plus sur le dossier test {#test-folder}
 
-Le `test` Le dossier de cet exemple d’application contient un seul fichier JavaScript, utilisé lors de l’exécution de tests unitaires sur l’application.
+La variable `test` Le dossier de cet exemple d’application contient un seul fichier JavaScript, utilisé lors de l’exécution de tests unitaires sur l’application.
 
 Il s’agit d’un exemple simple qui peut être développé afin de créer des tests complets pour vos applications spécifiques.
 

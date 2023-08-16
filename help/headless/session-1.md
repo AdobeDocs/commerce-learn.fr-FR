@@ -32,7 +32,7 @@ Découvrez ce qui n’a pas de tête et comment Adobe Commerce prend-il en charg
 ## Contenu vidéo
 
 * Interface frontale découplée du serveur principal
-* Présentation d’une API
+* Qu’est-ce qu’une API ?
 * Plusieurs approches sans tête
 * Explication du commerce composable
 * Adobe Commerce est l’API d’abord, mais pas seulement l’API

@@ -29,7 +29,7 @@ Maintenant que vous avez créé votre première application Adobe Developer App 
 ## Contenu vidéo
 
 * Ressources supplémentaires
-* Méthodes de connexion à d’autres développeurs
+* Méthodes de connexion aux autres développeurs
 * Fermeture des commentaires
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416741?quality=12&learn=on)

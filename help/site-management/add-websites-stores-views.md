@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Ajout de sites web, de magasins et d’affichages de magasin
 
-Chaque installation Adobe Commerce et Magento Open Source prend en charge une hiérarchie de sites web, de magasins et de vues de magasin. Créez et développez cette hiérarchie en fonction des besoins de votre entreprise.
+Chaque installation d’Adobe Commerce et de Magento Open Source prend en charge une hiérarchie de sites web, de magasins et de vues de magasin. Créez et développez cette hiérarchie en fonction des besoins de votre entreprise.
 
 ## Pour qui est cette vidéo ?
 
@@ -37,5 +37,5 @@ Chaque installation Adobe Commerce et Magento Open Source prend en charge une hi
 
 ## Ressources supplémentaires
 
-- [Sites web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Sites web, magasins et vues - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 - [Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

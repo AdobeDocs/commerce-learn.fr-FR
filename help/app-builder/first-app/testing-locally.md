@@ -29,7 +29,7 @@ Découvrez comment tester localement votre nouvelle application Adobe Developer 
 ## Contenu vidéo
 
 * Différents niveaux de test
-* Tests unitaires
+* Test unitaire
 * Test E2E
 * Test manuel
 

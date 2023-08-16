@@ -30,7 +30,7 @@ Cette vidéo présente un aperçu rapide de l’expérience BOPIS de bout en bou
    - Parcourez le catalogue du storefront en ligne.
    - Sélectionnez des éléments pour le nettoyage en magasin.
    - Recherchez et sélectionnez un emplacement de magasin avec le stock disponible.
-   - Extrayez et personnalisez les options de récupération de magasin.
+   - Extrayez et personnalisez les options de prise en main du magasin.
    - Placez la commande.
 - Observez un employé de la boutique et un client passer par le processus d’exécution de commande de bout en bout à l’aide de l’application mobile disponible avec la solution d’exécution de la boutique.
 
@@ -43,7 +43,7 @@ Cette vidéo présente un aperçu rapide de l’expérience BOPIS de bout en bou
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 1.0 de la solution d’exécution de magasin installée sur un storefront avec Adobe Commerce 2.4. Voir la section [Guide de l’utilisateur d’exécution de magasin](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) pour obtenir les informations les plus récentes.
+>Le contenu de la vidéo reflète la version 1.0 de la solution d’exécution de magasin installée sur un storefront avec Adobe Commerce 2.4. Voir [Guide de l’utilisateur d’exécution de magasin](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html) pour obtenir les informations les plus récentes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
 

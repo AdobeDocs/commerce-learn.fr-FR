@@ -1,5 +1,5 @@
 ---
-title: Ajout d’un module JavaScript
+title: Ajouter un module JavaScript
 description: Cette vidéo fournit une présentation pour le développement d’un module JS simple qui fournit le message "Hello World".
 kt: 5612
 doc-type: video
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ---
 
-# Ajout d’un module JavaScript
+# Ajouter un module JavaScript
 
 Cette vidéo fournit une présentation pour le développement d’un module JS simple qui fournit le message &quot;Hello World&quot;.
 
@@ -30,7 +30,7 @@ Cette vidéo fournit une présentation pour le développement d’un module JS s
 - Créez un `requirejs-config.js` et un fichier de module JavaScript
 - Créer une mise à jour de mise en page pour l’ajout d’un modèle qui active le module JS
 - Créer un fichier de modèle
-- Ajoutez le module et testez-le.
+- Ajouter le module et le tester
 
 ## Contenu vidéo
 

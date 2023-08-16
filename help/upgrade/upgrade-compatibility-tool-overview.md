@@ -16,7 +16,7 @@ exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
@@ -34,7 +34,7 @@ Pour en savoir plus sur l’outil, voir [Documentation de l’outil de compatibi
 
 ## Pour qui est cette vidéo ?
 
-- Chargés de site
+- Gestionnaires de site
 - Développeurs
 
 ## Contenu vidéo

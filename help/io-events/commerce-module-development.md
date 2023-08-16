@@ -21,11 +21,11 @@ ht-degree: 0%
 
 # Développement de module Adobe Commerce
 
-Découvrez comment enregistrer des événements, rechercher des événements pris en charge et utiliser un nouveau fichier XML `io_events.xml` dans le développement de modules personnalisés. La vidéo montrera également aux développeurs comment trouver des événements enregistrés qui peuvent être utilisés et désabonner les événements qui peuvent déjà être définis. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment enregistrer des événements, rechercher des événements pris en charge et utiliser un nouveau fichier XML `io_events.xml` dans le développement de modules personnalisés. La vidéo montrera également aux développeurs comment trouver des événements enregistrés qui peuvent être utilisés et désabonner les événements qui peuvent déjà être définis. Documentation supplémentaire disponible sur [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce et Adobe Developer App Builder à l’aide d’événements I/O.
+* Les développeurs découvrent Adobe Commerce et Adobe Developer App Builder à l’aide d’événements d’E/S.
 
 ## Contenu vidéo {#video-content}
 

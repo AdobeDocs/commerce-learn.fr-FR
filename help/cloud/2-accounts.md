@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- En savoir plus sur les solutions d’hébergement dans le cloud existantes &#x200B; pour Adobe Commerce
+- En savoir plus sur les solutions d’hébergement cloud existantes &#x200B; pour Adobe Commerce
 - Comprendre les différences entre les comptes Starter et Pro &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)

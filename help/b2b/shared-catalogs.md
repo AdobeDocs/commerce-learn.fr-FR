@@ -4,7 +4,7 @@ description: Découvrez comment utiliser des catalogues partagés B2B pour gére
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B pour Adobe Commerce" type="Positif"
+badge: label="B2B pour Adobe Commerce" type="Positive"
 last-substantial-update: 2023-5-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-La solution B2B pour Adobe Commerce vous permet de gérer des catalogues partagés sécurisés avec des prix personnalisés pour différentes entreprises. Outre le catalogue de produits Principal standard, il permet aux clients d’accéder à deux types de catalogues partagés avec des structures de tarification différentes.
+La solution B2B pour Adobe Commerce vous permet de gérer des catalogues partagés sécurisés avec des prix personnalisés pour différentes entreprises. Outre le catalogue de produits principaux standard, il permet aux clients d’accéder à deux types de catalogues partagés avec des structures de tarification différentes.
 
-Si la fonction Catalogue partagé est activée dans la configuration, le catalogue Principal d’origine reste visible depuis l’administrateur, mais seul le catalogue partagé public par défaut (général) est visible depuis le storefront. En outre, il est possible de créer des catalogues personnalisés qui ne sont visibles que par les membres de comptes d’entreprise spécifiques.
+Si la fonction Catalogue partagé est activée dans la configuration, le catalogue principal d’origine reste visible depuis l’administrateur, mais seul le catalogue partagé public par défaut (général) est visible depuis le storefront. En outre, il est possible de créer des catalogues personnalisés qui ne sont visibles que par les membres de comptes d’entreprise spécifiques.
 
 ## Pour qui est cette vidéo ?
 

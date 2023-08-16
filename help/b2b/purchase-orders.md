@@ -4,7 +4,7 @@ description: Découvrez comment activer les commandes d’achat et les règles d
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B pour Adobe Commerce" type="Positif"
+badge: label="B2B pour Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,8 +13,8 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 {{b2b-feature}}
 
-La plupart des sociétés B2B ont des règles d&#39;approbation de commande pour les commandes. Les entreprises peuvent contrôler qui peut créer des commandes et combien elles peuvent dépenser. Par exemple :
+La plupart des sociétés B2B ont des règles d&#39;approbation de commande pour les commandes. Les entreprises peuvent contrôler qui peut créer des commandes et combien elles peuvent dépenser. Par exemple :
 
 - Toute valeur de bon de commande inférieure à X est automatiquement approuvée.
 - Les commandes dont la valeur est supérieure à X mais inférieure à Q doivent être approuvées par Y.

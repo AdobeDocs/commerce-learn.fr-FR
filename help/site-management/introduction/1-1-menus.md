@@ -1,8 +1,8 @@
 ---
 title: "[!DNL Commerce] pour les utilisateurs professionnels - [!DNL Admin] menus"
 description: Présentation des menus fonctionnels dans la [!DNL Commerce] v2.3 [!DNL Admin].
-landing-page-description: Regardez cette série de vidéos pour commencer à utiliser les concepts de base d’Adobe Commerce et travailler dans l’administration.
-short-description: Regardez cette série de vidéos pour commencer à utiliser les concepts de base d’Adobe Commerce et travailler dans l’administration.
+landing-page-description: Regardez cette série de vidéos pour vous familiariser avec les principes de base d’Adobe Commerce et le travail dans l’interface Administration.
+short-description: Regardez cette série de vidéos pour vous familiariser avec les principes de base d’Adobe Commerce et le travail dans l’interface Administration.
 kt: 5758
 doc-type: video
 activity: use
@@ -15,13 +15,13 @@ exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
 # [!DNL Commerce] pour les utilisateurs professionnels - [!DNL Admin] menus
 
-Le [!DNL Commerce Admin] est le back office protégé par mot de passe où vous pouvez configurer des produits et des promotions, exécuter les commandes des clients et configurer votre [!DNL Commerce] boutique en fonction des besoins de votre entreprise.
+La variable [!DNL Commerce Admin] est le back office protégé par mot de passe où vous pouvez configurer des produits et des promotions, exécuter les commandes des clients et configurer votre [!DNL Commerce] boutique en fonction de vos besoins.
 
 Dans cette vidéo :
 

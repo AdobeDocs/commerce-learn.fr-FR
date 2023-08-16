@@ -1,5 +1,5 @@
 ---
-title: Découvrez comment utiliser New Relic pour identifier une adresse IP qui doit être bloquée.
+title: Découvrez comment utiliser New Relic pour identifier une adresse IP à bloquer.
 description: À l’aide de New Relic, identifiez une adresse ip pouvant être malveillante par nature.  Une fois l’adresse IP déterminée, elle est utilisée dans Fastly pour l’empêcher d’accéder à l’application.
 landing-page-description: Cette vidéo indique à un utilisateur de New Relic de trouver les adresses IP potentielles qui doivent être bloquées pour accéder au site.
 short-description: Cette vidéo indique à un utilisateur de New Relic de trouver les adresses IP potentielles qui doivent être bloquées pour accéder au site.

@@ -37,4 +37,4 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[Contrôles de la grille d’administration - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Contrôles de la grille d’administration - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

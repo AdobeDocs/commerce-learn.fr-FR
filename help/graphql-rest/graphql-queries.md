@@ -114,7 +114,7 @@ L’exemple ci-dessus repose sur le schéma GraphQL d’usine pour Adobe Commerc
 
 >[!NOTE]
 >
->Les clients GraphQL obscurcissent le formulaire de la requête HTTP réelle envoyée, mais cela est facile à découvrir. Si vous utilisez un client basé sur un navigateur, observez la variable [!UICONTROL Network] lorsqu’une requête est envoyée. Vous voyez que la requête contient un corps brut constitué de &quot;requête : `{string}`&quot;, où `{string}` est simplement la chaîne brute de votre requête entière. Si la requête est envoyée en tant que GET, elle peut être codée dans le paramètre de chaîne de requête &quot;query&quot; à la place. Contrairement à REST, le type de requête HTTP n’a pas d’importance, mais seulement le contenu de la requête.
+>Les clients GraphQL obscurcissent le formulaire de la requête HTTP réelle envoyée, mais cela est facile à découvrir. Si vous utilisez un client basé sur un navigateur, observez la variable [!UICONTROL Network] lorsqu’une requête est envoyée. Vous voyez que la requête contient un corps brut constitué de &quot;requête : `{string}`&quot;, où `{string}` est simplement la chaîne brute de votre requête entière. Si la demande est envoyée en tant que GET, la requête peut être codée dans le paramètre de chaîne de requête &quot;query&quot; à la place. Contrairement à REST, le type de requête HTTP n’a pas d’importance, mais seulement le contenu de la requête.
 
 
 ## Requête pour ce que vous souhaitez
@@ -170,11 +170,11 @@ fragment productDetails on ProductInterface {
 }
 ```
 
-La première chose à noter est que le mot-clé a été ajouté. `query` avant l’accolade d’ouverture de la requête, avec un nom d’opération (`getProducts`). Ce nom d’opération est arbitraire ; il ne correspond à rien dans le schéma du serveur. Cette syntaxe a été ajoutée pour prendre en charge l’introduction de variables.
+La première chose à noter est l’ajout du mot-clé `query` avant l’accolade d’ouverture de la requête, avec un nom d’opération (`getProducts`). Ce nom d’opération est arbitraire, il ne correspond à rien dans le schéma du serveur. Cette syntaxe a été ajoutée pour prendre en charge l’introduction de variables.
 
 Dans la requête précédente, vous avez codé en dur les valeurs des arguments de vos champs directement, sous la forme de chaînes ou d’entiers. Toutefois, la spécification GraphQL prend en charge la première classe pour séparer les entrées utilisateur de la requête principale à l’aide de variables.
 
-Dans la nouvelle requête, vous utilisez des parenthèses avant l’accolade d’ouverture de l’ensemble de la requête pour définir une `$search` (les variables utilisent toujours la syntaxe du préfixe dollar). Il s’agit de la variable fournie à la variable `search` argument pour `products`.
+Dans la nouvelle requête, vous utilisez des parenthèses avant l’accolade d’ouverture de l’ensemble de la requête pour définir une `$search` (les variables utilisent toujours la syntaxe du préfixe dollar). Il s’agit de la variable qui est fournie à la variable `search` argument pour `products`.
 
 Lorsqu’une requête contient des variables, il est prévu que la requête GraphQL inclue un dictionnaire de valeurs codé JSON distinct en même temps que la requête elle-même. Pour la requête ci-dessus, vous pouvez envoyer le JSON suivant de valeurs de variable en plus du corps de la requête :
 

@@ -30,7 +30,7 @@ L’équipe d’assistance d’Adobe Commerce et la communauté des Magento Open
 ## Pour qui est cette vidéo ?
 
 - Développeurs d’arrière-plan
-- Chargés de site
+- Gestionnaires de site
 
 ## Contenu vidéo
 

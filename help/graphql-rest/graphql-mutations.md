@@ -91,11 +91,11 @@ La principale chose à noter à propos de l&#39;exemple ci-dessus est que, à pa
 
 La sous-sélection de champs vous permet de définir de manière flexible les champs que vous souhaitez renvoyer (à partir du type affecté comme valeur renvoyée de `addProductsToCart` - `AddProductsToCartOutput`) une fois la mutation terminée.
 
-Comme expliqué précédemment, les champs définis dans un schéma GraphQL commencent sur un type racine pour les requêtes (généralement appelé `Query`). De même, il existe un autre type de racine pour les mutations (généralement appelées `Mutation`). `addProductsToCart` est un champ de ce type racine.
+Comme expliqué précédemment, les champs définis dans un schéma GraphQL démarrent sur un type racine pour les requêtes (généralement appelé `Query`). De même, il existe un autre type de racine pour les mutations (généralement appelées `Mutation`). `addProductsToCart` est un champ de ce type racine.
 
 Voici quelques autres remarques concernant l’exemple ci-dessus :
 
-* Le `!` suffixe de caractères `String` et `CartItemInput` indique que la variable est requise.
+* La variable `!` suffixe de caractères `String` et `CartItemInput` indique que la variable est requise.
 * Les crochets (`[]`) autour du `CartItemInput` type spécifié pour `$cartItems` indiquez une liste de ce type plutôt qu’une seule valeur.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

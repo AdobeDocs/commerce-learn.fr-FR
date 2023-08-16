@@ -29,7 +29,7 @@ Dans cette vidéo :
 
 - Création d’un jeu de filtres
 - Utilisation des opérateurs de filtrage
-- Application d’un ensemble de filtres à une mesure
+- Appliquer un ensemble de filtres à une mesure
 - Appliquer un ensemble de filtres à une dimension de données calculées
 
 >[!TIP]

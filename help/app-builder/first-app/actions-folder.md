@@ -1,5 +1,5 @@
 ---
-title: Le dossier actions
+title: Le dossier des actions
 description: Découvrez les types de fichiers du dossier actions de cet exemple d’application.
 landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers contenus dans le dossier d’actions.
 kt: 12422
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # En savoir plus sur le dossier actions {#actions-folder}
 
-Le `actions` Le dossier de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le code JavaScript affiché est un excellent exemple de fichier qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
+La variable `actions` Le dossier de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le code JavaScript affiché est un excellent exemple de fichier qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
 
 Les noms réels des dossiers dans cet exemple sont arbitraires, mais connaître leurs noms peut vous aider à interpréter l’exemple de code. En utilisant une convention d’affectation de nom explicite, vous pouvez éviter toute confusion si l’application devient plus complexe.
 

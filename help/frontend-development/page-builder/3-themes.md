@@ -21,7 +21,7 @@ ht-degree: 0%
 Dans cette vidéo :
 
 - Présentation des pratiques thématiques
-- Description des conventions &#x200B; thèmes
+- Description des conventions de thèmes &#x200B;
 - Emplacement de chaque partie du thème du Créateur de pages &#x200B;
 
 ## Pour qui est cette vidéo ?
@@ -33,7 +33,7 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, reportez-vous à la section [Notes de mise à jour de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [Notes de mise à jour de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 

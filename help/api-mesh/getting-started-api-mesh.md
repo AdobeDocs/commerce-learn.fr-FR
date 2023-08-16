@@ -1,8 +1,8 @@
 ---
 title: Prise en main du maillage API
-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez comment installer Adobe App Builder, travailler avec des projets, créer un proxy inverse graphique et bien plus encore.
-landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez l’installation d’Adobe IO, l’utilisation de projets, la création d’un proxy inverse graphique et bien plus encore.
-short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et [!DNL Adobe App Builder]. Découvrez l’installation d’Adobe IO, l’utilisation de projets, la création d’un proxy inverse graphique et bien plus encore.
+description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment installer Adobe App Builder, travailler sur des projets, créer un proxy inverse GraphQL et bien plus encore.
+landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment installer Adobe IO, travailler sur des projets, créer un proxy inverse GraphQL et bien plus encore.
+short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment installer Adobe IO, travailler sur des projets, créer un proxy inverse GraphQL et bien plus encore.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -31,11 +31,11 @@ Le maillage d’API combine plusieurs sources de données pour obtenir une seule
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs qui découvrent le maillage d’API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
+* Les développeurs qui découvrent le maillage API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
 
 ## Contenu vidéo
 
-* Présentation du maillage API
+* Présentation du maillage d’API
 * Liens vers la documentation complémentaire
 * Cas pratique de vérification d’inventaire en temps réel au passage en caisse
 * Déplacement des efforts de développement et de l’utilisation des ressources loin de votre application commerciale

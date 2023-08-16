@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: Découvrez les fonctionnalités d’Inventory management et comment les utiliser pour travailler à partir d’un seul entrepôt ou d’un réseau d’expédition complexe.
+description: Découvrez les fonctionnalités d’Inventory management et comment les utiliser pour travailler depuis un seul entrepôt ou un réseau d’expédition complexe.
 kt: 10551
 doc-type: feature video
 audience: all
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Inventory management
 
-Les commerçants disposant d’un seul magasin pour plusieurs entrepôts, magasins, lieux de ramassage, expéditeurs, etc. peuvent utiliser les fonctionnalités de gestion des stocks pour gérer les quantités à vendre et gérer les envois afin de terminer les commandes. Vous pouvez suivre les quantités de vos stocks, fournir aux clients des quantités de stock vendables précises pour tous vos sites web et les envoyer en fonction des recommandations en fonction de la distance ou de la priorité. Vous pouvez également configurer globalement vos configurations de produit préférées (pour tous les magasins et produits), par source et par produit. Ces fonctionnalités s’étendent à votre entreprise, ce qui vous permet de travailler à partir d’un seul entrepôt ou d’un réseau d’expédition complexe.
+Les commerçants disposant d’un seul magasin pour plusieurs entrepôts, magasins, lieux de ramassage, expéditeurs, etc. peuvent utiliser les fonctionnalités de gestion des stocks pour gérer les quantités à vendre et gérer les envois afin de terminer les commandes. Vous pouvez suivre les quantités de vos stocks, fournir aux clients des quantités de stock vendables précises pour tous vos sites web et les envoyer en fonction des recommandations en fonction de la distance ou de la priorité. Vous pouvez également configurer globalement vos configurations de produit préférées (pour tous les magasins et produits), par source et par produit. Ces fonctionnalités s’étendent à votre entreprise, ce qui vous permet de travailler depuis un seul entrepôt ou un réseau d’expédition complexe.
 
 ## Pour qui est cette vidéo ?
 

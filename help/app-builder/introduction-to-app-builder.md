@@ -1,8 +1,8 @@
 ---
 title: Extensibilité hors processus pour Adobe Commerce
-description: Découvrez Adobe App Builder et pourquoi il s’agit d’un aspect important de l’extensibilité hors processus.
-landing-page-description: Découvrez ce qu’est App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
-short-description: Découvrez ce qu’est App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
+description: Découvrez Adobe App Builder et pourquoi il constitue un aspect important de l’extensibilité hors processus.
+landing-page-description: Découvrez App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
+short-description: Découvrez App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ App Builder permet aux clients d’étendre [!DNL Adobe Commerce] dans divers ca
 
 * Extensibilité du middleware : connectez des systèmes externes à des applications Adobe en créant des connecteurs personnalisés ou en profitant d’une suite d’intégrations préconfigurées.
 * extensibilité des services principaux - Étendez les fonctionnalités de l’application principale en étendant le comportement par défaut avec des fonctionnalités personnalisées et une logique métier.
-* extensibilité de l’expérience utilisateur : étendez l’expérience principale pour répondre aux besoins de l’entreprise ou créez des propriétés numériques, des vitrines et des applications de back-office spécifiques aux clients.
+* extensibilité de l’expérience utilisateur : étendez l’expérience principale pour prendre en charge les besoins de l’entreprise ou créer des propriétés numériques, des vitrines et des applications de back-office spécifiques aux clients.
 
 Adobe Developer App Builder est une solution cloud qui se met automatiquement à l’échelle. Ce service est également distribué à l’échelle mondiale afin d’offrir des performances optimales, quel que soit votre emplacement géographique.
 
@@ -54,7 +54,7 @@ Autres avantages :
 Au lieu d’une solution prête à l’emploi, Adobe Developer App Builder fournit une plateforme de développement commune, cohérente et normalisée pour étendre les solutions Adobe Cloud telles qu’Adobe Commerce, notamment :
 
 * Console Adobe Developer utilisée pour le développement de microservices et d’extensions personnalisés. Créez et gérez des projets tout en accédant à tous les outils et API nécessaires pour créer des modules externes et des intégrations.
-* Outils Open Source, SDK et bibliothèques pour créer des extensions et des intégrations personnalisées. Utilisez React Spectrum (boîte à outils de l’interface utilisateur de l’Adobe) pour disposer d’une interface utilisateur commune pour toutes les applications d’Adobe.
+* Outils Open Source, SDK et bibliothèques pour créer des extensions et des intégrations personnalisées. Utilisez React Spectrum (boîte à outils de l’interface utilisateur de l’Adobe) pour disposer d’une interface utilisateur commune à toutes les applications Adobe.
 * des services tels que I/O Runtime pour l’hébergement de l’infrastructure sur la plateforme sans serveur d’Adobe et des événements d’E/S pour les intégrations basées sur des événements. Adobe fournit également une prise en charge prête à l’emploi pour le stockage des données et des fichiers.
 * Adobe Experience Cloud dans lequel vous envoyez des extensions et des intégrations à publier dans votre organisation Experience Cloud. Les administrateurs système peuvent examiner, gérer et approuver ces extensions. Une fois la publication effectuée, vos extensions et outils App Builder personnalisés sont disponibles avec d’autres applications Adobe Experience Cloud.
 

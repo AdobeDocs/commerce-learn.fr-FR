@@ -22,7 +22,7 @@ ht-degree: 0%
 
 # Installation d’Adobe Commerce 2.4.5
 
-Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.5. Cela configure les modules requis à utiliser dans l’application Adobe Commerce. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.5. Cela permet de configurer les modules requis à utiliser dans l’application Adobe Commerce. Documentation supplémentaire disponible sur [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 

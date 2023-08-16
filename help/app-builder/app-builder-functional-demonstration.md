@@ -1,8 +1,8 @@
 ---
 title: Démonstration fonctionnelle du générateur d’applications
-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
-landing-page-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
-short-description: En savoir plus sur Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
+description: Découvrez Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
+landing-page-description: Découvrez Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
+short-description: Découvrez Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
 kt: 11762
 doc-type: tutorial
 audience: all

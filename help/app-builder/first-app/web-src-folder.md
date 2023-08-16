@@ -128,7 +128,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-Dans l’exemple ci-dessous, l’exemple de code est `not` limitation de la requête. Pour éviter une erreur 400, réduisez la taille de la réponse en utilisant `searchCriteria`.
+Dans l’exemple ci-dessous, le code exemple est : `not` limitation de la requête. Pour éviter une erreur 400, réduisez la taille de la réponse en utilisant `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

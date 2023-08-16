@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Configuration d’Adobe Commerce
 
-Découvrez comment configurer Adobe Commerce pour exposer les événements. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment configurer Adobe Commerce pour exposer les événements. Documentation supplémentaire disponible sur [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 

@@ -1,5 +1,5 @@
 ---
-title: Ressources supplémentaires entre guillemets B2B
+title: Ressources supplémentaires citées B2B
 description: Liens vers les pages connexes pour les guillemets B2B
 source-git-commit: eac61e862279fe0884db305fbb0a3b33feb035f1
 workflow-type: tm+mt

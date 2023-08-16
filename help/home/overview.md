@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Commerce] Vidéos et Tutorials'
+title: '[!DNL Commerce] Vidéos et tutoriels'
 description: Ensemble de vidéos et de tutoriels pour Adobe Commerce et Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -10,7 +10,7 @@ exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -37,7 +37,7 @@ Bienvenue dans la [!DNL Commerce] collection de vidéos et de tutoriels. L’uti
 
 >[!TIP]
 >
->Le [Événements de commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) l’espace permet d’accéder au contenu d’événement enregistré que vous pouvez regarder à la demande.
+>La variable [Événements de commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) l’espace permet d’accéder au contenu d’événement enregistré que vous pouvez regarder à la demande.
 
 ## Ressources supplémentaires
 

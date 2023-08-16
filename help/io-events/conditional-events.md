@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Événements conditionnels Adobe Commerce
 
-Découvrez les événements conditionnels dans Adobe Commerce pouvant être utilisés dans Adobe Developer App Builder. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Découvrez les événements conditionnels dans Adobe Commerce pouvant être utilisés dans Adobe Developer App Builder. Documentation supplémentaire disponible sur [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 

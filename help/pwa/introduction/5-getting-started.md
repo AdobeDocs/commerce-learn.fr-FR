@@ -23,7 +23,7 @@ Dans cette vidéo :
 
 - Prise en main de PWA Studio
 - Configuration initiale du projet
-- Génération d’un certificat SSL local
+- Générer un certificat SSL local
 - [!DNL Buildpack] Commandes de ligne de commande
 
 ## Pour qui est cette vidéo ?

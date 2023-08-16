@@ -32,10 +32,10 @@ Découvrez comment utiliser les configurations et paramètres de recherche Adobe
 ## Contenu vidéo
 
 * En savoir plus sur les facettes destinées aux clients
-* Présentation d’une API
+* Qu’est-ce qu’une API ?
 * Rapports de recherche en direct
 * En savoir plus sur la configuration de back-office pour les facettes et leur utilisation
-* En savoir plus sur les synonymes
+* Découvrez les synonymes
 * Marchandisage intelligent
 * Explication des types de classement basés sur des règles
 * Présentation de l’API GraphQL

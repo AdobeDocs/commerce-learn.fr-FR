@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Génération et configuration du fichier .env {#env-file}
 
-Le `.env` est un fichier spécial qui ne fait pas partie de l’exemple de module, mais qui est important pour votre application Adobe Developer App Builder. Ce fichier contient des secrets et d&#39;autres informations. Évitez de soumettre ce fichier à un référentiel de code.
+La variable `.env` est un fichier spécial qui ne fait pas partie de l’exemple de module, mais qui est important pour votre application Adobe Developer App Builder. Ce fichier contient des secrets et d&#39;autres informations. Évitez de soumettre ce fichier à un référentiel de code.
 
 ## Pour qui est cette vidéo ?
 

@@ -4,7 +4,7 @@ description: Liens vers les pages connexes dans la section Première application
 source-git-commit: 021098545e4666f43f02452358464701f30002fd
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -13,8 +13,8 @@ ht-degree: 0%
 ## Créateur d’applications : créez les pages relatives à votre première application.
 
 * [Présentation](../app-builder/first-app/overview.md)
-* [Le ](../app-builder/first-app/env-file.md)
-* [Le ](../app-builder/first-app/app-config-yaml-file.md)
+* [La variable ](../app-builder/first-app/env-file.md)
+* [La variable ](../app-builder/first-app/app-config-yaml-file.md)
 * [&quot;actions&quot;](../app-builder/first-app/actions-folder.md)
 * [`test`](../app-builder/first-app/test-folder.md)
 * [`web-src`](../app-builder/first-app/web-src-folder.md)

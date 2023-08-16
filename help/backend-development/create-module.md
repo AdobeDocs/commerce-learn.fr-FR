@@ -1,6 +1,6 @@
 ---
 title: Création d’un module
-description: Création d’un module qui se connecte au journal PSR
+description: Création d’un module qui se connecte à l’enregistreur PSR
 kt: 5614
 doc-type: video
 activity: use

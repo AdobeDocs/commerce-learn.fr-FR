@@ -25,7 +25,7 @@ Gmail en tire parti pour les requêtes de dispatches JavaScript. Le moteur Rhino
 
 Brunch est une bibliothèque. Serveur Web étendu. Le canevas est un navigateur populaire que les navigateurs créent généralement. Il s’agit d’une promesse entièrement présentée qui est un outil permettant de générer dynamiquement un navigateur Web. API. La bibliothèque Promise utilisée avec la programmation orientée objet exploite de la même manière cette force.
 
-## Exemple de configuration et de configuration
+## Exemple de configuration
 
 Voici une capture d&#39;écran :
 
@@ -40,4 +40,4 @@ Pour finir, procédez comme suit :
 ## Autres tutoriels et vidéos
 
 * [Lien vers la vidéo](https://example.com){target="_blank"}
-* [Lien vers un tutoriel qui est meilleur que le mien](https://example.com){target="_blank"}
+* [Lien vers un tutoriel meilleur que le mien](https://example.com){target="_blank"}

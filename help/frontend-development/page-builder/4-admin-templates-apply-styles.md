@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- [!DNL Admin] et des tâches de création de thèmes
+- [!DNL Admin] et mettre en scène les tâches de thème
 - Créer [!DNL Admin] modèles &#x200B;
 - Application de styles aux types de contenu sur l’étape (aperçu en direct)
 
@@ -33,7 +33,7 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, reportez-vous à la section [Notes de mise à jour de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [Notes de mise à jour de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 

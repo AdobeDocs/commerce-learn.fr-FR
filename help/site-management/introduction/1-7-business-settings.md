@@ -23,7 +23,7 @@ Dans cette vidéo :
 
 - Paramètres régionaux
 - Informations sur le magasin
-- URL sécurisées et non sécurisées
+- URL sécurisée et non sécurisée
 - Titre du site web, logo et informations de copyright
 - Stocker les logos des emails de communication
 - Stocker les adresses électroniques
@@ -45,4 +45,4 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[Détails de la boutique - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[Détails de la boutique - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

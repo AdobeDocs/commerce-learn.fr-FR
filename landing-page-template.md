@@ -18,19 +18,16 @@ Présentation de la phrase 1 à 2 du produit sur lequel se concentre ce guide d�
 ## Nouveautés
 
 * **[Une nouvelle fonctionnalité vidéo (vidéo)](README.md)**
-
-   <br>
-   *Apprenez-en plus sur cette nouvelle fonctionnalité cool.*
+  <br>
+  *Apprenez-en plus sur cette nouvelle fonctionnalité cool.*
 
 * **[Une nouvelle fonctionnalité vidéo (vidéo)](README.md)**
-
-   <br>
-   *Apprenez-en plus sur cette nouvelle fonctionnalité cool.*
+  <br>
+  *Apprenez-en plus sur cette nouvelle fonctionnalité cool.*
 
 * **[Un nouvel article (article)](README.md)**
-
-   <br>
-   *Cliquez ici pour en savoir plus sur feature xyz !*
+  <br>
+  *Cliquez ici pour en savoir plus sur feature xyz !*
 
 ## Sélections du personnel
 

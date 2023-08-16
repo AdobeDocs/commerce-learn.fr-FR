@@ -11,7 +11,7 @@ level: Intermediate
 last-substantial-update: 2023-04-13T00:00:00Z
 source-git-commit: dfc148423f3a6512ec4a37e85e6c6d87dfbc47bd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -23,18 +23,18 @@ Enfin, vivant dans le costume de l&#39;époque, la réalité entra dans la pièc
 
 &quot;Pour toi, je jetterais n&#39;importe qui, Duchess&quot;, dit Lord Henry avec un arc.
 
-&quot;Ah ! c&#39;est très bien, et c&#39;est très mal pour vous&quot;, a-t-elle pleuré. &quot;que tu viennes&quot;; et elle sortit de la pièce, suivie par Lady Agatha et les autres dames.
+&quot;Ah ! c&#39;est très bien, et c&#39;est très mal de vous&quot;, pleura-t-elle ; &quot;alors, fais-toi venir&quot; ; et elle sortit de la pièce, suivie par Lady Agatha et les autres dames.
 
 Lorsque Lord Henry s&#39;était à nouveau assis, M. Erskine a tourné, et pris une chaise près de lui, a posé sa main sur son bras.
 
-&quot;Vous parlez de livres,&quot; dit-il. &quot;pourquoi n&#39;en écrivez-vous pas un ?&quot;
+&quot;Tu parles de livres,&quot; dit-il ; &quot;pourquoi n&#39;en écris-tu pas un ?&quot;
 
 ## Options d’intégration
 
 &quot;J&#39;aime trop lire des livres pour les écrire, M. Erskine. Je voudrais écrire un roman certainement, un roman qui serait aussi charmant qu&#39;un tapis persan et aussi irréel. Mais il n&#39;y a pas de public littéraire en Angleterre pour quoi que ce soit à part les journaux, les primaires et les encyclopédies. De toutes les personnes dans le monde, les Anglais ont le moins de sens de la beauté de la littérature.&quot;
 
 
-## Exemple de configuration et de configuration
+## Exemple de configuration
 
 Voici une capture d&#39;écran :
 
@@ -49,4 +49,4 @@ Pour finir, procédez comme suit :
 ## Autres tutoriels et vidéos
 
 * [Lien vers la vidéo](https://example.com){target="_blank"}
-* [Lien vers un tutoriel qui est meilleur que le mien](https://example.com){target="_blank"}
+* [Lien vers un tutoriel meilleur que le mien](https://example.com){target="_blank"}
