@@ -12,7 +12,7 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bf8571af4d06b26fd038efea71b9f0890c780ae7
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 59%
@@ -23,7 +23,7 @@ ht-degree: 59%
 
 Dans cette vidéo :
 
-- Identifier les technologies clés dans la pile de cloud &#x200B;
+- Identification des technologies clés dans la pile cloud
 - Description de la stratégie de diffusion de contenu pour Adobe Commerce sur l’infrastructure cloud
 - Saisissez l’intérêt du système de fichiers en lecture seule
 
