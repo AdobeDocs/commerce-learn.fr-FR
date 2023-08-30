@@ -6,13 +6,13 @@ short-description: Découvrez comment utiliser le maillage API sur Adobe Commer
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-8-28
+last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 2ad0ae2aa7c9c852d300453f27f1be906976d95e
+source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 23%
@@ -31,7 +31,7 @@ Le maillage d’API combine plusieurs sources de données pour obtenir une seule
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs qui découvrent le maillage API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
+* Tout développeur qui débute avec le maillage d’API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
 
 ## Contenu vidéo
 
