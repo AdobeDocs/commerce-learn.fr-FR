@@ -4,25 +4,24 @@ description: Découvrez comment gérer vos comptes d’entreprise B2B, y compris
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B pour Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 5721286d70d58c3dae979be837924234169b13e8
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Gestion des comptes d’entreprise
 
-{{b2b-feature}}
-
 Pour les commerçants B2B, la variable _[!UICONTROL Companies]_répertorie tous les comptes d’entreprise en cours et leur état. Vous pouvez gérer les comptes de votre société ici et toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard de l’environnement de travail peuvent être utilisées pour filtrer la liste, modifier la mise en page des colonnes, enregistrer les vues et exporter les données.
+
+{{b2b-feature}}
 
 ## Pour qui est cette vidéo ?
 

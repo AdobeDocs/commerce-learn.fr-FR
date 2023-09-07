@@ -1,7 +1,7 @@
 ---
 title: Bannières d’édition
 description: Éléments visuels réutilisés pour noter une fonctionnalité ou des pages s’appliquant à une édition spécifique
-source-git-commit: 8c7c64ddff456815b0a1649f497e917da8b8fca0
+source-git-commit: 066e031bd98458c8692f1cb3234ff1ecd1b99e6e
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 ## Fonctionnalité B2B uniquement {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Fonctionnalité Adobe Commerce" src="../assets/b2b.svg" width="20" height="20" /> Fonctionnalité exclusive disponible uniquement avec <a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">B2B pour Adobe Commerce</a></td></tr>
+<tr><td><img alt="Fonctionnalité Adobe Commerce" src="../assets/b2b.svg" width="20" height="20" /> Fonctionnalité exclusive disponible uniquement avec <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">B2B pour Adobe Commerce</a></td></tr>
 </table>
 
 ## 400 problèmes {#avoid-400-error}

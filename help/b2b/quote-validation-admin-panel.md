@@ -4,24 +4,24 @@ description: Découvrez comment l’application Adobe Commerce dispose de proces
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B pour Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: aec1b339-f2d9-4815-a98f-0787bcd44975
-source-git-commit: 69fabe09524bdca4741f719245341045edc01ae9
+source-git-commit: e01d05300cd593cdd003a25dae4c9fdc2cbad794
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 # Validation des guillemets de vente B2B à l’aide du panneau d’administration
 
-{{b2b-feature}}
 Découvrez les étapes et les zones de validation fournies par la fonctionnalité de devis d’Adobe Commerce B2B pour garantir un processus de devis cohérent et valide.
+
+{{b2b-feature}}
 
 ## Pour qui est cette vidéo ?
 
