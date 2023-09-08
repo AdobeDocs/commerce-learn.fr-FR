@@ -10,14 +10,14 @@ feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
+source-git-commit: 46855a18faf94c0d7347663ba6f83f423ef79c3c
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '825'
 ht-degree: 0%
 
 ---
 
-# Découvrez les options d’importation d’un catalogue
+# Options d’importation d’un catalogue
 
 Il existe quelques méthodes natives pour importer un catalogue dans Adobe Commerce. Chaque méthode a son propre raisonnement pour l’utilisation ainsi que les avantages et inconvénients qui doivent être pris en compte.
 
