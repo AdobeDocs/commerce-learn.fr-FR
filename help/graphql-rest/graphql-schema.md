@@ -3,25 +3,35 @@ title: Langage de schéma avec GraphQL
 description: Découvrez le schéma impliqué dans GraphQL. Lisez une description du schéma, ainsi que des schémas intéressants et des méthodes de lecture du schéma.
 landing-page-description: Cette section présente GraphQL. Comprendre le schéma et comment interpréter certains éléments
 short-description: Cette section présente GraphQL. Comprendre le schéma et comment interpréter certains éléments
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # Langage de schéma
 
-Les requêtes et les mutations utilisées reposent sur un graphique de données spécifique mis en oeuvre sur le serveur, que l’exécution GraphQL utilise pour résoudre la requête. La spécification GraphQL définit un langage agnostique pour exprimer les types et relations de votre graphique de données.
+Voici la quatrième partie de la série pour GraphQL et Adobe Commerce. Les requêtes et les mutations utilisées reposent sur un graphique de données spécifique mis en oeuvre sur le serveur, que l’exécution GraphQL utilise pour résoudre la requête. La spécification GraphQL définit un langage agnostique pour exprimer les types et relations de votre graphique de données.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## Vidéos et tutoriels connexes sur GraphQL dans cette série
+
+* [Partie 1 - GraphQL - Introduction](../graphql-rest/intro-graphql.md)
+* [Partie 2 - GraphQL - Requêtes](../graphql-rest/graphql-queries.md)
+* [Partie 3 GraphQL - Mutations](../graphql-rest/graphql-mutations.md)
+
+## Exemple de schéma
 
 Voici un schéma de type abrégé qui prend en charge les requêtes et les mutations que vous avez étudiées jusqu’à présent :
 
