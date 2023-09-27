@@ -5,7 +5,7 @@ landing-page-description: Regardez cette vidéo pour découvrir comment utiliser
 short-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder SQL de Commerce Intelligence pour interroger directement votre entrepôt de données, afficher les résultats et rapidement les transformer en graphique.
 kt: 10288
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -14,7 +14,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
