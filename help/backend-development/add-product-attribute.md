@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 9f3195be50cab2457ac67bd92e9296b7c18c94b4
+source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -61,6 +61,11 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/etc/module.xml
+
+>[!NOTE]
+>
+>Si votre module utilise un schéma déclaratif et que la plupart d’entre eux utilisent depuis la version 2.3.0, vous devez omettre setup_version. Toutefois, si vous disposez de projets hérités, cette méthode peut être utilisée.  Voir [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} pour plus d’informations.
+
 
 ```xml
 <?xml version="1.0"?>
