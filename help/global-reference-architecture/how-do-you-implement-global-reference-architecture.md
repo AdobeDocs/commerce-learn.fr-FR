@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
+exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
+source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Découvrez comment mettre en oeuvre l’architecture de référence globale ou GRA en bref. Découvrez les premières décisions qui aident à configurer une évaluation de l’impact sur l’environnement. Trouvez des idées sur la façon de séparer vos sites web, les clés de la réussite et quelques concepts de développement de fonctionnalités de manière organisée.
 
-## Pour qui est cette vidéo ?
+## Audience
 
 * Quiconque doit comprendre ce concept.
 * Projets volumineux avec plusieurs marques

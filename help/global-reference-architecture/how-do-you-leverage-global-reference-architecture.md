@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
+source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Découvrez comment tirer parti de l’architecture de référence globale ou GRA en bref. Afin de mieux préparer une évaluation globale des risques pour une mise en oeuvre réussie, les experts de l’Adobe discutent des différentes phases du projet et approfondissent la phase de découverte. Les ressources d’assurance qualité sont discutées et sont une ressource précieuse pour une mise en oeuvre de l’AQ.
 
-## Pour qui est cette vidéo ?
+## Audience
 
 * Quiconque doit comprendre ce concept.
 * Projets volumineux avec plusieurs marques

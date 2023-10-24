@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: ded1cbba7c0fca0c2df4705b34b126857d1e9c76
+exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
+source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Utilisation de l’architecture de référence globale
+# Architecte pour GRA
 
 Découvrez comment architecturer l’architecture de référence globale ou GRA pour faire court. Pour mieux préparer une évaluation globale des risques à une mise en oeuvre réussie, les experts de l’Adobe discutent de ce qui est et ce qui n’est pas une évaluation globale des risques. Une discussion approfondie sur la gestion du code à l’aide de packages distincts, split git et monorepo. D’autres rubriques relatives à la documentation, aux outils et aux attentes du personnel sont discutées afin d’expliquer en détail leurs fonctionnalités pour une mise en oeuvre réussie de l’AG.
 
-## Pour qui est cette vidéo ?
+## Audience
 
 * Quiconque doit comprendre ce concept.
 * Projets volumineux avec plusieurs marques
