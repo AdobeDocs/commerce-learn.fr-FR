@@ -1,5 +1,5 @@
 ---
-title: Présentation de l’architecture de référence globale
+title: Présentation du concept d’architecture de référence globale
 description: Découvrez la technique utilisée pour la gestion de projets commerciaux complexes appelée architecture de référence globale
 landing-page-description: Découvrez l’architecture de référence globale et son utilisation avec Adobe Commerce
 kt: 14039
@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 71c310ab-593c-4f64-b07e-8337b3f3255e
+source-git-commit: d0a85c7d8300ab48e0b36ad66a2bf8cd23eb5b2b
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# Présentation de l’architecture de référence globale
+# Architecture de référence globale
 
 Découvrez l’architecture de référence globale, quelques concepts de base et les avantages de cette approche.
 
-## Pour qui est cette vidéo ?
+## Audience
 
 * Quiconque doit comprendre ce concept.
 * Projets volumineux avec plusieurs marques
