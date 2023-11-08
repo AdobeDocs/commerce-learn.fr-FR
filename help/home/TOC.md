@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
+source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 3%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 3%
       + [Tirer parti de l’architecture de référence globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architecte GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Mise en oeuvre de l’architecture de référence globale](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+   + Fonctionnalités commerciales {#capabilities}
+      + [Connexion aux données](../capabilities/data-connection.md)
+      + [Démonstration complète de la recherche en direct](../capabilities/live-search-full-demonstration.md)
 + GraphQL et REST {#graphql-rest}
    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
    + [Requêtes](../graphql-rest/graphql-queries.md)
@@ -39,7 +42,7 @@ ht-degree: 3%
    + [Présentation technique d’App Builder](../app-builder/app-builder-technical-overview.md)
    + [Envoyer l’application au Marketplace](../app-builder/submit-app-process.md)
    + Création de votre première application App Builder {#first-app}
-      + [Présentation](../app-builder/first-app/overview.md)
+      + [Vue d’ensemble](../app-builder/first-app/overview.md)
       + [Génération et configuration du fichier .env](../app-builder/first-app/env-file.md)
       + [Description et utilisation du fichier app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
       + [En savoir plus sur le dossier actions](../app-builder/first-app/actions-folder.md)
@@ -99,7 +102,7 @@ ht-degree: 3%
    + [Configuration de Recommendations de produit](../site-management/product-recommendations.md)
    + [Présentation de Live Search](../site-management/live-search.md)
    + [Recherche en direct pour les recommandations](../site-management/live-search-recommendations.md)
-   + [Démonstration complète de la recherche en direct](../site-management/live-search-full-demonstration.md)
+
 + Commandes et exécution {#orders}
    + [Présentation de l’exécution du magasin](../site-management/store-fulfillment.md)
    + [Gérer l’état de la commande](../site-management/order-status.md)
