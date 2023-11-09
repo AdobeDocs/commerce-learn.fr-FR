@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Découvrez comment utiliser la connexion aux données Adobe Commerce avec certai
 
 ## Contenu vidéo
 
-* Découvrez les données client qui peuvent être transférées de Commerce vers Adobe Experience Edge
-* Qu’est-ce qu’une API ?
-* Utilisation de Adobe Journey Optimizer pour le suivi avec un client
-* Types d’événements storefront pouvant être capturés
-* Données client en temps réel évaluées et contenu personnalisé affiché lorsque le client continue à parcourir
-* Segments de client et comment ils peuvent être automatiquement ajustés en fonction de l’historique des clients
-* Profils unifiés uniques
-* Abandonner les emails du panier, les SMS et leur utilisation avec Adobe Journey Optimizer
-* Configurations et configuration de base du connecteur de données de commerce
-* Blocs dynamiques et règles de prix du panier utilisés pour fournir des remises
-* Profils client, audiences et détails client dans Adobe Experience Platform
-* Comment Adobe Target peut fournir du contenu dynamique et personnalisé
-* Introduction des tableaux de bord de Customer Journey Analytics
+* Envoi de données comportementales d’Adobe Commerce à d’autres produits DX (par exemple, AJO, Analytics, Target, Real-Time CDP) pour la prise de décision des segments, l’enrichissement de profil et les expériences personnalisées dans le parcours client.
+* Audiences Real-Time CDP mettant à jour et modifiant la segmentation en temps réel en fonction des données du navigateur, des données côté serveur (y compris l’historique des commandes) et des données provenant d’autres sources (c’est-à-dire des données de fidélité).
+* Utilisation des audiences Real-Time CDP pour personnaliser les règles de prix du panier et les blocs dynamiques dans Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
