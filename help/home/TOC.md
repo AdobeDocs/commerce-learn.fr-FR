@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 04936bd18dd2a34f8a1aa738594c7dd99cbeb37c
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '552'
 ht-degree: 3%
 
 ---
@@ -57,6 +57,7 @@ ht-degree: 3%
       + [Conclusion](../app-builder/first-app/conclusion.md)
       + [Exemple de code source de module](https://github.com/magento/app-builder-samples){target="_blank"}
    + Événements d’E/S pour Adobe Commerce {#io-events}
+      + [Prise en main des événements E/S](../io-events/getting-started-io-events.md)
       + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Création d’un projet App Builder](../io-events/create-app-builder-project.md)
