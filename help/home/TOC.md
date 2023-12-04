@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
+source-git-commit: f591fc2b653a6c47dea3d4b0e00f2920cbd00e15
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '567'
 ht-degree: 3%
 
 ---
@@ -34,6 +34,7 @@ ht-degree: 3%
       + [Produit simple](../site-management/create-simple-product.md)
       + [Produit virtuel](../site-management/create-virtual-product.md)
       + [Produit téléchargeable](../site-management/create-downloadable-product.md)
+      + [Produit groupé](../site-management/create-grouped-product.md)
 + GraphQL et REST {#graphql-rest}
    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
    + [Requêtes](../graphql-rest/graphql-queries.md)
