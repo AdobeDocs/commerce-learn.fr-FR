@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: eec9a85198f963404f5ba82fc2fc76315a82f964
+source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '513'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,9 @@ ht-degree: 0%
 
 # Créer un produit groupé
 
-Un produit groupé est constitué de produits autonomes simples présentés sous la forme d’un groupe. Vous pouvez proposer des variantes d’un seul produit ou les regrouper par saison ou thème. Avant de créer un produit groupé, vérifiez que tous les produits simples à inclure dans le groupe sont disponibles dans Adobe Commerce et créez-en d’autres qui n’existent pas. Dans ce tutoriel, vous apprendrez à créer un produit groupé à l’aide de l’API REST et de l’administrateur Adobe Commerce.
+Un produit groupé est constitué de produits autonomes simples présentés sous la forme d’un groupe. Vous pouvez proposer des variantes d’un seul produit ou les regrouper par saison ou thème. Avant de créer un produit groupé, vérifiez que tous les produits simples à inclure dans le groupe sont disponibles dans Adobe Commerce et créez-en d’autres qui n’existent pas.
+
+Dans ce tutoriel, vous apprendrez à créer un produit groupé à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
 Utilisez l’API REST pour créer un produit de groupe dans l’Admin :
 
@@ -29,9 +31,9 @@ Utilisez l’API REST pour créer un produit de groupe dans l’Admin :
 1. Renseignez le produit groupé vide avec des produits simples.
 1. Créez un produit groupé vide et associez les produits simples.
 
-Lors de la création de produits groupés dans l’administrateur Adobe Commerce, il est recommandé de créer d’abord des produits simples. Lorsque vous êtes prêt à créer le produit groupé, associez les produits simples en les affectant au produit groupé dans un seul lot.
+   Lorsque vous associez des produits simples au produit groupé, l’attribut d’ordre de tri (`position`) dans la payload est utilisée par l’interface frontale pour afficher les produits associés dans l’ordre souhaité. Si la variable `position` n’est pas spécifié, les produits sont affichés dans l’ordre dans lequel ils ont été ajoutés au produit groupé.
 
-L’attribut d’ordre de tri dans la payload est obligatoire et est utilisé par le front-end pour afficher les produits associés dans l’ordre souhaité.
+Lors de la création de produits groupés à partir de l’administrateur Adobe Commerce, créez d’abord les produits simples. Lorsque vous êtes prêt à créer le produit groupé, associez les produits simples en les affectant au produit groupé dans un seul lot.
 
 ## Pour qui est cette vidéo ?
 
