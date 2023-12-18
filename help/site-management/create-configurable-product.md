@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de vo
 - Modifier `"attribute_set_id": 10,` et remplacer `10` avec l’identifiant du jeu d’attributs de dans votre environnement.
 - Modifier `"value": "14"` et remplacer `14` avec la valeur de votre environnement.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Créer le troisième produit simple à l’aide de cURL
 
-Créez le troisième produit simple à l’aide de l’API pour envoyer la demande de POST suivante à l’aide de cURL.
+Créez le troisième produit simple en envoyant la demande de POST suivante à l’aide de cURL.
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Créer un produit configurable vide à l’aide de cURL
 
-Créez un produit configurable vide à l’aide de l’API pour envoyer la demande de POST suivante à l’aide de cURL.
+Créez un produit configurable vide en envoyant la demande de POST suivante à l’aide de cURL.
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Définir les options disponibles pour le produit configurable
 
-Définissez les options disponibles pour le produit configurable à l’aide de l’API pour envoyer la demande de POST suivante à l’aide de cURL.
+Définissez les options disponibles pour le produit configurable en envoyant la demande de POST suivante à l’aide de cURL.
 
 Avant d’envoyer la demande, modifiez `"attribute_id": 93,` à remplacer `93` avec l’identifiant d’attribut de votre environnement.
 
@@ -289,7 +288,7 @@ Vous avez maintenant créé trois produits simples :
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Ajoutez ces produits simples en tant qu’enfants du produit configurable à l’aide de l’API pour envoyer la demande de POST suivante pour chaque produit. Envoyez une requête distincte pour chaque produit.
+Ajoutez ces produits simples en tant qu’enfants du produit configurable en envoyant la demande de POST suivante. Envoyez une requête distincte pour chaque produit.
 
 Pour chaque requête, mettez à jour la variable `childSKU` avec la valeur du produit enfant que vous ajoutez. L’exemple suivant affecte le produit simple `kids-Hawaiian-Ukulele-red` au produit configurable avec le SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Obtenir un produit configurable à l’aide de cURL
 
-Maintenant que vous avez créé un produit configurable avec trois SKU enfants attribués. Vous pouvez voir les ID liés des produits affectés par l’API pour envoyer la demande de GET suivante à l’aide de cURL. Cette requête renvoie des informations détaillées sur le produit configurable.
+Maintenant que vous avez créé un produit configurable avec trois SKU enfants attribués. Vous pouvez voir les identifiants liés des produits affectés en envoyant la demande de GET suivante à l’aide de cURL. Cette requête renvoie des informations détaillées sur le produit configurable.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Obtenir le produit enfant associé à un produit configurable
 
-Cette requête renvoie uniquement les enfants associés au produit configurable. Cette réponse comporte tous les attributs du produit enfant, y compris le SKU et le prix.
+Renvoie uniquement les enfants associés au produit configurable en envoyant la demande de GET suivante. La réponse inclut tous les attributs du produit enfant, y compris le SKU et le prix.
 
 Les éléments suivants utilisent la méthode GET
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Supprimer ou supprimer un produit enfant du configurable parent
 
-Vous pouvez supprimer un produit enfant d’un produit configurable sans supprimer le produit du catalogue à l’aide de l’API pour envoyer la demande de DELETE suivante à l’aide de cURL.
-
-Les éléments suivants utilisent la méthode DELETE
+Vous pouvez supprimer un produit enfant d’un produit configurable sans supprimer le produit du catalogue en envoyant la demande de DELETE suivante à l’aide de cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
