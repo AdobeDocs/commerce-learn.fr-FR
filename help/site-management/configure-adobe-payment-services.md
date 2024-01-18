@@ -10,16 +10,16 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 9eac97ced3643d9cb3c2d77ab0bd93f61d6917e5
+source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
 # Configuration des services de paiement pour Adobe Commerce
 
-Pour commencer à utiliser les services de paiement pour Adobe Commerce et Magento Open Source, vous devez suivre quelques étapes d’intégration. Regardez la vidéo Comment configurer les services de paiement pour Adobe Commerce pour obtenir des exemples de prise en main.
+Pour commencer à utiliser les services de paiement pour Adobe Commerce et Magento Open Source, vous devez suivre quelques étapes d’intégration. Regardez la _Configuration des services de paiement pour Adobe Commerce_ vidéo pour des exemples de prise en main.
 
 ## Pour qui est cette vidéo ?
 
