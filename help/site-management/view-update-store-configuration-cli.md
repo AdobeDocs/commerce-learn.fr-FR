@@ -1,6 +1,6 @@
 ---
-title: Découvrez comment afficher et définir des configurations d’administrateur à l’aide de la ligne de commande
-description: Démo pour savoir comment afficher et définir des valeurs de configuration à l’aide de la ligne de commande
+title: Afficher et définir les configurations d’administrateur à l’aide de la ligne de commande
+description: Découvrez comment afficher et définir des configurations d’administrateur à l’aide de la ligne de commande.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Découvrez comment afficher et définir des configurations d’administrateur à l’aide de la ligne de commande
+# Afficher et définir les configurations d’administrateur à l’aide de la ligne de commande
 
 Une démonstration pour savoir comment afficher, définir et rechercher des valeurs de configuration à l’aide de l’interface de ligne de commande Commerce. Déterminez d’où sont enregistrées les valeurs et d’où viennent les valeurs par défaut.
 
