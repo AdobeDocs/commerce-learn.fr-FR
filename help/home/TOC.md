@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 606b2aa8cc1df64816b459e7ca9e0a65d538463a
+source-git-commit: 535c9dbe9f1247cebd848f184dcf7ea07eab405e
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '598'
 ht-degree: 3%
 
 ---
@@ -144,7 +144,7 @@ ht-degree: 3%
    + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
    + [Préparer l&#39;avenir](../business-intelligence/prepare-for-future.md)
 + Mises à niveau de commerce {#upgrade}
-   + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2.4-upgrade-workshop.md)
+   + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilisation de l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement principal {#backend-development}
@@ -155,6 +155,7 @@ ht-degree: 3%
    + [Réplication lente de la grappe Galerie](../backend-development/galera-db-slow-replication.md)
    + [Cache de requête MySQL](../backend-development/mysql-query-cache.md)
    + [PT Query Digest](../backend-development/pt-query-digest.md)
+   + [Connexion et téléchargement de la base de données Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
 + Développement de Luma front-end natif {#frontend-development}
    + Créateur de pages pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
