@@ -1,5 +1,5 @@
 ---
-title: Découvrez comment connecter et exécuter des requêtes sur la base de données Adobe Commerce
+title: Connecter et exécuter des requêtes sur la base de données
 description: Découvrez plusieurs méthodes pour vous connecter à un projet cloud Adobe Commerce. Découvrez comment extraire une base de données pour utiliser hors site. Découvrez certaines méthodes pour masquer les informations d’identification personnelles et les supprimer.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
+# Connexion et exécution de requêtes sur la base de données Adobe Commerce
 
-# Découvrez comment connecter et exécuter des requêtes sur la base de données Adobe Commerce
-
-Dans ce tutoriel, vous apprendrez à vous connecter à un projet Adobe Commerce sur le cloud, à vider une base de données pour l’utiliser hors site, à masquer les informations d’identification personnelles et à la supprimer.
-
+Dans ce tutoriel, vous découvrez comment vous connecter à un projet Adobe Commerce sur le cloud, vider une base de données pour l’utiliser hors site, masquer les informations d’identification personnelles et la supprimer.
 
 Vous pouvez accéder aux données Adobe Commerce à partir de votre projet cloud en utilisant l’une des méthodes suivantes :
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [Configuration du service MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Configuration d’une connexion de base de données MySQL distante](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Création d’un vidage de base de données sur Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
