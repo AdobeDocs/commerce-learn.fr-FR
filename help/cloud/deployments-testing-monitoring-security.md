@@ -1,5 +1,5 @@
 ---
-title: Stratégies, tests, surveillance et sécurité de déploiement de Adobe Commerce Cloud
+title: Stratégies de déploiement de Adobe Commerce Cloud, test, surveillance et sécurité
 description: Découvrez les stratégies de déploiement, les tests, la surveillance et la sécurité de Adobe Commerce Cloud.
 feature: Cloud
 topic: Commerce, Architecture, Development
@@ -10,7 +10,7 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: 6b71a7b4bc3d770870a02bb868c7b01bd17a5931
+source-git-commit: 9be9bd9e00984fc7ba2721ad423b802520906934
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Intégration technique - Déploiements, tests, surveillance et sécurité
 
-Découvrez les stratégies de déploiement de Adobe Commerce Cloud, les bonnes pratiques de test, les outils de surveillance et de sécurité.
+Découvrez les stratégies de déploiement de Adobe Commerce Cloud, les bonnes pratiques de test, la surveillance et les outils de sécurité.
 
 ## Pour qui est cette vidéo ?
 
