@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: a663178a1b3cffb328943e96f4efd4cef731bfe4
+source-git-commit: e47eff788e86b53b86354d49e68bc6b3d3addf1f
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '642'
 ht-degree: 3%
 
 ---
@@ -42,6 +42,9 @@ ht-degree: 3%
       + [Produit Gift Card](../site-management/create-gift-card-product.md)
    + Kit de démarrage de l’intégration de back-office {#back-office-integration-starter-kit}
       + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
++ Webinaires et événements {#webinars-and-events}
+   + Série d’activation {#enablement-series}
+      + [Réduction de la table des matières pour les intégrations Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
 + GraphQL et REST {#graphql-rest}
    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
    + [Requêtes](../graphql-rest/graphql-queries.md)
