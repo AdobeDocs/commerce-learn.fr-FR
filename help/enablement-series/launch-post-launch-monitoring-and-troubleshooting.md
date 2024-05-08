@@ -1,6 +1,6 @@
 ---
 title: Lancement d’Adobe Commerce, post-lancement et surveillance et dépannage en cours
-description: Ce tutoriel fournit des bonnes pratiques et des conseils pour préparer et lancer un site web. Choisissez l’environnement d’évaluation approprié, en fournissant les détails pertinents dans les tickets d’assistance, et en utilisant le même outil de surveillance que l’équipe d’assistance pour une meilleure communication. Mettez en évidence la nécessité d’effectuer des tests approfondis sur les systèmes périphériques, tels que les processeurs de paiement, et de planifier les problèmes de production potentiels, tels que les goulets d’étranglement des performances et le réchauffement de la mémoire cache. Une communication efficace, une planification proactive et une compréhension du modèle de responsabilité partagée sont également mises en avant. En suivant ces bonnes pratiques, les lancements de sites web peuvent être plus fluides et plus efficaces.
+description: Découvrez les bonnes pratiques et les conseils pour préparer et lancer un site web. Découvrez comment choisir l’environnement d’évaluation approprié, fournir des détails pertinents dans les tickets d’assistance et utiliser le même outil de surveillance que l’équipe d’assistance pour une meilleure communication.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 role: Architect, Data Architect, Leader
@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
+source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
