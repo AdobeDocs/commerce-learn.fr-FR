@@ -1,6 +1,6 @@
 ---
 title: Réduction de la table des matières pour les intégrations Adobe Commerce
-description: Ce webinaire présente les bonnes pratiques pour réduire le coût total de propriété des intégrations avec Adobe Commerce. Il met l’accent sur les défis des intégrations traditionnelles et met en évidence l’utilisation de points d’extension et d’intégrations natives avec d’autres produits Experience Cloud afin de réduire les coûts et d’augmenter le retour sur investissement. L’objectif est d’offrir une flexibilité pour étendre le produit sans personnaliser le noyau, ce qui facilite la maintenance et la mise à niveau.
+description: Découvrez les bonnes pratiques pour réduire le coût total de propriété des intégrations avec Adobe Commerce.
 feature: API Mesh, App Builder, Backend Development, Best Practices, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
@@ -11,16 +11,18 @@ last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
+source-git-commit: 1293fcc506043601ced55286ea4d31b47a68d546
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
 
 # Réduction de la table des matières pour les intégrations Adobe Commerce
 
-Ce webinaire découvre les méthodes permettant de réduire le coût de propriété des intégrations avec Adobe Commerce. &#x200B; Les conférenciers du webinaire abordent les défis et les coûts associés aux intégrations, l’importance de la réduction de la dette technique, ainsi que les avantages liés à l’utilisation de points d’extension fournis par Adobe Commerce. Ils mentionnent également des cas d’utilisation spécifiques impliquant un système de gestion des commandes allégé utilisant WhatsApp et une liste d’animaux de compagnie intelligente qui envoie des données pour des recommandations de produits personnalisées.  L’équipe discute également de l’utilisation de la connexion aux données d’Adobe pour Commerce, qui permet d’envoyer et de recevoir des données entre Adobe Commerce et d’autres produits d’Adobe.
+Ce webinaire découvre les méthodes permettant de réduire le coût de propriété des intégrations avec Adobe Commerce.
+
+Les conférenciers du webinaire abordent les défis et les coûts associés aux intégrations, l’importance de la réduction de la dette technique, ainsi que les avantages liés à l’utilisation de points d’extension fournis par Adobe Commerce. Ils mentionnent également des cas d’utilisation spécifiques impliquant un système de gestion des commandes allégé utilisant WhatsApp et une liste d’animaux de compagnie intelligente qui envoie des données pour des recommandations de produits personnalisées.  L’équipe discute également de l’utilisation de la connexion aux données d’Adobe pour Commerce, qui permet d’envoyer et de recevoir des données entre Adobe Commerce et d’autres produits d’Adobe.
 
 ## Audience
 
