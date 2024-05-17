@@ -11,9 +11,9 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 47a71d3523d5a894ca4edc458f7e2cf71c283618
+source-git-commit: b0fe49352b00a68554e662327cd66983c30d8285
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,6 @@ Pour en savoir plus, sélectionnez l’une des options ci-dessous.
 
 Si vous disposez d’un catalogue limité et que les mises à jour sont peu fréquentes, la création manuelle de ces derniers peut être la meilleure option. Il faut du temps pour entrer dans chaque produit et une formation limitée sur l’utilisation de l’administrateur de Commerce. La gestion manuelle du catalogue n’est pas la bonne option pour la plupart des magasins, mais dans certaines situations, elle peut s’avérer logique. Pour consulter la documentation supplémentaire de ce processus, voir [Création d’un produit](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. N’oubliez pas que vous pouvez utiliser plusieurs méthodes pour gérer votre catalogue. Toutefois, une fois l’automatisation utilisée, les modifications manuelles doivent être limitées. Les mises à jour automatisées permettent de remplacer les modifications effectuées manuellement et par conséquent de créer de la confusion. Une fois que l’intégration à Adobe Commerce pour gérer le catalogue utilise l’automatisation et les API, il est conseillé de limiter la gestion du catalogue de l’administrateur à [rôles utilisateur et autorisations](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-
-
 ### Quand envisager cette approche ?
 
 - Un très petit catalogue, par exemple moins de 50 produits
@@ -41,8 +39,6 @@ Si vous disposez d’un catalogue limité et que les mises à jour sont peu fré
 - Vous disposez de tous les détails, images et vidéos du produit, et vous ne souhaitez pas prendre le temps d’apprendre à convertir les données au format CSV.
 - Vous souhaitez inclure l’ajout d’images et de vidéos lors de la création des produits.
 - Votre équipe est `not` connaissance des API et du fonctionnement d’OAUTH
-
-
 
 >[!TAB Fichier CSV d’administration]
 
@@ -61,16 +57,12 @@ Inconvénients
 - Les importations de planification sont limitées à 1 fois par jour.
 - Les images et vidéos associées doivent être téléchargées séparément.
 
-
-
 ### Quand envisager cette approche ?
 
 - La taille du catalogue est modérée
 - Les mises à jour ne sont pas plus d’une fois par jour
 - vous disposez d’un accès aux configurations de serveur au cas où vous deviez augmenter la taille de chargement de fichier maximale.
 - Votre équipe est `not` connaissance des API et du fonctionnement d’OAUTH
-
-
 
 >[!TAB API REST en bloc]
 
@@ -85,9 +77,6 @@ Inconvénients
 
 - Les images et vidéos associées doivent être téléchargées séparément.
 - Peut être limité par des contraintes de bande passante sur le fournisseur d’hébergement
-- Vous devez utiliser des identifiants d’attribut d’option et non les étiquettes.
-
-
 
 ### Quand envisager cette approche ?
 
@@ -95,8 +84,6 @@ Inconvénients
 - Les mises à jour sont fréquentes, plus de 1 fois par jour est acceptable.
 - Le temps d’importation est important mais pas essentiel et un court délai dans le traitement des données d’importation est acceptable
 - Les données ne sont pas structurées au format CSV et vous ne pouvez pas les transformer à l’aide de l’automatisation.
-
-
 
 >[!TAB API REST ASYNC]
 
@@ -118,7 +105,6 @@ Inconvénients
 
 - Les imports sont fréquents
 - Aucun problème lié à un léger délai entre l’envoi via l’API et le traitement depuis la file d’attente des messages.
-
 
 
 >[!TAB API REST CSV]
@@ -145,8 +131,6 @@ Inconvénients
 - Les mises à jour sont fréquentes, plus de 1 fois par jour est acceptable.
 - Le temps global d’importation est important
 - Les données sont déjà au format CSV ou peuvent facilement être transformées à l’aide de l’automatisation.
-
-
 
 >[!ENDTABS]
 
