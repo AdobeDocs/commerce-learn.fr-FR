@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
-source-git-commit: 7cc6ee2906e5f223575d98f0f1b6f4bdf4c936d0
+exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
+source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
 workflow-type: tm+mt
-source-wordcount: '1578'
+source-wordcount: '1605'
 ht-degree: 0%
 
 ---
-
 
 # Liste de contrôle de prélancement des Commerces Cloud
 
@@ -53,7 +53,7 @@ Si une CTA/ingénieur du service client est affecté au compte, contactez-le et 
 
 ## 3. Configurations rapides
 
-1. [!BADGE Bloceur]{type=caution tooltip="Blocage potentiel"}[Cache de page entière](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} or [GraphQL caching](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Read the [Fastly set up guide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
+1. [!BADGE Bloceur]{type=caution tooltip="Blocage potentiel"}[Cache de page entière](https://developer.adobe.com/commerce/frontend-core/guide/caching/){target="_blank"} ou [Mise en cache de GraphQL](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Lisez la section [Guide de configuration rapide](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/cdn/fastly){target="_blank"}.
 2. Utilisez la méthode de GET pour les requêtes GraphQL sur les sites web PWA/sans affichage, le cas échéant.
 
    >[!NOTE]
@@ -94,9 +94,9 @@ Adobe Commerce Cloud utilise une grappe MariaDB Galera comme base de données po
 
 ## 6. Déploiements
 
-1. Examinez l’état idéal du déploiement de contenu statique (SCD) pour réduire le temps de maintenance pendant les déploiements dans l’environnement de production. Réviser [Stratégies SCD (Static Content Deployment)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} and [Store configuration management](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guide.
+1. Examinez l’état idéal du déploiement de contenu statique (SCD) pour réduire le temps de maintenance pendant les déploiements dans l’environnement de production. Réviser [Stratégies SCD (Static Content Deployment)](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/deploy/static-content){target="_blank"} et [Gestion de la configuration du magasin](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure-store/store-settings){target="_blank"} guide.
 2. Examinez les paramètres de minimisation pour HTML, JavaScript et CSS. (Cela ne s’applique pas aux sites web sans PWA/sans affichage).
-3. Vérifiez que l’utilisation des variables cloud suivantes s’aligne sur leurs objectifs prévus. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} and [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
+3. Vérifiez que l’utilisation des variables cloud suivantes s’aligne sur leurs objectifs prévus. ([SCD_MATRIX](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-build#scd_matrix){target="_blank"}, [SCD_ON_DEMAND](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-global#scd_on_demand){target="_blank"} et [SKIP_SCD](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/configure/env/stage/variables-deploy#skip_scd){target="_blank"})
 
 ## 7. Test et dépannage
 
@@ -136,7 +136,7 @@ Adobe Commerce Cloud utilise une grappe MariaDB Galera comme base de données po
 5. Assurez-vous que XDebug est désactivé s’il est activé pendant le développement (voir [Configuration de Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}).
 6. Vérifiez que le op-cache et d’autres configurations ont été mis à jour avec précision dans le fichier php.ini ([voir cet exemple](https://github.com/magento/magento-cloud/blob/master/php.ini#L41){target="_blank"}).
 7. Abonnez-vous au [**Page d’état Adobe Commerce**](https://status.adobe.com/cloud/experience_cloud#/){target="_blank"}.
-8. S’abonner à New Relic[Alertes gérées pour Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}" notification channels to monitor the given performance metrics ([read more](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
+8. S’abonner à New Relic[Alertes gérées pour Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/managed-alerts/managed-alerts-for-magento-commerce){target="_blank"}Canaux de notification pour surveiller les mesures de performances données ([en savoir plus](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service){target="_blank"}).
 
 ## 9. Sécurité
 
@@ -182,7 +182,7 @@ Si vous rencontrez des problèmes ou si vous ne parvenez pas à le lancer pendan
 Une fois le site actif, envoyez par courrier électronique le CTA (Customer Technical Advisory), l’ingénieur du service client (Customer Success Engineer) et le gestionnaire de compte (AEM) qui vous ont été attribués. Cependant, si aucun gestionnaire de compte n’est affecté au projet, vous pouvez créer un ticket d’assistance demandant l’activation de la surveillance de niveau élevé de contrat de niveau de service une fois le site mis en ligne. L’ACT/ingénieur du service client effectue les tâches suivantes dès que le site est vérifié pour être lancé avec l’option Fastly activée et mise en cache :
 
 - Marquez la grappe comme étant active et créez un ticket d’assistance pour activer la surveillance des accords de niveau de service (High SLA).
-- Activez les vérifications Pingdom pour la surveillance de la disponibilité.
+- Activez New Relic Synthetics pour la surveillance de la disponibilité.
 
 >[!MORELIKETHIS]
 > 
