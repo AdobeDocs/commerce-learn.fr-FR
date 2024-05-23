@@ -1,8 +1,8 @@
 ---
 title: Présentation de l’outil de compatibilité de mise à niveau
-description: Regardez cette vidéo technique pour découvrir comment l’outil de compatibilité de mise à niveau peut faciliter, réduire le coût et accélérer votre prochaine mise à niveau.
-landing-page-description: Regardez cette vidéo technique pour découvrir comment l’outil de compatibilité de mise à niveau peut faciliter, réduire le coût et accélérer votre prochaine mise à niveau.
-short-description: Regardez cette vidéo technique pour découvrir comment l’outil de compatibilité de mise à niveau peut faciliter, réduire le coût et accélérer votre prochaine mise à niveau.
+description: Regardez cette vidéo technique pour découvrir comment l’outil de compatibilité de mise à niveau peut faciliter et accélérer votre prochaine mise en niveau tout en en réduisant le coût.
+landing-page-description: Regardez cette vidéo technique pour découvrir comment l’outil de compatibilité de mise à niveau peut faciliter et accélérer votre prochaine mise en niveau tout en en réduisant le coût.
+short-description: Regardez cette vidéo technique pour découvrir comment l’outil de compatibilité de mise à niveau peut faciliter et accélérer votre prochaine mise en niveau tout en en réduisant le coût.
 kt: 9983
 doc-type: technical video
 audience: all
@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 25%
+source-wordcount: '206'
+ht-degree: 29%
 
 ---
 
