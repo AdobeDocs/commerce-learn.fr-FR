@@ -1,9 +1,9 @@
 ---
 title: Liens connexes des séries d’activation
-description: Liens vers les pages connexes dans la série d’activation
-source-git-commit: 5fdc149b4618a95de839942b26fef874ce1b5c47
+description: Liens vers les pages connexes dans la série d’activation à utiliser sur toutes les pages individuelles
+source-git-commit: e5b9d8cc85412acf086bcb9ac5ee86ed53c7ae9c
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
