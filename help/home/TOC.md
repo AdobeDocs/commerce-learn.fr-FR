@@ -3,10 +3,10 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 4b88c82052f8505cfe05255dd74bb2da5fa0f792
+source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
 workflow-type: tm+mt
-source-wordcount: '664'
-ht-degree: 3%
+source-wordcount: '668'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 + [Tutoriels [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
-   + [Présentation](../cloud/overview.md)
+   + [Migration depuis une solution auto-hébergée](../cloud/overview.md)
    + Intégration technique et transfert matériel {#technical-onboarding-hardware-handoff}
       + [Bonnes pratiques en matière d&#39;infrastructure et de développement](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
