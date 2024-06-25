@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Connexion et exécution de requêtes sur la base de données Adobe Commerce
 
-Dans ce tutoriel, vous découvrez comment vous connecter à un projet Adobe Commerce sur le cloud, vider une base de données pour l’utiliser hors site, masquer les informations d’identification personnelles et la supprimer.
+Découvrez comment vous connecter à un projet Adobe Commerce sur le cloud, créer un vidage de base de données pour une utilisation hors site et gérer les informations d’identification personnelle (PII) en les masquant ou en les supprimant. Découvrez comment accéder aux données Adobe Commerce à l’aide de diverses méthodes, notamment des vidages DB locaux, des connexions à base de données distantes avec des applications telles que MySQL Workbench ou TablesPlus, ainsi que des connexions directes via l’outil de ligne de commande Cloud Magento.
+
+## Contenu vidéo
+
+* Découvrez comment vous connecter rapidement à un projet Adobe Commerce Cloud distant à l’aide d’un outil tel que MysqlWorkbench ou TablesPlus.
+* Découvrez comment vous connecter rapidement au projet Adobe Commerce pour exécuter SQL via la ligne de commande
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Découvrez comment vous connecter à un projet Adobe Commerce sur le cloud, vider une base de données pour l’utiliser hors site et masquer les informations d’identification personnelles et les supprimer.
 
 Vous pouvez accéder aux données Adobe Commerce à partir de votre projet cloud en utilisant l’une des méthodes suivantes :
 
