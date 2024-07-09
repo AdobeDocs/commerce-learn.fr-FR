@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -33,6 +33,7 @@ ht-degree: 2%
    + Fonctionnalités Commerce {#capabilities}
       + [Connexion aux données](../capabilities/data-connection.md)
       + [Démonstration complète de la recherche en direct](../capabilities/live-search-full-demonstration.md)
+      + [Commerce composite](../capabilities/what-is-composable-commerce.md)
    + Créer des produits {#create-products}
       + [Produit simple](../site-management/create-simple-product.md)
       + [Produit virtuel](../site-management/create-virtual-product.md)
@@ -68,7 +69,7 @@ ht-degree: 2%
       + [En savoir plus sur le dossier test](../app-builder/first-app/test-folder.md)
       + [Découvrez l’objectif du dossier web-src](../app-builder/first-app/web-src-folder.md)
       + [Test local](../app-builder/first-app/testing-locally.md)
-      + [Test à l’aide de l’URL du générateur d’applications](../app-builder/first-app/testing-app-builder-url.md)
+      + [Test à l’aide de l’URL App Builder](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusion](../app-builder/first-app/conclusion.md)
       + [Exemple de code source de module](https://github.com/magento/app-builder-samples){target="_blank"}
    + Événements d’E/S pour Adobe Commerce {#io-events}
@@ -179,7 +180,7 @@ ht-degree: 2%
       + [4 - Modèles et styles](../frontend-development/page-builder/4-admin-templates-apply-styles.md)
       + [5 - Thèmes personnalisés](../frontend-development/page-builder/5-customize-theme.md)
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
-   + [Ajouter un module JavaScript](../frontend-development/add-javascript-module.md)
+   + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
    + [Créer une page](../frontend-development/create-page.md)
 + Architecture headless {#headless-architecture}
    + Introduction à headless {#introduction-to-headless}
