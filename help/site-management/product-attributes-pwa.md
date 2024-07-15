@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 71210a1b-620b-4bb7-aa96-4afd01cff7d9
 source-git-commit: 3eff251283f1a6c5dc2bff8d72bd494d7446db79
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Dans cette vidéo, découvrez comment gérer les attributs de produit lorsqu’u
 
 ## Ressources supplémentaires
 
-- [Attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+- [ Attributs de produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 - [PWA Studio - Documentation pour les développeurs](https://developer.adobe.com/commerce/pwa-studio/)

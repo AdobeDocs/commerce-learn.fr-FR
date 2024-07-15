@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 9eb66d4d0da8aa0e26183dea2459fa6e923c430b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Gestion des comptes d’entreprise
 
-Pour les commerçants B2B, la variable _[!UICONTROL Companies]_répertorie tous les comptes d’entreprise en cours et leur état. Vous pouvez gérer les comptes de votre société ici et toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard de l’environnement de travail peuvent être utilisées pour filtrer la liste, modifier la mise en page des colonnes, enregistrer les vues et exporter les données.
+Pour les commerçants B2B, la page _[!UICONTROL Companies]_répertorie tous les comptes actuels de l’entreprise et leur état. Vous pouvez gérer les comptes de votre société ici et toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard de l’environnement de travail peuvent être utilisées pour filtrer la liste, modifier la mise en page des colonnes, enregistrer les vues et exporter les données.
 
 {{b2b-feature}}
 
@@ -37,4 +37,4 @@ Pour les commerçants B2B, la variable _[!UICONTROL Companies]_répertorie tous 
 ## Ressources supplémentaires
 
 - [Comptes d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
-- [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
+- [Gérer les comptes d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}

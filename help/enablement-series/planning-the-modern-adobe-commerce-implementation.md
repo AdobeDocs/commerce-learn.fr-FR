@@ -9,7 +9,8 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
+exl-id: a8e1cd14-e9ff-46ba-87ea-c1cba3b4f72f
+source-git-commit: 670f1676128544811e471a3dfbcab80cdb95b94f
 workflow-type: tm+mt
 source-wordcount: '394'
 ht-degree: 0%
@@ -18,7 +19,8 @@ ht-degree: 0%
 
 # Planification de la mise en oeuvre moderne d’Adobe Commerce
 
-Ce webinaire présente une vue d’ensemble complète de divers sujets liés à Adobe Commerce, notamment le service de catalogue, la compréhension de l’architecture du client et les Edge Delivery Services. &#x200B;Les rubriques comprennent les fonctionnalités nouvelles ou existantes et les avantages de chaque service, tels que la recherche en direct et les recommandations de produits dans le catalogue Adobe Commerce as a Service, l’analyse des API et du flux de données dans la compréhension de l’architecture du client, ainsi que les performances élevées et la faible latence des Edge Delivery Services. En outre, le document mentionne l’importance de disposer de documents standard et d’une liste de questions lors de l’interaction avec les clients, ainsi que le concept d’architecture de référence globale (GRA) pour une création de projet efficace.
+Ce webinaire présente une vue d’ensemble complète de divers sujets liés à Adobe Commerce, notamment le service de catalogue, la compréhension de l’architecture du client et les Edge Delivery Services.
+&#x200B;Les rubriques comprennent les fonctionnalités nouvelles ou existantes et les avantages de chaque service, tels que la recherche en direct et les recommandations de produits dans le catalogue Adobe Commerce as a Service, l’analyse des API et du flux de données dans la compréhension de l’architecture du client, ainsi que les performances élevées et la faible latence des Edge Delivery Services. En outre, le document mentionne l’importance de disposer de documents standard et d’une liste de questions lors de l’interaction avec les clients, ainsi que le concept d’architecture de référence globale (GRA) pour une création de projet efficace.
 
 ## Audience
 
@@ -31,7 +33,7 @@ Ce webinaire présente une vue d’ensemble complète de divers sujets liés à 
 * Comprendre l’architecture du client implique d’analyser les API, le flux de données, les produits typiques et de mapper les exigences des clients aux fonctionnalités commerciales.
 * La création d’un ensemble de documents standard et d’une liste de questions est essentielle pour comprendre l’architecture du client et garantir une mise en oeuvre fluide du projet.
 Les outils d’analyse automatique peuvent être utilisés pour les projets de migration, tandis que la révision manuelle de la documentation et les questionnaires sont nécessaires dans d’autres cas.
-* Edge Delivery Services, récemment disponible pour Adobe Commerce, propose des solutions de storefront très performantes avec une faible latence et des expériences de création simplifiées.
+* Edge Delivery Services, récemment publié pour Adobe Commerce, offre des solutions de storefront très performantes avec une faible latence et des expériences de création simplifiées.
 * Les Edge Delivery Services donnent la priorité aux performances et peuvent améliorer considérablement les scores de Lighthouse, le SEO et la vitesse globale du site web.
 Présentation d’Adobe Commerce et de sa série en quatre parties sur la planification, la construction et la maintenance d’une mise en oeuvre moderne.
 * Présentation du concept d’architecture de référence globale (GRA) pour la création efficace de projets.

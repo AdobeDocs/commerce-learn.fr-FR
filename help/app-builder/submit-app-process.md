@@ -10,10 +10,10 @@ feature: API Mesh, App Builder, Extensibility, Tools and External Services
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
-exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+exl-id: 6a217ea6-8d6b-4ecb-bbc3-b5b27df3bde9
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---

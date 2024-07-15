@@ -15,8 +15,8 @@ level: Beginner, Intermediate
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 32%
+source-wordcount: '168'
+ht-degree: 35%
 
 ---
 
@@ -28,7 +28,7 @@ Dans cette vidéo :
 
 - Qu’est-ce que l’outil de compatibilité de mise à niveau ?
 - Utilisation avec le module externe Magento PHP Storm
-- Accès aux résultats du HTML pour visualiser les modules par gravité et par nombre d’incompatibilités
+- Accès aux résultats de l’HTML pour visualiser les modules par gravité et par nombre d’incompatibilités
 
 ## Pour qui est cette vidéo ?
 
@@ -41,5 +41,5 @@ Dans cette vidéo :
 ## Ressources supplémentaires
 
 - [Outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html)
-- [Module externe Magento PHP Storm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
+- [Plug-in Magento PHP Storm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm)
 - [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)

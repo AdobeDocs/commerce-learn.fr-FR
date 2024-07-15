@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Présentation technique d’App Builder
 
-La vidéo suivante présente un aperçu technique d’un exemple de modèle d’intégration qui connecte Adobe Commerce à Amazon Seller Central. Ce tutoriel explore également les différences entre le développement d’extensions PHP traditionnelles et les applications App Builder.
+La vidéo suivante présente un aperçu technique d’un exemple de modèle d’intégration qui connecte Adobe Commerce à Amazon Seller Central. Ce tutoriel explore également les différences entre le développement d’extensions PHP traditionnelles et d’applications App Builder.
 
 
 ## App Builder pour Adobe Commerce {#app-builder-technical-overview}

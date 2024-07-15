@@ -30,7 +30,7 @@ Pour en savoir plus, sélectionnez l’une des options ci-dessous.
 
 ## Création manuelle des produits {#manual-import}
 
-Si vous disposez d’un catalogue limité et que les mises à jour sont peu fréquentes, la création manuelle de ces derniers peut être la meilleure option. Il faut du temps pour entrer dans chaque produit et une formation limitée sur l’utilisation de l’administrateur de Commerce. La gestion manuelle du catalogue n’est pas la bonne option pour la plupart des magasins, mais dans certaines situations, elle peut s’avérer logique. Pour consulter la documentation supplémentaire de ce processus, voir [Création d’un produit](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. N’oubliez pas que vous pouvez utiliser plusieurs méthodes pour gérer votre catalogue. Toutefois, une fois l’automatisation utilisée, les modifications manuelles doivent être limitées. Les mises à jour automatisées permettent de remplacer les modifications effectuées manuellement et par conséquent de créer de la confusion. Une fois que l’intégration à Adobe Commerce pour gérer le catalogue utilise l’automatisation et les API, il est conseillé de limiter la gestion du catalogue de l’administrateur à [rôles utilisateur et autorisations](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Si vous disposez d’un catalogue limité et que les mises à jour sont peu fréquentes, la création manuelle de ces derniers peut être la meilleure option. Il faut du temps pour entrer dans chaque produit et une formation limitée sur l’utilisation de l’administrateur de Commerce. La gestion manuelle du catalogue n’est pas la bonne option pour la plupart des magasins, mais dans certaines situations, elle peut s’avérer logique. Pour consulter la documentation supplémentaire de ce processus, rendez-vous sur la page [Création d’un produit](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. N’oubliez pas que vous pouvez utiliser plusieurs méthodes pour gérer votre catalogue. Toutefois, une fois l’automatisation utilisée, les modifications manuelles doivent être limitées. Les mises à jour automatisées permettent de remplacer les modifications effectuées manuellement et par conséquent de créer de la confusion. Une fois que l’intégration à Adobe Commerce pour gérer le catalogue utilise l’automatisation et les API, il est conseillé de restreindre la gestion du catalogue de l’administrateur à l’aide des [rôles utilisateur et autorisations](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 ### Quand envisager cette approche ?
 
@@ -38,16 +38,17 @@ Si vous disposez d’un catalogue limité et que les mises à jour sont peu fré
 - Les mises à jour sont peu fréquentes
 - Vous disposez de tous les détails, images et vidéos du produit, et vous ne souhaitez pas prendre le temps d’apprendre à convertir les données au format CSV.
 - Vous souhaitez inclure l’ajout d’images et de vidéos lors de la création des produits.
-- Votre équipe est `not` connaissance des API et du fonctionnement d’OAUTH
+- Votre équipe connaît `not` les API et le fonctionnement d’OAUTH
 
->[!TAB Fichier CSV d’administration]
+>[!TAB Admin CSV]
 
 ## Outil d’importation CSV d’administration {#admin-csv}
 
 Cet outil permet à un propriétaire de magasin d’importer un catalogue à l’aide d’un droit CSV provenant de l’administrateur de commerce.
-[Importation de données à partir de l’administrateur Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Importer des données depuis l’administrateur Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
-Avantages : le transfert d’un fichier CSV depuis l’administrateur est une méthode simple de gestion des catalogues. Il permet des mises à jour plus rapides des produits du catalogue pour un catalogue de taille modérée.
+Avantages :
+Le téléchargement d’un fichier CSV depuis l’administrateur est une méthode simple de gestion des catalogues. Il permet des mises à jour plus rapides des produits du catalogue pour un catalogue de taille modérée.
 
 Inconvénients
 
@@ -62,16 +63,17 @@ Inconvénients
 - La taille du catalogue est modérée
 - Les mises à jour ne sont pas plus d’une fois par jour
 - vous disposez d’un accès aux configurations de serveur au cas où vous deviez augmenter la taille de chargement de fichier maximale.
-- Votre équipe est `not` connaissance des API et du fonctionnement d’OAUTH
+- Votre équipe connaît `not` les API et le fonctionnement d’OAUTH
 
 >[!TAB API REST en bloc]
 
 ## API REST en bloc {#bulk-rest-api}
 
 L’API REST en bloc permet l’automatisation et des mises à jour plus fréquentes. Cette API est plus rapide que l’utilisation du transfert d’administrateur du fichier CSV.
-[Documentation sur les points de fin en bloc](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
+[Documentation sur les points d’entrée en masse](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
-Avantages : la possibilité d’importer des jeux de données volumineux qui ne sont pas au format CSV.
+Avantages :
+La possibilité d’importer des jeux de données volumineux qui ne sont pas au format CSV.
 
 Inconvénients
 
@@ -90,7 +92,7 @@ Inconvénients
 ## API REST ASYNC {#async-rest-api}
 
 Un point de terminaison web asynchrone intercepte les messages vers une API web et les écrit dans la file d’attente des messages. Chaque fois que le système accepte une telle demande d’API, il génère un identifiant UUID. Adobe Commerce inclut cet UUID lorsqu’il ajoute le message à la file d’attente. Ensuite, un consommateur lit les messages de la file d&#39;attente et les exécute un par un.
-[Documentation sur les points de terminaison web asynchrones](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+[Documentation sur les points d’entrée web asynchrones](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
 
 Avantages :
 
@@ -113,7 +115,7 @@ Inconvénients
 
 Cette option d’API permet des importations extrêmement rapides par rapport à toutes les autres options natives.
 
-[Importation des données de l’api CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+[Importer l’api CSV REST des données](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 Avantages :
 
 - Méthode la plus rapide pour traiter les données entrantes
@@ -136,7 +138,7 @@ Inconvénients
 
 ## Ressources supplémentaires
 
-- [Importation de données à l’aide d’un nouveau fichier CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [Importation de la documentation principale de données](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+- [Importer des données à l’aide d’un nouveau CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+- [Importer la documentation principale sur les données](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 - [Notes de mise à jour d’Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 - [Utilisateurs, rôles et autorisations](../site-management/users-roles-permissions.md){target="_blank"}

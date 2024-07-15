@@ -14,18 +14,18 @@ level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
 # Configuration d’Adobe Commerce
 
-Découvrez comment configurer Adobe Commerce pour exposer les événements. Documentation supplémentaire disponible sur [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment configurer Adobe Commerce pour exposer les événements. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce et Adobe Developer App Builder à l’aide d’événements d’E/S et doivent créer un projet Adobe App Builder.
+* Les développeurs découvrent Adobe Commerce et Adobe Developer App Builder à l’aide d’événements I/O et doivent créer un projet App Builder d’Adobe.
 
 ## Contenu vidéo {#video-content}
 

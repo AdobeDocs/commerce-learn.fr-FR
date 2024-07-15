@@ -14,19 +14,19 @@ level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Installation du module Adobe I/O Runtime CLI et Mesh
 
-Avant de commencer à utiliser le Maillage d’API pour Adobe Developer App Builder, vous devez installer le `aio` Interface de ligne de commande et module externe Mesh API.
-Pour obtenir les instructions d’installation et connaître les conditions préalables requises, consultez le message de l’API [Prise en main](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} page.
+Avant de commencer à utiliser le maillage d’API pour Adobe Developer App Builder, vous devez installer l’interface de ligne de commande `aio` et le module externe de maillage d’API.
+Pour obtenir des instructions sur l’installation et connaître les conditions préalables requises, consultez la page de prise en main de l’API [](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs qui découvrent le maillage API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
+* Les développeurs découvrent le maillage API ou [!DNL Adobe Commerce] avec une expérience limitée utilisant [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
 
 ## Contenu vidéo
 
@@ -36,9 +36,9 @@ Pour obtenir les instructions d’installation et connaître les conditions pré
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## Installation de la variable `aio` Module externe CLI et Mesh de l’API
+## Installation de l’interface de ligne de commande et du module externe Maillage API `aio`
 
-Après installation `node` et `npm`, exécutez la commande suivante pour installer le `aio` Interface de ligne de commande :
+Après avoir installé `node` et `npm`, exécutez la commande suivante pour installer l’interface de ligne de commande `aio` :
 
 ```bash
 npm install -g @adobe/aio-cli

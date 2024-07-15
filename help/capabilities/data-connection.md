@@ -9,7 +9,8 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
+exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Découvrez comment utiliser la connexion aux données Adobe Commerce avec certai
 
 ## Contenu vidéo
 
-* Envoi de données comportementales d’Adobe Commerce à d’autres produits DX (par exemple, AJO, Analytics, Target, Real-Time CDP) pour la prise de décision des segments, l’enrichissement de profil et les expériences personnalisées dans le parcours client.
+* Envoi de données comportementales d’Adobe Commerce à d’autres produits DX (par exemple, AJO, Analytics, Target, Real-Time CDP) pour la prise de décision des segments, l’enrichissement de profil et les expériences personnalisées dans l’parcours client.
 * Audiences Real-Time CDP mettant à jour et modifiant la segmentation en temps réel en fonction des données du navigateur, des données côté serveur (y compris l’historique des commandes) et des données provenant d’autres sources (c’est-à-dire des données de fidélité).
 * Utilisation des audiences Real-Time CDP pour personnaliser les règles de prix du panier et les blocs dynamiques dans Adobe Commerce.
 

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ Dans cette vidéo, découvrez l’outil d’observation d’Adobe Commerce, qui 
 
 ## Ressources supplémentaires
 
-- [Observation pour Adobe Commerce - Article relatif à l’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [Utilisation de l’observation pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [Observation pour Adobe Commerce - article de support](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+- [Utiliser l’observation pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

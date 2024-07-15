@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visionneuse AR disponible dans le Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Visionneuse de réalité augmentée pour Adobe Commerce
 
@@ -24,7 +24,7 @@ La visionneuse AR est une extension d’Adobe Commerce qui apporte une nouvelle 
 
 La visionneuse d’AR sert de passerelle entre la vente physique et numérique, ce qui permet aux vendeurs de proposer une expérience client riche et interactive sans avoir à posséder des connaissances techniques approfondies ou effectuer des tâches manuelles intensives. Son interface conviviale est parfaitement intégrée à l’administration d’Adobe Commerce, ce qui en fait un ajout pratique à n’importe quelle boutique en ligne.
 
-La visionneuse AR sert à [!DNL bridge] l’écart entre les ventes physiques et numériques, ce qui permet aux vendeurs de proposer une expérience client riche et interactive sans avoir à posséder des connaissances techniques approfondies ou un travail manuel intensif. Son interface conviviale est parfaitement intégrée à l’administration d’Adobe Commerce, ce qui en fait un ajout pratique à n’importe quelle boutique en ligne.
+La visionneuse AR sert à [!DNL bridge] l’écart entre la vente physique et numérique, ce qui permet aux vendeurs de fournir une expérience client riche et interactive sans avoir à posséder des connaissances techniques approfondies ou un travail manuel intensif. Son interface conviviale est parfaitement intégrée à l’administration d’Adobe Commerce, ce qui en fait un ajout pratique à n’importe quelle boutique en ligne.
 
 ## Fonctionnalités
 
@@ -39,7 +39,7 @@ La visionneuse AR sert à [!DNL bridge] l’écart entre les ventes physiques et
 ## Ajout d’un modèle 3D à un produit
 
 L’ajout d’un nouveau modèle 3D au produit est un processus simple une fois le module installé sur l’installation d’Adobe Commerce.
-Dans la vidéo suivante, une nouvelle section prend en charge le chargement de la fonction `.USDZ` téléchargement de fichier.
+Dans la vidéo suivante, une nouvelle section prend en charge le téléchargement du fichier `.USDZ`.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -58,9 +58,8 @@ Une fois que le visiteur analyse le code QR avec son appareil, l’élément est
 ## Ressources utiles
 
 [Visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Gestion des modèles 3D de produit avec la visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[Gérer les modèles 3D de produit avec la visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extension Adobe Commerce Marketplace
 
 [Visionneuse AR](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

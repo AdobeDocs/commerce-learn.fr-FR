@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
+exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
 
 ---
-
 
 # Création d’un produit configurable
 
@@ -30,7 +30,7 @@ Dans ce tutoriel, découvrez comment créer un produit configurable à l’aide 
 
 Utilisez l’API REST pour créer un produit configurable :
 
-1. Obtention des attributs d’une [jeu d’attributs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) pour utiliser les numéros d’ID pour les appels d’API suivants.
+1. Obtenez les attributs d’un [jeu d’attributs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) pour utiliser les numéros d’ID pour les appels d’API suivants.
 1. Créez des produits simples à utiliser dans le produit configurable.
 1. Créez un produit configurable vide et associez les produits simples.
 1. Définissez les attributs de produit pour le produit configurable.
@@ -85,7 +85,7 @@ Dans cet exemple, l’ensemble d’attributs complet avec tous les attributs ind
 ```
 
 
-Pour récupérer les identifiants d’attribut afin de configurer votre produit configurable, mettez à jour la variable `attribute-sets/10/attributes` partie de la requête cURL suivante pour remplacer `10` avec l’identifiant du jeu d’attributs dans votre environnement. Cette requête utilise la méthode GET .
+Pour récupérer les identifiants d’attribut afin de configurer votre produit configurable, mettez à jour la partie `attribute-sets/10/attributes` de la requête cURL suivante afin de remplacer `10` par l’identifiant de jeu d’attributs dans votre environnement. Cette requête utilise la méthode GET .
 
 ```bash
 curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes' \
@@ -100,8 +100,8 @@ Créez le premier produit simple à l’aide de l’API pour envoyer la demande 
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
-- Modifier `"attribute-set": 10` à remplacer `10` avec l’identifiant du jeu d’attributs de votre environnement.
-- Modifier `"value": "13"` à remplacer `13` avec la valeur de votre environnement.
+- Modifiez `"attribute-set": 10` pour remplacer `10` par l’identifiant de jeu d’attributs de votre environnement.
+- Modifiez `"value": "13"` pour remplacer `13` par la valeur de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -141,8 +141,8 @@ Créez le deuxième produit simple à l’aide de l’API pour envoyer la demand
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
-- Modifier `"attribute_set_id": 10,` et remplacer `10` avec l’identifiant du jeu d’attributs de dans votre environnement.
-- Modifier `"value": "14"` et remplacer `14` avec la valeur de votre environnement.
+- Modifiez `"attribute_set_id": 10,` et remplacez `10` par l’identifiant de jeu d’attributs de dans votre environnement.
+- Modifiez `"value": "14"` et remplacez `14` par la valeur de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -182,8 +182,8 @@ Créez le troisième produit simple en envoyant la demande de POST suivante à l
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
-- Modifier `"attribute_set_id": 10,` à remplacer `10` avec l’identifiant du jeu d’attributs de votre environnement.
-- Modifier `"value": "15"` et remplacer `15` avec la valeur de votre environnement.
+- Modifiez `"attribute_set_id": 10,` pour remplacer `10` par l’identifiant de jeu d’attributs de votre environnement.
+- Modifiez `"value": "15"` et remplacez `15` par la valeur de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -223,8 +223,8 @@ Créez un produit configurable vide en envoyant la demande de POST suivante à l
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
-- Modifier `"attribute_set_id": 10,` et remplacer `10` avec l’identifiant du jeu d’attributs de votre environnement.
-- Modifier `"value": "93"` et remplacer `93` avec la valeur de votre environnement.
+- Modifiez `"attribute_set_id": 10,` et remplacez `10` par l’identifiant de jeu d’attributs de votre environnement.
+- Modifiez `"value": "93"` et remplacez `93` par la valeur de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -254,7 +254,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Définissez les options disponibles pour le produit configurable en envoyant la demande de POST suivante à l’aide de cURL.
 
-Avant d’envoyer la demande, modifiez `"attribute_id": 93,` à remplacer `93` avec l’identifiant d’attribut de votre environnement.
+Avant d’envoyer la demande, remplacez `"attribute_id": 93,` par `93` avec l’identifiant d’attribut de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -290,7 +290,7 @@ Vous avez maintenant créé trois produits simples :
 
 Ajoutez ces produits simples en tant qu’enfants du produit configurable en envoyant la demande de POST suivante. Envoyez une requête distincte pour chaque produit.
 
-Pour chaque requête, mettez à jour la variable `childSKU` avec la valeur du produit enfant que vous ajoutez. L’exemple suivant affecte le produit simple `kids-Hawaiian-Ukulele-red` au produit configurable avec le SKU `Kids-Hawaiian-Ukulele-red`.
+Pour chaque requête, mettez à jour la valeur `childSKU` avec la valeur du produit enfant que vous ajoutez. L’exemple suivant affecte le produit simple `kids-Hawaiian-Ukulele-red` au produit configurable avec le SKU `Kids-Hawaiian-Ukulele-red`.
 
 
 ```bash
@@ -347,7 +347,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Ressources supplémentaires
 
-- [Tutoriel sur la création d’un produit configurable](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+- [Créer un tutoriel de produit configurable](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
 - [Produit configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 - [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # Intégration d’Adobe Commerce et de Adobe Journey Optimizer
 
-Découvrez comment utiliser [Connexion aux données](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} dans Adobe Commerce pour déverrouiller les données de commerce et offrir des expériences d’achat personnalisées de bout en bout en temps réel avec l’aide de Adobe Journey Optimizer.
+Découvrez comment utiliser la [connexion aux données](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} dans Adobe Commerce pour déverrouiller les données Commerce et offrir des expériences d’achat personnalisées de bout en bout en temps réel à l’aide de Adobe Journey Optimizer.
 
 ## Pour qui est cette vidéo ?
 
-- Chefs et opérations de commerce électronique intéressés par le partage de données et d’audiences de commerce électronique avec les équipes marketing
+- Chefs et opérations de Commerce électronique intéressés par le partage de données et d’audiences de commerce électronique aux équipes marketing
 - Chargés marketing cherchant à utiliser les données client de Commerce pour stimuler davantage la personnalisation à grande échelle.
 - Opérations marketing qui souhaitent optimiser l’efficacité avec le flux de données automatisé entre Commerce et Journey Optimizer
 
@@ -42,4 +42,4 @@ Découvrez comment utiliser [Connexion aux données](https://experienceleague.ad
 ## Ressources supplémentaires
 
 [Présentation de la connexion aux données](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
-[Installation de la connexion aux données](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}
+[Installer la connexion aux données](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

@@ -10,13 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
+source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Intégration technique - Déploiements, tests, surveillance et sécurité
 
@@ -25,7 +25,7 @@ Découvrez les stratégies de déploiement de Adobe Commerce Cloud, les bonnes p
 ## Pour qui est cette vidéo ?
 
 - Chargés de site web
-- Architectes commerciaux
+- Architectes Commerce
 - Propriétaires d’un site web de commerce électronique
 
 ## Contenu vidéo
@@ -36,9 +36,9 @@ Découvrez les stratégies de déploiement de Adobe Commerce Cloud, les bonnes p
 
 - [Processus de déploiement](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
 - [Outil d’analyse à l’échelle du site SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Assistant intelligent des outils CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+- [Assistant intelligent des outils de la CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Analyse de sécurité](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Pare-feu d’applications web WAF plus rapide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+- [Pare-feu d’application web WAF Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [Présentation du service New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

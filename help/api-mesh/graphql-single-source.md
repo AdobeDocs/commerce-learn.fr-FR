@@ -1,8 +1,8 @@
 ---
 title: Création d’un maillage source unique GraphQL dans le maillage API
-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
-landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
-short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
+description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
+landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
+short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant une source unique.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 12%
+source-wordcount: '237'
+ht-degree: 0%
 
 ---
 
 # Création d’un maillage à partir d’une source unique
 
-Cette vidéo aide les développeurs à comprendre comment créer un maillage avec une seule source dans le maillage API pour Adobe Developer App Builder. Pour que cet exemple de base fonctionne comme prévu, vous avez besoin d’une API accessible publiquement ou d’un point de terminaison GraphQL. La vidéo explique également comment créer une `mesh.json` à utiliser avec votre instance Commerce. Pour plus d’informations et d’exemples de code, consultez la page [Créer un maillage](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Cette vidéo aide les développeurs à comprendre comment créer un maillage avec une seule source dans le maillage API pour Adobe Developer App Builder. Pour que cet exemple de base fonctionne comme prévu, vous avez besoin d’une API accessible publiquement ou d’un point de terminaison GraphQL. La vidéo explique également comment créer un fichier `mesh.json` simple à utiliser avec votre instance Commerce. Pour plus de détails et d&#39;exemples de code, consultez la page [Créer un maillage](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 
@@ -39,7 +39,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 
 ## Création du fichier de configuration json
 
-Le maillage d’API utilise un fichier de configuration JSON pour définir vos gestionnaires de sources. Le fichier JSON contient une `sources` qui contient les sources de votre impression. Voici un exemple d’impression à partir d’une seule source.
+Le maillage d’API utilise un fichier de configuration JSON pour définir vos gestionnaires de sources. Le fichier JSON contient un tableau `sources` qui contient les sources de votre impression. Voici un exemple d’impression à partir d’une seule source.
 
 ```json
 {

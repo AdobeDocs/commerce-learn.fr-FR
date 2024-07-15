@@ -1,5 +1,5 @@
 ---
-title: Test à l’aide de l’URL du générateur d’applications Adobe Developer
+title: Test à l’aide de l’URL Adobe Developer App Builder
 description: Découvrez comment tester votre première application Adobe Developer App Builder à partir de l’URL App Builder fournie pour votre projet.
 landing-page-description: Découvrez comment tester votre première application Adobe Developer App Builder à partir de l’URL fournie par votre projet.
 kt: 12427
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ---
 
-# Test à l’aide de l’URL du générateur d’applications {#testing-app-builder-url}
+# Test à l’aide de l’URL App Builder {#testing-app-builder-url}
 
 Découvrez comment tester votre nouvelle application Adobe Developer App Builder à l’aide de l’URL de votre projet.
 

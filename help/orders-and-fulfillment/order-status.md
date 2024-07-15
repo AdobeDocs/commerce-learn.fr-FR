@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Gérer l’état de la commande
 
-Lorsqu’un client passe une commande, une commande client est créée en tant qu’enregistrement temporaire de la transaction. La commande client a le statut _En attente_ jusqu’à ce que le paiement soit reçu. Dans l&#39;état En attente , les commandes peuvent être éditées ou annulées jusqu&#39;à la réception du paiement et la génération d&#39;une facture. Dans cette vidéo, découvrez comment vérifier l’état de la commande et ses détails et comment modifier l’état d’une commande, si nécessaire.
+Lorsqu’un client passe une commande, une commande client est créée en tant qu’enregistrement temporaire de la transaction. La commande client a le statut _En attente_ jusqu&#39;à ce que le paiement soit reçu. Dans l&#39;état En attente , les commandes peuvent être éditées ou annulées jusqu&#39;à la réception du paiement et la génération d&#39;une facture. Dans cette vidéo, découvrez comment vérifier l’état de la commande et ses détails et comment modifier l’état d’une commande, si nécessaire.
 
 ## Pour qui est cette vidéo ?
 
@@ -32,5 +32,5 @@ Lorsqu’un client passe une commande, une commande client est créée en tant q
 
 ## Ressources supplémentaires
 
-- [Traitement d’une commande - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [État de la commande - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Traiter une commande - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [État de la commande - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

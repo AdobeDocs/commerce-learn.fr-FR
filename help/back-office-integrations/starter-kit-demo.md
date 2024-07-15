@@ -10,13 +10,13 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f275831ad706fa26a8c200a92a75907a7dc97ba4
+exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
+source-git-commit: 13d30cb06aa5d704aadf77a1f781ba0443c11af5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
 
 ---
-
 
 # Démonstration du kit de démarrage pour les intégrations back-office
 
@@ -29,7 +29,7 @@ Découvrez le kit de démarrage de l’intégration back-office d’Adobe Commer
 
 ## Contenu vidéo
 
-* Configuration d’un projet dans la console Adobe Developer
+* Configuration d’un projet dans Adobe Developer Console
 * Différents espaces de travail
 * Ajout d’une API
 * Types d&#39;authentification

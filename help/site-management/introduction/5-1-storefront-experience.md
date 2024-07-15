@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: d2498d42-fc51-48e0-8239-2ad199003961
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,12 +34,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Portée du compte client - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[ Portée du compte client - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Expérience de storefront de liste de souhaits - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[ Souhaitez une expérience de storefront de liste - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

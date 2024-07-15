@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] pour les utilisateurs professionnels - Paramètres de magasin
+# [!DNL Commerce] pour les utilisateurs professionnels - Paramètres du magasin
 
 Dans cette vidéo :
 
@@ -39,10 +39,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Détails de la boutique - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[Détails du magasin - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

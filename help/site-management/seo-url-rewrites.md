@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,5 @@ L’outil de réécriture d’URL vous permet de modifier toute URL associée à
 
 ## Ressources supplémentaires
 
-- [URL Rewrites - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [Réécritures d’URL - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [Général > Web - [!DNL Commerce] Guide de référence de configuration](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

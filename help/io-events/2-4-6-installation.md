@@ -15,14 +15,14 @@ level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Installation d’Adobe Commerce 2.4.6
 
-Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.6. Documentation supplémentaire disponible sur [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.6. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 
@@ -56,7 +56,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-Commerce Cloud `.magento.env.yaml`:
+Commerce Cloud `.magento.env.yaml` :
 
 ```yaml
 stage:

@@ -34,7 +34,7 @@ Découvrez comment créer un produit téléchargeable à l’aide de l’API RES
 
 ## Domaines téléchargeables autorisés
 
-Vous devez indiquer les domaines autorisés pour autoriser les téléchargements. Les domaines sont ajoutés au `env.php` via la ligne de commande. La variable `env.php` détaille les domaines autorisés à contenir du contenu téléchargeable. Une erreur se produit si un produit téléchargeable est créé à l’aide de l’API REST. _before_  la valeur `php.env` est mis à jour :
+Vous devez indiquer les domaines autorisés pour autoriser les téléchargements. Les domaines sont ajoutés au fichier `env.php` du projet via la ligne de commande. Le fichier `env.php` détaille les domaines autorisés à contenir du contenu téléchargeable. Une erreur se produit si un produit téléchargeable est créé à l’aide de l’API REST _avant_ que le fichier `php.env` soit mis à jour :
 
 ```bash
 {
@@ -44,7 +44,7 @@ Vous devez indiquer les domaines autorisés pour autoriser les téléchargements
 
 Pour définir le domaine, connectez-vous au serveur : `bin/magento downloadable:domains:add www.example.com`
 
-Une fois cette opération terminée, la variable `env.php` est modifié dans la fonction _downloadable_domains_ tableau.
+Une fois cette opération terminée, le `env.php` est modifié dans le tableau _downloadable_domains_.
 
 ```php
     'downloadable_domains' => [
@@ -52,18 +52,18 @@ Une fois cette opération terminée, la variable `env.php` est modifié dans la 
     ],
 ```
 
-Maintenant que le domaine est ajouté à la variable `env.php`, vous pouvez créer un produit téléchargeable dans l’administrateur Adobe Commerce ou à l’aide de l’API REST.
+Maintenant que le domaine est ajouté à `env.php`, vous pouvez créer un produit téléchargeable dans l’administrateur Adobe Commerce ou à l’aide de l’API REST.
 
 Voir [Référence de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) pour en savoir plus.
 
 >[!IMPORTANT]
->Dans certaines versions d’Adobe Commerce, l’erreur suivante peut s’afficher lorsqu’un produit est modifié dans l’administrateur Adobe Commerce. Le produit est créé à l’aide de l’API REST, mais le téléchargement lié comporte une `null` prix.
+>Dans certaines versions d’Adobe Commerce, l’erreur suivante peut s’afficher lorsqu’un produit est modifié dans l’administrateur Adobe Commerce. Le produit est créé à l’aide de l’API REST, mais le téléchargement lié a un prix `null`.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Pour corriger cette erreur, utilisez l’API du lien de mise à jour : `POST V1/products/{sku}/downloadable-links.`
+Pour corriger cette erreur, utilisez l’API de lien de mise à jour : `POST V1/products/{sku}/downloadable-links.`
 
-Voir [Mettre à jour un lien de téléchargement de produit à l’aide de cURL](#update-downloadable-links) pour plus d’informations.
+Pour plus d’informations, consultez la section [Mise à jour d’un lien de téléchargement de produit à l’aide de cURL](#update-downloadable-links) .
 
 ## Créer un produit téléchargeable à l’aide de cURL (téléchargement depuis un serveur distant)
 
@@ -116,20 +116,20 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 Cet exemple montre comment utiliser cURL pour créer un produit téléchargeable depuis l’administrateur Adobe Commerce lorsque le fichier est stocké sur le même serveur que l’application Adobe Commerce.
 
-Dans ce cas pratique, lorsque l’administrateur qui gère le catalogue choisit `upload file`, le fichier est transféré à la fonction `pub/media/downloadable/files/links/` répertoire .  L’automatisation crée les fichiers et les déplace vers leurs emplacements respectifs en fonction du modèle suivant :
+Dans ce cas pratique, lorsque l’administrateur qui gère le catalogue choisit `upload file`, le fichier est transféré vers le répertoire `pub/media/downloadable/files/links/`.  L’automatisation crée les fichiers et les déplace vers leurs emplacements respectifs en fonction du modèle suivant :
 
 - Chaque fichier téléchargé est stocké dans un dossier en fonction des deux premiers caractères du nom du fichier.
 - Lorsque le chargement est lancé, l’application Commerce crée ou utilise des dossiers existants pour transférer le fichier.
-- Lors du téléchargement du fichier, la variable `link_file` de chemin utilise la partie du chemin annexée à la propriété `pub/media/downloadable/files/links/` répertoire .
+- Lors du téléchargement du fichier, la section `link_file` du chemin utilise la partie du chemin annexée au répertoire `pub/media/downloadable/files/links/`.
 
-Par exemple, si le fichier chargé est nommé `download-example.zip`:
+Par exemple, si le fichier téléchargé est nommé `download-example.zip` :
 
-- Le fichier est chargé dans le chemin d’accès. `pub/media/downloadable/files/links/d/o/`.
+- Le fichier est téléchargé vers le chemin d’accès `pub/media/downloadable/files/links/d/o/`.
 Les sous-répertoires `/d` et `/d/o` sont créés s’ils n’existent pas.
 
-- Le chemin d’accès final au fichier est : `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+- Le chemin d’accès final au fichier est `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- La variable `link_url` la valeur de cet exemple est `d/o/download-example.zip`
+- La valeur `link_url` de cet exemple est `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -181,8 +181,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## Mettre à jour le produit à l’aide de Postman {#update-downloadable-links}
 
-Utilisation du point de terminaison `rest/all/V1/products/{sku}/downloadable-links`
-La variable `SKU` est l’identifiant du produit qui a été généré lors de la création du produit. Par exemple, dans l’exemple de code ci-dessous, il s’agit du numéro 39, mais assurez-vous qu’il est mis à jour pour utiliser l’identifiant de votre site web. Ceci met à jour les liens pour les produits téléchargeables.
+Utilisation du point d’entrée `rest/all/V1/products/{sku}/downloadable-links`
+`SKU` est l’ID de produit qui a été généré lors de la création du produit. Par exemple, dans l’exemple de code ci-dessous, il s’agit du numéro 39, mais assurez-vous qu’il est mis à jour pour utiliser l’identifiant de votre site web. Ceci met à jour les liens pour les produits téléchargeables.
 
 ```json
 {

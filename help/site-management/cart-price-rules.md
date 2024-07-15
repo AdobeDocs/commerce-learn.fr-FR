@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
 source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,9 @@ Il existe des scénarios uniques qui exigent que chaque article affiche sa remis
 
 >[!BEGINSHADEBOX]
 
-Règle de prix du panier = 10 % de réduction appliquée à 2 produits dans la condition du panier pour que la règle de prix entre en vigueur : le total des articles dans le panier est 2 Actions appliquez le pourcentage de remise sur le prix du produit et ce montant de remise est 10
+Règle de prix du panier = 10 % de remise appliquée à 2 produits du panier
+Condition de prise en compte de la règle de prix : le total des articles dans le panier est de 2
+Les actions appliquent le pourcentage de remise sur le prix du produit et ce montant de remise est de 10
 
 2 éléments sont ajoutés au panier, chacun étant de 19,95 $
 
@@ -54,36 +56,48 @@ En pensant au propriétaire du site, qui est la seule personne concernée par ce
 
 >[!BEGINSHADEBOX]
 
-Même remise de 10 % que la règle de panier ci-dessus en vigueur Ajoutez 2 produits au panier qui sont de 19,95
+Même remise de 10 % que la règle de panier ci-dessus en vigueur
+Ajoutez 2 produits au panier 19.95.
 
-Chaque produit doit obtenir 1,995 $ de remises Produit 1 - 19,95 x 0,1 = 1,995 2 - 19,95 x 0,1 = 1,995
+Chaque produit doit bénéficier de remises de 1,995 $
+Produit 1 - 19,95 x 0,1 = 1,995
+2 - 19,95 x 0,1 = 1,995
 
 Un total total de 3,99 est fourni en remise au client
 
-Lors de l’affichage des éléments de ligne au propriétaire du magasin dans l’administrateur, nous devons ajuster le premier élément et l’arrondir à 2 000. Le deuxième élément est le troisième produit décimal 1 = 2,00 Produit 2 = 1,99
+Lors de l’affichage des éléments de ligne au propriétaire du magasin dans l’administrateur,
+nous devons ajuster le premier élément et l’arrondir à 2 000. Le deuxième élément est la troisième décimale.
+Produit 1 = 2,00
+Produit 2 = 1,99
 
 La remise totale des deux produits cumulée correspond désormais à la remise réelle accordée à un client.
 >[!ENDSHADEBOX]
 
 Voici une capture d’écran telle qu’elle s’afficherait dans l’administrateur pour une commande qui présente le scénario suivant :
 
-![Affichage par l’administrateur des éléments triés avec des valeurs différentes](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Vue d’administration affichant les éléments triés avec des valeurs différentes](../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Autres solutions potentielles et raisons pour lesquelles elles n’ont pas été utilisées
 
 >[!BEGINSHADEBOX]
 
-Même remise de 10 % que la règle de panier ci-dessus en vigueur Ajoutez 2 produits au panier qui sont de 19,95
+Même remise de 10 % que la règle de panier ci-dessus en vigueur
+Ajoutez 2 produits au panier 19.95.
 
-Chaque produit doit bénéficier de remises de 1,995 $, mais si nous les additionnons, il affiche une remise trop importante.
+Chaque produit doit recevoir 1,995 $ en remises,
+cependant, si nous les additionnons, cela donne trop de réduction.
 
-Produit 1 - 19.95 x 0.1 = 1.995 Produit 2 - 19.95 x 0.1 = 1.995
+Produit 1 - 19,95 x 0,1 = 1,995
+Produit 2 - 19,95 x 0,1 = 1,995
 
-Convertir pour rassembler tous les éléments Produit 1 Nouvelle valeur égale à 2,00 Produit 2 Nouvelle valeur égale à 2,00
+Convertir pour arrondir tous les éléments
+Product 1 Nouvelle valeur : 2,00
+Product 2 Nouvelle valeur : 2,00
 
-Un total total de 3,99 a été effectivement fourni comme une remise au client, mais si nous cumulons, cela montrerait que 4,00 $ ont été donnés, ce qui est incorrect.
+Un total de 3,99 a en fait été accordé en remise au client,
+cependant, si nous additionnons, cela montrerait que 4,00 $ ont été donnés, ce qui est incorrect.
 
-2.00 + 2.00 = $4.00
+2,00 + 2,00 = 4,00 $
 
 >[!ENDSHADEBOX]
 
@@ -91,20 +105,26 @@ Même problème si la troisième décimale était supprimée pour tous les artic
 
 >[!BEGINSHADEBOX]
 
-Même remise de 10 % que la règle de panier ci-dessus en vigueur Ajoutez 2 produits au panier qui sont de 19,95
+Même remise de 10 % que la règle de panier ci-dessus en vigueur
+Ajoutez 2 produits au panier 19.95.
 
-Chaque produit doit obtenir 1,995 $ de remises. Toutefois, si nous faisons glisser la troisième décimale, cela se produit : Produit 1 - 19,95 x 0,1 = 1,995 Produit 2 - 19,95 x 0,1 = 1,995
+Chaque produit doit obtenir des remises de 1,995 $. Toutefois, si nous déposez simplement la troisième décimale, ceci se produit :
+Produit 1 - 19,95 x 0,1 = 1,995
+Produit 2 - 19,95 x 0,1 = 1,995
 
-Convertir pour supprimer la troisième décimale pour tous les éléments Produit 1 Nouvelle valeur : 1,99 Produit 2 Nouvelle valeur : 1,99
+Convertir pour supprimer la troisième décimale de tous les éléments
+Product 1 Nouvelle valeur : 1.99
+Product 2 La nouvelle valeur est 1.99
 
-Un total total de 3,99 a été effectivement fourni comme une remise au client, mais si nous baissions la troisième décimale, cela montrerait que 3,98 $ ont été donnés, ce qui est incorrect.
+Un total de 3,99 a en fait été accordé en remise au client,
+cependant, si nous supprimons la troisième décimale, cela montrerait que 3,98 $ a été donné, ce qui est incorrect.
 
-1.99 + 1.99 = $3.98
+1,99 + 1,99 = 3,98 $
 
 >[!ENDSHADEBOX]
 
 
 ## Ressources supplémentaires
 
-- [Créer une règle de prix du panier - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
-- [Codes de bon - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)
+- [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html)
+- [Codes de bon - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html)

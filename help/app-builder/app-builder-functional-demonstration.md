@@ -1,5 +1,5 @@
 ---
-title: Démonstration fonctionnelle du générateur d’applications
+title: Démonstration fonctionnelle App Builder
 description: Découvrez Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
 landing-page-description: Découvrez Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
 short-description: Découvrez Adobe Developer App Builder utilisé dans Adobe Commerce avec une démonstration technique
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Démonstration fonctionnelle pour App Builder
 
-Pour en savoir plus sur l’utilisation d’Adobe Commerce avec App Builder, visionnez la vidéo ci-dessous qui montre comment connecter Adobe Commerce à Amazon Seller Central. Cette démonstration utilise les événements d’Adobe Commerce qui sont utilisés par App Builder pour activer l’intégration continue à Amazon Marketplace. Cette démonstration fonctionnelle décrit le fonctionnement de cette intégration et explore le potentiel du créateur d’applications Adobe.
+Pour en savoir plus sur l’utilisation d’Adobe Commerce avec App Builder, visionnez la vidéo ci-dessous qui montre comment connecter Adobe Commerce à Amazon Seller Central. Cette démonstration utilise des événements d’Adobe Commerce qui sont consommés par App Builder pour activer l’intégration continue avec Amazon Marketplace. Cette démonstration fonctionnelle décrit le fonctionnement de cette intégration et explore le potentiel d’Adobe App Builder.
 
 ## App Builder pour Adobe Commerce {#app-builder-functional-demonstration}
 

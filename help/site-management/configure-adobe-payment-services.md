@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # Configuration des services de paiement pour Adobe Commerce
 
-Pour commencer à utiliser les services de paiement pour Adobe Commerce et Magento Open Source, vous devez suivre quelques étapes d’intégration. Regardez la _Configuration des services de paiement pour Adobe Commerce_ vidéo pour des exemples de prise en main.
+Pour commencer à utiliser les services de paiement pour Adobe Commerce et Magento Open Source, vous devez suivre quelques étapes d’intégration. Regardez la vidéo _Configurer les services de paiement pour Adobe Commerce_ pour obtenir des exemples de prise en main.
 
 ## Pour qui est cette vidéo ?
 
@@ -32,6 +33,6 @@ Pour commencer à utiliser les services de paiement pour Adobe Commerce et Magen
 
 ## Ressources supplémentaires
 
-- [Services de paiement en ligne](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
+- [Services de paiement intégrés](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/get-started/onboard.html){target="_blank"}
 - [Guide des services de paiement](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
 - [Connecteur Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

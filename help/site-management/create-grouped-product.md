@@ -10,13 +10,13 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: b44376f9f30e3c02d2c43934046e86faac76f17d
+exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
+source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
-
 
 # Créer un produit groupé
 
@@ -31,7 +31,7 @@ Utilisez l’API REST pour créer un produit de groupe dans l’Admin :
 1. Renseignez le produit groupé vide avec des produits simples.
 1. Créez un produit groupé vide et associez les produits simples.
 
-   Lorsque vous associez des produits simples au produit groupé, l’attribut d’ordre de tri (`position`) dans la payload est utilisée par l’interface frontale pour afficher les produits associés dans l’ordre souhaité. Si la variable `position` n’est pas spécifié, les produits sont affichés dans l’ordre dans lequel ils ont été ajoutés au produit groupé.
+   Lorsque vous associez des produits simples au produit groupé, l’attribut d’ordre de tri (`position`) dans la payload est utilisé par l’interface pour afficher les produits associés dans l’ordre souhaité. Si l’attribut `position` n’est pas spécifié, les produits s’affichent dans l’ordre dans lequel ils ont été ajoutés au produit groupé.
 
 Lors de la création de produits groupés à partir de l’administrateur Adobe Commerce, créez d’abord les produits simples. Lorsque vous êtes prêt à créer le produit groupé, associez les produits simples en les affectant au produit groupé dans un seul lot.
 
@@ -158,7 +158,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Ajouter le troisième produit simple au produit groupé existant
 
-Inclure le numéro de position approprié (sauf `1` ou `2`), qui sont utilisés pour les deux premiers produits associés à l’origine au produit groupé. Dans cet exemple, la position est : `4`.
+Insérez le numéro de position approprié (sauf `1` ou `2`), qui sont utilisés pour les deux premiers produits initialement associés au produit groupé. Pour cet exemple, la position est `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -183,10 +183,10 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 
 ## Supprimer un produit simple d’un produit regroupé
 
-À [suppression d’un produit simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) à partir d’un produit groupé, utilisez : `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Pour [supprimer un produit simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) d’un produit groupé, utilisez : `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-Pour découvrir comment utiliser `{type}`, utilisez xdebug pour capturer la requête et évaluer $linkTypes : `related`, `crosssell`, `uupsell`, et `associated`.
-![Types de lien de produit groupé - texte de remplacement](/help/assets/site-management/catalog/grouped-types.png "Types de lien de produit regroupés capturés au cours de la session de débogage")
+Pour découvrir ce qu’il faut utiliser comme `{type}`, utilisez xdebug pour capturer la requête et évaluer $linkTypes: `related`, `crosssell`, `uupsell` et `associated`.
+![ Types de lien de produit groupé - texte de remplacement ](/help/assets/site-management/catalog/grouped-types.png "Types de lien de produit groupé capturés lors de la session xdebug")
 
 Lors de la liaison des produits simples au produit groupé, la payload contenait quelques sections similaires à :
 
@@ -203,9 +203,9 @@ Lors de la liaison des produits simples au produit groupé, la payload contenait
         }
 ```
 
-Dans la payload, la variable `link_type` value `associated` fournit la variable `{type}` valeur requise dans la requête du DELETE. L’URL de demande est similaire à `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+Dans la payload, la valeur `link_type` `associated` fournit la valeur `{type}` requise dans la requête du DELETE. L’URL de demande est similaire à `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Consultez la requête cURL pour supprimer le produit simple avec la fonction `product-sku-three` SKU du produit regroupé avec la variable `my-new-grouped-product` SKU :
+Voir la requête cURL pour supprimer le produit simple avec le SKU `product-sku-three` du produit groupé avec le SKU `my-new-grouped-product` :
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \

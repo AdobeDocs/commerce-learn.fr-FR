@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] Correction de bogues (modification insécable qui corrige un problème)
-- [ ] Nouvelle fonctionnalité (changement incessant qui ajoute une fonctionnalité)
-- [ ] Changement de rupture (correctif ou fonctionnalité qui entraînerait la modification de la fonctionnalité existante)
+- [ ] Correction de bogues (modification non interrompue qui corrige un problème)
+- [ ] Nouvelle fonctionnalité (changement continu qui ajoute des fonctionnalités)
+- [ ] Changement de rupture (correctif ou fonctionnalité qui entraînerait la modification des fonctionnalités existantes)
 
 ## Liste de contrôle :
 
@@ -44,8 +44,8 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Avez-vous suivi le [Normes de nommage](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
-- [ ] La table des matières et le H1 correspondent pour chaque page créée ou mise à jour.
+- [ ] Avez-vous suivi les [normes d’attribution de noms](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] La table des matières et la correspondance H1 pour chaque page créée ou mise à jour.
 - [ ] La table des matières et le H1 sont associés à une action, par exemple : Découvrez comment créer une requête de tirage GutHub
 - [ ] Rien ne doit être monospace dans H1
 - [ ] Chaque titre de page doit commencer par une lettre ***C***apitol

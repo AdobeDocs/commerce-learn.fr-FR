@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ L’organisation de vos produits en catégories est essentielle à la gestion de
 
 ## Ressources supplémentaires
 
-- [Affectations de produits de catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Affectations de produits de catégorie - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
 - [Règles de catégorie pour le marchandisage - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

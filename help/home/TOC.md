@@ -61,9 +61,9 @@ ht-degree: 2%
    + [Démonstration fonctionnelle pour App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Présentation technique d’App Builder](../app-builder/app-builder-technical-overview.md)
    + [Envoyer l’application au Marketplace](../app-builder/submit-app-process.md)
-   + Création de votre première application App Builder {#first-app}
+   + Créez votre première application App Builder {#first-app}
       + [Vue d’ensemble](../app-builder/first-app/overview.md)
-      + [Génération et configuration du fichier .env](../app-builder/first-app/env-file.md)
+      + [Générer et configurer le fichier .env](../app-builder/first-app/env-file.md)
       + [Description et utilisation du fichier app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
       + [En savoir plus sur le dossier actions](../app-builder/first-app/actions-folder.md)
       + [En savoir plus sur le dossier test](../app-builder/first-app/test-folder.md)
@@ -72,21 +72,21 @@ ht-degree: 2%
       + [Test à l’aide de l’URL App Builder](../app-builder/first-app/testing-app-builder-url.md)
       + [Conclusion](../app-builder/first-app/conclusion.md)
       + [Exemple de code source de module](https://github.com/magento/app-builder-samples){target="_blank"}
-   + Événements d’E/S pour Adobe Commerce {#io-events}
+   + Événements IO pour Adobe Commerce {#io-events}
       + [Prise en main des événements E/S](../io-events/getting-started-io-events.md)
       + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Création d’un projet App Builder](../io-events/create-app-builder-project.md)
+      + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de module Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Développement du module Adobe Commerce](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
-   + Mesh de l’API {#api-mesh}
+   + Mesh API {#api-mesh}
       + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
       + [Installation des E/S d’Adobe et du module externe maillage](../api-mesh/installing-aio-mesh-plugin.md)
       + [Utilisation de projets et d’espaces de travail](../api-mesh/aio-projects-workspaces.md)
       + [Création d’un maillage d’API GraphQL source unique](../api-mesh/graphql-single-source.md)
       + [Création de plusieurs mailles d’API GraphQL source](../api-mesh/graphql-multiple-source.md)
-+ Administration des magasins {#admin}
++ Administration de magasins {#admin}
    + [Gestion des rôles et des autorisations des utilisateurs](../site-management/users-roles-permissions.md)
    + [Authentification à deux facteurs](../site-management/two-factor-authentication.md)
    + [Gestion des règles de devise et de taxe](../site-management/currency-tax-rules.md)
@@ -158,13 +158,13 @@ ht-degree: 2%
    + [Visionneuses de filtres](../business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
    + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
-   + [Préparer l&#39;avenir](../business-intelligence/prepare-for-future.md)
+   + [Préparation pour l’avenir](../business-intelligence/prepare-for-future.md)
 + Mises à niveau de Commerce {#upgrade}
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utilisation de l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement principal {#backend-development}
-   + [Bonnes pratiques pour modifier les tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+   + [ Bonnes pratiques pour la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -173,7 +173,7 @@ ht-degree: 2%
    + [PT Query Digest](../backend-development/pt-query-digest.md)
    + [Connexion et téléchargement de la base de données Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
 + Développement de Luma front-end natif {#frontend-development}
-   + Créateur de pages pour les développeurs {#page-builder}
+   + Page Builder pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuration et contenu](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - Thèmes](../frontend-development/page-builder/3-themes.md)
@@ -182,9 +182,9 @@ ht-degree: 2%
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
    + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
    + [Créer une page](../frontend-development/create-page.md)
-+ Architecture headless {#headless-architecture}
++ Architecture sans tête {#headless-architecture}
    + Introduction à headless {#introduction-to-headless}
-      + [Architecture sans tête - Session 1](../headless/session-1.md)
+      + [Architecture sans affichage - Session 1](../headless/session-1.md)
    + Présentation du PWA Studio {#introduction}
       + [1 - Présentation](../pwa/introduction/1-overview.md)
       + [2 - Outils de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)

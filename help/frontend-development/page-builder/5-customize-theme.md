@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: e88e6056-a7c8-4b89-b992-777e74467135
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [Notes de mise à jour de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [Notes de mise à jour du générateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 

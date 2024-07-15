@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Chaque installation d’Adobe Commerce et de Magento Open Source prend en charge
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Sites web, magasins et vues - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-- [Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+- [ Sites Web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [ Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

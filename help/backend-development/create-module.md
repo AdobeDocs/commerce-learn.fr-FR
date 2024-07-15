@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Création d’un module
 
-Le module est un élément structurel de [!DNL Commerce] - l’ensemble du système repose sur des modules. En règle générale, la première étape de la création d’une personnalisation est la création d’un module.
+Le module est un élément structurel de [!DNL Commerce] : l’ensemble du système est construit sur des modules. En règle générale, la première étape de la création d’une personnalisation est la création d’un module.
 
 ## Pour qui est cette vidéo ?
 
@@ -76,7 +76,7 @@ L’étape suivante consiste à ajouter des fonctionnalités à notre module de 
 - disabled et sortOrder sont facultatifs
 - La portée du module externe est définie par le dossier dans lequel il se trouve.
 - Les modules externes peuvent être exécutés avant, après ou après l’appel de la méthode.
-- Éviter d’utiliser `around` modules externes. Ils sont tentants d’utiliser, mais sont souvent le mauvais choix et entraîneront des problèmes de performances.
+- Évitez d’utiliser des modules externes `around`. Ils sont tentants d’utiliser, mais sont souvent le mauvais choix et entraîneront des problèmes de performances.
 
 ### Exemples de code de module externe
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Ressources utiles
 
-- [Guide de référence des modules](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Modules externes](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+- [Guide de référence de module](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+- [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

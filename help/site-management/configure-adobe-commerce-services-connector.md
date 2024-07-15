@@ -1,6 +1,6 @@
 ---
 title: Configuration du connecteur Adobe Commerce Services
-description: Découvrez comment configurer Adobe Commerce Services Connector pour l’utiliser avec les produits SaaS de Commerce et comment résoudre les problèmes courants.
+description: Découvrez comment configurer Adobe Commerce Services Connector pour l’utiliser avec les produits Commerce SaaS et comment résoudre les problèmes courants.
 kt: 14777
 doc-type: video
 audience: all
@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # Configuration du connecteur Adobe Commerce Services
 
-Commerce Services Connector est une configuration développée par Adobe qui déverrouille différentes fonctionnalités SaaS. Pour utiliser les services de paiement pour Adobe Commerce et Magento Open Source, vous devez connecter votre instance de commerce à l’aide des clés d’API de production et d’environnement de test et spécifier l’espace de données dans la configuration pour la configuration.
+Commerce Services Connector est une configuration développée par Adobe qui déverrouille différentes fonctionnalités SaaS. Pour utiliser les services de paiement pour Adobe Commerce et Magento Open Source, vous devez connecter votre instance Commerce à l’aide des clés d’API de production et d’environnement de test et spécifier l’espace de données dans la configuration pour la configuration.
 
-Regardez la _Configuration du connecteur Adobe Commerce Services_ vidéo pour vous aider à configurer les services de paiement.
+Regardez la vidéo _Configurer Adobe Commerce Services Connector_ pour vous aider à configurer les services de paiement.
 
 ## Pour qui est cette vidéo ?
 
@@ -38,7 +39,7 @@ Commerce Services Connector est une configuration développée par Adobe qui dé
 
 - Correction de clés non valides ou publiques.
 - Rotation de la clé d’API de votre boutique.
-- Accédez à l’étape Identifiant SaaS de la configuration du connecteur de services de commerce.
+- Accédez à l’étape Identifiant SaaS de la configuration du connecteur de service Commerce.
 - Résolution des problèmes liés au bouton sandbox lors de l’intégration des services de paiement.
 - Commerce Service Connector ne se charge pas dans l’interface utilisateur.
 

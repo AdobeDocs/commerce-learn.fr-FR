@@ -1,6 +1,6 @@
 ---
 title: Gestion des méthodes d’expédition et de diffusion
-description: Découvrez comment configurer l’origine de la livraison, les frais de livraison multiples, les frais de livraison et les paramètres de l’opérateur pour votre boutique de commerce.
+description: Découvrez comment configurer l’origine de la livraison, les frais de livraison multiples, les frais de livraison et les paramètres de l’opérateur pour votre boutique Commerce.
 kt: 10543
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fccbdb7b-2051-490a-a249-3525f96c51ab
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ La gestion de vos méthodes d’expédition et de livraison est essentielle pour
 
 ## Ressources supplémentaires
 
-- [Paramètres d’expédition - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-- [Méthodes de diffusion de base - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-- [Configuration des opérateurs de livraison - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+- [ Paramètres de livraison - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
+- [ Méthodes de diffusion de base - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
+- [Configuration de l’opérateur de livraison - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)

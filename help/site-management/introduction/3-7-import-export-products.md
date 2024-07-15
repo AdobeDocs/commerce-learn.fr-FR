@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] pour les utilisateurs professionnels - Import et export de produits"
+title: "[!DNL Commerce] pour les utilisateurs professionnels - Importer et exporter des produits"
 description: Découvrez comment importer et exporter vos produits de catalogue.
 kt: 5773
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] pour les utilisateurs professionnels - Import et export de produits
+# [!DNL Commerce] pour les utilisateurs professionnels - Importer et exporter des produits
 
 Dans cette vidéo :
 
@@ -32,12 +32,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Import - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
+[Importation - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[Export - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
+[Exportation - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)

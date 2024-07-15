@@ -25,7 +25,7 @@ Découvrez l’infrastructure cloud et quelques bonnes pratiques de développeme
 ## Pour qui est cette vidéo ?
 
 - Chargés de site web
-- Architectes commerciaux
+- Architectes Commerce
 - Propriétaires d’un site web de commerce électronique
 
 ## Contenu vidéo
@@ -36,9 +36,9 @@ Découvrez l’infrastructure cloud et quelques bonnes pratiques de développeme
 
 - [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
 - [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
-- [CLI COMMERCE CLOUD](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+- [CLI Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
   [Mise à niveau et application de correctifs Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
 - [Liste de contrôle de prélancement d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
-- [Création de tickets d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
+- [Création de tickets d&#39;assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

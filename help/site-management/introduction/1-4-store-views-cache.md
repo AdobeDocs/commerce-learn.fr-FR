@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] pour les utilisateurs professionnels : vues des magasins et effacement de la mémoire cache"
+title: "[!DNL Commerce] pour les utilisateurs professionnels - Vues des magasins et effacement du cache"
 description: Découvrez comment créer des vues de magasin et effacer le cache.
 kt: 5761
 doc-type: video
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,6 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[Sites web, magasins et vues - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[ Sites Web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Gestion du cache - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[ Gestion du cache - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)

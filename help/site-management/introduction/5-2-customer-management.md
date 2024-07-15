@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] pour les utilisateurs professionnels - Gestion des clients"
-description: Découvrez les autorisations recommandées pour le service client, en créant un client dans le [!DNL Admin], de gérer les informations sur les clients et de créer des groupes de clients.
+description: Découvrez les autorisations recommandées pour le service client, la création d’un client dans le  [!DNL Admin], la gestion des informations sur les clients et la création de groupes de clients.
 kt: 5779
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 7a0743ff-03dd-49cc-9d41-6674b71a4480
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,6 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[Création d’un compte client individuel - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Créer un compte client individuel - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Groupes de clients - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[ Groupes clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

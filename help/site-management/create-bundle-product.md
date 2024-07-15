@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # Création d’un produit de lot
 
 Un produit groupé permet de regrouper plusieurs produits sous un produit parent. Ces produits enfants peuvent être un ensemble défini de produits ou proposer quelques variantes qui offrent des options de configuration flexibles aux clients. La configuration des types de produits par lots prend un peu plus de temps et vous devez planifier leur configuration. Cependant, l’offre de produits groupés améliore l’expérience d’achat en facilitant la personnalisation des sélections de produits par les clients.
 
-Par exemple, vous pouvez proposer un groupe de produits appelé `Learning to surf` dans votre boutique Web. Le lot est le produit parent qui sert de conteneur pour les produits enfants attribués qui spécifient les options disponibles :
+Par exemple, vous pouvez proposer un lot de produits appelé `Learning to surf` dans votre boutique Web. Le lot est le produit parent qui sert de conteneur pour les produits enfants attribués qui spécifient les options disponibles :
 
 - Une planche de surf standard
 - Une laisse de surf typique
@@ -69,7 +69,7 @@ Les commandes suivantes créent tous les produits requis pour définir le produi
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
-- Modifier `"attribute-set": 4` à remplacer `4` avec l’identifiant du jeu d’attributs de votre environnement.
+- Modifiez `"attribute-set": 4` pour remplacer `4` par l’identifiant de jeu d’attributs de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ Créez un produit groupé en envoyant la demande de POST suivante.
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
 
-- Modifier `"attribute_set_id": 4,` et remplacer `4` avec l’identifiant du jeu d’attributs de votre environnement.
+- Modifiez `"attribute_set_id": 4,` et remplacez `4` par l’identifiant de jeu d’attributs de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 Lors de la mise à jour des options de produit groupé, veillez à inclure toutes les options que vous souhaitez associer à ce produit. Si votre ensemble d’options d’origine contenait trois produits et qu’un a été supprimé, incluez les trois options dans la demande de POST pour vous assurer que le lot de produits spécifie toutes les options. Si vous avez inclus uniquement l’option que vous avez supprimée, le lot de produits mis à jour inclut uniquement cette option.
 
-Recherchez l’ID d’option en examinant la réponse de création pour le produit du lot. Dans cette réponse, la variable `option_id` is `35`.
+Recherchez l’ID d’option en examinant la réponse de création pour le produit du lot. Dans cette réponse, `option_id` est `35`.
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Ressources supplémentaires
 
-- [Tutoriel sur la création d’un produit de lot](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [Tutoriel sur la création d’un lot](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
 - [Produit groupé](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 - [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 - [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -1,7 +1,7 @@
 ---
-title: Commerce Intelligence - Jeux de filtres
-description: Découvrez comment utiliser la fonction Jeux de filtres de l’intelligence de commerce pour simplifier la création de rapports de données d’entreprise pour Adobe Commerce et Magento Open Source.
-landing-page-description: Regardez cette vidéo pour découvrir comment utiliser la fonction de jeux de filtres de l’intelligence de commerce pour simplifier la création de rapports de données d’entreprise.
+title: Commerce Intelligence - Visionneuses de filtres
+description: Découvrez comment utiliser la fonction Visionneuses de filtres Commerce Intelligence pour simplifier la création de rapports de données d’entreprise pour Adobe Commerce et Magento Open Source.
+landing-page-description: Regardez cette vidéo pour découvrir comment utiliser la fonction des jeux de filtres Commerce Intelligence pour simplifier la création de rapports de données d’entreprise.
 short-description: Regardez cette vidéo pour découvrir comment utiliser la fonction de jeux de filtres MBCommerce IntelligenceI pour simplifier la création de rapports de données d’entreprise.
 kt: 10289
 doc-type: feature video
@@ -16,12 +16,12 @@ level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
-# Commerce Intelligence - Jeux de filtres
+# Commerce Intelligence - Visionneuses de filtres
 
 Voulez-vous analyser uniquement certaines parties de vos données commerciales ? Fatigué de faire un nettoyage manuel ? Dans Commerce Intelligence, vous pouvez utiliser la fonction ensembles de filtres pour simplifier ce processus.
 
@@ -34,7 +34,7 @@ Dans cette vidéo :
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, la variable [Guide de l’utilisateur d’Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} offre un aperçu complet pour obtenir de meilleures informations et de meilleurs résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} offre un aperçu complet pour obtenir de meilleures informations sur l’entreprise et de meilleurs résultats grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## Pour qui est cette vidéo ?
 

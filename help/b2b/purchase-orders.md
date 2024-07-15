@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
 source-git-commit: 05919e15260c0e2c2a684a12bca60a6d6cb536f5
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '138'
 ht-degree: 1%
 
 ---
@@ -41,5 +41,5 @@ Avec les autorisations requises pour leur rôle, les clients B2B peuvent configu
 
 ## Ressources supplémentaires
 
-- [Commandes pour les entreprises](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
-- [Règles d’approbation des commandes d’achat](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}
+- [Commandes d’achat pour les entreprises](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow.html){target="_blank"}
+- [Règles d’approbation de bon de commande](https://experienceleague.adobe.com/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules.html){target="_blank"}

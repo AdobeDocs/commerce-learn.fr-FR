@@ -1,6 +1,6 @@
 ---
 title: Gestion des rôles et des autorisations des utilisateurs
-description: En savoir plus sur les comptes utilisateur et les autorisations utilisées pour contrôler l’accès à [!DNL Commerce] site web et stockage de données dans l’administrateur.
+description: Découvrez les comptes utilisateur et les autorisations utilisés pour contrôler l’accès au site web  [!DNL Commerce] et stocker les données dans l’administrateur.
 kt: 5610
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Si d’autres membres de votre équipe ou fournisseurs de services doivent y avo
 
 ## Ressources supplémentaires
 
-[Gestion des comptes d’utilisateurs administrateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Gérer les comptes d’utilisateurs administrateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
 [Rôles utilisateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

@@ -1,6 +1,6 @@
 ---
 title: Modification de l’URL d’un magasin
-description: Découvrez comment modifier votre [!DNL Commerce] stockez l’URL de base dans l’Admin.
+description: Découvrez comment modifier l’URL de base de la boutique  [!DNL Commerce] dans l’Admin.
 kt: 5605
 doc-type: feature video
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Chaque site web d’une installation Adobe Commerce ou Magento Open Source compo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [URL de magasin - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Utilisez une URL d’administration personnalisée - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [Store URLs - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Utilisation d’une URL d’administration personnalisée - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

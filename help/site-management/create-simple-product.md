@@ -10,9 +10,10 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 89dc3b7f456c9434921ed870369712a721895d02
+exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---

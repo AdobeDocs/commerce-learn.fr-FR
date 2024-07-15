@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] pour les utilisateurs professionnels - Grilles de données"
-description: Découvrez comment utiliser les grilles de données dans le [!DNL Commerce Admin].
+description: Découvrez comment utiliser les grilles de données dans le  [!DNL Commerce Admin].
 kt: 5759
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- Utilisation des grilles de données dans la variable [!DNL Commerce Admin]
+- Utilisation des grilles de données dans le [!DNL Commerce Admin]
 
 ## Pour qui est cette vidéo ?
 
@@ -31,10 +31,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Contrôles de la grille d’administration - [!DNL Commerce] Guide de démarrage](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Admin Grid Control - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

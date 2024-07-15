@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -229,6 +229,6 @@ class InstallData implements InstallDataInterface
 
 ## Ressources utiles
 
-[Création d’un attribut de produit](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
+[Créer un attribut de produit](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Ajout d’un attribut de champ de texte personnalisé](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Ajouter un attribut de champ de texte personnalisé](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

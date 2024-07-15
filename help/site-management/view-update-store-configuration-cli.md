@@ -10,17 +10,17 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # Afficher et définir les configurations d’administrateur à l’aide de la ligne de commande
 
-Une démonstration pour savoir comment afficher, définir et rechercher des valeurs de configuration à l’aide de l’interface de ligne de commande Commerce. Déterminez d’où sont enregistrées les valeurs et d’où viennent les valeurs par défaut.
+Une démonstration pour savoir comment afficher, définir et rechercher des valeurs de configuration avec l’interface de ligne de commande de Commerce. Déterminez d’où sont enregistrées les valeurs et d’où viennent les valeurs par défaut.
 
 ## Pour qui est cette vidéo ?
 
@@ -59,9 +59,9 @@ SELECT * FROM core_config_data WHERE path = 'trans_email/ident_sales/email';
 Comment trouver la valeur de configuration définie quelque part dans le code base ?
 `grep -rnw vendor/magento/ -e 'sales@example.com'`
 
-Pour afficher une page dans un terminal et afficher des numéros de ligne `cat -n vendor/magento/module-email/etc/config.xml`
+Pour afficher une page dans un terminal et afficher les numéros de ligne `cat -n vendor/magento/module-email/etc/config.xml`
 
 ## Ressources supplémentaires
 
-- [Outil Ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+- [Outil de ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 - [Configuration de la sécurité d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

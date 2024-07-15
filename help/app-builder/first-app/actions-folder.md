@@ -1,7 +1,7 @@
 ---
 title: Le dossier des actions
 description: Découvrez les types de fichiers du dossier actions de cet exemple d’application.
-landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers contenus dans le dossier d’actions.
+landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers présents dans le dossier actions.
 kt: 12422
 doc-type: tutorial
 audience: all
@@ -13,26 +13,26 @@ level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # En savoir plus sur le dossier actions {#actions-folder}
 
-La variable `actions` Le dossier de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le code JavaScript affiché est un excellent exemple de fichier qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
+Le dossier `actions` de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le JavaScript illustré est un excellent exemple de fichier qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
 
 Les noms réels des dossiers dans cet exemple sont arbitraires, mais connaître leurs noms peut vous aider à interpréter l’exemple de code. En utilisant une convention d’affectation de nom explicite, vous pouvez éviter toute confusion si l’application devient plus complexe.
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs qui découvrent Adobe Commerce avec une expérience limitée de Adobe App Builder et qui découvrent le dossier des actions dans l’exemple d’application.
+* Les développeurs qui découvrent Adobe Commerce avec une expérience limitée d’Adobe App Builder et qui découvrent le dossier des actions dans l’exemple d’application.
 
 ## Contenu vidéo
 
-* Présentation d’App Builder et de l’exemple de module axé sur le `actions` folder
+* Présentation d’App Builder et de l’exemple de module axé sur le dossier `actions`
 * Utilisation du dossier &quot;actions&quot;
-* L’objectif du fichier JavaScript situé dans la variable `actions` et `commerce` dossiers
+* L’objectif du fichier JavaScript situé dans les dossiers `actions` et `commerce`
 * Présentation rapide des fichiers d’authentification OAuth
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)

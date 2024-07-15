@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # En savoir plus sur le dossier test {#test-folder}
 
-La variable `test` Le dossier de cet exemple d’application contient un seul fichier JavaScript, utilisé lors de l’exécution de tests unitaires sur l’application.
+Le dossier `test` de cet exemple d’application contient un seul fichier JavaScript, utilisé lors de l’exécution de tests unitaires sur l’application.
 
 Il s’agit d’un exemple simple qui peut être développé afin de créer des tests complets pour vos applications spécifiques.
 
 ## Pour qui est cette vidéo ?
 
-* Les développeurs qui découvrent Adobe Commerce avec une expérience limitée de l’utilisation d’Adobe App Builder pour en savoir plus sur le `test` dossier.
+* Les développeurs découvrent Adobe Commerce avec une expérience limitée de l’utilisation d’Adobe App Builder qui souhaitent en savoir plus sur le dossier `test`.
 
 ## Contenu vidéo
 
-* Pourquoi utiliser la variable `test` dossier ?
+* Pourquoi utiliser le dossier `test` ?
 * Une brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 

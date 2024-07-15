@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Les clients ont parfois besoin d’aide pour effectuer un achat. Certains client
 
 ## Ressources supplémentaires
 
-- [Assistance aux acheteurs - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-- [Assistance commerciale - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+- [ Assistance clientèle - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+- [Assistance commerciale - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
