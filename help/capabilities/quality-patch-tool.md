@@ -9,14 +9,18 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 5a2a757bc97c5af25070e448abf119e2e657b6c8
+source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
 
-# A quoi vous attendre en regardant cette vidéo
+# Outil de correctif de qualité Adobe Commerce
+
+Découvrez comment utiliser l’outil de correctif de qualité pour diagnostiquer un problème, trouver une solution et appliquer un correctif trouvé dans la liste existante de correctifs disponibles.
+
+## A quoi vous attendre en regardant cette vidéo
 
 Découvrez comment trier un problème, puis utiliser certaines techniques de base pour trouver un correctif de qualité pour appliquer un correctif.
 
