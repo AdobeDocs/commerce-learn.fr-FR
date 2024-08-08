@@ -1,6 +1,6 @@
 ---
-title: En savoir plus sur l’outil de correctif de qualité
-description: Améliorez la stabilité et la sécurité de votre plateforme de commerce électronique en appliquant des correctifs de qualité. Restez à jour, résolvez les problèmes et optimisez les performances grâce à cet outil essentiel.
+title: Outil Correctif de qualité
+description: Découvrez comment utiliser l’outil de correctif de qualité pour diagnostiquer un problème, trouver une solution et appliquer un correctif trouvé dans la liste existante de correctifs disponibles.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
 
-# Outil de correctif de qualité Adobe Commerce
+# Outil de correctif de qualité
 
 Découvrez comment utiliser l’outil de correctif de qualité pour diagnostiquer un problème, trouver une solution et appliquer un correctif trouvé dans la liste existante de correctifs disponibles.
 
@@ -24,7 +25,7 @@ Découvrez comment utiliser l’outil de correctif de qualité pour diagnostique
 
 Découvrez comment trier un problème, puis utiliser certaines techniques de base pour trouver un correctif de qualité pour appliquer un correctif.
 
-## Pour qui est cette vidéo ?
+## Audience
 
 * Les développeurs apprennent à trouver les problèmes et à utiliser cet outil pour appliquer des correctifs GIT aux problèmes connus
 
@@ -40,7 +41,7 @@ Ces correctifs sont développés par les développeurs Adobes de la communauté 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## Pourquoi utiliser l’outil de correctif de qualité ?
+## Pourquoi utiliser l’outil de correctif de qualité
 
 Vous pouvez utiliser l’outil de correctifs de qualité pour Adobe Commerce ou Magento Open Source si vous souhaitez :
 
