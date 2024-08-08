@@ -1,5 +1,5 @@
 ---
-title: Configuration, déploiement et personnalisation d’un webhook d’ingestion pour intégrer Commerce à un système tiers
+title: Configuration, déploiement et personnalisation d’un webhook d’ingestion
 description: Découvrez comment configurer et personnaliser un webhook d’ingestion pour faciliter la communication entre Commerce et un système back-office tiers.
 landing-page-description: Découvrez comment utiliser le kit de démarrage de l’intégration Commerce pour intégrer Commerce à un système back-office tiers à l’aide d’un webhook d’ingestion.
 kt: 15870
@@ -11,9 +11,9 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
