@@ -11,16 +11,16 @@ feature: Tools and External Services, Communications, Security
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 7873d61123734cbe876ec2f00d552505457053c0
+source-git-commit: fae28537a460ccaa119b5374cff9e96378aad31d
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
 # Configuration des notifications d’alerte New Relic
 
-Découvrez comment rechercher des alertes, des stratégies et des destinations dans New Relic. Observez à quel point il est facile d’ajouter un courrier électronique à une stratégie existante.
+Découvrez comment rechercher des alertes, des stratégies, des workflows et des destinations dans New Relic. Observez à quel point il est facile d’ajouter un courrier électronique à une stratégie existante.
 
 ## Pour qui est cette vidéo ?
 
