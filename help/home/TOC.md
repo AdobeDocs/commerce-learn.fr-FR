@@ -3,10 +3,10 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 3%
+source-wordcount: '712'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
       + [Déploiements, tests, surveillance et sécurité](../cloud/deployments-testing-monitoring-security.md)
       + [Offres SaaS, assistance et communications et prochaines étapes](../cloud/saas-offerings-support-communications-next-steps.md)
    + Bonnes pratiques {#commerce-cloud-best-practices}
+      + [Demande d’assistance](../cloud/best-practices/support-request.md)
       + [Liste de contrôle d’avant le lancement](../cloud/best-practices/pre-launch-checklist.md)
 + Prise en main {#getting-started}
    + Architecture de référence globale{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 3%
       + [Intégration du dernier kilomètre](../back-office-integrations/last-mile-integration.md)
       + [Ingestion Webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mécanisme des reprises](../back-office-integrations/retry-mechanism.md)
+   + Aide et support {#help-and-support}
+      + [Création d’un ticket d’assistance](../help-and-support/create-a-support-ticket.md)
+      + [Recherche, suivi, commentaires et transmission du ticket d’assistance](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [Ajouter et supprimer des observateurs, fermer et rouvrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webinaires et événements {#webinars-and-events}
    + Série d’activation {#enablement-series}
       + [Réduction de la table des matières pour les intégrations Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
