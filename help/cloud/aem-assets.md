@@ -8,9 +8,9 @@ doc-type: Technical Video
 duration: 189
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
+source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,8 @@ L’intégration de l’IA à Adobe Commerce centralise la gestion des ressource
 
 ## Contenu vidéo
 
-- Plus grande efficacité et vitesse. &#x200B;
-- Synchronisation transparente entre les produits et les ressources. &#x200B;
-- Effectuez le contrôle du cycle de vie, y compris l’approbation, la suppression et l’expiration. &#x200B;
+- Plus grande efficacité et vitesse.
+- Synchronisation transparente entre les produits et les ressources.
+- Effectuez le contrôle du cycle de vie, y compris l’approbation, la suppression et l’expiration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
