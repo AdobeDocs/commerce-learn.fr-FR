@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 540
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: 3e8ea2655f92c78465ed4e52ca81289ffed4fd2a
+source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -29,7 +29,7 @@ S’intégrer en toute transparence aux produits Adobe Experience Cloud pour cr�
 
 ## Contenu vidéo
 
-- Amélioration de Personalization grâce aux fonctionnalités de partage de données natives d’Adobe Commerce
+- Amélioration de la personnalisation grâce aux fonctionnalités de partage de données natives d’Adobe Commerce
 - Engagement et fidélité accrus de la clientèle
 - Intégration transparente et vue client unifiée
 
