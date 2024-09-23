@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 278
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16185
-source-git-commit: 2d1118ce273c7d641486f6878b6737bc5c3b2d4f
+source-git-commit: 3d73ed6501bf7b592b03d4243491e49d66be5460
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe Commerce est une plateforme cloud hybride eCommerce disponible sur AWS et 
 ## Contenu vidéo
 
 - Infrastructure évolutive et sécurisée  Découvrez l’infrastructure multi-cloud entièrement redondante sur AWS et Azure, assurant des performances optimisées, une résilience et une évolutivité élastique avec des normes de sécurité et de conformité élevées.
-- Services avancés pilotés par l’IA Vous comprendrez mieux les services intelligents, d’abord axés sur les API, tels que la recherche en direct, les recommandations de produits basées sur l’IA, ainsi que les services de catalogue, afin d’améliorer l’expérience client et l’efficacité opérationnelle. &#x200B;
-- Outils de développement complets. Découvrez la suite d’outils de développement natifs en mode cloud et sans serveur tels que le maillage API et App Builder, ce qui permet une intégration et une personnalisation homogènes pour étendre les fonctionnalités de commerce. &#x200B;
+- Services avancés pilotés par l’IA Vous comprendrez mieux les services intelligents, d’abord axés sur les API, tels que la recherche en direct, les recommandations de produits basées sur l’IA, ainsi que les services de catalogue, afin d’améliorer l’expérience client et l’efficacité opérationnelle.
+- Outils de développement complets. Découvrez la suite d’outils de développement natifs en mode cloud et sans serveur tels que le maillage API et App Builder, ce qui permet une intégration et une personnalisation homogènes pour étendre les fonctionnalités de commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
