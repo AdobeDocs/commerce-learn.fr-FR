@@ -42,3 +42,4 @@ Découvrez l’infrastructure cloud et quelques bonnes pratiques de développeme
 - [Création de tickets d&#39;assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
