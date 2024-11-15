@@ -38,7 +38,7 @@ Découvrez les stratégies de déploiement de Adobe Commerce Cloud, les bonnes p
 - [Outil d’analyse à l’échelle du site SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Assistant intelligent des outils de la CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
 - [Analyse de sécurité](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Pare-feu d’application web WAF Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+- [Pare-feu d’applications web WAF Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
 - [Présentation du service New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
