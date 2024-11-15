@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-source-git-commit: ca8627c7f15f2293960d4f029feab81a83796e48
+exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
+source-git-commit: b3068480fe1e3008daebff40d95388b161b9721e
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
-
 
 # Migration vers Adobe Commerce - Normes de codage en cours
 
@@ -31,4 +31,4 @@ Découvrez les normes et bonnes pratiques essentielles en matière de codage pou
 * Découvrez les bonnes pratiques relatives à PHP, JavaScript et aux personnalisations pour garantir une migration fluide.
 * Obtenez des informations auprès des experts d’Adobe sur la préparation, les performances et la sécurité des projets Adobe Commerce performants.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
