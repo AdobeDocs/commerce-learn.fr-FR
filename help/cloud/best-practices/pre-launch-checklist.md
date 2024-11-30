@@ -11,7 +11,7 @@ last-substantial-update: 2024-04-17T00:00:00Z
 jira: KT-15180
 kt: 15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-source-git-commit: 00a8d6883473de796abc79ef2e9be34f56429a17
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '1605'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 Voici une synthèse de la [documentation de lancement de site](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"} d’Adobe Commerce.
 
-Cette liste de contrôle a pour but de vous aider à planifier et exécuter un lancement réussi du site Adobe Commerce Cloud. Collaborez avec votre intégrateur système pour Adobe Commerce Cloud afin de vous assurer que toutes les tâches de configuration et les éléments de liste de contrôle sont terminés et vérifiés. Si vous rencontrez des difficultés avec des éléments de liste de contrôle ou si vous avez des questions, contactez le conseiller technique du client ou l’ingénieur du service client désigné. Si aucun CTAS/ingénieur du service client n’est affecté à votre compte, vous pouvez créer un ticket d’assistance pour obtenir de l’aide.
+Cette liste de contrôle a pour but de vous aider à planifier et exécuter un lancement réussi du site Adobe Commerce Cloud. Collaborez avec votre intégrateur système pour Adobe Commerce Cloud afin de vous assurer que toutes les tâches de configuration et les éléments de liste de contrôle sont terminés et vérifiés. Si vous rencontrez des difficultés avec des éléments de liste de contrôle ou si vous avez des questions, contactez le conseiller technique du client ou l’ingénieur du service client désigné. Si votre compte ne dispose pas d’un CTA/CSE affecté, vous pouvez créer un ticket d’assistance pour obtenir de l’aide.
 
-Si une CTA/ingénieur du service client est affecté au compte, contactez-le et le gestionnaire de compte au moins 4 semaines avant le lancement du nouveau site Adobe Commerce Cloud pour leur signaler votre **intention** de lancer.
+Si un CTA/CSE est affecté au compte, contactez-le et le gestionnaire de compte au moins 4 semaines avant le lancement du nouveau site Adobe Commerce Cloud pour leur signaler votre **intention** de lancer.
 
 - Certaines vérifications sont surlignées avec [!BADGE Blocker]{type=caution tooltip="Blocage potentiel"}
 - Veillez à collaborer avec votre développeur ou votre partenaire d’intégration du système pour vous aligner sur votre approche de mise en oeuvre.
@@ -43,7 +43,7 @@ Si une CTA/ingénieur du service client est affecté au compte, contactez-le et 
 3. L’utilisateur final/le marchand a effectué des tests UAT (User Acceptation Testing), y compris des opérations principales.
 4. L’équipe d’intégrateur système a effectué des opérations UAT de bout en bout lors de l’évaluation et de la production. Reportez-vous à la [documentation Experience League](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}.
 5. Confirmez le déploiement et le test du code dans les environnements d’évaluation et de production ([En savoir plus](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/develop/test/staging-and-production){target="_blank"}).
-6. La grappe de production a été redimensionnée de manière permanente par rapport à la ligne de base quotidienne convenue. Pour plus d’informations, adressez-vous au CTA/ingénieur du service client affecté ou soulevez un ticket d’assistance.
+6. La grappe de production a été redimensionnée de manière permanente par rapport à la ligne de base quotidienne convenue. Pour plus d’informations, contactez l’ingénieur du service client ou soulevez un ticket d’assistance.
 
 ## 2. Configurations en cours
 
@@ -177,16 +177,16 @@ Si vous rencontrez des problèmes ou si vous ne parvenez pas à démarrer pendan
 - Numéro d’appel gratuit aux États-Unis : (+1) 800 685 3620 (dans le premier menu, appuyez sur la touche 7 pour la hotline Adobe Commerce P1)
 - Local américain : (+1) 408 537 8777
 
-## 11. Activation de Post
+## 11. Après activation
 
-Une fois le site actif, envoyez par courrier électronique le CTA (Customer Technical Advisory), l’ingénieur du service client (Customer Success Engineer) et le gestionnaire de compte (AEM) qui vous ont été attribués. Cependant, si aucun gestionnaire de compte n’est affecté au projet, vous pouvez créer un ticket d’assistance demandant l’activation de la surveillance de niveau élevé de contrat de niveau de service une fois le site mis en ligne. L’ACT/ingénieur du service client effectue les tâches suivantes dès que le site est vérifié pour être lancé avec l’option Fastly activée et mise en cache :
+Une fois le site actif, envoyez par courrier électronique le CTA (Customer Technical Advisory), l’ingénieur du service client (Customer Success Engineer) et le gestionnaire de compte (AEM) qui vous ont été attribués. Cependant, si aucun gestionnaire de compte n’est affecté au projet, vous pouvez créer un ticket d’assistance demandant l’activation de la surveillance SLA élevée une fois le site en ligne. L’ingénieur du service client/CTA effectue les tâches suivantes dès que le site est vérifié pour être lancé avec l’option Fastly activée et mise en cache :
 
-- Marquez la grappe comme étant active et créez un ticket d’assistance pour activer la surveillance des accords de niveau de service (High SLA).
+- Marquez la grappe comme étant active et créez un ticket de support pour activer la surveillance SLA haute (Service Level Agreement).
 - Activez New Relic Synthetics pour la surveillance de la disponibilité.
 
 >[!MORELIKETHIS]
 > 
-> - [Présentation de Launch Readiness - manuel d’implémentation](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/launch/overview){target="_blank"}
+> - [Présentation de Launch Readiness - manuel d’implémentation](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
 > - [Liste de contrôle de Launch - Guide de l’utilisateur](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/checklist){target="_blank"}
 > - [Liste de contrôle de prélancement - Guide de l’administrateur Site Manager/Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
 > - [Modèle de sécurité de la responsabilité partagée](https://experienceleague.adobe.com/en/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}

@@ -11,7 +11,7 @@ last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
-source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
+source-git-commit: 191cfb29de7b4fff5ca73dcd1603b51d852aebd1
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -85,11 +85,10 @@ Découvrez les offres, l’assistance et d’autres communications du service Sa
 - [Cours d’apprentissage Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Forum de la communauté Commerce](https://community.magento.com/)
 -= [Configurer Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
-- [Test de performance](https://experienceleague.adobe.com/docs/commerce-operations/deliver-commerce-at-scale/launch.html)
+- [Test de performance](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
 - [Outil d’analyse à l’échelle du site - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
 - [nouvelle observation des relations pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
   [Correctifs de sécurité](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
 - [Liste de contrôle de lancement](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
-
