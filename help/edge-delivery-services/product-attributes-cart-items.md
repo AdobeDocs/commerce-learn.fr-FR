@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Utilisation des attributs de produit pour les articles du panier
 
-Dans la transcription, un développeur nommé Ali de la marque Acme explique comment personnaliser et étendre le panier Adobe Commerce. Ali répond à trois exigences du projet : afficher les délais de livraison pour les produits en souffrance, afficher les avis de vente retournables et finaux, et appliquer une remise de 25 % pour les paniers avec un sous-total de 75 $ ou plus. En exploitant les attributs et les emplacements du produit, Ali intègre ces fonctionnalités dans le panier, améliorant ainsi l’expérience utilisateur globale et répondant à toutes les exigences du projet.
+Découvrez comment personnaliser et étendre le panier Adobe Commerce. Dans cette démonstration, il y a trois mises à jour.  La démonstration commence par l’affichage des délais de livraison pour les produits en souffrance, l’affichage des avis de vente définitifs et retournables, et l’application d’une remise de 25 % pour les paniers avec un sous-total de 75 $ ou plus. En utilisant les attributs et les emplacements de produit, l’ajout de ces fonctionnalités au panier améliore l’expérience utilisateur globale.
 
 ## À quoi s’attendre en regardant cette vidéo
 

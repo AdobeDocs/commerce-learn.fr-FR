@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
-source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ Découvrez comment ajuster le flux transactionnel pour le passage en caisse à l
 
 ## À quoi s’attendre en regardant cette vidéo
 
-Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Commerce et ajuster le flux transactionnel pour afficher aux clients un nouvel ensemble de fonctionnalités en modifiant quelques lignes de code.  Découvrez également comment convertir ces modifications pour les gérer à partir de SharePoint afin de réaliser des tests AB.
+Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Commerce et ajuster le flux transactionnel pour montrer aux clients un nouvel ensemble de fonctionnalités en modifiant quelques lignes de code.  Découvrez également comment convertir ces modifications pour les gérer à partir de SharePoint afin de réaliser des tests AB.
 
 ## À qui s&#39;adresse cette vidéo ?
 
