@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: Articles du panier Edge Delivery Services
 description: Découvrez les services de diffusion Adobe Edge et comment utiliser les attributs de produit pour afficher de nouvelles informations pour les articles du panier.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Utilisation des attributs de produit et des emplacements pour étendre et personnaliser la fonctionnalité du panier, en veillant à ce que toutes les exigences du projet soient satisfaites.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## Documentation supplémentaire
+
+* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
