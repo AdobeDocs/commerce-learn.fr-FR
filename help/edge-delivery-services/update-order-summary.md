@@ -1,6 +1,6 @@
 ---
-title: Résumé des commandes Edge Delivery Services
-description: Découvrez les services de diffusion Adobe Edge et comment mettre à jour la section de résumé de commande du menu déroulant Commerce.
+title: Résumé des commandes Edge Delivery Services dans le passage en caisse
+description: Découvrez les services de diffusion Adobe Edge et comment mettre à jour la section de résumé de commande du menu déroulant Commerce lors du passage en caisse.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Mettre à jour le résumé du panier
+# Mettre à jour le résumé du panier lors du passage en caisse
 
 Découvrez comment apporter des modifications au résumé de commande du menu déroulant du panier Adobe Commerce pour les Edge Delivery Services.  Il existe plusieurs exemples de la manière d’améliorer rapidement la mise en page ou les informations fournies au client lors du passage en caisse.
 

@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 7d10b42c5ff4753eed616de8b472d0c662d3ed9d
+source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
 workflow-type: tm+mt
-source-wordcount: '795'
+source-wordcount: '797'
 ht-degree: 3%
 
 ---
@@ -80,7 +80,7 @@ ht-degree: 3%
    + Prise en main {#getting-started}
       + [Modifier le flux transactionnel](../edge-delivery-services/transactional-flow.md)
       + [Utilisation des attributs de produit pour les articles du panier](../edge-delivery-services/product-attributes-cart-items.md)
-      + [Mettre à jour la synthèse des commandes](../edge-delivery-services/update-order-summary.md)
+      + [Mettre à jour la synthèse des commandes lors du passage en caisse](../edge-delivery-services/update-order-summary.md)
       + [Ajout de BOPIS au passage en caisse](../edge-delivery-services/add-bopis-to-checkout.md)
 + Webinaires et événements {#webinars-and-events}
    + Série d’activation {#enablement-series}
