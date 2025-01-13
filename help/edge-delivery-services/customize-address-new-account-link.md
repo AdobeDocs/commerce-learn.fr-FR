@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# Mise à jour de l’amélioration du passage en caisse de commerce électronique : disposition de formulaire d’adresse personnalisée et intégration de recherche d’adresse Google
+# Mise en page du formulaire d’adresse personnalisée et intégration de la recherche d’adresse Google
 
 Découvrez comment personnaliser la disposition du formulaire d’adresse lors du passage en caisse pour vous assurer que tous les champs ont une largeur de 50 %, à l’exception de la zone de texte. Découvrez une approche de l’utilisation d’une API tierce intégrée, en particulier l’API Google Address, pour activer la recherche et la validation d’adresse automatique dans le formulaire d’adresse. &#x200B; Découvrez comment ajouter un nouvel élément de menu de barre latérale au tableau de bord du compte d’utilisateur, en établissant un lien vers une page personnalisée pour un localisateur de magasin.
 
