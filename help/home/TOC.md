@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 16aac3305ed52ab29eb003abf39dba0bc882029d
+source-git-commit: 7988dcc031956b880b67363a6c9b2705dbe7b4af
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '819'
 ht-degree: 3%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 3%
       + [Mettre à jour la synthèse des commandes lors du passage en caisse](../edge-delivery-services/update-order-summary.md)
       + [Ajout de BOPIS au passage en caisse](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Personnaliser le passage en caisse](../edge-delivery-services/customize-checkout.md)
+      + [Ajuster l’adresse, y compris la saisie automatique et le nouveau lien mon compte](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinaires et événements {#webinars-and-events}
    + Série d’activation {#enablement-series}
       + [Réduction de la table des matières pour les intégrations Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
