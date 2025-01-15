@@ -1,7 +1,6 @@
 ---
-title: Comment tirer parti de l’architecture de référence globale ?
-description: Découvrez comment tirer parti d’une architecture de référence mondiale pour établir une expérience commerciale évolutive et résiliente
-landing-page-description: Découvrez l’architecture de référence globale et son utilisation avec Adobe Commerce
+title: Monorepo d’architecture de référence globale
+description: Découvrez comment utiliser l’approche monorepo pour une architecture de référence mondiale afin d’établir une expérience commerciale évolutive et résiliente
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -11,9 +10,9 @@ badge: label="Contribution Tony Evers, architecte technique principal, Adobe" ty
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
+source-git-commit: 421c6de9421d715127d0c892dc05ef22f77149cf
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1371'
 ht-degree: 0%
 
 ---
