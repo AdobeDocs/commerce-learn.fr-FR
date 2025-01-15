@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # Mise en page du formulaire d’adresse personnalisée et intégration de la recherche d’adresse Google
 
@@ -36,7 +38,7 @@ Les chefs de projet qui doivent suivre l’avancement des tâches de développem
 * Des largeurs de champ cohérentes dans le Forms de passage en caisse pour personnaliser le formulaire d’adresse lors du passage en caisse afin de garantir tous les champs.
 * Intégration de l’API Google Address pour activer la recherche et la fin automatiques d’adresses, ce qui réduit les erreurs d’entrée utilisateur et rationalise le processus de passage en caisse.
 * la validation et la gestion des erreurs pour les champs d’entrée d’adresse, en veillant à ce que les utilisateurs reçoivent un retour immédiat sur les entrées incorrectes ou incomplètes, ce qui améliore leur expérience ;
-* Extension du tableau de bord du compte d’utilisateur qui ajoute un nouvel élément de menu de barre latérale au tableau de bord du compte d’utilisateur
+* Extension du tableau de bord du compte d’utilisateur qui ajoute un nouvel élément de menu de barre latérale au tableau de bord du compte d’utilisateur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
