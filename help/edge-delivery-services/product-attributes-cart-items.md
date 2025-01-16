@@ -10,9 +10,9 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment personnaliser et étendre le panier Adobe Commerce. Dans cette démonstration, il y a trois mises à jour.  La démonstration commence par l’affichage des délais de livraison pour les produits en souffrance, l’affichage des avis de vente définitifs et retournables, et l’application d’une remise de 25 % pour les paniers avec un sous-total de 75 $ ou plus. En utilisant les attributs et les emplacements de produit, l’ajout de ces fonctionnalités au panier améliore l’expérience utilisateur globale.
 
-## À quoi s’attendre en regardant cette vidéo
+## Ce que vous apprendrez
 
 Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Commerce et ajuster le flux transactionnel pour afficher aux clients un nouvel ensemble de fonctionnalités en modifiant quelques lignes de code.  Découvrez également comment convertir ces modifications pour les gérer à partir de SharePoint afin de réaliser des tests AB.
 

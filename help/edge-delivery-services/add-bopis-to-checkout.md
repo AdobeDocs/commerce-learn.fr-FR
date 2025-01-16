@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 331
 last-substantial-update: 2024-12-19T00:00:00Z
 jira: KT-16699
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment ajouter les composants nécessaires au passage en caisse Edge Delivery Services qui permet d’effectuer un achat en ligne et un retrait en magasin, également appelé BOPIS.
 
-## À quoi s’attendre en regardant cette vidéo
+## Ce que vous apprendrez
 
 Découvrez comment utiliser le panier Adobe Commerce à partir des Edge Delivery Services pour fournir des fonctionnalités BOPIS.
 

@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment ajuster le flux transactionnel pour le passage en caisse à l’aide du menu déroulant du panier de Edge Delivery Services.
 
-## À quoi s’attendre en regardant cette vidéo
+## Ce que vous apprendrez
 
 Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Commerce et ajuster le flux transactionnel pour montrer aux clients un nouvel ensemble de fonctionnalités en modifiant quelques lignes de code.  Découvrez également comment convertir ces modifications pour les gérer à partir de SharePoint afin de réaliser des tests AB.
 

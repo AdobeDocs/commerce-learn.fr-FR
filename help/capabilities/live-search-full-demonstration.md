@@ -1,6 +1,6 @@
 ---
-title: Démonstration complète de la recherche en direct
-description: Regardez une démonstration complète des fonctionnalités et de la flexibilité de la recherche en direct .
+title: Démonstration complète de Live Search
+description: Regardez une démonstration complète des fonctionnalités et de la flexibilité de Live Search
 kt: 13168
 doc-type: tutorial
 audience: all
@@ -10,34 +10,34 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 1ef99de8-3594-4783-a5f3-227e131cecde
-source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # Démonstration complète d’Adobe Commerce Live Search
 
-Une démonstration complète d’Adobe Live Search.
+Démonstration complète de la recherche Adobe Live.
 
-## A quoi vous attendre en regardant cette vidéo
+## Ce que vous apprendrez
 
-Découvrez comment utiliser les configurations et paramètres de recherche Adobe Live. Obtenez une meilleure compréhension des facettes, des rapports et des synonymes.
+Découvrez comment utiliser les configurations et paramètres de recherche Adobe Live. Apprenez à mieux comprendre les facettes, les rapports et les synonymes.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Développeurs et propriétaires de magasins qui découvrent Adobe Live Search et qui souhaitent en savoir plus.
+* Développeurs et propriétaires de boutique qui découvrent Adobe Live Search et souhaitent en savoir plus.
 
 ## Contenu vidéo
 
-* En savoir plus sur les facettes destinées aux clients
+* En savoir plus sur les facettes orientées client
 * Qu’est-ce qu’une API ?
-* Rapports de recherche en direct
-* En savoir plus sur la configuration de back-office pour les facettes et leur utilisation
-* Découvrez les synonymes
+* Rapports Live Search
+* Découvrez la configuration de back-office des facettes et leur utilisation
+* En savoir plus sur les synonymes
 * Marchandisage intelligent
-* Explication des types de classement basés sur des règles
-* Présentation de l’API GraphQL
+* Présentation des types de classement basés sur des règles
+* Introduction à l’API GraphQL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

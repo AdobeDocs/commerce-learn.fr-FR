@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Découvrez comment apporter des modifications au résumé de commande du menu déroulant du panier Adobe Commerce pour les Edge Delivery Services.  Il existe plusieurs exemples de la manière d’améliorer rapidement la mise en page ou les informations fournies au client lors du passage en caisse.
 
-## À quoi s’attendre en regardant cette vidéo
+## Ce que vous apprendrez
 
 Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Commerce et ajuster l’expérience du panier.  Il existe plusieurs façons d’améliorer le panier en apportant des modifications ou des mises à jour mineures au code.
 
