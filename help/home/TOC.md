@@ -3,15 +3,15 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Vidéos et Tutorials Adobe Commerce {#tutorials}
+# Vidéos et tutoriels Adobe Commerce {#tutorials}
 
 + [Tutoriels [!DNL Commerce]](overview.md)
 + {#adobe-commerce-cloud} Adobe Commerce Cloud
@@ -89,7 +89,7 @@ ht-degree: 3%
       + [Mettre à jour la synthèse des commandes lors du passage en caisse](../edge-delivery-services/update-order-summary.md)
       + [Ajout de BOPIS au passage en caisse](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Personnaliser le passage en caisse](../edge-delivery-services/customize-checkout.md)
-      + [Ajuster l’adresse, y compris la saisie automatique et le nouveau lien mon compte](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Personnalisation de la disposition d’une adresse](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinaires et événements {#webinars-and-events}
    + Série d’activation {#enablement-series}
       + [Réduction de la table des matières pour les intégrations Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
@@ -128,7 +128,7 @@ ht-degree: 3%
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
    + {#api-mesh} du maillage API
       + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
-      + [Installation du plug-in Adobe IO et mesh](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
       + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
       + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
       + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
    + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
    + [Gestion des règles de produits associés](../site-management/related-product-rules.md)
-   + [Configuration de Product Recommendations](../site-management/product-recommendations.md)
+   + [Configurer des recommandations de produits](../site-management/product-recommendations.md)
    + [Présentation de Live Search](../site-management/live-search.md)
    + [Live Search de recommandations](../site-management/live-search-recommendations.md)
    + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
@@ -207,7 +207,7 @@ ht-degree: 3%
    + [Rapports et tableaux de bord](../business-intelligence/reports-and-dashboards.md)
    + [Jeux de filtres](../business-intelligence/filter-sets.md)
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
-   + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Préparer l’avenir](../business-intelligence/prepare-for-future.md)
 + Mises à niveau de Commerce {#upgrade}
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
@@ -235,9 +235,9 @@ ht-degree: 3%
 + {#headless-architecture} de l’architecture découplée
    + Présentation du {#introduction-to-headless} découplé
       + [Architecture découplée - Session 1](../headless/session-1.md)
-   + Présentation de la {#introduction} du PWA Studio
+   + Présentation de PWA Studio {#introduction}
       + [1 - Présentation](../pwa/introduction/1-overview.md)
-      + [2 - outils de PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Lancement](../pwa/introduction/3-launch.md)
       + [4 - VERS LE HAUT](../pwa/introduction/4-upward.md)
       + [5 - Prise en main](../pwa/introduction/5-getting-started.md)

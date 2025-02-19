@@ -1,5 +1,5 @@
 ---
-title: 'Edge Delivery Services : personnalisation de l’adresse, y compris la saisie automatique'
+title: Edge Delivery Services personnaliser l’adresse, y compris la saisie automatique
 description: Découvrez comment personnaliser les formulaires de passage en caisse de commerce électronique et intégrer la recherche d’adresse Google pour améliorer l’expérience utilisateur et réduire les erreurs de saisie.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Mise en page du formulaire d’adresse personnalisée et intégration de la recherche d’adresse Google
+# Personnalisation de la disposition d’une adresse
 
 Découvrez comment personnaliser la disposition du formulaire d’adresse lors du passage en caisse pour vous assurer que tous les champs ont une largeur de 50 %, à l’exception de la zone de texte. Découvrez une approche de l’utilisation d’une API tierce intégrée, en particulier l’API Google Address, pour activer la recherche et la validation d’adresse automatique dans le formulaire d’adresse. &#x200B; Découvrez comment ajouter un nouvel élément de menu de barre latérale au tableau de bord du compte d’utilisateur, en établissant un lien vers une page personnalisée pour un localisateur de magasin.
 
