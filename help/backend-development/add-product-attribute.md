@@ -1,6 +1,6 @@
 ---
 title: Création d’un attribut de produit
-description: Créez une page qui renvoie json avec un paramètre.
+description: Créez une page qui renvoie un fichier json avec un paramètre.
 kt: 14131
 doc-type: video
 activity: use
@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
+source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,14 +23,14 @@ L’ajout d’un attribut de produit est l’une des opérations les plus popula
 
 Dans cette vidéo :
 
-- Ajoutez un attribut appelé clothing_Matériau avec les valeurs possibles : Coton, Cuir, Silk, Denim, Fourrure et Laine
-- Rendre cet attribut visible sur la page de consultation du produit, en gras, en texte
-- Affectez-la au jeu d’attributs par défaut et ajoutez une restriction
+- Ajoutez un attribut appelé habillement_matériau avec les valeurs possibles : coton, cuir, soie, denim, fourrure et laine
+- Rendre cet attribut visible sur la page de consultation du produit, en gras
+- Attribuez-le au jeu d’attributs par défaut et ajoutez une restriction
 - Ajouter le nouvel attribut
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Les développeurs qui découvrent le commerce et qui doivent apprendre à créer un attribut de produit par programmation
+- Développeurs peu familiers avec le commerce qui doivent apprendre à créer un attribut de produit par programmation
 
 ## Contenu vidéo
 
@@ -38,14 +38,14 @@ Dans cette vidéo :
 
 ## Exemple de code
 
-Créez d’abord les dossiers, les fichiers xml et PHP nécessaires :
+Créez d&#39;abord les dossiers, les fichiers xml et PHP nécessaires :
 
 - app/code/Learning/ClothingMaterial/registration.php
 - app/code/Learning/ClothingMaterial/etc/module.xml
 - app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -64,7 +64,9 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Si votre module utilise un schéma déclaratif et que la plupart d’entre eux utilisent depuis la version 2.3.0, vous devez omettre setup_version. Toutefois, si vous disposez de projets hérités, cette méthode peut être utilisée.  Voir [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} pour plus d’informations.
+>Si votre module utilise un schéma déclaratif, et que la plupart l’ont fait depuis la version 2.3.0, vous devez omettre setup_version. Toutefois, si vous disposez de projets hérités, il se peut que cette méthode soit utilisée.  Voir [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} pour plus d’informations.\
+>REMARQUE : pour que cet exemple de code fonctionne, vous devez inclure setup_version, sinon InstallData.php ne s&#39;exécute pas.
+
 
 
 ```xml
@@ -76,6 +78,10 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>Veillez à utiliser l’identifiant de jeu d’attributs qui se trouve dans votre projet. Dans cet exemple, il s’agit du chiffre 9.
 
 ```php
 <?php
@@ -161,7 +167,7 @@ class Material extends AbstractSource
 }
 ```
 
-### app/code/Learning/ClothingMaterial/Setup/installData.php
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ```php
 <?php
@@ -205,7 +211,7 @@ class InstallData implements InstallDataInterface
             Product::ENTITY,
             'clothing_material',
             [
-                'group'         => 'General',
+                'group'         => 'Product Details',
                 'type'          => 'varchar',
                 'label'         => 'Clothing Material',
                 'input'         => 'select',
@@ -228,7 +234,5 @@ class InstallData implements InstallDataInterface
 ```
 
 ## Ressources utiles
-
-[Créer un attribut de produit](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
 [Ajouter un attribut de champ de texte personnalisé](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
