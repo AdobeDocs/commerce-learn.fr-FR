@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 98c1b61b6fec015c03a34b92f81acc530ebfa92b
+source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '828'
 ht-degree: 3%
 
 ---
@@ -19,6 +19,7 @@ ht-degree: 3%
       + [SSL non valide](../cloud/troubleshooting/invalid-ssl.md)
       + [Trier et résoudre 2 erreurs courantes du site](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valeurs de configuration](../cloud/troubleshooting/config-values.md)
+      + [Tronquer les logs](../cloud/troubleshooting/truncate-logs.md)
    + [Marketing](../cloud/marketecture.md)
    + [Modèle de diffusion global](../cloud/global-delivery-model.md)
    + [Rôles d’administrateur](../cloud/admin-roles.md)
