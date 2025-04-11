@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
-source-git-commit: a14a878217a145ecee0b29247ec7ccb224edd883
+exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
+source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-
-# Découvrez comment détecter des adresses IP pour tous les types d’environnements dans votre projet Commerce Cloud
+# Détection des adresses IP pour différents environnements
 
 Découvrez comment détecter des adresses IP pour différents environnements dans un projet Adobe Commerce Cloud. En utilisant une série de commandes, notamment Adobe Commerce CLI, sed, xargs, dig, grep et sort -u, les utilisateurs peuvent identifier les adresses IP pour les environnements de développement, d’évaluation et de production.
 
