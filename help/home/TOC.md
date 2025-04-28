@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 3f6d35a8c11e86524b5e97b19bd481d2b715fdbe
+source-git-commit: 5b9590d7acd87077bcabcf4dad98a0175d912c90
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '853'
 ht-degree: 3%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 3%
 # Vidéos et tutoriels Adobe Commerce {#tutorials}
 
 + [Tutoriels [!DNL Commerce]](overview.md)
-+ {#adobe-commerce-cloud} Adobe Commerce Cloud
-   + {#troubleshooting} de dépannage
++ Adobe Commerce Cloud {#adobe-commerce-cloud}
+   + Dépannage {#troubleshooting}
       + [SSL non valide](../cloud/troubleshooting/invalid-ssl.md)
       + [Trier et résoudre 2 erreurs courantes du site](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valeurs de configuration](../cloud/troubleshooting/config-values.md)
@@ -31,38 +31,38 @@ ht-degree: 3%
    + [Données et promotions des leads d’expérience](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [Migration depuis une solution auto-hébergée](../cloud/overview.md)
-   + Intégration technique et {#technical-onboarding-hardware-handoff} de remise du matériel
+   + Intégration technique et remise du matériel {#technical-onboarding-hardware-handoff}
       + [Bonnes pratiques en matière d’infrastructure et de développement](../cloud/infrastructure-development-best-practices.md)
       + [Rapide](../cloud/fastly.md)
       + [Configuration et débogage](../cloud/configuration-and-debugging.md)
       + [Déploiements, tests, surveillance et sécurité](../cloud/deployments-testing-monitoring-security.md)
       + [Offres SaaS, support et communications et étapes suivantes](../cloud/saas-offerings-support-communications-next-steps.md)
-   + {#commerce-cloud-best-practices} des bonnes pratiques
+   + Bonnes pratiques {#commerce-cloud-best-practices}
       + [Demande d’assistance](../cloud/best-practices/support-request.md)
       + [Liste de contrôle de prélancement](../cloud/best-practices/pre-launch-checklist.md)
 + Prise en main {#getting-started}
-   + {#commerce-as-a-cloud-service} Commerce as a Cloud Service
+   + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Vue d’ensemble](../commerce-as-a-cloud-service/overview.md)
       + [Architecture](../commerce-as-a-cloud-service/architecture.md)
    + Migration vers Adobe Commerce{#migrating-to-adobe-commerce}
       + [Vue d’ensemble](../migrating-to-adobe-commerce/overview.md)
-      + Préparation {#preparation}
+      + Préparation{#preparation}
          + [Évaluer l&#39;équipe et le projet](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-      + Personnalisations {#customizations}
+      + Personnalisations{#customizations}
          + [Normes de code en cours de traitement](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-      + QA {#qa}
+      + QA{#qa}
          + [Gel du code](../migrating-to-adobe-commerce/qa/code-freeze.md)
-   + Architecture de référence globale {#global-reference-architecture}
+   + Architecture de référence globale{#global-reference-architecture}
       + [Architecture de référence globale](../global-reference-architecture/what-is-global-reference-architecture.md)
       + [Utilisation de l’architecture de référence globale](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Architecte GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implémentation de l’architecture de référence globale](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + {#capabilities} des fonctionnalités de Commerce
+   + Fonctionnalités de Commerce {#capabilities}
       + [Connexion aux données](../capabilities/data-connection.md)
       + [Démonstration complète de Live Search](../capabilities/live-search-full-demonstration.md)
       + [Commerce composable](../capabilities/what-is-composable-commerce.md)
       + [Outil Correctif de qualité](../capabilities/quality-patch-tool.md)
-   + Créer des {#create-products} de produits
+   + Créer des produits {#create-products}
       + [Produit simple](../site-management/create-simple-product.md)
       + [Produit virtuel](../site-management/create-virtual-product.md)
       + [Produit téléchargeable](../site-management/create-downloadable-product.md)
@@ -70,26 +70,26 @@ ht-degree: 3%
       + [Produit configurable](../site-management/create-configurable-product.md)
       + [Produit groupé](../site-management/create-bundle-product.md)
       + [Produit de carte cadeau](../site-management/create-gift-card-product.md)
-   + Kit de démarrage d’intégration back-office {#back-office-integration-starter-kit}
+   + Kit de démarrage de l’intégration back-office {#back-office-integration-starter-kit}
       + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
       + [Intégrations](../back-office-integrations/integrations.md)
       + [Organisation du code Source](../back-office-integrations/source-code-organization.md)
       + [Intégration du dernier kilomètre](../back-office-integrations/last-mile-integration.md)
       + [Ingestion du Webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
-+ {#adobe-commerce-optimizer} Adobe Commerce Optimizer
++ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
    + [Vue d’ensemble](../adobe-commerce-optimizer/overview.md)
-+ {#global-reference-architecture-implementation-techniques} d’architecture de référence globale
++ Architecture de référence globale {#global-reference-architecture-implementation-techniques}
    + [Vue d’ensemble](../global-reference-architecture/overview.md)
    + [Fractionner Git](../global-reference-architecture/split-git.md)
    + [Packages en bloc](../global-reference-architecture/bulk-packages.md)
    + [Packages distincts](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ {#help-and-support} d’aide et de support
++ Aide et support {#help-and-support}
    + [Créer un ticket d’assistance](../help-and-support/create-a-support-ticket.md)
    + [Rechercher, suivre, commenter et escalader le ticket d’assistance](../help-and-support/search-track-comment-escalate-support-ticket.md)
    + [Ajouter et supprimer des observateurs, fermer et rouvrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-+ {#edge-delivery-services} Edge Delivery Services
++ Edge Delivery Services {#edge-delivery-services}
    + Prise en main {#getting-started}
       + [Modifier le flux transactionnel](../edge-delivery-services/transactional-flow.md)
       + [Utilisation des attributs de produit pour les articles du panier](../edge-delivery-services/product-attributes-cart-items.md)
@@ -104,12 +104,18 @@ ht-degree: 3%
       + [Planification de la mise en œuvre moderne d’Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Lancement, post-lancement, surveillance et dépannage](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
       + [Edge Delivery Services avec Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-+ {#graphql-rest} GraphQL et REST
+   + Conversations Commerce {#commerce-conversations}
+      + [Qu’est-ce que le succès des experts ?](../commerce-conversations/what-is-expert-success.md)
+      + [Modules complémentaires de prise en charge de Commerce](../commerce-conversations/commerce-support-add-ons.md)
+      + [Qu’est-ce que la réussite ultime ?](../commerce-conversations/what-is-ultimate-success.md)
+      + [Préparation technique des accélérateurs de succès](../commerce-conversations/success-accelerators-technical-readiness.md)
+      + [Adoption et activation des accélérateurs de succès](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
++ GraphQL et REST {#graphql-rest}
    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
    + [Requêtes](../graphql-rest/graphql-queries.md)
    + [Mutations](../graphql-rest/graphql-mutations.md)
    + [Schéma](../graphql-rest/graphql-schema.md)
-+ {#adobe-developer-app-builder} Adobe Developer App Builder
++ Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
    + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Démonstration fonctionnelle d’App Builder](../app-builder/app-builder-functional-demonstration.md)
@@ -134,13 +140,13 @@ ht-degree: 3%
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
       + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
-   + {#api-mesh} du maillage API
+   + Maillage API {#api-mesh}
       + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
       + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
       + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
       + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
       + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
-+ {#admin} d’administration du magasin
++ Administration de la boutique {#admin}
    + [Gérer les rôles utilisateur et les autorisations](../site-management/users-roles-permissions.md)
    + [Authentification À Deux Facteurs](../site-management/two-factor-authentication.md)
    + [Gérer les règles de devise et de taxe](../site-management/currency-tax-rules.md)
@@ -150,16 +156,16 @@ ht-degree: 3%
    + [Modes d’expédition et de livraison](../site-management/shipping-delivery.md)
    + [Grilles et filtres d’administration](../site-management/admin-grids-and-filters.md)
    + [interface de ligne de commande Commerce](../site-management/view-update-store-configuration-cli.md)
-   + {#adobe-commerce-services} des services Adobe Commerce
+   + Services Adobe Commerce {#adobe-commerce-services}
       + [Configuration du connecteur de services Commerce](../site-management/configure-adobe-commerce-services-connector.md)
       + [Configuration des services de paiement](../site-management/configure-adobe-payment-services.md)
       + [Utilisation des services de paiement](../site-management/payment-services.md)
-+ {#customers} de la gestion des clients
++ Gestion des clients {#customers}
    + [Créer des segments clients](../site-management/customer-segments.md)
    + [Créer des groupes de clients](../site-management/customer-groups.md)
    + [Créer des attributs de client](../site-management/customer-attributes.md)
    + [Achats Assistés Par Le Vendeur](../site-management/seller-assisted-shopping.md)
-+ {#catalog} de gestion des catalogues
++ Gestion des catalogues {#catalog}
    + [Créer une catégorie](../site-management/category-create.md)
    + [Gestion des produits dans une catégorie](../site-management/category-products.md)
    + [Inventory management](../site-management/inventory-management.md)
@@ -169,14 +175,14 @@ ht-degree: 3%
    + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../site-management/seo-url-rewrites.md)
    + [Visionneuse AR](../site-management/augmented-reality.md)
    + [Importation et mise à jour de catalogues](../site-management/catalog-import.md)
-+ {#content} de gestion de contenu
++ Gestion de contenu {#content}
    + [Présentation de Page Builder](../site-management/page-builder-overview.md)
    + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
    + [Création de widgets](../site-management/widgets.md)
    + [Utiliser des modèles de contenu](../site-management/content-templates.md)
    + [Évaluation du contenu](../site-management/content-staging.md)
    + [Gestion de la galerie de médias](../site-management/media-gallery.md)
-+ {#marketing} des outils marketing
++ Outils marketing {#marketing}
    + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
    + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
    + [Gestion des règles de produits associés](../site-management/related-product-rules.md)
@@ -184,11 +190,11 @@ ht-degree: 3%
    + [Présentation de Live Search](../site-management/live-search.md)
    + [Live Search de recommandations](../site-management/live-search-recommendations.md)
    + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
-+ {#orders} Commandes et exécution
++ Commandes et exécution {#orders}
    + [Présentation de l&#39;exécution des commandes en magasin](../orders-and-fulfillment/store-fulfillment.md)
    + [Gérer le statut de la commande](../orders-and-fulfillment/order-status.md)
    + [Vérification du statut du stock](../orders-and-fulfillment/checking-inventory-status.md)
-+ {#b2b} B2B pour Adobe Commerce
++ B2B pour Adobe Commerce {#b2b}
    + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
    + [Gérer les catalogues partagés](../b2b/shared-catalogs.md)
    + [Gérer le crédit d’entreprise](../b2b/company-credit.md)
@@ -201,15 +207,15 @@ ht-degree: 3%
       + [Notes d&#39;élément de ligne de devis](../b2b/quote-line-item-notes.md)
       + [GraphQL de remise sur ligne de devis](../b2b/quote-graphql-line-item-discount.md)
       + [API REST de remise sur ligne de devis](../b2b/quote-rest-api-line-item-notes.md)
-+ Outils et {#tools} de services externes
++ Outils et services externes {#tools}
    + [Tableau de bord de l’outil d’analyse à l’échelle du site](../tools/site-wide-analysis-tool.md)
    + [Observation pour Adobe Commerce](../tools/observation-tool.md)
    + [Outil de correctifs de qualité](../tools/quality-patch-tool.md)
-   + {#new-relic} New Relic
+   + New Relic {#new-relic}
       + [Localisation d&#39;une adresse IP malveillante](../new-relic/malicious-ip.md)
       + [Configuration des notifications d’alerte](../new-relic/new-relic-alert-notification-setup.md)
       + [Alertes personnalisées](../new-relic/custom-alerts.md)
-+ {#mbi} Commerce Intelligence
++ Commerce Intelligence {#mbi}
    + [Prise en main](../business-intelligence/getting-started.md)
    + [Intégrations et configurations](../business-intelligence/integrations-configurations.md)
    + [Rapports et tableaux de bord](../business-intelligence/reports-and-dashboards.md)
@@ -221,7 +227,7 @@ ht-degree: 3%
    + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
-+ {#backend-development} de développement principal
++ Développement back-end {#backend-development}
    + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
@@ -230,8 +236,8 @@ ht-degree: 3%
    + [Cache de requête MySQL](../backend-development/mysql-query-cache.md)
    + [Résumé de requête PT](../backend-development/pt-query-digest.md)
    + [Connexion et téléchargement de la base de données Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
-+ {#frontend-development} de développement front-end natif de Luma
-   + {#page-builder} de Page Builder pour les développeurs
++ Développement front-end natif de Luma {#frontend-development}
+   + Page Builder pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuration et contenu](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - Thèmes](../frontend-development/page-builder/3-themes.md)
@@ -240,8 +246,8 @@ ht-degree: 3%
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
    + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
    + [Création d’une page](../frontend-development/create-page.md)
-+ {#headless-architecture} de l’architecture découplée
-   + Présentation du {#introduction-to-headless} découplé
++ Architecture découplée {#headless-architecture}
+   + Présentation du mode découplé {#introduction-to-headless}
       + [Architecture découplée - Session 1](../headless/session-1.md)
    + Présentation de PWA Studio {#introduction}
       + [1 - Présentation](../pwa/introduction/1-overview.md)
