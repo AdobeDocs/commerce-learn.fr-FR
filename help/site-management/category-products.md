@@ -1,6 +1,6 @@
 ---
 title: Gestion des produits dans une catégorie
-description: Découvrez comment créer un produit dans une catégorie, le marchandisage visuel et l’utilisation de la fonctionnalité de tri des catégories automatisé.
+description: Découvrez comment créer un produit dans une catégorie, commercialiser visuellement et utiliser la fonctionnalité de tri automatisé des catégories.
 kt: 10550
 doc-type: feature videos
 audience: all
@@ -11,21 +11,22 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Gestion des produits dans une catégorie
 
-L’organisation de vos produits en catégories est essentielle à la gestion de vos catalogues. Dans cette vidéo, vous découvrez comment créer un produit dans une catégorie, le marchandisage visuel et l’utilisation de la fonctionnalité de tri de catégorie automatisé.
+L’organisation de vos produits en catégories est essentielle pour gérer vos catalogues. Dans cette vidéo, découvrez comment créer un produit dans une catégorie, commercialiser visuellement et utiliser la fonctionnalité de tri automatisé des catégories.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
+- Gestionnaires de site web
+- Marchandiseurs eCommerce
 
 ## Contenu vidéo
 
@@ -33,5 +34,5 @@ L’organisation de vos produits en catégories est essentielle à la gestion de
 
 ## Ressources supplémentaires
 
-- [Affectations de produits de catégorie - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Règles de catégorie pour le marchandisage - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [Affectations de produits de catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Règles de catégorie pour le marchandisage - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
