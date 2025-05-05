@@ -30,6 +30,6 @@ Découvrez les étapes et les zones de validation fournies par la fonctionnalit�
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423718?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

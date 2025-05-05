@@ -35,7 +35,7 @@ Découvrez les événements conditionnels dans Adobe Commerce pouvant être util
 * Définition de règles à utiliser dans des événements conditionnels
 * Découvrez comment enregistrer des événements dans les instances Commerce `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419799?quality=12&learn=on&captions=fre_fr)
 
 ## Commandes utiles {#useful-commands}
 

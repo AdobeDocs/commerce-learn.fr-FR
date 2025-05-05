@@ -43,6 +43,6 @@ Découvrez l’importance des activités de post-traitement par le biais du poin
 * Découvrez le rôle du point de transformation dans la transformation des objets de données entre les systèmes d’origine et de destination.
 * Découvrez l’importance du point d’extension d’envoi pour faciliter l’envoi réel de données vers le système de destination.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451921?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

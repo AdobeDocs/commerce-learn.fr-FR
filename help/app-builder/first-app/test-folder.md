@@ -34,7 +34,7 @@ Il s’agit d’un exemple simple qui peut être développé afin de créer des 
 * Une brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421061?quality=12&learn=on&captions=fre_fr)
 
 ## Exemples de code
 

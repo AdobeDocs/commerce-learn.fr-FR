@@ -33,4 +33,4 @@ Découvrez le processus de connexion à Adobe Commerce Admin Portal à l’aide 
 - bien comprendre la création et la gestion des rôles ;
 - Comprendre l’affectation des utilisateurs et les niveaux d’accès. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433515?learn=on&captions=fre_fr)

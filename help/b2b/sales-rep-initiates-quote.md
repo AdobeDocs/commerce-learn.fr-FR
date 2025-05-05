@@ -31,6 +31,6 @@ Découvrez comment le représentant commercial peut lancer les guillemets à par
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430587?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

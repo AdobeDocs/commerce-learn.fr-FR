@@ -33,4 +33,4 @@ Bienvenue dans cette série complète de tutoriels sur la migration dans Adobe C
 * Découvrez les étapes essentielles et les bonnes pratiques pour réussir la migration vers Adobe Commerce.
 * Évaluez et optimisez le code personnalisé, les modules tiers et comprenez les concepts clés d’assurance qualité.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444322/?learn=on&captions=fre_fr)

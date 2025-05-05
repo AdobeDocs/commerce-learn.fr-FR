@@ -33,7 +33,7 @@ ht-degree: 0%
 * Comment ajouter le fichier pour ajouter de nouveaux secrets
 * Évitez de soumettre ce fichier, car il contient des informations sensibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421067?quality=12&learn=on&captions=fre_fr)
 
 ## Exemple de code
 

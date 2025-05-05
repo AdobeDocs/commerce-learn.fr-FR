@@ -32,4 +32,4 @@ Découvrez comment identifier un certificat ssl expiré, puis comment en génér
 - Identifiez le moment où, pendant le processus, un nouveau certificat est en cours de création.
 - Vérifiez que le nouveau certificat fonctionne comme prévu. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439750?learn=on&captions=fre_fr)

@@ -30,7 +30,7 @@ Les règles de prix de panier appliquent des remises aux articles du panier, en 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410804?quality=12&learn=on&captions=fre_fr)
 
 ## Problèmes d’affichage des prix
 

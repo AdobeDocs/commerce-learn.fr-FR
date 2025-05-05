@@ -33,4 +33,4 @@ S’intégrer en toute transparence aux produits Adobe Experience Cloud pour cr�
 - Engagement et fidélité accrus de la clientèle
 - Intégration transparente et vue client unifiée
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433571?learn=on&captions=fre_fr)

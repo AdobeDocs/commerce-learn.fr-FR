@@ -35,7 +35,7 @@ En amont, l’expérience avec les implémentations sans interface utilisateur p
 * Découvrez quelques considérations front-end et backend.
 * Planifiez une migration fluide en évaluant les modules existants, en mettant à niveau les applications principales et en s’intégrant à d’autres solutions d’Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447445/?learn=on&captions=fre_fr)
 
 ## Documentation connexe
 

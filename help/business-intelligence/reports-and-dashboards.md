@@ -30,4 +30,4 @@ Découvrez les différentes options du créateur de rapports, ainsi que comment 
 
 ## Rapports et tableaux de bord Adobe Commerce Intelligence
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453145?learn=on&captions=fre_fr)

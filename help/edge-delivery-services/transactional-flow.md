@@ -37,7 +37,7 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Flexibilité des tests A/B. Activation des configurations via SharePoint, ce qui permet aux spécialistes marketing de contrôler et de tester ces fonctionnalités.
 * Contrôle marketing amélioré. Gérez et testez facilement les configurations, améliorant l’expérience utilisateur et l’efficacité marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442353?learn=on&captions=fre_fr)
 
 ## Documentation supplémentaire
 

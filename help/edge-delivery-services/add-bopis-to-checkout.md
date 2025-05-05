@@ -37,7 +37,7 @@ Découvrez comment utiliser le panier Adobe Commerce à partir des Edge Delivery
 * Basculer entre la diffusion et le retrait en magasin
 * Récupération des emplacements de retrait
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441702?learn=on&captions=fre_fr)
 
 ## Documentation supplémentaire
 

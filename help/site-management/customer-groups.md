@@ -29,7 +29,7 @@ Les groupes de clients déterminent quelles remises sont disponibles et la class
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410169?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

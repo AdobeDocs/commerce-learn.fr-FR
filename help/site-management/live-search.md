@@ -30,7 +30,7 @@ Voici une brève présentation du [!DNL Live Search] d’Adobe Commerce. [!DNL L
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452571?learn=on&captions=fre_fr)
 
 
 ## Ressources supplémentaires

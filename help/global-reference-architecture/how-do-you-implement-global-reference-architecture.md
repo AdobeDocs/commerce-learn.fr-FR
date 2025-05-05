@@ -38,6 +38,6 @@ Découvrez comment mettre en oeuvre l’architecture de référence globale ou G
 * Conseil de contrôle mondial - sur quelles fonctionnalités travailler
 * Autre concept pour l’utilisation de GRA comme marché de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457210?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/gra-related-links.md}}

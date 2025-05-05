@@ -30,7 +30,7 @@ Votre magasin est chargé avec des emplacements où vous pouvez saisir des méta
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410174?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

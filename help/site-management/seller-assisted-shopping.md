@@ -29,7 +29,7 @@ Les clients ont parfois besoin d’aide pour effectuer un achat. Certains client
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343662?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410201?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

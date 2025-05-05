@@ -46,7 +46,7 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346409?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources utiles
 

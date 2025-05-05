@@ -40,4 +40,4 @@ Découvrez comment utiliser les configurations et paramètres de recherche Adobe
 * Présentation des types de classement basés sur des règles
 * Introduction à l’API GraphQL
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454455?learn=on&captions=fre_fr)

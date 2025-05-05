@@ -26,4 +26,4 @@ Dans cette vidéo :
 
 - Identifier une adresse IP potentielle qui est suspecte ou &#x200B; malveillante à utiliser rapidement pour la bloquer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417127?quality=12&learn=on&captions=fre_fr)

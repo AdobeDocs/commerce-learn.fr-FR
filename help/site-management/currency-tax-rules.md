@@ -29,7 +29,7 @@ Les règles fiscales intègrent une combinaison de catégories de produits, de c
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410211?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

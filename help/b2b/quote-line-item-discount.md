@@ -32,6 +32,6 @@ Découvrez comment utiliser la remise sur les articles et voir les valeurs à l�
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445587?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

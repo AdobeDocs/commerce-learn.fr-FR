@@ -50,7 +50,7 @@ Ce tutoriel a été conçu pour vous permettre de suivre l’ordre des pages dan
 * Attentes pour l’utilisation de l’exemple de module
 * Parties réutilisables de dans l’exemple de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421024?quality=12&learn=on&captions=fre_fr)
 
 {{avoid-400-error}}
 

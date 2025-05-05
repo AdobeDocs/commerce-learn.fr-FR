@@ -26,6 +26,6 @@ La vidéo suivante présente un aperçu technique d’un exemple de modèle d’
 
 ## App Builder pour Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430828?quality=12&learn=on&captions=fre_fr)
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -33,4 +33,4 @@ Adobe Commerce est une plateforme cloud hybride eCommerce disponible sur AWS et 
 - Services avancés pilotés par l’IA Vous comprendrez mieux les services intelligents, d’abord axés sur les API, tels que la recherche en direct, les recommandations de produits basées sur l’IA, ainsi que les services de catalogue, afin d’améliorer l’expérience client et l’efficacité opérationnelle.
 - Outils de développement complets. Découvrez la suite d’outils de développement natifs en mode cloud et sans serveur tels que le maillage API et App Builder, ce qui permet une intégration et une personnalisation homogènes pour étendre les fonctionnalités de commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433500?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433502?learn=on&captions=fre_fr)

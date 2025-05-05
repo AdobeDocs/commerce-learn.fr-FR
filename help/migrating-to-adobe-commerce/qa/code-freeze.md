@@ -35,4 +35,4 @@ La mise en oeuvre d’un gel du code lors de la migration vers Adobe Commerce es
 * Coordonner les tests manuels et automatisés, les tests de charge et les tests de pénétration pour s’assurer que tous les aspects du site fonctionnent comme prévu.
 * Intégrer les parties prenantes de l’entreprise, les développeurs et les équipes informatiques au processus de validation pour garantir un lancement fluide et réussi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445487/?learn=on&captions=fre_fr)

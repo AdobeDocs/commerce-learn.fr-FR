@@ -31,7 +31,7 @@ Découvrez comment créer un produit de carte-cadeau à l’aide de l’API REST
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453079?learn=on&captions=fre_fr)
 
 ## Création d’une carte-cadeau avec une charge utile simple
 

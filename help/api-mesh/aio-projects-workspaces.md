@@ -36,7 +36,7 @@ Ce tutoriel explique comment créer un projet et un espace de travail pour conte
 * Modification de l’organisation, du projet ou de l’espace de travail sélectionné dans l’interface en ligne de commande
 * Test de commandes simples de maillage d’API
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419726?quality=12&learn=on&captions=fre_fr)
 
 ## En savoir plus sur Adobe Developer Console
 

@@ -34,6 +34,6 @@ Découvrez l’architecture de référence globale, quelques concepts de base et
 * Considérations générales à prendre en compte
 * Comment déterminer si l’AG est une option viable
 
->[!VIDEO](https://video.tv.adobe.com/v/3424597?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454690?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/gra-related-links.md}}

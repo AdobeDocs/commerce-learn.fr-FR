@@ -32,7 +32,7 @@ Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie t
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344447?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410771?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

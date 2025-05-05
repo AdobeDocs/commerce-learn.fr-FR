@@ -34,7 +34,7 @@ Découvrez ce qu’est le cache de requêtes MySQL et une compréhension de base
 - Découvrez comment le SQL est enregistré et utilisé pour trouver un cache de requêtes correspondant.
 - Quelques conseils sur les paramètres de configuration
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423383?learn=on&captions=fre_fr)
 
 ## Ressources utiles
 

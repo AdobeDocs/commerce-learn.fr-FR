@@ -40,7 +40,7 @@ Le maillage d’API combine plusieurs sources de données pour obtenir une seule
 * Cas pratique de vérification d’inventaire en temps réel au passage en caisse
 * Déplacement des efforts de développement et de l’utilisation des ressources loin de votre application commerciale
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421886?quality=12&learn=on&captions=fre_fr)
 
 ## Exemples de cas d’utilisation
 

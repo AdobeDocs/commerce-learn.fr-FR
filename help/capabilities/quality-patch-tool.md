@@ -39,7 +39,7 @@ L’outil de correctifs de qualité est un utilitaire de ligne de commande pour 
 
 Ces correctifs sont développés à partir de la communauté des développeurs et développeuses d’Adobe et des Magento Open Sources afin d’améliorer la stabilité et les performances. Gardez à l&#39;esprit qu&#39;il n&#39;est pas recommandé d&#39;appliquer un grand nombre de correctifs, car cela peut compliquer les futures mises à niveau.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454069?learn=on&captions=fre_fr)
 
 ## Pourquoi utiliser l’outil de correctif de qualité ?
 

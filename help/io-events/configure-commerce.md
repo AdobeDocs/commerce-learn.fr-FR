@@ -34,7 +34,7 @@ Découvrez comment configurer Adobe Commerce pour exposer les événements. Docu
 * Enregistrement de l’identifiant unique dans l’administrateur Commerce
 * Création d’un fournisseur d’événements
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419713?quality=12&learn=on&captions=fre_fr)
 
 ## Commandes utiles {#useful-commands}
 

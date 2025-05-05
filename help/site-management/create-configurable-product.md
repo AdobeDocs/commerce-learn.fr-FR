@@ -49,7 +49,7 @@ Lors de la création de produits configurables à partir de l’administrateur A
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3455037?learn=on&captions=fre_fr)
 
 ## Obtention des attributs de couleur à l’aide de cURL
 

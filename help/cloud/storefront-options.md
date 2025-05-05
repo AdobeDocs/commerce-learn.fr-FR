@@ -35,4 +35,4 @@ Il s’intègre de manière transparente aux outils d’expérience numérique d
 - Activation de la personnalisation en temps réel et d’une gestion efficace des ressources numériques
 - Autonomisation des utilisateurs non techniques
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448388?learn=on&captions=fre_fr)

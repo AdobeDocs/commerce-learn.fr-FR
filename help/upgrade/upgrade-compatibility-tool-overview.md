@@ -39,7 +39,7 @@ Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de c
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344383?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

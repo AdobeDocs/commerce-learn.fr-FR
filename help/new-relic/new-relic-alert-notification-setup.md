@@ -33,4 +33,4 @@ Découvrez comment rechercher des alertes, des stratégies, des workflows et des
 * En savoir plus sur les notifications d’alerte, les stratégies et les workflows
 * L’enregistrement de la destination et la validation du nouvel email ont été ajoutés à une stratégie.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441200?learn=on&captions=fre_fr)

@@ -28,7 +28,7 @@ Avec Adobe Commerce ou Magento Open Source 2.4, les marchands peuvent utiliser l
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343785?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411044?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

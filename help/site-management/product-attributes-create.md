@@ -29,7 +29,7 @@ Adobe Commerce utilise des attributs pour gérer les informations associées aux
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410129?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

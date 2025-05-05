@@ -33,7 +33,7 @@ Dans cette vidéo, découvrez comment configurer des recommandations de produits
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449946?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

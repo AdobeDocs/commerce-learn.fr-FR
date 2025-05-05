@@ -30,7 +30,7 @@ Découvrez les principaux fichiers Yaml utilisés dans Adobe Commerce Cloud pour
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432813?learn=on&captions=fre_fr)
 
 ## Documentation Experience League mentionnée dans la vidéo
 

@@ -43,4 +43,4 @@ Comment naviguer efficacement et utiliser les fonctionnalités du storefront d�
 * Découvrez comment gérer les commandes, notamment en ajoutant des articles au panier, en effectuant un passage en caisse en tant qu’invité, en annulant des commandes et en réorganisant des articles.
 * Obtenez des informations sur la mise à jour des informations de compte, la fusion des paniers clients et invités et le bon déroulement du passage en caisse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446764?learn=on&captions=fre_fr)

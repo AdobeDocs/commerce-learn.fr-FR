@@ -35,7 +35,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 * Création d’un maillage à partir d’un fichier de configuration JSON
 * Accès au point de terminaison GraphQL nouvellement créé
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419719?quality=12&learn=on&captions=fre_fr)
 
 ## Création du fichier de configuration json
 

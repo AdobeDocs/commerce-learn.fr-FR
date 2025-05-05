@@ -34,7 +34,7 @@ Pour obtenir des instructions sur l’installation et connaître les conditions 
 * Installation de l’interface de ligne de commande Adobe I/O Runtime
 * Installation du module externe de messagerie d’API
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419793?quality=12&learn=on&captions=fre_fr)
 
 ## Installation de l’interface de ligne de commande et du module externe Maillage API `aio`
 

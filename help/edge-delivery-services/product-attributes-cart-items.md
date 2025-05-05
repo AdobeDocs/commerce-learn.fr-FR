@@ -38,7 +38,7 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Réduction de coupon affichée à l’aide des règles de panier et des emplacements de pied de page pour afficher efficacement ces informations.
 * Utilisation des attributs de produit et des emplacements pour étendre et personnaliser la fonctionnalité du panier, en veillant à ce que toutes les exigences du projet soient satisfaites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441118?learn=on&captions=fre_fr)
 
 
 ## Documentation supplémentaire

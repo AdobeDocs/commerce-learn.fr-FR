@@ -39,7 +39,7 @@ Vous pouvez définir les paramètres liés au crédit suivants pour chaque profi
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410759?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

@@ -30,7 +30,7 @@ Découvrez les stratégies de déploiement de Adobe Commerce Cloud, les bonnes p
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432823?learn=on&captions=fre_fr)
 
 ## Documentation Experience League mentionnée dans la vidéo
 

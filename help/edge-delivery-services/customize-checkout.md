@@ -35,7 +35,7 @@ Découvrez des exemples de personnalisation de l’expérience de passage en cai
 * Implémentation du passage en caisse à plusieurs étapes&#x200B;
 * Réutilisation du code existant et bonnes pratiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442652?learn=on&captions=fre_fr)
 
 ## Documentation supplémentaire
 

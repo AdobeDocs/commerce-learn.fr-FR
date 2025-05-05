@@ -37,7 +37,7 @@ Si possible, vous pouvez par lots vos opérations volumineuses afin d’aider le
 - Les exécutions en bloc ne se produisent que sur l’instance principale. Les réplications se produisent 1 à la fois
 - Lancer vos validations volumineuses pour aider la réplication à suivre l’activité principale
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423539?learn=on&captions=fre_fr)
 
 ## Ressources utiles
 

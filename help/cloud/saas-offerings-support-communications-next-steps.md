@@ -30,7 +30,7 @@ Découvrez les offres, l’assistance et d’autres communications du service Sa
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432833?learn=on&captions=fre_fr)
 
 ## Acronymes
 

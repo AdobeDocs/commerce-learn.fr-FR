@@ -32,6 +32,6 @@ Découvrez comment le représentant commercial peut lancer le devis à partir de
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423709?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

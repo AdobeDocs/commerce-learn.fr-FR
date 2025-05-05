@@ -37,7 +37,7 @@ Avec les autorisations requises pour leur rôle, les clients B2B peuvent configu
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410765?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

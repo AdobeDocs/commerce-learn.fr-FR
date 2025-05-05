@@ -40,7 +40,7 @@ Les chefs de projet qui doivent suivre l’avancement des tâches de développem
 * la validation et la gestion des erreurs pour les champs d’entrée d’adresse, en veillant à ce que les utilisateurs reçoivent un retour immédiat sur les entrées incorrectes ou incomplètes, ce qui améliore leur expérience ;
 * Extension du tableau de bord du compte d’utilisateur qui ajoute un nouvel élément de menu de barre latérale au tableau de bord du compte d’utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442908?learn=on&captions=fre_fr)
 
 ## Documentation supplémentaire
 

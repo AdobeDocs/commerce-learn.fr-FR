@@ -34,7 +34,7 @@ Le module est un élément structurel de [!DNL Commerce] : l’ensemble du syst�
 - Mettre à niveau le script pour installer le nouveau module.
 - Vérifiez que le module fonctionne.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412452?learn=on&captions=fre_fr)
 
 ### module.xml
 

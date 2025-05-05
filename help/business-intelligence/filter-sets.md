@@ -43,7 +43,7 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346402?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources utiles
 

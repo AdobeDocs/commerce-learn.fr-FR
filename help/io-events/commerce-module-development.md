@@ -35,7 +35,7 @@ Découvrez comment enregistrer des événements, rechercher des événements pri
 * Découvrez comment enregistrer des événements dans les instances Commerce `app/etc/config.php`
 * Découvrez comment vous désabonner d’un événement
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419835?quality=12&learn=on&captions=fre_fr)
 
 ## Commandes utiles {#useful-commands}
 

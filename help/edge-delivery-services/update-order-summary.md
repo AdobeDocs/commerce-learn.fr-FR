@@ -36,7 +36,7 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Découvrez comment inclure un montant total enregistré pour le résumé du panier.
 * Découvrez comment fusionner des lignes du résumé du panier en une seule section réductible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441187?learn=on&captions=fre_fr)
 
 ## Documentation supplémentaire
 

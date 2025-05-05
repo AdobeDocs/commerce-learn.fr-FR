@@ -30,6 +30,6 @@ Découvrez comment utiliser les notes d’élément de ligne pour un guillemet A
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443487?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

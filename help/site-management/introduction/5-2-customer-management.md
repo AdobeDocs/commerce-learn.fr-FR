@@ -32,7 +32,7 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/36189?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330189?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

@@ -33,4 +33,4 @@ _ Clients nouveaux et existants explorant le storefront de diffusion d’Adobe C
 - Apprenez à optimiser grâce aux tests A/B.
 - Découvrez quelques outils avancés et l’intégration de l’IA pour affiner le contenu, générer des variantes et améliorer la stratégie promotionnelle globale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433534?learn=on&captions=fre_fr)

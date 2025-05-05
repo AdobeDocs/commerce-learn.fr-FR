@@ -33,4 +33,4 @@ Découvrez comment créer des alertes personnalisées dans New Relic pour survei
 * Comprendre comment définir des seuils pour les alertes en fonction de l’agrégation des données.
 * Configurez des alertes avec des niveaux de gravité et affectées à des stratégies existantes pour contrôler les workflows et les destinations de notification.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440773?learn=on&captions=fre_fr)

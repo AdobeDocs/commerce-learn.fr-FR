@@ -33,6 +33,6 @@ Adobe Commerce Marketplace accepte désormais les soumissions pour la liste des 
 * Sections techniques et marketing de l’envoi de l’application
 * Exemple de courrier électronique que vous recevrez une fois que l’application a passé la révision.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420313)
+>[!VIDEO](https://video.tv.adobe.com/v/3447346?captions=fre_fr)
 
 {{$include /help/_includes/app-builder-related-links.md}}

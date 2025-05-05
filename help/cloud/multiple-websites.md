@@ -32,4 +32,4 @@ Adobe Commerce permet aux entreprises de gérer plusieurs magasins, marques ou s
 - Localisation et personnalisation
 - Évolutivité et flexibilité
 
->[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434029?learn=on&captions=fre_fr)

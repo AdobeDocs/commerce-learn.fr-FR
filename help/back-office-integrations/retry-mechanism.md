@@ -37,7 +37,7 @@ Découvrez le fonctionnement du mécanisme de reprise dans le contexte des actio
 * Indicateurs visuels dans la console de développement, tels que les icônes d’avertissement pour les événements en échec et les icônes de flèche circulaire pour les événements à nouveau testés.
 * Les actions d’exécution &quot;consommateur&quot; jouent un rôle crucial pour déterminer les codes d’état de réponse HTTP appropriés pour la gestion des événements.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449075?learn=on&captions=fre_fr)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

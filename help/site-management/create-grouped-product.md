@@ -43,7 +43,7 @@ Lors de la création de produits groupés à partir de l’administrateur Adobe 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454040?learn=on&captions=fre_fr)
 
 ## Configuration du produit groupé
 

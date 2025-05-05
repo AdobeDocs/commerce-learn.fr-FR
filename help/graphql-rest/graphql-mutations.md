@@ -24,7 +24,7 @@ ht-degree: 0%
 Il s’agit de la troisième partie de la série pour GraphQL et Adobe Commerce. Les mutations permettent d’enregistrer, de mettre à jour et de renvoyer des valeurs à l’aide de GraphQL.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441925?learn=on&captions=fre_fr)
 
 ## Vidéos et tutoriels connexes sur GraphQL dans cette série
 

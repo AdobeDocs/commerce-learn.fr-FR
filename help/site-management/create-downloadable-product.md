@@ -30,7 +30,7 @@ Découvrez comment créer un produit téléchargeable à l’aide de l’API RES
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453944?learn=on&captions=fre_fr)
 
 ## Domaines téléchargeables autorisés
 

@@ -35,4 +35,4 @@ Découvrez comment utiliser Adobe Commerce Data Connection avec quelques configu
 * Audiences Real-Time CDP mise à jour et modification de la segmentation en temps réel en fonction des données du navigateur, des données côté serveur (y compris l’historique des commandes) et des données provenant d’autres sources (c’est-à-dire des données de fidélité).
 * Utilisation des audiences Real-Time CDP pour personnaliser les règles de prix de panier et les blocs dynamiques dans Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453820?learn=on&captions=fre_fr)

@@ -30,7 +30,7 @@ Les widgets sont des composants réutilisables que vous pouvez créer et modifie
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411056?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 

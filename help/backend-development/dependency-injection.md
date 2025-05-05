@@ -27,7 +27,7 @@ L’injection de dépendance est un modèle de conception qui permet à un objet
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35799?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412446?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources utiles
 
