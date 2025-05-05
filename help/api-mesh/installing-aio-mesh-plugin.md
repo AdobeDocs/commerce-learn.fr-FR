@@ -22,7 +22,7 @@ ht-degree: 0%
 # Installation du module Adobe I/O Runtime CLI et Mesh
 
 Avant de commencer à utiliser le maillage d’API pour Adobe Developer App Builder, vous devez installer l’interface de ligne de commande `aio` et le module externe de maillage d’API.
-Pour obtenir des instructions sur l’installation et connaître les conditions préalables requises, consultez la page de prise en main de l’API [](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
+Pour obtenir des instructions sur l’installation et connaître les conditions préalables requises, consultez la page de prise en main de l’API [&#128279;](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
 
 ## Pour qui est cette vidéo ?
 

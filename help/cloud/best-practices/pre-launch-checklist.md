@@ -37,7 +37,7 @@ Si un CTA/CSE est affecté au compte, contactez-le et le gestionnaire de compte 
 1. Consultez la documentation sur le test et la mise en ligne [Documentation sur le lancement du site](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Assurez-vous qu’un &quot;plan de préparation en direct&quot;_complet est entièrement préparé avec votre partenaire ou votre intégrateur système, en incorporant tous les éléments d’action nécessaires._ Souvenez-vous que, même si la liste de contrôle de prélancement met l’accent sur les bonnes pratiques de l’Adobe, elle _**ne remplace pas**_ la nécessité de votre propre plan de préparation à la mise en service.
+   >Assurez-vous qu’un &quot;plan de préparation en direct&quot;_complet est entièrement préparé avec votre partenaire ou votre intégrateur système, en incorporant tous les éléments d’action nécessaires._ Souvenez-vous que, même si la liste de contrôle de prélancement met l’accent sur les bonnes pratiques de l’Adobe, elle _&#x200B;**ne remplace pas**&#x200B;_ la nécessité de votre propre plan de préparation à la mise en service.
 
 2. [!BADGE Blocker]{type=caution tooltip="Blocage potentiel"}[Guide de l’utilisateur](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. L’utilisateur final/le marchand a effectué des tests UAT (User Acceptation Testing), y compris des opérations principales.
