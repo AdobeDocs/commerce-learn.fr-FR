@@ -34,5 +34,5 @@ Un bloc est une unité modulaire de contenu qui peut être positionnée presque 
 
 ## Ressources supplémentaires
 
-- [Blocs - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [Blocs dynamiques - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [Blocs - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=fr)
+- [Blocs dynamiques - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=fr)

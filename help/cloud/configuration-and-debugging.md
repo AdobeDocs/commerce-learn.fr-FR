@@ -34,17 +34,17 @@ Découvrez les principaux fichiers Yaml utilisés dans Adobe Commerce Cloud pour
 
 ## Documentation Experience League mentionnée dans la vidéo
 
-- [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
+- [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=fr)
 - [Configuration de Xdebug dans Cloud Docker](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [Bonnes pratiques de débogage](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
-- [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
-- [CEE-Outils](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
-- [Mettre à jour le package CEE-Outils](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)
-- [Présentation de New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
-- [ Afficher et gérer les fichiers journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
-- [Gestion des journaux New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html)
-- [Outil de correctif de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Utilisation de l’outil de correctif de qualité](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
+- [Bonnes pratiques de débogage](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=fr)
+- [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=fr)
+- [CEE-Outils](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=fr)
+- [Mettre à jour le package CEE-Outils](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=fr)
+- [Présentation de New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=fr)
+- [ Afficher et gérer les fichiers journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=fr)
+- [Gestion des journaux New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=fr)
+- [Outil de correctif de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
+- [Utilisation de l’outil de correctif de qualité](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=fr)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

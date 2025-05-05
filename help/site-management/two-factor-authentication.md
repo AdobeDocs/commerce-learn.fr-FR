@@ -31,11 +31,11 @@ Pour empêcher un accès non autorisé à vos données, tous les utilisateurs qu
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.4.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.4.0. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Authentification à deux facteurs (2FA) - Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Authentification à deux facteurs (2FA) - Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html?lang=fr)
 - [Configuration de l’authentification à deux facteurs (2FA) - Documentation pour les développeurs](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

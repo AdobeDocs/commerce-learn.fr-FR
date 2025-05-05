@@ -34,5 +34,5 @@ Les règles de prix de catalogue peuvent être utilisées pour proposer des prod
 
 ## Ressources supplémentaires
 
-- [Créer une règle de prix de catalogue - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Règle de prix de catalogue avec plusieurs SKU - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [Créer une règle de prix de catalogue - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=fr)
+- [Règle de prix de catalogue avec plusieurs SKU - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=fr)

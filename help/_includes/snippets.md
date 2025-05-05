@@ -13,13 +13,13 @@ ht-degree: 0%
 ## Fonctionnalité EE uniquement {#ee-feature}
 
 <table style="border:1px solid red">
-<tr><td><img alt="Fonctionnalité Adobe Commerce" src="../assets/adobe-logo.svg" width="20" height="20" /> Fonctionnalité exclusive uniquement dans Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html#product-editions">En savoir plus</a>)</td></tr>
+<tr><td><img alt="Fonctionnalité Adobe Commerce" src="../assets/adobe-logo.svg" width="20" height="20" /> Fonctionnalité exclusive uniquement dans Adobe Commerce (<a href="https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=fr#product-editions">En savoir plus</a>)</td></tr>
 </table>
 
 ## Fonctionnalité B2B uniquement {#b2b-feature}
 
 <table style="border:1px solid green">
-<tr><td><img alt="Fonctionnalité Adobe Commerce" src="../assets/b2b.svg" width="20" height="20" /> Fonctionnalité exclusive disponible uniquement avec <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html">B2B pour Adobe Commerce</a></td></tr>
+<tr><td><img alt="Fonctionnalité Adobe Commerce" src="../assets/b2b.svg" width="20" height="20" /> Fonctionnalité exclusive disponible uniquement avec <a href="https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html?lang=fr">B2B pour Adobe Commerce</a></td></tr>
 </table>
 
 ## 400 problèmes {#avoid-400-error}

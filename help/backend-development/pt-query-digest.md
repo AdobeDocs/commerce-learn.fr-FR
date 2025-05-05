@@ -46,4 +46,4 @@ $ pt-query-digest mysql-slow.log.7 > mysql-slow.log.7.DIGEST
 ## Ressources utiles
 
 - [Percona Toolkit](https://docs.percona.com/percona-toolkit/pt-query-digest.html){target="_blank"}
-- [Deadlocks in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html){target="_blank"}
+- [Deadlocks in MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=fr){target="_blank"}

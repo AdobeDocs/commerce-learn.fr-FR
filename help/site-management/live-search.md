@@ -35,7 +35,7 @@ Voici une brève présentation du [!DNL Live Search] d’Adobe Commerce. [!DNL L
 
 ## Ressources supplémentaires
 
-- [Démonstration complète de Live Search](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html){target="_blank"}
-- [[!DNL Live Search] pour des recommandations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
-- [[!DNL Live Search] présentation](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Démonstration complète de Live Search](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/capabilities/live-search-full-demonstration.html?lang=fr){target="_blank"}
+- [[!DNL Live Search] pour des recommandations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html?lang=fr){target="_blank"}
+- [[!DNL Live Search] présentation](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=fr){target="_blank"}
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=fr){target="_blank"}

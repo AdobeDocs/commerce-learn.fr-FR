@@ -43,4 +43,4 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 
 ## Documentation supplémentaire
 
-* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=fr)

@@ -39,4 +39,4 @@ La plupart des problèmes d’Adobe Commerce sont traçables via New Relic. En e
 
 >[!MORELIKETHIS]
 > 
-> - [Guide de l’utilisateur de l’aide Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> - [Guide de l’utilisateur de l’aide Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

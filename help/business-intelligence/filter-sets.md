@@ -34,7 +34,7 @@ Dans cette vidéo :
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} offre un aperçu complet pour obtenir de meilleures informations sur l’entreprise et de meilleurs résultats grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr){target="_blank"} offre un aperçu complet pour obtenir de meilleures informations sur l’entreprise et de meilleurs résultats grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## Pour qui est cette vidéo ?
 
@@ -47,6 +47,6 @@ Dans cette vidéo :
 
 ## Ressources utiles
 
-[Créer des ensembles de filtres - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html)
+[Créer des ensembles de filtres - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/reports/ess-manage-data-filters.html?lang=fr)
 
-[Dimensions de données recommandées pour la segmentation et le filtrage - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html)
+[Dimensions de données recommandées pour la segmentation et le filtrage - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html?lang=fr)

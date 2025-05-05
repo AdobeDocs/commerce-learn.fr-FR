@@ -62,5 +62,5 @@ Pour afficher une page dans un terminal et afficher les numéros de ligne `cat -
 
 ## Ressources supplémentaires
 
-- [Outil de ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-- [Configuration de la sécurité d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+- [Outil de ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=fr){target="_blank"}
+- [Configuration de la sécurité d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=fr){target="_blank"}

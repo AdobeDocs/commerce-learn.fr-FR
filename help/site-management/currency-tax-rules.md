@@ -33,5 +33,5 @@ Les règles fiscales intègrent une combinaison de catégories de produits, de c
 
 ## Ressources supplémentaires
 
-- [Règles fiscales - [!DNL Commerce] Guide des magasins et de l’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
-- [Devise - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)
+- [Règles fiscales - [!DNL Commerce] Guide des magasins et de l’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=fr)
+- [Devise - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=fr)

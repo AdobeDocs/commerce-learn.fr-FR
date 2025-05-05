@@ -33,7 +33,7 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [Notes de mise à jour du générateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [Notes de mise à jour du générateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
@@ -41,4 +41,4 @@ Dans cette vidéo :
 
 [Documentation destinée aux développeurs de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guide du créateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guide du créateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=fr)

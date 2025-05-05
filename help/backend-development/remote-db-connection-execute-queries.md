@@ -40,7 +40,7 @@ La méthode recommandée consiste à effectuer un vidage de base de données et 
 
 ## Utilisation de l’outil d’interface de ligne de commande Adobe Commerce Cloud
 
-La création d’un vidage de base de données nécessite l’ [interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) installée. Sur votre ordinateur portable local, accédez à un répertoire et exécutez la commande suivante. Veillez à remplacer `your-project-id` par l’ID de projet, similaire à `asasdasd45q`. Vous devez également remplacer `your-environment-name` par le nom de votre environnement, par exemple `master` ou `staging`.
+La création d’un vidage de base de données nécessite l’ [interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=fr) installée. Sur votre ordinateur portable local, accédez à un répertoire et exécutez la commande suivante. Veillez à remplacer `your-project-id` par l’ID de projet, similaire à `asasdasd45q`. Vous devez également remplacer `your-environment-name` par le nom de votre environnement, par exemple `master` ou `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -276,7 +276,7 @@ L’accès direct à la base de données MariaDB nécessite l’utilisation du S
    magento-cloud ssh
    ```
 
-1. Récupérez les informations d’identification de connexion MySQL des propriétés `database` et `type` dans la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) .
+1. Récupérez les informations d’identification de connexion MySQL des propriétés `database` et `type` dans la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=fr#relationships) .
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -322,7 +322,7 @@ Une fois tout configuré, il est possible d’utiliser une interface utilisateur
 
 ## Connexion directe à la base de données de projet cloud pour exécuter SQL
 
-La méthode suivante utilise l’interface de ligne de commande `magento-cloud` pour se connecter directement à la base de données mysql et exécuter SQL, ce qui permet d’effectuer des requêtes de base de données plus rapides. Si vous devez copier cette base de données, reportez-vous à l’une des méthodes alternatives pour [créer un vidage de base de données](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+La méthode suivante utilise l’interface de ligne de commande `magento-cloud` pour se connecter directement à la base de données mysql et exécuter SQL, ce qui permet d’effectuer des requêtes de base de données plus rapides. Si vous devez copier cette base de données, reportez-vous à l’une des méthodes alternatives pour [créer un vidage de base de données](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=fr).
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +382,7 @@ MariaDB [main]>
 
 ## Ressources supplémentaires
 
-[Interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[Configuration du service MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[Configuration d’une connexion de base de données MySQL distante](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Créer un vidage de base de données sur Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=fr)
+[Configuration du service MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=fr)
+[Configuration d’une connexion de base de données MySQL distante](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=fr)
+[Créer un vidage de base de données sur Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=fr)

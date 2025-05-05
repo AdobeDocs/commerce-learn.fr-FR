@@ -44,4 +44,4 @@ Les chefs de projet qui doivent suivre l’avancement des tâches de développem
 
 ## Documentation supplémentaire
 
-* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=fr)

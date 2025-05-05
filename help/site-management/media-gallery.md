@@ -32,5 +32,5 @@ Avec Adobe Commerce ou Magento Open Source 2.4, les marchands peuvent utiliser l
 
 ## Ressources supplémentaires
 
-- [The Media Gallery - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Autre stockage de médias - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+- [The Media Gallery - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+- [Autre stockage de médias - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

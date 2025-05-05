@@ -36,4 +36,4 @@ Découvrez comment créer un ticket d’assistance dans Experience League pour A
 
 ## Guide du centre d’aide de la base de connaissances Commerce
 
-[Soumettre un cas d’assistance](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Soumettre un cas d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

@@ -30,7 +30,7 @@ Pour en savoir plus, sélectionnez l’une des options ci-dessous.
 
 ## Création manuelle des produits {#manual-import}
 
-Si vous disposez d’un catalogue limité et que les mises à jour sont peu fréquentes, la création manuelle de ces derniers peut être la meilleure option. Il faut du temps pour entrer dans chaque produit et une formation limitée sur l’utilisation de l’administrateur de Commerce. La gestion manuelle du catalogue n’est pas la bonne option pour la plupart des magasins, mais dans certaines situations, elle peut s’avérer logique. Pour consulter la documentation supplémentaire de ce processus, rendez-vous sur la page [Création d’un produit](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. N’oubliez pas que vous pouvez utiliser plusieurs méthodes pour gérer votre catalogue. Toutefois, une fois l’automatisation utilisée, les modifications manuelles doivent être limitées. Les mises à jour automatisées permettent de remplacer les modifications effectuées manuellement et par conséquent de créer de la confusion. Une fois que l’intégration à Adobe Commerce pour gérer le catalogue utilise l’automatisation et les API, il est conseillé de restreindre la gestion du catalogue de l’administrateur à l’aide des [rôles utilisateur et autorisations](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Si vous disposez d’un catalogue limité et que les mises à jour sont peu fréquentes, la création manuelle de ces derniers peut être la meilleure option. Il faut du temps pour entrer dans chaque produit et une formation limitée sur l’utilisation de l’administrateur de Commerce. La gestion manuelle du catalogue n’est pas la bonne option pour la plupart des magasins, mais dans certaines situations, elle peut s’avérer logique. Pour consulter la documentation supplémentaire de ce processus, rendez-vous sur la page [Création d’un produit](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=fr){target="_blank"}. N’oubliez pas que vous pouvez utiliser plusieurs méthodes pour gérer votre catalogue. Toutefois, une fois l’automatisation utilisée, les modifications manuelles doivent être limitées. Les mises à jour automatisées permettent de remplacer les modifications effectuées manuellement et par conséquent de créer de la confusion. Une fois que l’intégration à Adobe Commerce pour gérer le catalogue utilise l’automatisation et les API, il est conseillé de restreindre la gestion du catalogue de l’administrateur à l’aide des [rôles utilisateur et autorisations](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=fr){target="_blank"}.
 
 ### Quand envisager cette approche ?
 
@@ -45,7 +45,7 @@ Si vous disposez d’un catalogue limité et que les mises à jour sont peu fré
 ## Outil d’importation CSV d’administration {#admin-csv}
 
 Cet outil permet à un propriétaire de magasin d’importer un catalogue à l’aide d’un droit CSV provenant de l’administrateur de commerce.
-[Importer des données depuis l’administrateur Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Importer des données depuis l’administrateur Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=fr){target="_blank"}
 
 Avantages :
 Le téléchargement d’un fichier CSV depuis l’administrateur est une méthode simple de gestion des catalogues. Il permet des mises à jour plus rapides des produits du catalogue pour un catalogue de taille modérée.
@@ -139,6 +139,6 @@ Inconvénients
 ## Ressources supplémentaires
 
 - [Importer des données à l’aide d’un nouveau CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-- [Importer la documentation principale sur les données](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
-- [Notes de mise à jour d’Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
+- [Importer la documentation principale sur les données](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=fr){target="_blank"}
+- [Notes de mise à jour d’Adobe Commerce version 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=fr){target="_blank"}
 - [Utilisateurs, rôles et autorisations](../site-management/users-roles-permissions.md){target="_blank"}

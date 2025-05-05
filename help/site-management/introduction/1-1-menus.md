@@ -35,10 +35,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[[!DNL Commerce] Documentation du marché](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[[!DNL Commerce] Documentation du marché](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=fr)

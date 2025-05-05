@@ -37,5 +37,5 @@ Dans cette vidéo, découvrez comment configurer des recommandations de produits
 
 ## Ressources supplémentaires
 
-- [Guide Recommendations du produit](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
-- [Connecteur Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Guide Recommendations du produit](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=fr){target="_blank"}
+- [Connecteur Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=fr){target="_blank"}

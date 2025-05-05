@@ -34,4 +34,4 @@ Les règles de produit connexes vous permettent de cibler la sélection de produ
 
 ## Ressources supplémentaires
 
-[Règles de produit connexes - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Règles de produit connexes - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=fr)

@@ -89,4 +89,4 @@ Après avoir envoyé le fichier dans le projet et l’environnement appropriés,
 
 ## Documentation connexe
 
-- [Notifications d’intégrité](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notifications d’intégrité](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

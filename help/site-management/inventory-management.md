@@ -33,5 +33,5 @@ Les commerçants disposant d’un seul magasin pour plusieurs entrepôts, magasi
 
 ## Ressources supplémentaires
 
-- [Guide Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+- [Guide Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=fr)
 - [Inventory management - Documentation REST pour les développeurs](https://developer.adobe.com/commerce/webapi/rest/inventory/)

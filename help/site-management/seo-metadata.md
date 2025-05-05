@@ -34,4 +34,4 @@ Votre magasin est chargé avec des emplacements où vous pouvez saisir des méta
 
 ## Ressources supplémentaires
 
-[Métadonnées - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Métadonnées - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=fr)

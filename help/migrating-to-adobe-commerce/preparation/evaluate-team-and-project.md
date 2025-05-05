@@ -39,4 +39,4 @@ En amont, l’expérience avec les implémentations sans interface utilisateur p
 
 ## Documentation connexe
 
-[Qu’est-ce qu’Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[Qu’est-ce qu’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)

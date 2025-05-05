@@ -38,5 +38,5 @@ Pour les petites et moyennes entreprises, les concurrents du marché intermédia
 
 ## Ressources supplémentaires
 
-- [Guide des services de paiement](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Connecteur de services Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Guide des services de paiement](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=fr)
+- [Connecteur de services Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=fr)

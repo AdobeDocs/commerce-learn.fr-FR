@@ -36,5 +36,5 @@ Si la fonction Catalogue partagé est activée dans la configuration, le catalog
 
 ## Ressources supplémentaires
 
-- [Utilisation de catalogues partagés](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-- [Créer un catalogue partagé](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+- [Utilisation de catalogues partagés](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=fr){target="_blank"}
+- [Créer un catalogue partagé](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=fr){target="_blank"}
