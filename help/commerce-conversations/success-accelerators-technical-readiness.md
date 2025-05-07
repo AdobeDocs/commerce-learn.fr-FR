@@ -1,7 +1,6 @@
 ---
 title: Préparation technique des accélérateurs de succès
-description: Préparation technique de l’accélérateur de succès Adobe Commerce, révision de la solution, planification des événements et surveillance 24h/24 et 7j/7 pour des performances optimales.
-feature: Site Management, Support
+description: 'Découvrez Commerce Success Accelerator : préparation technique, révision de solution, planification d’événements et surveillance 24h/24 et 7j/7 pour des performances optimales.'
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -9,13 +8,13 @@ doc-type: Value Video
 duration: 160
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
-source-git-commit: 080c355e656e918415de74156830d787aad20af4
+exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
+source-git-commit: a79bc113cbedb89c56e74571a68538fa94a3945c
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Préparation technique des accélérateurs de succès
 
