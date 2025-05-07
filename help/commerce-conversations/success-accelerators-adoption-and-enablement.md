@@ -1,6 +1,6 @@
 ---
 title: Adoption et activation des accélérateurs de succès
-description: Adoption et activation de l’accélérateur de succès Adobe Commerce pour le développement stratégique, l’amélioration des compétences et la gouvernance
+description: Découvrez l’adoption et l’activation de l’accélérateur de succès Adobe Commerce pour le développement stratégique, l’amélioration des compétences et la gouvernance.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,13 +9,13 @@ doc-type: Value Video
 duration: 95
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
-source-git-commit: 11384ef49c6cfe3d59a7cee22cdca8ceb123d7d6
+exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
+source-git-commit: 34e15bd8c440b2f63fbf43e29fdd2961c72301f6
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Adoption et activation des accélérateurs de succès
 
