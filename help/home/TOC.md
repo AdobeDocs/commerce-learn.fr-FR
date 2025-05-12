@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: cd7b4deea3bb30a05a6d0d1cad4a30e8e6fb34cd
+source-git-commit: 7af996c024ded08890ffc8ab88444bce2c26428d
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '859'
 ht-degree: 3%
 
 ---
@@ -111,6 +111,7 @@ ht-degree: 3%
       + [Préparation technique des accélérateurs de succès](../commerce-conversations/success-accelerators-technical-readiness.md)
       + [Adoption et activation des accélérateurs de succès](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
       + [Préparation de l’organisation Accélérateurs de succès](../commerce-conversations/success-accelerators-organizational-readiness.md)
+      + [Responsabilité partagée](../commerce-conversations/shared-responsibility.md)
 + GraphQL et REST {#graphql-rest}
    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
    + [Requêtes](../graphql-rest/graphql-queries.md)
@@ -229,7 +230,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
