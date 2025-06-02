@@ -33,7 +33,7 @@ Adobe Commerce propose une solution conforme à la loi HIPAA conçue pour aider 
 * La solution comprend des mécanismes de journalisation améliorés pour les informations d’identification personnelles et offre des fonctionnalités d’intégration avec des produits Adobe internes et des services tiers externes.
 * Adobe Commerce propose un environnement d’évaluation spécial pour l’assistance et le dépannage, afin de garantir la protection des données sensibles et de refléter fidèlement la production.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463179/?learn=on&enablevpops&captions=fre_fr)
 
 ## Documentation supplémentaire
 
