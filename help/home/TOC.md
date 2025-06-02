@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 586a4e2a52cbe8ea3b5018b4c53d731b3d071467
+source-git-commit: 22eaf9d107c6aa80344b1ec224944b53b3178857
 workflow-type: tm+mt
-source-wordcount: '875'
+source-wordcount: '877'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [Trier et résoudre 2 erreurs courantes du site](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valeurs de configuration](../cloud/troubleshooting/config-values.md)
       + [Tronquer les logs](../cloud/troubleshooting/truncate-logs.md)
+   + [Hébergement conforme à la norme HIPAA](../cloud/hippa-ready-hosting.md)
    + [Détecter l’adresse IP](../cloud/detect-ip-address.md)
    + [Marketing](../cloud/marketecture.md)
    + [Modèle de diffusion global](../cloud/global-delivery-model.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -265,3 +266,4 @@ ht-degree: 3%
       + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
    + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
    + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
+
