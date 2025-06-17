@@ -1,6 +1,6 @@
 ---
-title: Créateur de pages pour les développeurs - Thèmes
-description: Découvrez les pratiques et les ​ de conventions, y compris l’emplacement de chaque partie du thème Page Builder.
+title: Page Builder pour les développeurs - Thèmes
+description: Découvrez les pratiques et conventions en matière de thèmes​ y compris l’emplacement de chaque partie du thème Page Builder.
 kt: 5652
 doc-type: video
 activity: use
@@ -9,36 +9,37 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
-# Créateur de pages pour les développeurs - Thèmes
+# Page Builder pour les développeurs - Thèmes
 
 Dans cette vidéo :
 
-- Présentation des pratiques thématiques
-- Description des conventions de thèmes &#x200B;
-- Emplacement de chaque partie du thème du Créateur de pages &#x200B;
+- Présentation des pratiques relatives aux thèmes
+- Description des conventions de thème&#x200B;
+- Emplacement de chaque partie du thème Page Builder &#x200B;
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
 - Créateurs de contenu
-- Développeurs frontaux
+- Développeurs front-end
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [Notes de mise à jour du générateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=fr).
+>Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [ Notes de mise à jour de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430899?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
 ## Ressources utiles
 
 [Documentation destinée aux développeurs de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guide du créateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=fr)
+[ Guide de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

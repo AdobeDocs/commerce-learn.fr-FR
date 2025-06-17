@@ -1,8 +1,8 @@
 ---
 title: Page Builder pour les développeurs - Introduction
-description: Présentation du créateur de pages, présentation des fonctionnalités du créateur de pages
-landing-page-description: Regardez cette série de vidéos pour en savoir plus sur le créateur de pages et sur la manière de l’étendre afin de créer des expériences de vitrine  [!DNL Commerce] optimales.
-short-description: Regardez cette série de vidéos pour en savoir plus sur le créateur de pages et sur la manière de l’étendre afin de créer des expériences de vitrine  [!DNL Commerce] optimales.
+description: Présentation de Page Builder, présentation des fonctionnalités de Page Builder
+landing-page-description: Regardez cette série de vidéos pour en savoir plus sur Page Builder et sur la manière dont vous pouvez l’optimiser pour créer des expériences  [!DNL Commerce]  storefront optimales.
+short-description: Regardez cette série de vidéos pour en savoir plus sur Page Builder et sur la manière dont vous pouvez l’optimiser pour créer des expériences  [!DNL Commerce]  storefront optimales.
 kt: 5650
 doc-type: video
 activity: use
@@ -11,9 +11,10 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
@@ -22,24 +23,24 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- Présentation du créateur de pages
-- Présentation des fonctionnalités du créateur de pages
+- Présentation de Page Builder
+- Présentation des fonctionnalités de Page Builder
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Développeurs frontaux
+- Développeurs front-end
 - Créateurs de contenu
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 du créateur de pages pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [Notes de mise à jour du générateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=fr).
+>Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [ Notes de mise à jour de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430889?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35709?quality=12&learn=on)
 
 ## Ressources utiles
 
 [Documentation destinée aux développeurs de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guide du créateur de pages](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=fr)
+[ Guide de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

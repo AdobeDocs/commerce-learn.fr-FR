@@ -1,6 +1,6 @@
 ---
-title: Création de modèles de contenu
-description: Découvrez comment les modèles peuvent gagner du temps et faire des efforts lors de la création de contenu ou du remplacement de contenu plus ancien.
+title: Créer des modèles de contenu
+description: Découvrez comment les modèles peuvent vous faire gagner du temps et économiser des efforts lors de la création de contenu ou du remplacement de contenu ancien.
 doc-type: feature video
 audience: all
 activity: use
@@ -10,27 +10,28 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-# Création de modèles de contenu
+# Créer des modèles de contenu
 
-L’utilisation de modèles vous permet d’économiser du temps et des efforts lors de la création de contenu (ou du remplacement de contenu plus ancien). Par exemple, vous pouvez enregistrer votre contenu Page Builder existant en tant que modèle, puis appliquer ce modèle (avec tout son contenu et ses mises en page) à une autre zone afin de créer rapidement du contenu Page Builder.
+L’utilisation de modèles vous permet de gagner du temps et vous évite des efforts lors de la création de contenu (ou du remplacement de contenu ancien). Par exemple, vous pouvez enregistrer votre contenu Page Builder existant en tant que modèle, puis appliquer ce modèle (avec l’ensemble de son contenu et de ses mises en page) à une autre zone pour créer rapidement du contenu Page Builder.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
+- Gestionnaires de site web
 - Concepteurs de contenu
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410842?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [[!DNL Page Builder] Modèles - [!DNL Page Builder] Guide de l’utilisateur](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=fr)
-- [Ajouter des modèles - [!DNL Page Builder] Guide du développeur](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+- [[!DNL Page Builder] Modèles - [!DNL Page Builder] Guide de l’utilisateur](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [Ajout de modèles - [!DNL Page Builder] Guide du développeur](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

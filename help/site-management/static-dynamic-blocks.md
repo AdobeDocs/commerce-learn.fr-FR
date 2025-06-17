@@ -12,9 +12,10 @@ level: Beginner, Intermediate
 jira: KT-17150
 duration: 374
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: bfb7fe605c5912df18b1ef5d3becb4a3021ca9e7
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -30,9 +31,9 @@ Un bloc est une unité modulaire de contenu qui peut être positionnée presque 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411068?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Blocs - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=fr)
-- [Blocs dynamiques - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=fr)
+- [Blocs - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [Blocs dynamiques - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
