@@ -29,7 +29,7 @@ L’utilisation de modèles vous permet de gagner du temps et vous évite des ef
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410842?quality=12&learn=on&captions=fre_fr)
 
 ## Ressources supplémentaires
 
