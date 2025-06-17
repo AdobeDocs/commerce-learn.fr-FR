@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 8fada712c51193fc6f3fe9e75b9324a6826f7570
+source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
 workflow-type: tm+mt
-source-wordcount: '872'
+source-wordcount: '879'
 ht-degree: 3%
 
 ---
@@ -147,12 +147,13 @@ ht-degree: 3%
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
       + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
-   + Maillage API {#api-mesh}
-      + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
-      + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
-      + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
-      + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
++ Maillage API {#api-mesh}
+   + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
+   + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
+   + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
+   + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
+   + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 + Administration de la boutique {#admin}
    + [Gérer les rôles utilisateur et les autorisations](../site-management/users-roles-permissions.md)
    + [Authentification À Deux Facteurs](../site-management/two-factor-authentication.md)
@@ -235,7 +236,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -265,4 +266,3 @@ ht-degree: 3%
       + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
    + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
    + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
-
