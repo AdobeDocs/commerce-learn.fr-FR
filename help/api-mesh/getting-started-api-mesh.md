@@ -51,6 +51,6 @@ Votre application Commerce comporte une API REST et un point d’entrée GraphQL
 En tant que développeur ou développeuse utilisant Adobe App Builder et le maillage API, il n’est pas nécessaire de comprendre ce qu’est un proxy inverse. Cependant, si vous êtes intéressé par la fonctionnalité globale associée à Adobe App Builder, utilisez les ressources suivantes :
 
 * [Qu’est-ce qu’un proxy inverse ](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League Communities - proxy inverse](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
+* [Experience League Communities - proxy inverse](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=fr){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
