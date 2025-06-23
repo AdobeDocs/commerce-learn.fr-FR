@@ -12,7 +12,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
+source-git-commit: faa0bd681f8fea32e5e2203db0d1a86c7ed71e1c
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 15%
@@ -40,7 +40,7 @@ Le maillage API combine plusieurs sources de données afin d’obtenir une répo
 * Cas pratique de vérification de l’inventaire en temps réel lors du passage en caisse
 * Éloigner les efforts de développement et l’utilisation des ressources de votre application commerciale
 
->[!VIDEO](https://video.tv.adobe.com/v/3421886?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Exemples de cas d’utilisation
 
@@ -51,6 +51,6 @@ Votre application Commerce comporte une API REST et un point d’entrée GraphQL
 En tant que développeur ou développeuse utilisant Adobe App Builder et le maillage API, il n’est pas nécessaire de comprendre ce qu’est un proxy inverse. Cependant, si vous êtes intéressé par la fonctionnalité globale associée à Adobe App Builder, utilisez les ressources suivantes :
 
 * [Qu’est-ce qu’un proxy inverse ](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [Experience League Communities - Proxy inverse](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772?profile.language=fr){target="_blank"}
+* [Experience League Communities - proxy inverse](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
