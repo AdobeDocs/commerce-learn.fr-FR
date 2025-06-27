@@ -37,4 +37,4 @@ Découvrez les workflows GitHub inclus dans le kit de démarrage du maillage API
 
 * [Référentiel GitHub du kit de démarrage de maillage API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guide de mise en œuvre de serveur à serveur OAuth d’Adobe Developer](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/fr/playlists/commerce-get-started-app-builder-and-api-mesh)
