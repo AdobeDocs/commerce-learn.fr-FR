@@ -31,7 +31,7 @@ Découvrez les workflows GitHub inclus dans le kit de démarrage du maillage API
 * Workflow deployMesh qui déploie ou met à jour automatiquement un maillage
 * Test de charge avec le workflow de test de charge K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464526?learn=on&enablevpops&captions=fre_fr)
 
 ## Documentation connexe
 
