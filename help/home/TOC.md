@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 810d1a17e9fe564e8450b091bbeb5574d7d76075
+source-git-commit: 454e5c118acf4617eed2e341b719a8f731eec985
 workflow-type: tm+mt
-source-wordcount: '888'
+source-wordcount: '896'
 ht-degree: 3%
 
 ---
@@ -81,6 +81,7 @@ ht-degree: 3%
       + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
 + Adobe Commerce Optimizer {#adobe-commerce-optimizer}
    + [Vue d’ensemble](../adobe-commerce-optimizer/overview.md)
+   + [Création de votre première instance de Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
 + Architecture de référence globale {#global-reference-architecture-implementation-techniques}
    + [Vue d’ensemble](../global-reference-architecture/overview.md)
    + [Fractionner Git](../global-reference-architecture/split-git.md)
@@ -238,7 +239,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
