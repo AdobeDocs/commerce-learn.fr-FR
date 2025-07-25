@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 97
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
-source-git-commit: 454e5c118acf4617eed2e341b719a8f731eec985
+source-git-commit: 25082c5dea237d7ce1b325fbe7d0eb709d112008
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Création de votre première instance de Adobe Commerce Optimizer
 
-Découvrez comment créer votre première instance Adobe Commerce Optimizer du début à la fin. Nous abordons quelques sujets tels que la vérification de votre organisation et des droits, la vérification des crédits disponibles et la sélection du type d’instance et de l’environnement appropriés. Cette présentation conviviale pour les débutants est conçue pour vous aider à démarrer rapidement. Elle comprend des étapes claires et des conseils utiles pour garantir une expérience fluide.
+Découvrez comment créer votre première instance Adobe Commerce Optimizer du début à la fin. Parmi les sujets abordés, citons la vérification de votre organisation et des droits, la vérification des crédits disponibles et la sélection du type d’instance et de l’environnement appropriés. Cette présentation conviviale pour les débutants est conçue pour vous aider à démarrer rapidement. Elle comprend des étapes claires et des conseils utiles pour garantir une expérience fluide.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -37,5 +37,5 @@ Découvrez comment créer votre première instance Adobe Commerce Optimizer du d
 
 ## Contenu connexe
 
-* [Qu’est-ce que Adobe Commerce Optimizer ](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
-* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [Qu’est-ce que Adobe Commerce Optimizer ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
