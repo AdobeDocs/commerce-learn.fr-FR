@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: e66dfebc7ff4f4745a9fdde65b74270744b0ea6b
+source-git-commit: 622e996bf7124ffd74fe9db81b0e47ba65ae2279
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '904'
 ht-degree: 3%
 
 ---
@@ -83,6 +83,7 @@ ht-degree: 3%
    + [Vue d’ensemble](../adobe-commerce-optimizer/overview.md)
    + [Création de votre première instance de Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
    + [Gestion des instances Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
+   + [Ingérer des données d’exemple](../adobe-commerce-optimizer/ingest-sample-data.md)
 + Architecture de référence globale {#global-reference-architecture-implementation-techniques}
    + [Vue d’ensemble](../global-reference-architecture/overview.md)
    + [Fractionner Git](../global-reference-architecture/split-git.md)
@@ -240,7 +241,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
