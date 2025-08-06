@@ -33,7 +33,7 @@ Découvrez comment ingérer les exemples de données pour votre instance Adobe C
 * Créez Des Politiques.
 * Créer des vues de catalogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470476?learn=on&enablevpops&captions=fre_fr)
 
 ## Contenu connexe
 
