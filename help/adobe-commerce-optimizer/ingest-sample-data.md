@@ -38,6 +38,6 @@ Découvrez comment ingérer les exemples de données pour votre instance Adobe C
 ## Contenu connexe
 
 * [Exemple de données du référentiel GitHub](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Cas pratique administrateur](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer]  Guide ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Cas pratique administrateur](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer]  Guide ](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
