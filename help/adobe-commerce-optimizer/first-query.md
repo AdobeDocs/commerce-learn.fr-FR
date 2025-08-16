@@ -29,7 +29,7 @@ Découvrez comment interroger des données à l’aide de GraphQL sur une instan
 * Interroger des données à l’aide de GraphQL
 * Utilisation de json pour faciliter la lecture du fichier json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470802?learn=on&enablevpops&captions=fre_fr)
 
 ## Exemples de code
 
