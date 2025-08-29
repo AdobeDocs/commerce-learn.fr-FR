@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 68f2108d3526cf4159cafc9259c1692a7dc98267
+source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '913'
 ht-degree: 3%
 
 ---
@@ -129,6 +129,7 @@ ht-degree: 3%
    + [Mutations](../graphql-rest/graphql-mutations.md)
    + [Schéma](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
+   + [Installation d’applications à partir d’Adobe Exchange](../app-builder/install-app-builder-app.md)
    + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
    + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Démonstration fonctionnelle d’App Builder](../app-builder/app-builder-functional-demonstration.md)
@@ -242,7 +243,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
