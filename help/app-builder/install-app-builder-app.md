@@ -30,4 +30,4 @@ Découvrez comment rechercher, installer et valider des applications Adobe Comme
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3471526/?learn=on&enablevpops&captions=fre_fr)
