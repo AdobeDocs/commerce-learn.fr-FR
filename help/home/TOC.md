@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
+source-git-commit: 2f6bbab8db0a4223424673fed346d089d11ef351
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '910'
 ht-degree: 3%
 
 ---
@@ -206,7 +206,6 @@ ht-degree: 3%
    + [Live Search de recommandations](../site-management/live-search-recommendations.md)
    + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
 + Commandes et exécution {#orders}
-   + [Présentation de l&#39;exécution des commandes en magasin](../orders-and-fulfillment/store-fulfillment.md)
    + [Gérer le statut de la commande](../orders-and-fulfillment/order-status.md)
    + [Vérification du statut du stock](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B pour Adobe Commerce {#b2b}
@@ -243,7 +242,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
