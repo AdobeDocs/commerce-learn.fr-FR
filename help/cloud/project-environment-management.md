@@ -38,6 +38,6 @@ Découvrez comment utiliser Adobe Commerce Cloud pour gérer les projets et les 
 
 ## Contenu et documentation connexes
 
-* [Gérer l’accès utilisateur](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/user-access)
-* [Connexion sécurisée aux environnements distants](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/secure-connections)
-* [ Projet d’infrastructure cloud ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Gérer l’accès utilisateur](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/project/user-access)
+* [Connexion sécurisée aux environnements distants](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/secure-connections)
+* [ Projet d’infrastructure cloud ](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/project/overview)
