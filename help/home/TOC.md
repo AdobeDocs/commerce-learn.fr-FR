@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 2f6bbab8db0a4223424673fed346d089d11ef351
+source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '914'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [Trier et résoudre 2 erreurs courantes du site](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valeurs de configuration](../cloud/troubleshooting/config-values.md)
       + [Tronquer les logs](../cloud/troubleshooting/truncate-logs.md)
+   + [Gestion de projet et de l’environnement](../cloud/project-environment-management.md)
    + [Hébergement conforme à la norme HIPAA](../cloud/hippa-ready-hosting.md)
    + [Détecter l’adresse IP](../cloud/detect-ip-address.md)
    + [Marketing](../cloud/marketecture.md)
@@ -242,7 +243,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
