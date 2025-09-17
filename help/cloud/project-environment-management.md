@@ -34,7 +34,7 @@ Découvrez comment utiliser Adobe Commerce Cloud pour gérer les projets et les 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3474960/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474963/?learn=on&enablevpops&captions=fre_fr)
 
 ## Contenu et documentation connexes
 
