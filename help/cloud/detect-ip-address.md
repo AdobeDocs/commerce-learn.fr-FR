@@ -10,9 +10,9 @@ duration: 0
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 3acec65129773a8ba94eb52c53d15d7633440717
+source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1095'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ L’outil d’interface de ligne de commande Magento-Cloud est conçu pour aider
 
 Dans cette première section de l’exemple de code, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` demande l’URL de l’environnement . La valeur renvoyée ressemble à ce qui suit `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De temps en temps, ça ressemble plus à ce `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Cette première commande est assez simple, et il est maintenant temps de passer à la commande suivante.
 
-Pour plus d’informations, consultez [Présentation de l’interface de ligne de commande Cloud](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Pour plus d’informations, consultez [Présentation de l’interface de ligne de commande Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Utilisation de `sed` pour la recherche et le remplacement
 
@@ -61,7 +61,7 @@ sed 's/.\.c\.(.)/\1/;s/.$//'
 La commande `sed` sous UNIX®Linux® signifie Éditeur de flux. Il est utilisé pour effectuer des transformations de texte de base sur un flux d’entrée (un fichier ou une entrée à partir d’un pipeline). Les utilisations courantes comprennent la recherche, la recherche et le remplacement, l’insertion et la suppression de texte. La `sed` de commande traite le texte ligne par ligne et applique des opérations spécifiées, ce qui en fait un outil puissant pour la manipulation de texte et les scripts.
 
 Comme mentionné précédemment, il existe généralement 2 types d’URL renvoyés par l’interface de ligne de commande `magento-cloud`. Il existe une variation qui contient des `.com.c.c` au milieu. Cette variante est celle qui doit être manipulée. Si cette structure est détectée, elle nécessite la suppression de tout, du début de l’URL jusqu’à `.com.c.c`.  Il ne reste alors que la dernière partie de l’URL. Un exemple d’URL ressemble à `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Lorsque ce modèle est détecté, l’objectif est de tout conserver après `.c.`.  Dans cet exemple de code fourni, `sed 's/.\.c\.(.)/\1/'` est utilisé pour saisir cette partie et ignorer le reste de la valeur renvoyée d’origine. La partie restante de l’URL ressemble à quelque chose comme `abcikdxbg789.ent.magento.cloud/`.\
-Deux commandes sont en cours d’exécution dans `sed`. Ils sont séparés par un point-virgule. La deuxième partie de mon `;s/.$//'` de commande `sed` consiste à supprimer les barres obliques de fin si elles existent, à nettoyer cette URL pour qu’elle ressemble à `abcikdxbg789.ent.magento.cloud`.  À ce stade, l’URL a été nettoyée et prête pour la commande suivante.
+Deux commandes sont en cours d’exécution dans `sed`. Ils sont séparés par un point-virgule. La deuxième partie de mon `sed` de commande `;s/.$//'` consiste à supprimer les barres obliques de fin si elles existent, à nettoyer cette URL pour qu’elle ressemble à `abcikdxbg789.ent.magento.cloud`.  À ce stade, l’URL a été nettoyée et prête pour la commande suivante.
 
 ## Cartes avec dig
 
@@ -120,4 +120,4 @@ Ces environnements de niveau inférieur sont à clients multiples et partagent d
 
 ## Documentation connexe
 
-* [ Adresses IP régionales ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses|https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [ Adresses IP régionales ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
