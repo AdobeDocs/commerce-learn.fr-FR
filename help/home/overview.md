@@ -33,4 +33,4 @@ Bienvenue dans la collection [!DNL Commerce] de vidéos et de tutoriels. L’uti
 
 - [Documentation du site marchand](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=fr)
 - [Documentation pour les développeurs](https://developer.adobe.com/commerce)
-- [ Adobe Digital Learning Services - Catalogue de cours Adobe Commerce ](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+- [&#x200B; Adobe Digital Learning Services - Catalogue de cours Adobe Commerce &#x200B;](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

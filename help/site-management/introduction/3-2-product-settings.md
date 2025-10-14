@@ -41,6 +41,6 @@ Dans cette vidéo :
 
 [Créer un produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=fr)
 
-[ Paramètres du produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=fr#product-settings)
+[&#x200B; Paramètres du produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=fr#product-settings)
 
-[ Présentation des attributs de produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)
+[&#x200B; Présentation des attributs de produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)

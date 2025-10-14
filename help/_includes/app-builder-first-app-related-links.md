@@ -13,8 +13,8 @@ ht-degree: 2%
 ## App Builder - Création des pages relatives à votre première application
 
 * [Vue d’ensemble](../app-builder/first-app/overview.md)
-* [La variable ](../app-builder/first-app/env-file.md)
-* [La variable ](../app-builder/first-app/app-config-yaml-file.md)
+* [La variable &#x200B;](../app-builder/first-app/env-file.md)
+* [La variable &#x200B;](../app-builder/first-app/app-config-yaml-file.md)
 * [&quot;actions&quot;](../app-builder/first-app/actions-folder.md)
 * [`test`](../app-builder/first-app/test-folder.md)
 * [`web-src`](../app-builder/first-app/web-src-folder.md)

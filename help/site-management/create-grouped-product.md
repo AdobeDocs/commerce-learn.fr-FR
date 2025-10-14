@@ -186,7 +186,7 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 Pour [supprimer un produit simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) d’un produit groupé, utilisez : `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
 Pour découvrir ce qu’il faut utiliser comme `{type}`, utilisez xdebug pour capturer la requête et évaluer $linkTypes: `related`, `crosssell`, `uupsell` et `associated`.
-![ Types de lien de produit groupé - texte de remplacement ](/help/assets/site-management/catalog/grouped-types.png "Types de lien de produit groupé capturés lors de la session xdebug")
+![&#x200B; Types de lien de produit groupé - texte de remplacement &#x200B;](/help/assets/site-management/catalog/grouped-types.png "Types de lien de produit groupé capturés lors de la session xdebug")
 
 Lors de la liaison des produits simples au produit groupé, la payload contenait quelques sections similaires à :
 

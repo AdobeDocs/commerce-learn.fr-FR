@@ -38,4 +38,4 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[ Présentation des attributs de produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)
+[&#x200B; Présentation des attributs de produit - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)

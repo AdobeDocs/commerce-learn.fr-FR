@@ -37,5 +37,5 @@ Chaque installation d’Adobe Commerce et de Magento Open Source prend en charge
 
 ## Ressources supplémentaires
 
-- [ Sites Web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=fr)
-- [ Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html?lang=fr)
+- [&#x200B; Sites Web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=fr)
+- [&#x200B; Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html?lang=fr)

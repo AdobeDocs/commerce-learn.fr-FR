@@ -38,6 +38,6 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[ Modèles d’email - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=fr)
+[&#x200B; Modèles d’email - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=fr)
 
-[ Variables et communications client - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=fr#variables-and-customer-communications)
+[&#x200B; Variables et communications client - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=fr#variables-and-customer-communications)

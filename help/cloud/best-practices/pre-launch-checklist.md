@@ -60,7 +60,7 @@ Si un CTA/CSE est affecté au compte, contactez-le et le gestionnaire de compte 
    > Seules les requêtes envoyées avec une opération de GET HTTP peuvent être mises en cache (le cas échéant). [Les requêtes de POST ne peuvent pas être mises en cache](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
 
 3. Assurez-vous que l’optimisation rapide des images est activée ([Voir Optimisation rapide des images](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/cdn/fastly-image-optimization){target="_blank"})
-4. Vérifiez que l’emplacement de protection correct est configuré ([Configurez le cache, les serveurs principaux et l’protection d’origine ](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
+4. Vérifiez que l’emplacement de protection correct est configuré ([Configurez le cache, les serveurs principaux et l’protection d’origine &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
 5. Le pare-feu d’applications web (**WAF**) fonctionne. (Voir [Dépannage des requêtes bloquées](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service){target="_blank"}, le cas échéant, et limites)
 6. Mettez à jour la liste Fastly [&quot;Paramètres d’URL ignorés&quot;](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} dans le panneau d’administration pour améliorer les performances du cache.
 
@@ -105,7 +105,7 @@ Adobe Commerce Cloud utilise une grappe MariaDB Galera comme base de données po
 3. [!BADGE Blocker]{type=caution tooltip="Blocage potentiel"}
 
    >[!NOTE]
-   > Un [test de charge et de stress a pour but ](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} d&#39;identifier les goulets d&#39;étranglement et de découvrir les problèmes de performances dans l&#39;application. Il joue un rôle essentiel dans la gestion des attentes concernant la taille des grappes et dans la détermination des ajustements de mise à l’échelle nécessaires pour répondre efficacement aux besoins de l’entreprise.
+   > Un [test de charge et de stress a pour but &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-cloud-service/user-guide/develop/test/guidance#:~:text=A%20load%20test%20can%20help,Scan%20Tool%20for%20your%20sites.){target="_blank"} d&#39;identifier les goulets d&#39;étranglement et de découvrir les problèmes de performances dans l&#39;application. Il joue un rôle essentiel dans la gestion des attentes concernant la taille des grappes et dans la détermination des ajustements de mise à l’échelle nécessaires pour répondre efficacement aux besoins de l’entreprise.
 
    >[!IMPORTANT]
    > **_AVERTISSEMENT :_** Lors de la préparation d’un test de charge, veuillez_ **_ne pas envoyer_** d’emails de transaction en direct (même aux adresses factices). L’envoi d’emails pendant le test peut entraîner le projet à atteindre la limite d’envoi par défaut (12k) configurée pour SendGrid avant son lancement.

@@ -38,4 +38,4 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[ Types de produits - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=fr#product-types)
+[&#x200B; Types de produits - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=fr#product-types)

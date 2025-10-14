@@ -37,4 +37,4 @@ Adobe Commerce Optimizer améliore les plateformes commerciales existantes en fo
 
 ## Ressources supplémentaires
 
-[[!DNL Adobe Commerce Optimizer]  Guide ](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer]  Guide &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}

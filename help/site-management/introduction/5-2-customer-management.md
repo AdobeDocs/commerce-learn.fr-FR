@@ -38,4 +38,4 @@ Dans cette vidéo :
 
 [Créer un compte client individuel - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=fr)
 
-[ Groupes clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=fr)
+[&#x200B; Groupes clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=fr)

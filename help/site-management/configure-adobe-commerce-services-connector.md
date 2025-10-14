@@ -49,5 +49,5 @@ Commerce Services Connector est une configuration développée par Adobe qui per
 ## Ressources supplémentaires
 
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=fr){target="_blank"}
-- [ Guide des services de paiement ](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=fr){target="+blank"}
+- [&#x200B; Guide des services de paiement &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=fr){target="+blank"}
 - [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=fr){target="+blank"}

@@ -39,8 +39,8 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[ Contenu de catégorie - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html?lang=fr)
+[&#x200B; Contenu de catégorie - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html?lang=fr)
 
-[ Paramètres d’affichage - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html?lang=fr)
+[&#x200B; Paramètres d’affichage - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html?lang=fr)
 
 [Paramètres de conception - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html?lang=fr)

@@ -40,6 +40,6 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[ Portée du compte client - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=fr)
+[&#x200B; Portée du compte client - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=fr)
 
-[ Souhaitez une expérience de storefront de liste - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=fr)
+[&#x200B; Souhaitez une expérience de storefront de liste - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=fr)

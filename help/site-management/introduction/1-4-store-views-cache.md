@@ -34,6 +34,6 @@ Dans cette vidéo :
 
 ## Ressources supplémentaires
 
-[ Sites Web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=fr)
+[&#x200B; Sites Web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=fr)
 
-[ Gestion du cache - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=fr)
+[&#x200B; Gestion du cache - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html?lang=fr)
