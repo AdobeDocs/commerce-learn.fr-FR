@@ -113,7 +113,7 @@ Adobe Commerce Cloud utilise une grappe MariaDB Galera comme base de données po
    > - Comment désactiver la communication par e-mail :
    >   Accédez à _Magasin > Configuration > Avancé > Système > Paramètres d’envoi de courriers électroniques_.
 
-4. Effectuez des tests de pénétration de la sécurité sur l&#39;instance de production dans le cadre du [modèle de sécurité de responsabilité partagée](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. Pour la conformité PCI (secteur des cartes de paiement), le site personnalisé nécessite des tests de pénétration.
+4. Effectuez des tests de pénétration de la sécurité sur l&#39;instance de production dans le cadre du [modèle de sécurité de responsabilité partagée](https://business.adobe.com/fr/products/magento/secure-ecommerce.html){target="_blank"}. Pour la conformité PCI (secteur des cartes de paiement), le site personnalisé nécessite des tests de pénétration.
 
 ## 8. Autres configurations
 
