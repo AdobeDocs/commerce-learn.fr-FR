@@ -7,9 +7,9 @@ role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
 duration: 194
-last-substantial-update: 2025-10-17T00:00:00Z
+last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: 3d9387f529729020771e03b5162404af19ed6329
+source-git-commit: 2b95d22d417229e95a9829cd04d0538b537e0c0e
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Découvrez Commerce Optimizer Salesforce Commerce Cloud Connector, un outil con�
 * découvrez l’objectif du kit de démarrage de l’intégration Salesforce Commerce Cloud.
 * Comprendre où installer le kit de démarrage
 
->[!VIDEO](https://video.tv.adobe.com/v/3476015?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
