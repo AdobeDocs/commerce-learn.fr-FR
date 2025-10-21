@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 65ffab8f8359d493b5519100384f4570b94b7730
+source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '930'
 ht-degree: 3%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 3%
    + [Première requête à l’aide de GraphQL](../adobe-commerce-optimizer/first-query.md)
    + Kit de démarrage cloud Salesforce Commerce {#sfcc-starter-kit}
       + [Vue d’ensemble](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
+      + [Aperçu de l’architecture](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
 + Architecture de référence globale {#global-reference-architecture-implementation-techniques}
    + [Vue d’ensemble](../global-reference-architecture/overview.md)
    + [Fractionner Git](../global-reference-architecture/split-git.md)
@@ -249,7 +250,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
