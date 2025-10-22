@@ -6,10 +6,10 @@ topic: Administration,Commerce,Integrations
 role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 243
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: fa615aab7b8eff3b13908797cd263ec4cdc65eb6
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Découvrez l’architecture et les fonctionnalités du kit de démarrage du conn
 * Les cartouches et API SFCC personnalisées détectent les modifications de catalogue par le biais d’exportations delta, ce qui permet une synchronisation efficace des données avec Adobe App Builder.
 * Les actions d’exécution d’App Builder gèrent les synchronisations complètes et par différence, la validation et le suivi d’état afin d’assurer des mises à jour précises et sans conflit de Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476053?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
