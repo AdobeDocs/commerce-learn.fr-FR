@@ -32,4 +32,4 @@ Découvrez l’architecture et les fonctionnalités du kit de démarrage du conn
 * Les cartouches et API SFCC personnalisées détectent les modifications de catalogue par le biais d’exportations delta, ce qui permet une synchronisation efficace des données avec Adobe App Builder.
 * Les actions d’exécution d’App Builder gèrent les synchronisations complètes et par différence, la validation et le suivi d’état afin d’assurer des mises à jour précises et sans conflit de Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476053?captions=fre_fr&learn=on)
