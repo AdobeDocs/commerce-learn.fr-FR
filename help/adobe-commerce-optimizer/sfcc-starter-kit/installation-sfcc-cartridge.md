@@ -36,4 +36,4 @@ Découvrez comment installer et configurer la cartouche Adobe Commerce Optimizer
 * Importez des définitions de tâche et d’objet personnalisées pour prendre en charge le suivi et la synchronisation.
 * Testez un point d’entrée d’API personnalisé pour confirmer une installation réussie et préparez la synchronisation du catalogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476072?captions=fre_fr&learn=on)
