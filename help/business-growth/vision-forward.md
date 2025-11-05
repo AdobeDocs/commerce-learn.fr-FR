@@ -35,4 +35,4 @@ La feuille de route d’Adobe Commerce pour 2026 présente une stratégie compl�
 * Centre des commerçants et expérience d’administration
 * Améliorations de l’expérience des développeurs et de l’observabilité
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475708/?captions=fre_fr&learn=on&enablevpops)
