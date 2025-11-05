@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: b050e70785b24b6f8804c3cdcfb11d533179154c
+source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -36,4 +36,4 @@ Découvrez comment installer et configurer la cartouche Adobe Commerce Optimizer
 * Importez des définitions de tâche et d’objet personnalisées pour prendre en charge le suivi et la synchronisation.
 * Testez un point d’entrée d’API personnalisé pour confirmer une installation réussie et préparez la synchronisation du catalogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476072?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
