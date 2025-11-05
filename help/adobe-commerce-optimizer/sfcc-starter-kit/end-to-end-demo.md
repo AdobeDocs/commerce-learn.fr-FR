@@ -34,4 +34,4 @@ Regardez une démonstration complète montrant la configuration et l’exécutio
 * Les modifications apportées aux détails du produit et aux prix dans le catalogue Salesforce Commerce Cloud sont automatiquement détectées et mises à jour dans Commerce Optimizer via le processus de synchronisation delta.
 * Mises à jour en temps réel et démonstration d’un flux de données transparent et d’une synchronisation entre les systèmes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476095?captions=fre_fr&learn=on)
