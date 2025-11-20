@@ -89,6 +89,6 @@ Prêt à développer ? Le lien suivant contient des exemples d’applications po
 
 ## Support technique {#support}
 
-Pour les demandes d’assistance aux développeurs, utilisez le [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} pour obtenir de l’aide.
+Pour les demandes d’assistance aux développeurs, utilisez le [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=fr){target="_blank"} pour obtenir de l’aide.
 
 {{$include /help/_includes/app-builder-related-links.md}}
