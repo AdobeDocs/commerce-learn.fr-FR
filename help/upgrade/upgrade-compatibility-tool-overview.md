@@ -22,28 +22,28 @@ ht-degree: 29%
 
 # Présentation de l’outil de compatibilité de mise à niveau
 
-L’outil de compatibilité de mise à niveau (UCT) est un outil gratuit qui analyse en quelques minutes les incompatibilités entre votre version actuelle et la version de mise à niveau cible. L’utilisation de cet outil accélère et facilite l’exécution du processus de mise à niveau.
+L’outil de compatibilité de mise à niveau (UCT) est un outil gratuit qui analyse les incompatibilités entre votre version actuelle et la version mise à niveau cible en quelques minutes. L’utilisation de cet outil rend le processus de mise à niveau plus rapide et plus facile à exécuter.
 
 Dans cette vidéo :
 
 - Présentation de l’outil de compatibilité de mise à niveau
-- Comment cela peut vous aider à identifier rapidement les erreurs et les correctifs requis pour la mise à niveau vers une version plus récente d’Adobe Commerce
-- Accès aux résultats de l’HTML pour visualiser les modules par gravité et par nombre d’incompatibilités
+- Comment cela peut vous aider à identifier rapidement les erreurs et les correctifs requis pour effectuer une mise à niveau vers une version plus récente d’Adobe Commerce
+- Accès aux résultats d’HTML pour visualiser les modules par gravité et nombre d’incompatibilités
 
-Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=fr). Si vous souhaitez en savoir plus sur l’exécution et la simplification de vos mises à niveau, consultez le [Guide de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=fr).
+Pour en savoir plus sur cet outil, consultez la documentation [Outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Pour en savoir plus sur l’exécution et la simplification de vos mises à niveau, consultez le [ Guide de mise à niveau ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
 - Gestionnaires de site
-- Développeurs
+- Développeur
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344383?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=fr)
-- [Guide de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=fr)
-- [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=fr)
-- [Calendrier des versions](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=fr)
+- [Documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [ Guide de mise à niveau ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Calendrier des versions](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

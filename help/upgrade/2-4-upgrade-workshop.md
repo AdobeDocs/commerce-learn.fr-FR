@@ -22,26 +22,26 @@ ht-degree: 33%
 
 # Atelier de mise à niveau vers Adobe Commerce 2.4
 
-Regardez ce webinaire enregistré pour découvrir les étapes et bonnes pratiques à suivre lors de la préparation de votre prochaine mise à niveau vers la version 2.4.4 ou ultérieure.
+Regardez ce webinaire enregistré pour découvrir les étapes et les bonnes pratiques à suivre lors de la préparation de votre prochaine mise à niveau vers la version 2.4.4 ou une version ultérieure.
 
-Dans cet atelier, Adobe Commerce s&#39;est associé à Merkle pour partager :
+Au cours de cet atelier, Adobe Commerce s’est associé à Merkle pour partager :
 
-- Étapes techniques à exécuter lors de la mise à niveau vers Adobe Commerce 2.4
+- Étapes techniques à suivre lors de la mise à niveau vers Adobe Commerce 2.4
 - Bonnes pratiques et outils à utiliser lors de la mise à niveau
-- Chemins de mise à niveau recommandés vers la version 2.4.4 ou ultérieure
+- Chemins de mise à niveau recommandés vers les versions 2.4.4 ou ultérieures
 - Ressources de mise à niveau principales à référencer
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
 - Gestionnaires de site
-- Développeurs
+- Développeur
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432521?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Guide de mise à niveau](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=fr)
-- [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=fr)
-- [Calendrier des versions](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=fr)
+- [ Guide de mise à niveau ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+- [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Calendrier des versions](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
