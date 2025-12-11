@@ -1,17 +1,18 @@
 ---
-title: Fichier app.config.yaml
-description: Découvrez les types de fichiers du fichier app.config.yaml pour cet exemple d’application.
-landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers présents dans app.config.yaml.
+title: Le fichier app.config.yaml
+description: Découvrez les types de fichiers dans le fichier app.config.yaml pour cet exemple d’application.
+landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et quels types de fichiers sont disponibles dans app.config.yaml.
 kt: 12929
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: 01eb2abc854e7de4b3bbca9c0cd4d09ec43f9bf2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -22,16 +23,16 @@ ht-degree: 0%
 
 Ce fichier détermine la configuration de l’application.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce avec une expérience limitée d’Adobe App Builder qui découvrent les `app.config.yaml` de l’exemple d’application.
+* Développeurs peu familiers avec Adobe Commerce et peu familiarisés avec Adobe App Builder, qui découvrent les `app.config.yaml` de l’exemple d’application.
 
 ## Contenu vidéo
 
 * Le fichier `app.config.yaml` discuté
 * Comment les définitions sont-elles liées à d’autres fichiers `.js` ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3430846?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
 ## Exemple de code
 
@@ -53,7 +54,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Vous pouvez voir ces valeurs statiques utilisées dans l&#39;exemple de module dans le fichier `actions/commerce.index.js`
+Ces valeurs statiques sont utilisées dans l’exemple de module du fichier `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

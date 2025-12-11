@@ -3,13 +3,14 @@ title: Démonstration de bout en bout du connecteur Salesforce Commerce Cloud
 description: Regardez la démonstration de bout en bout de Salesforce Commerce Cloud avec Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Regardez une démonstration complète montrant la configuration et l’exécutio
 * Les modifications apportées aux détails du produit et aux prix dans le catalogue Salesforce Commerce Cloud sont automatiquement détectées et mises à jour dans Commerce Optimizer via le processus de synchronisation delta.
 * Mises à jour en temps réel et démonstration d’un flux de données transparent et d’une synchronisation entre les systèmes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476095?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

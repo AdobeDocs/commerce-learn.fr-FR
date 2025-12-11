@@ -6,12 +6,13 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
-badge: label="Contribution Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
+badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ Dans l’un de ces scénarios, il est conseillé d’explorer l’utilisation de
 1. **Différents propriétaires de boutique** : si vous conservez du code pour plusieurs propriétaires de boutique, chacun ayant sa propre boutique, des instances distinctes peuvent être nécessaires pour gérer efficacement leurs besoins individuels.
 2. **Conformité aux réglementations nationales** : certaines réglementations exigent que les données clients soient stockées dans des régions spécifiques. Dans de tels cas, des instances distinctes sont essentielles pour assurer le respect de ces règlements.
 3. **Variances opérationnelles entre les régions géographiques** : l&#39;exploitation dans plusieurs régions peut entraîner des calendriers et des exigences de maintenance différents. L’utilisation d’instances distinctes offre une certaine souplesse dans la gestion efficace de ces variations.
-4. **Ventes de Flashs à haute intensité** : les magasins qui réalisent des ventes flash à grande échelle nécessitent souvent des performances de serveur optimisées. Une infrastructure dédiée fournie par des instances distinctes garantit des performances optimales pendant ces périodes de forte demande.
+4. **Ventes Flash haute intensité** : les magasins qui réalisent des ventes flash à grande échelle nécessitent souvent des performances de serveur optimisées. Une infrastructure dédiée fournie par des instances distinctes garantit des performances optimales pendant ces périodes de forte demande.
 5. **Différences significatives entre les marques ou les pays** : lorsque la différence entre les marques ou les pays est importante, l’utilisation d’une seule instance entraîne l’utilisation d’un code uniquement pour certaines marques ou certains pays. Des instances distinctes peuvent améliorer les performances et la stabilité en éliminant le code inutile pour les marques et les pays qui n’en ont pas besoin.
 
 ## Modèles d’architecture de référence globale

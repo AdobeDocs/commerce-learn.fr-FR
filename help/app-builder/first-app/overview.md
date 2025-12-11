@@ -1,5 +1,5 @@
 ---
-title: App Builder crée votre première application
+title: App Builders crée votre première application
 description: Découvrez Adobe Developer App Builder à l’aide d’Adobe Commerce et créez votre première application.
 landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et créez votre première application.
 kt: 12421
@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -20,37 +21,37 @@ ht-degree: 0%
 
 # Vue d’ensemble {#overview}
 
-Ce tutoriel comporte les conditions préalables suivantes :
+Les prérequis de ce tutoriel sont les suivants :
 
-* L’accès à Adobe Developer Console est terminé
-* Un accès complet ou un accès d’évaluation à App Builder a été accordé
+* Accès à Adobe Developer Console terminé
+* Un accès complet ou d’évaluation à App Builder a été accordé
 * [L’application Adobe Developer App Builder a été créée](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
 * [Le projet Adobe Developer App Builder a été créé](https://developer.adobe.com/console){target="_blank"}
 * [Les espaces de travail Adobe Developer App Builder ont été créés - Étape 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [Les commandes de l’interface de ligne de commande AIO pour initialiser le projet et exécuter ont été exécutées](https://developer.adobe.com/runtime){target="_blank"}
 
-Pour plus d’informations sur la création de votre première application App Builder, vous pouvez consulter l’article de blog suivant afin d’aider à cette configuration et configuration initiales [Comment App Builder aide à améliorer l’agilité de votre plateforme commerciale](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Pour plus d’informations sur la création de votre première application App Builder, consultez l’article de blog suivant afin de faciliter cette configuration initiale [Comment App Builder contribue à l’agilité commerciale de votre plateforme commerciale](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
-## À quoi vous attendre de la lecture de ce tutoriel
+## À quoi vous attendre en lisant ce tutoriel
 
-Lorsque vous avez terminé ce tutoriel, vous devez disposer d’une application simple d’une seule page qui communique avec Adobe Commerce pour extraire l’historique des commandes et les produits. Ces rubriques couvrent la fonctionnalité App Builder avec des exemples de code et des instructions. Heureusement, après avoir regardé ces vidéos, cela vous permet de gagner du temps de développement et inspire d&#39;autres idées et encourage l&#39;adoption d&#39;un développement hors processus.
+Une fois ce tutoriel terminé, vous devriez disposer d’une application d’une seule page qui communique avec Adobe Commerce pour extraire l’historique des commandes et les produits. Ces rubriques présentent les fonctionnalités d’App Builder avec des exemples de code et des instructions. J’espère qu’après avoir visionné ces vidéos, vous gagnerez du temps de développement et que cela vous inspirera d’autres idées et encouragera l’adoption du développement hors processus.
 
-## Comment dois-je suivre ce tutoriel
+## Comment suivre ce tutoriel ?
 
-Ce tutoriel a été conçu pour vous permettre de suivre l’ordre des pages dans le volet de navigation de gauche. Cependant, il ne s’agit pas d’une exigence. Chaque page peut être visualisée individuellement, puisqu’elle aborde le concept général de création d’une application Adobe Developer App Builder initiale.
+Ce tutoriel a été conçu pour vous permettre de suivre l’ordre des pages dans le volet de navigation de gauche. Toutefois, ce n&#39;est pas une exigence. Chaque page peut être consultée individuellement puisqu’elle présente le concept général de création d’une application Adobe Developer App Builder initiale.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce avec une expérience limitée de l’utilisation d’Adobe App Builder.
+* Développeurs peu familiers avec Adobe Commerce et peu expérimentés avec Adobe App Builder.
 
 ## Contenu vidéo
 
 * Présentation d’App Builder et de l’exemple de module
 * Conditions préalables
-* Attentes pour l’utilisation de l’exemple de module
+* Attentes relatives à l’utilisation de l’exemple de module
 * Parties réutilisables de dans l’exemple de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3421024?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?quality=12&learn=on)
 
 {{avoid-400-error}}
 

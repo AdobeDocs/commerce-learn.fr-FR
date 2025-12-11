@@ -1,16 +1,17 @@
 ---
 title: PWA Studio pour les développeurs - Lancement et chargement
-description: Découvrez les étapes requises avant le lancement de votre ​ de PWA, la ligne de base du temps de chargement ​ et la manière dont les performances améliorent les conversions.
+description: Découvrez les étapes requises avant le lancement de votre PWA​, la ligne de base pour le temps de chargement​ et la manière dont les performances améliorent les conversions.
 kt: 5646
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: d1744a5c-7e56-48d3-971e-5abf21196cfa
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -21,14 +22,14 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- Étapes requises pour lancer votre PWA &#x200B;
-- Ligne de base pour les &#x200B; de temps de chargement
-- Amélioration des performances des conversions
+- Étapes requises pour lancer votre PWA&#x200B;
+- Ligne de base pour le temps de chargement&#x200B;
+- Amélioration des conversions grâce aux performances
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Développeurs frontaux
-- Chargés de projet
+- Développeurs front-end
+- Chefs de projet
 
 ## Contenu vidéo
 

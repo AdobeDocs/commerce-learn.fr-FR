@@ -1,9 +1,10 @@
 ---
-title: Bonnes pratiques relatives à l’infrastructure Adobe Commerce Cloud et au développement
-description: Découvrez l’infrastructure d’intégration technique de Adobe Commerce Cloud et les bonnes pratiques de développement.
+title: Bonnes pratiques en matière de développement et d’infrastructure cloud Adobe Commerce
+description: Découvrez l’infrastructure d’intégration technique et les bonnes pratiques de développement d’Adobe Commerce Cloud.
 feature: Cloud
 topic: Commerce, Architecture, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 0
@@ -11,7 +12,7 @@ last-substantial-update: 2024-03-04T00:00:00Z
 jira: KT-15017
 kt: 15017
 exl-id: 097561c7-5198-4544-985d-255c80a9648b
-source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -22,24 +23,23 @@ ht-degree: 0%
 
 Découvrez l’infrastructure cloud et quelques bonnes pratiques de développement pour Adobe Commerce.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
+- Gestionnaires de site web
 - Architectes Commerce
-- Propriétaires d’un site web de commerce électronique
+- Propriétaires du site e-commerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432791?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
 
 ## Documentation Experience League mentionnée dans la vidéo
 
-- [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=fr#migrate-files-using-rsync)
-- [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=fr#sftp)
-- [CLI Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=fr)
-  [Mise à niveau et application de correctifs Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=fr)
-- [Liste de contrôle de prélancement d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=fr)
-- [Création de tickets d&#39;assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr)
+- [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+- [ SFTP ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+- [Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+  [Mise à niveau d’Adobe Commerce et application de correctifs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+- [Liste de contrôle de prélancement d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+- [Création de tickets d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
-

@@ -3,13 +3,14 @@ title: Simplifier la migration vers Adobe Commerce à l’aide d’outils d’IA
 description: Découvrez comment Adobe Commerce simplifie la migration vers le cloud grâce à des outils d’IA, une adoption modulaire et un développement plus rapide pour une croissance commerciale évolutive.
 feature: App Builder, Storefront, Extensions, Merchandising
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 694
 last-substantial-update: 2025-10-13T00:00:00Z
 jira: KT-19378
-source-git-commit: a296152e8c8f94bbf4e3b882be6b8de7e4473d95
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Adobe Commerce facilite la croissance des entreprises en les aidant à migrer ve
 * L’extensibilité d’App Builder permet de découpler la logique personnalisée en fonctions sans serveur pour une maintenance plus facile.
 * Les améliorations apportées à Storefront améliorent les performances et la création de contenu avec des composants de dépôt et une diffusion Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475750/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)

@@ -3,13 +3,15 @@ title: Tronquer les logs
 description: Découvrez comment trier un déploiement ayant échoué en raison d’un disque dur saturé en tronquant les fichiers journaux volumineux.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou
 - Emplacement de certains grands fichiers journaux courants
 - Méthode rapide pour tronquer un fichier journal
 
->[!VIDEO](https://video.tv.adobe.com/v/3454585?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Commandes utilisées dans la vidéo
@@ -89,4 +91,4 @@ Après avoir envoyé le fichier dans le projet et l’environnement appropriés,
 
 ## Documentation connexe
 
-- [Notifications d’intégrité](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notifications d’intégrité](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

@@ -1,34 +1,35 @@
 ---
-title: Normes de codage PHP intégrées au processus
-description: Présentation des normes de codage en cours de traitement pour la migration vers Adobe Commerce, couvrant PHP, JavaScript et les bonnes pratiques relatives aux personnalisations.
+title: Normes de codage PHP en cours de traitement
+description: Présentation des normes de codage en cours de traitement pour la migration d’Adobe Commerce, couvrant PHP, JavaScript et les bonnes pratiques en matière de personnalisation.
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: b3068480fe1e3008daebff40d95388b161b9721e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Migration vers Adobe Commerce - Normes de codage en cours
+# Migration vers Adobe Commerce - Normes de codage en cours de traitement
 
-Découvrez les normes et bonnes pratiques essentielles en matière de codage pour PHP, JavaScript et les personnalisations. Que vous soyez développeur ou professionnel, cet ensemble de tutoriels vous aide à naviguer dans les complexités de la migration vers Adobe Commerce, assurant ainsi une transition fluide et réussie.
+Découvrez quelques normes de codage et bonnes pratiques essentielles pour PHP, JavaScript et les personnalisations. Que vous soyez développeur ou entreprise, cet ensemble de tutoriels vous aide à vous familiariser avec les complexités de la migration vers Adobe Commerce, assurant une transition fluide et réussie.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Développeurs : ils cherchent à améliorer leurs compétences en matière de migration et de codage Adobe Commerce.
+* Développeurs : cherchent à améliorer leurs compétences en migration Adobe Commerce et en normes de codage.
 * Entreprises planifiant une migration vers Adobe Commerce et recherchant les bonnes pratiques.
 
 ## Contenu vidéo {#video-content}
 
 * Découvrez les bonnes pratiques relatives à PHP, JavaScript et aux personnalisations pour garantir une migration fluide.
-* Obtenez des informations auprès des experts d’Adobe sur la préparation, les performances et la sécurité des projets Adobe Commerce performants.
+* Obtenez des informations auprès des experts Adobe sur la préparation, les performances et la sécurité pour la réussite des projets Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434859?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

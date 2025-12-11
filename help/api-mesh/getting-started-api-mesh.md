@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 15fe8a3387ca3f1c1f0cdc9f8e4cd58ce99260f4
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 16%
@@ -40,7 +41,7 @@ Le maillage API combine plusieurs sources de données afin d’obtenir une répo
 * Cas pratique de vérification de l’inventaire en temps réel lors du passage en caisse
 * Éloigner les efforts de développement et l’utilisation des ressources de votre application commerciale
 
->[!VIDEO](https://video.tv.adobe.com/v/3421886?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Exemples de cas d’utilisation
 
@@ -50,7 +51,7 @@ Votre application Commerce comporte une API REST et un point d’entrée GraphQL
 
 En tant que développeur ou développeuse utilisant Adobe App Builder et le maillage API, il n’est pas nécessaire de comprendre ce qu’est un proxy inverse. Cependant, si vous êtes intéressé par la fonctionnalité globale associée à Adobe App Builder, utilisez les ressources suivantes :
 
-* [Qu’est-ce qu’un proxy inverse &#x200B;](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Qu’est-ce qu’un proxy inverse ](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
 
 
 {{$include /help/_includes/api-mesh-related-links.md}}

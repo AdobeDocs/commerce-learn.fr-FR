@@ -1,6 +1,6 @@
 ---
 title: Le fichier .env
-description: Découvrez les types de fichiers du fichier .env pour cet exemple d’application
+description: Découvrez les types de fichiers dans le fichier .env pour cet exemple d’application
 landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de contenu utilisés dans le fichier .env
 kt: 12423
 doc-type: tutorial
@@ -8,32 +8,33 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-# Génération et configuration du fichier .env {#env-file}
+# Générer et configurer le fichier .env {#env-file}
 
-`.env` est un fichier spécial qui ne fait pas partie de l’exemple de module, mais qui est important à utiliser dans votre application Adobe Developer App Builder. Ce fichier contient des secrets et d&#39;autres informations. Évitez de soumettre ce fichier à un référentiel de code.
+Le `.env` est un fichier spécial qui ne fait pas partie de l’exemple de module, mais qui est important pour une utilisation dans votre application Adobe Developer App Builder. Ce fichier contient des secrets et d’autres informations. Évitez de valider ce fichier dans un référentiel de code.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce avec une expérience limitée de l’utilisation d’Adobe App Builder qui souhaite en savoir plus sur le fichier `.env`.
+* Développeurs peu familiers avec Adobe Commerce et utilisant Adobe App Builder, qui souhaitent en savoir plus sur le fichier `.env`.
 
 ## Contenu vidéo
 
-* Présentation du fichier .env et de son objet
+* Présentation du fichier .env et de son objectif
 * Génération du fichier .env
 * Comment ajouter le fichier pour ajouter de nouveaux secrets
-* Évitez de soumettre ce fichier, car il contient des informations sensibles.
+* Évitez de valider ce fichier, car il contient des informations sensibles
 
->[!VIDEO](https://video.tv.adobe.com/v/3421067?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 
 ## Exemple de code
 

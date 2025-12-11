@@ -6,17 +6,18 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
-badge: label="Contribution Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
+badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Experienced
-source-git-commit: cc6a79b20ae1864f7a7e9b99f90df7b0aa61ef6e
+exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
 
 ---
-
 
 # Modèle d’architecture de référence globale Monorepo
 

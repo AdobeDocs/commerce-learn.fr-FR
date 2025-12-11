@@ -1,34 +1,35 @@
 ---
-title: Configuration de Venia pour le développement de PWA
-description: Découvrez comment configurer le storefront Venia pour votre projet de développement de PWA.
+title: Configuration de Venia pour le développement PWA
+description: Découvrez comment configurer le storefront Venia pour votre projet de développement PWA.
 kt: 5565
 doc-type: video
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
-source-git-commit: fc03a06de4a4aaa54e218390749cacb6802a7c46
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Configuration de Venia pour le développement de PWA
+# Configuration de Venia pour le développement PWA
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Développeurs frontaux
-- Chargés de projet
-- Nouveaux développeurs vers Adobe Commerce
+- Développeurs front-end
+- Chefs de projet
+- Nouveaux développeurs dans Adobe Commerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430964?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35785?quality=12&learn=on)
 
 ## Ressources utiles
 
-[Guide du PWA Studio - Configuration Venia](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+Guide de PWA Studio [](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

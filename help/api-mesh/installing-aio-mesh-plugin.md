@@ -1,42 +1,43 @@
 ---
-title: Installation de l’interface de ligne de commande Adobe I/O Runtime et du module externe Maillage d’API
-description: Découvrez comment installer l’interface de ligne de commande de Adobe I/O Runtime et le module externe Maillage API
-landing-page-description: Découvrez comment utiliser Adobe App Builder et installer le module externe Adobe I/O Runtime with API Mesh .
-short-description: Découvrez comment utiliser Adobe App Builder et installer le module externe Adobe I/O Runtime with API Mesh .
+title: Installation de l’interface de ligne de commande Adobe I/O Runtime et du plug-in API Mesh
+description: Découvrez comment installer l’interface de ligne de commande Adobe I/O Runtime et le plug-in API Mesh.
+landing-page-description: Découvrez comment utiliser Adobe App Builder et installer le plug-in Adobe I/O Runtime avec maillage API .
+short-description: Découvrez comment utiliser Adobe App Builder et installer le plug-in Adobe I/O Runtime avec maillage API .
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Installation du module Adobe I/O Runtime CLI et Mesh
+# Installation de l’interface de ligne de commande Adobe I/O Runtime et du plug-in Mesh
 
-Avant de commencer à utiliser le maillage d’API pour Adobe Developer App Builder, vous devez installer l’interface de ligne de commande `aio` et le module externe de maillage d’API.
-Pour obtenir des instructions sur l’installation et connaître les conditions préalables requises, consultez la page de prise en main de l’API [&#128279;](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
+Avant de commencer à utiliser le maillage API pour Adobe Developer App Builder, vous devez installer l’interface de ligne de commande `aio` et le plug-in de maillage API.
+Pour obtenir des instructions relatives à l’installation et connaître les conditions préalables requises, consultez la page Maillage API [Prise en main](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent le maillage API ou [!DNL Adobe Commerce] avec une expérience limitée utilisant [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et le maillage API.
+* Développeurs peu familiers avec le maillage API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation de [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et du maillage API.
 
 ## Contenu vidéo
 
-* Présentation du maillage d’API
+* Présentation du maillage API
 * Installation de l’interface de ligne de commande Adobe I/O Runtime
-* Installation du module externe de messagerie d’API
+* Installation du plug-in Maillage API
 
->[!VIDEO](https://video.tv.adobe.com/v/3419793?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## Installation de l’interface de ligne de commande et du module externe Maillage API `aio`
+## Installation de l’interface de ligne de commande `aio` et du plug-in API Mesh
 
 Après avoir installé `node` et `npm`, exécutez la commande suivante pour installer l’interface de ligne de commande `aio` :
 
@@ -44,7 +45,7 @@ Après avoir installé `node` et `npm`, exécutez la commande suivante pour inst
 npm install -g @adobe/aio-cli
 ```
 
-Une fois l’interface de ligne de commande de Adobe I/O Runtime installée, utilisez la commande suivante pour installer le module externe Maillage d’API :
+Une fois l’interface de ligne de commande Adobe I/O Runtime installée, utilisez la commande suivante pour installer le plug-in de maillage API :
 
 ```bash
 aio plugins:install @adobe/aio-cli-plugin-api-mesh

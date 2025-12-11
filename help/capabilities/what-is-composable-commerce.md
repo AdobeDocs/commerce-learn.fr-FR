@@ -3,14 +3,14 @@ title: Création de Commerce composables par Adobe
 description: Découvrez le commerce composable, en donnant la priorité à une approche API-first et en implémentant une architecture modulaire et orientée service.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%

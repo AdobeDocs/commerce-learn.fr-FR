@@ -1,17 +1,18 @@
 ---
 title: Le dossier web-src
 description: Découvrez les types de fichiers du dossier web-src et les fichiers et dossiers imbriqués pour cet exemple d’application.
-landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers situés dans le dossier web-src.
+landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et quels types de fichiers se trouvent dans le dossier web-src.
 kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -20,19 +21,19 @@ ht-degree: 0%
 
 # Découvrez l’objectif du dossier web-src {#web-src-folder}
 
-Le dossier web-src de cet exemple d’application contient de nombreux fichiers et dossiers JavaScript. Ce dossier est utilisé pour les applications disposant d’une interface utilisateur. Toutes les applications n’utilisent pas cette fonctionnalité. Par exemple, une intégration Commerce avec un système de gestion des stocks externe peut ne pas nécessiter d’interface frontale et de code.
+Le dossier web-src de cet exemple d’application contient de nombreux fichiers et dossiers JavaScript. Ce dossier est utilisé pour les applications dotées d&#39;une interface utilisateur. Toutes les applications n’utilisent pas cette fonctionnalité. Par exemple, une intégration de Commerce à un système de gestion des stocks externe peut ne pas nécessiter d’interface frontale et de code.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce avec une expérience limitée de l’utilisation d’Adobe App Builder qui découvrent le dossier `web-src` et son contenu.
+* Développeurs peu familiers avec Adobe Commerce et utilisant Adobe App Builder, qui découvrent le dossier `web-src` et son contenu.
 
 ## Contenu vidéo
 
 * Quel est l’objectif principal du dossier `web-src` ?
 * Fichiers et dossiers généralement inclus
-* Utilisation du dossier `web-src` et du contenu dans l’exemple d’application
+* Utilisation du dossier `web-src` et de son contenu dans l’exemple d’application
 
->[!VIDEO](https://video.tv.adobe.com/v/3421039?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
 ## Exemples de code
 
@@ -128,7 +129,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-Dans l’exemple ci-dessous, l’exemple de code est `not` limitant la requête. Pour éviter une erreur 400, réduisez la taille de la réponse en utilisant `searchCriteria`.
+Dans l’exemple ci-dessous, l’exemple de code limite `not` la requête. Pour éviter une erreur 400, réduisez la taille de la réponse à l’aide de `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

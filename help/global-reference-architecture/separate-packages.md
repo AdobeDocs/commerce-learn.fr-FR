@@ -7,11 +7,12 @@ audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-badge: label="Contribution Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
-role: Architect, Developer, User, Leader
+badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: e0b11bbcfff830badf471206ead59fc48dd14b7c
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -237,7 +238,7 @@ Cet exemple illustre une définition lâche des dépendances. Avec `~1.0`, toute
 
 Dès que vous publiez une nouvelle version de l’un des packages mentionnés, elle est automatiquement installée avec la mise à jour du compositeur.
 
-Appliquez le contrôle de version sémantique. Vous pouvez tout savoir sur le contrôle de version sémantique à l’adresse <https://semver.org/>. En particulier, la FAQ est une lecture incontournable. Avec le contrôle de version sémantique, les nombres de « 1.0.0 » sont appelés MAJEUR.MINEUR.PATCH. Les versions mineures et de correctif d’un package doivent pouvoir être introduites en toute sécurité sans interrompre l’application.
+Appliquez le contrôle de version sémantique. Vous pouvez tout savoir sur le contrôle de version sémantique à l’adresse <https://semver.org/>. En particulier, la FAQ est une lecture incontournable. Avec le contrôle de version sémantique, les nombres dans « 1.0.0 » sont appelés MAJEUR.MINEUR.PATCH. Les versions mineures et de correctif d’un package doivent pouvoir être introduites en toute sécurité sans interrompre l’application.
 Vous pouvez inclure automatiquement des correctifs et choisir manuellement des mises à niveau mineures. Gardez à l’esprit que cela entraîne des frais généraux supplémentaires en sélectionnant manuellement chaque modification mineure :
 
 ```json

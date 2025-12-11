@@ -1,42 +1,43 @@
 ---
-title: Utilisation de l’outil de correctif de qualité
-description: Regardez cette vidéo technique et apprenez à utiliser l’outil de correctif de qualité pour Adobe Commerce et Magento Open Source.
+title: Utilisation de l’outil de correctifs de la qualité
+description: Regardez cette vidéo technique et découvrez comment utiliser l’outil de correctifs de la qualité pour Adobe Commerce et Magento Open Source.
 doc-type: technical video
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
-# Utilisation de l’outil de correctif de qualité
+# Utilisation de l’outil de correctifs de la qualité
 
-L’outil de correctif de qualité est un outil de ligne de commande qui fournit des correctifs de qualité pour Adobe Commerce et Magento Open Source. Il vous permet d’effectuer les opérations suivantes :
+L’outil de correctifs de la qualité est un outil de ligne de commande qui fournit des correctifs de qualité pour Adobe Commerce et Magento Open Source. Il permet d’effectuer les opérations suivantes :
 
 - Afficher des informations générales sur les derniers correctifs de qualité
 - Application de correctifs de qualité
-- Rétablir les correctifs appliqués
+- Rétablissement des correctifs appliqués
 
-L’équipe d’assistance d’Adobe Commerce et la communauté des Magento Open Sources développent les correctifs de qualité.
+L’équipe d’assistance d’Adobe Commerce et la communauté Magento Open Source développent les correctifs de qualité.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Développeurs d’arrière-plan
+- Développeurs et développeuses back-end
 - Gestionnaires de site
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410783?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-- [Outil de correctif de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
+- [Outil de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 - [Outil de correctif de qualité sur GitHub](https://github.com/magento/quality-patches)

@@ -9,33 +9,34 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 
 ---
 
-# Développement de module Adobe Commerce
+# Développement de modules Adobe Commerce
 
-Découvrez comment enregistrer des événements, rechercher des événements pris en charge et comment utiliser un nouveau fichier XML `io_events.xml` dans le développement de module personnalisé. La vidéo montrera également aux développeurs comment trouver des événements enregistrés qui peuvent être utilisés et désabonner les événements qui peuvent déjà être définis. Documentation supplémentaire disponible à l’adresse [Installation des événements d’Adobe I/O pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment enregistrer des événements, trouver des événements pris en charge et comment utiliser un nouveau `io_events.xml` de fichier XML dans le développement de modules personnalisés. La vidéo explique également aux développeurs comment rechercher des événements enregistrés qui peuvent être utilisés, ainsi que comment désabonner tous les événements qui peuvent déjà être définis. Consultez la documentation supplémentaire disponible dans [Installation de Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce et Adobe Developer App Builder à l’aide d’événements d’E/S.
+* Développeurs débutants avec Adobe Commerce et Adobe Developer App Builder utilisant des événements I/O.
 
 ## Contenu vidéo {#video-content}
 
-* Enregistrement d’événements dans Commerce pour utilisation dans Adobe Developer App Builder
-* Identifier les événements qui peuvent être enregistrés
+* Enregistrement d’événements dans Commerce en vue de leur utilisation dans Adobe Developer App Builder
+* Identifier les événements pouvant être enregistrés
 * Découvrez comment enregistrer des événements dans io_events.xml
-* Découvrez comment enregistrer des événements dans les instances Commerce `app/etc/config.php`
-* Découvrez comment vous désabonner d’un événement
+* Découvrez comment enregistrer des événements dans le `app/etc/config.php` des instances Commerce
+* Découvrez comment vous désabonner d’un événement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419835?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## Commandes utiles {#useful-commands}
 

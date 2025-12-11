@@ -1,7 +1,7 @@
 ---
 title: Utilisation de la fonctionnalité native d’un mécanisme de reprise
-description: Tirez parti du mécanisme de reprise des événements d’Adobe I/O pour les applications résilientes, y compris les conditions de reprise et les indicateurs visuels.
-landing-page-description: Comprendre et utiliser le mécanisme de reprise intégré des événements d’Adobe I/O pour améliorer la résilience de l’application et gérer efficacement les activations d’événement.
+description: Tirez parti du mécanisme de reprise de Adobe I/O Events pour les applications résilientes, y compris les conditions de reprise et les indicateurs visuels.
+landing-page-description: Découvrez et utilisez le mécanisme de reprise intégré de Adobe I/O Events pour améliorer la résilience des applications et gérer efficacement les activations d’événements.
 kt: 15872
 doc-type: video
 duration: 314
@@ -9,39 +9,41 @@ audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: eb548dd83e3bab7a4a1486cd2cbd88efcc060121
+exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
 
-# Utiliser le mécanisme de reprise des événements d’Adobe I/O pour la résilience des applications
+# Utilisation du mécanisme de reprise de Adobe I/O Events pour la résilience des applications
 
-La vidéo présente un guide complet sur l’utilisation du mécanisme de reprise intégré des événements Adobe I/O pour améliorer la résilience de l’application. Découvrez comment des codes d’état de réponse HTTP spécifiques déclenchent des reprises d’événement. Les événements d’Adobe I/O utilisent des stratégies de backoff exponentiel et fixe pour les reprises, avec des intervalles qui passent d’une minute à 15 minutes. La documentation décrit également l’affichage des indicateurs de reprise dans la console de développement, avec des indices visuels tels que les icônes d’avertissement et des flèches circulaires indiquant respectivement les événements ayant échoué et repris.
+La vidéo présente un guide complet sur l’utilisation du mécanisme de reprise intégré de Adobe I/O Events pour améliorer la résilience des applications. Découvrez comment des codes d’état de réponse HTTP spécifiques déclenchent des reprises d’événement. Adobe I/O Events utilise des stratégies d’interruption exponentielles et fixes pour les reprises, avec des intervalles allant d’une minute à 15 minutes. La documentation décrit également comment les indicateurs de reprise apparaissent dans Developer Console, avec des repères visuels tels que des icônes d’avertissement et des flèches circulaires indiquant respectivement les événements ayant échoué et ceux ayant fait l’objet d’une nouvelle tentative.
 
-Découvrez le fonctionnement du mécanisme de reprise dans le contexte des actions d’exécution &quot;consommateur&quot; et déterminez si un événement est à nouveau tenté. Les réponses réussies sont indiquées avec un code d’état 200, tandis que les réponses d’erreur incluent un objet d’erreur avec un attribut &#39;statusCode&#39;. L’action d’exécution &quot;consommateur&quot; détermine le code de réponse HTTP à renvoyer en fonction des résultats de traitement en aval, assurant une gestion efficace des événements et éventuellement des activations réussies.
+Découvrez comment le mécanisme de reprise fonctionne dans le contexte des actions d’exécution « consommateur », et déterminez si un événement doit être repris. Les réponses réussies sont indiquées par un code d’état 200, tandis que les réponses d’erreur incluent un objet d’erreur avec un attribut « statusCode ». L’action d’exécution consommateur détermine le code de réponse HTTP à renvoyer en fonction des résultats du traitement en aval, ce qui garantit une gestion efficace des événements et d’éventuelles activations réussies.
 
 ## Audience
 
-* Les développeurs qui souhaitent comprendre les codes d’état de réponse HTTP spécifiques qui déclenchent des reprises d’événement.
-* Les équipes qui souhaitent en savoir plus sur les stratégies de backoff exponentiel et fixe utilisées par les événements d’Adobe I/O pour les reprises.
-* Les développeurs qui souhaitent comprendre comment les indicateurs visuels dans la console de développement représentent des événements ayant échoué et ayant fait l’objet d’une nouvelle tentative.
+* Les développeurs qui souhaitent comprendre les codes de statut de réponse HTTP spécifiques qui déclenchent des reprises d’événement.
+* Les équipes qui souhaitent en savoir plus sur les stratégies d’interruption exponentielle et fixe utilisées par Adobe I/O Events pour les reprises.
+* Les développeurs et développeuses qui souhaitent comprendre comment les indicateurs visuels dans Developer Console représentent des événements ayant échoué et ayant fait l’objet d’une nouvelle tentative.
 
 ## Contenu vidéo
 
-* Les événements d’Adobe I/O disposent d’un mécanisme de reprise prêt à l’emploi qui tente automatiquement de relancer les activations d’événement en fonction de codes d’état de réponse HTTP spécifiques.
-* Le mécanisme de reprise implémenté par les événements d’Adobe I/O implique des stratégies de backoff exponentiel et fixes.
-* Indicateurs visuels dans la console de développement, tels que les icônes d’avertissement pour les événements en échec et les icônes de flèche circulaire pour les événements à nouveau testés.
-* Les actions d’exécution &quot;consommateur&quot; jouent un rôle crucial pour déterminer les codes d’état de réponse HTTP appropriés pour la gestion des événements.
+* Les Adobe I/O Events disposent d’un mécanisme de reprise intégré qui tente automatiquement d’activer à nouveau les événements en fonction de codes d’état de réponse HTTP spécifiques.
+* Le mécanisme de reprise mis en œuvre par Adobe I/O Events implique des stratégies d’interruption exponentielles et fixes.
+* Indicateurs visuels dans Developer Console, tels que les icônes d’avertissement pour les événements ayant échoué et les icônes de flèche circulaire pour les événements ayant fait l’objet d’une nouvelle tentative.
+* Les actions d’exécution « consommateur » jouent un rôle essentiel dans la détermination des codes d’état de réponse HTTP appropriés pour la gestion des événements.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449075?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Documentation connexe
 
-* [Webhook ne pouvant pas gérer un événement](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook down et marqué comme instable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook ne peut pas gérer un événement](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
+* [Webhook arrêté et marqué comme instable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)

@@ -1,17 +1,18 @@
 ---
-title: Le dossier test
-description: Découvrez les types de fichiers contenus dans le dossier test pour cet exemple d’application.
-landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de fichiers situés dans le dossier test.
+title: Le dossier de test
+description: Découvrez les types de fichiers dans le dossier de test pour cet exemple d’application.
+landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et quels types de fichiers se trouvent dans le dossier de test.
 kt: 12424
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -20,21 +21,21 @@ ht-degree: 0%
 
 # En savoir plus sur le dossier test {#test-folder}
 
-Le dossier `test` de cet exemple d’application contient un seul fichier JavaScript, utilisé lors de l’exécution de tests unitaires sur l’application.
+Le dossier `test` de cet exemple d’application contient un seul fichier JavaScript, qui est utilisé lors de l’exécution de tests unitaires sur l’application.
 
-Il s’agit d’un exemple simple qui peut être développé afin de créer des tests complets pour vos applications spécifiques.
+Il s’agit d’un exemple simple qui peut être étendu pour créer des tests complets pour vos applications spécifiques.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs découvrent Adobe Commerce avec une expérience limitée de l’utilisation d’Adobe App Builder qui souhaitent en savoir plus sur le dossier `test`.
+* Développeurs peu familiers avec Adobe Commerce et peu expérimentés avec Adobe App Builder qui souhaitent en savoir plus sur le dossier `test`.
 
 ## Contenu vidéo
 
 * Pourquoi utiliser le dossier `test` ?
-* Une brève explication du fichier de test unitaire et de ses composants
+* Brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 
->[!VIDEO](https://video.tv.adobe.com/v/3421061?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?quality=12&learn=on)
 
 ## Exemples de code
 
