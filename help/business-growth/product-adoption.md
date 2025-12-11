@@ -36,4 +36,4 @@ Adobe Commerce facilite la croissance des entreprises en les aidant à migrer ve
 * L’extensibilité d’App Builder permet de découpler la logique personnalisée en fonctions sans serveur pour une maintenance plus facile.
 * Les améliorations apportées à Storefront améliorent les performances et la création de contenu avec des composants de dépôt et une diffusion Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475750/?captions=fre_fr&learn=on&enablevpops)

@@ -34,7 +34,7 @@ Découvrez comment créer un projet Adobe Developer App Builder pour utiliser de
 * Utilisation de Adobe Developer Console
 * Utilisation d’Adobe I/O
 
->[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419805?captions=fre_fr&quality=12&learn=on)
 
 ## Commandes utiles {#useful-commands}
 

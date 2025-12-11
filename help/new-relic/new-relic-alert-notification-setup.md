@@ -35,4 +35,4 @@ Découvrez comment rechercher des alertes, des politiques, des workflows et des 
 * Découvrez les notifications d’alerte, les politiques et les workflows.
 * L’enregistrement de la destination et la validation du nouvel e-mail ont été ajoutés à une politique
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441200?captions=fre_fr&learn=on)

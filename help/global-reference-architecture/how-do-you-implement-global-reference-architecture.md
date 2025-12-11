@@ -39,6 +39,6 @@ Découvrez comment mettre en œuvre l’architecture de référence globale (GRA
 * Tableau de contrôle global : sur quelles fonctionnalités travailler
 * Concept alternatif pour utiliser GRA comme marketplace de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457210?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

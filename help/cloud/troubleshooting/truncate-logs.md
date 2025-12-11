@@ -35,7 +35,7 @@ Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou
 - Emplacement de certains grands fichiers journaux courants
 - Méthode rapide pour tronquer un fichier journal
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454585?captions=fre_fr&learn=on)
 
 
 ## Commandes utilisées dans la vidéo

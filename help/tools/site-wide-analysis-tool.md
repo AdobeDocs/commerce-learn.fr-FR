@@ -31,7 +31,7 @@ L’outil d’analyse à l’échelle du site est un outil en libre-service proa
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410777?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

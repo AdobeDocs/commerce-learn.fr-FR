@@ -34,4 +34,4 @@ Découvrez comment Adobe Commerce révolutionne l’e-commerce avec des solution
 * Accélérer l&#39;expansion mondiale grâce à l&#39;innovation catalogue
 * Amélioration De L’Expérience Storefront Grâce À Conversational Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475697/?captions=fre_fr&learn=on&enablevpops)

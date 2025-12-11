@@ -33,7 +33,7 @@ Découvrez comment trier et résoudre deux erreurs courantes affichées sur les 
 - Gérer le mode de maintenance
 - Conseils de dépannage efficaces
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447695?captions=fre_fr&learn=on)
 
 
 ## Commandes utilisées dans la vidéo

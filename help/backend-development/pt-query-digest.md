@@ -34,7 +34,7 @@ Découvrez pourquoi vous utilisez pt-query-digest et quelques exemples réels po
 - Découvrez les avantages et les inconvénients de cette fonctionnalité Percona Toolkit
 - Découvrez les résultats et les étapes de performances possibles à envisager
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452291?captions=fre_fr&learn=on)
 
 ## Références de code
 

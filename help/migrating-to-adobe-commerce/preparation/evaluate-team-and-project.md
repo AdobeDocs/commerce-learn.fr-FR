@@ -36,7 +36,7 @@ Sur le front-end, l’expérience avec les implémentations découplées peut si
 * Découvrez quelques considérations sur le front-end et le back-end.
 * Planifiez une migration fluide en évaluant les modules existants, en mettant à niveau les applications principales et en intégrant d’autres solutions Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447445/?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 

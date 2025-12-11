@@ -38,4 +38,4 @@ Découvrez le kit de démarrage de l’intégration back-office d’Adobe Commer
 * Configuration des événements I/O
 * Connexion à un tiers pour synchroniser les données
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452016?captions=fre_fr&learn=on)

@@ -35,6 +35,6 @@ Découvrez comment tirer parti de l’architecture de référence globale (GRA).
 * Collecte des besoins
 * Quand impliquez-vous l’équipe d’assurance qualité ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456002?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

@@ -36,7 +36,7 @@ Les noms réels des dossiers dans cet exemple sont arbitraires, mais connaître 
 * L’objectif du fichier JavaScript qui se trouve dans les dossiers `actions` et `commerce`
 * Aperçu rapide des fichiers d’authentification OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421079?captions=fre_fr&quality=12&learn=on)
 
 ## Exemples de code
 

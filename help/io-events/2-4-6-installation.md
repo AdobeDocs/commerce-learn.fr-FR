@@ -35,7 +35,7 @@ Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l
 * Commandes à exécuter pour Adobe Commerce Cloud
 * Modification requise pour l’yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419811?captions=fre_fr&quality=12&learn=on)
 
 ## Commandes utiles {#useful-commands}
 

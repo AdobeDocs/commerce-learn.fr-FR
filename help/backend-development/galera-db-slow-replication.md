@@ -38,7 +38,7 @@ Si possible, la solution consiste à regrouper les opérations volumineuses pour
 - Les exécutions en bloc ne se produisent que sur l’instance principale. Les réplications se produisent 1 par
 - Effectuez des validations par lots volumineuses pour aider la réplication à suivre le processus principal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423539?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

@@ -39,7 +39,7 @@ Découvrez comment le mécanisme de reprise fonctionne dans le contexte des acti
 * Indicateurs visuels dans Developer Console, tels que les icônes d’avertissement pour les événements ayant échoué et les icônes de flèche circulaire pour les événements ayant fait l’objet d’une nouvelle tentative.
 * Les actions d’exécution « consommateur » jouent un rôle essentiel dans la détermination des codes d’état de réponse HTTP appropriés pour la gestion des événements.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449075?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
