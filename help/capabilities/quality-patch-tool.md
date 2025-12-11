@@ -71,8 +71,8 @@ Avant d’appliquer des correctifs, il est essentiel de les tester dans un envir
 
 ## Articles et vidéos connexes
 
-* [Recherche des outils de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [Notes de mise à jour](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Recherche des outils de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
+* [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github pour les correctifs](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Utilisation de l’outil de correctifs de qualité](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vidéo technique sur QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Utilisation de l’outil de correctifs de qualité](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vidéo technique sur QPT](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/tools/quality-patch-tool)

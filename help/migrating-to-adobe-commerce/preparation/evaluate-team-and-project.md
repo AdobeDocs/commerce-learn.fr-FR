@@ -40,4 +40,4 @@ Sur le front-end, l’expérience avec les implémentations découplées peut si
 
 ## Documentation connexe
 
-[Qu’est-ce qu’Adobe Commerce &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[Qu’est-ce qu’Adobe Commerce &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)

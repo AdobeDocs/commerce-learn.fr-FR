@@ -35,11 +35,11 @@ Découvrez les stratégies de déploiement d’Adobe Commerce Cloud, les bonnes 
 
 ## Documentation Experience League mentionnée dans la vidéo
 
-- [&#x200B; Processus de déploiement &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [Outil d’analyse à l’échelle du site SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Assistant intelligent d&#39;outils ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [&#x200B; Analyse de sécurité &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Pare-feu d’application web Fastly WAF](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- Présentation du service New Relic [&#128279;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [&#x200B; Processus de déploiement &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=fr)
+- [Outil d’analyse à l’échelle du site SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=fr)
+- [Assistant intelligent d&#39;outils ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=fr)
+- [&#x200B; Analyse de sécurité &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=fr)
+- [Pare-feu d’application web Fastly WAF](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=fr)
+- Présentation du service New Relic [&#128279;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=fr)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

@@ -39,5 +39,5 @@ L’équipe d’assistance d’Adobe Commerce et la communauté Magento Open Sou
 
 ## Ressources supplémentaires
 
-- [Outil de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Outil de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
 - [Outil de correctif de qualité sur GitHub](https://github.com/magento/quality-patches)
