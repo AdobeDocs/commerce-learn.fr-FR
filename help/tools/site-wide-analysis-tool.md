@@ -35,5 +35,5 @@ L’outil d’analyse à l’échelle du site est un outil en libre-service proa
 
 ## Ressources supplémentaires
 
-- [ Outil d’analyse à l’échelle du site ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [&#x200B; Outil d’analyse à l’échelle du site &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
 - [Afficher et gérer les journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

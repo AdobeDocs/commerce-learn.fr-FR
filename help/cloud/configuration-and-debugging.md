@@ -37,7 +37,7 @@ Découvrez les principaux fichiers Yaml utilisés dans Adobe Commerce Cloud pour
 
 - [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html)
 - [Cloud Docker configure Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [ Bonnes pratiques de débogage ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
+- [&#x200B; Bonnes pratiques de débogage &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html)
 - [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
 - [Outils CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html)
 - [Mettre à jour le module ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html)

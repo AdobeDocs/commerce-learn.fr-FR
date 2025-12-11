@@ -36,7 +36,7 @@ Découvrez l’infrastructure cloud et quelques bonnes pratiques de développeme
 ## Documentation Experience League mentionnée dans la vidéo
 
 - [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
-- [ SFTP ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+- [&#x200B; SFTP &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
 - [Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
   [Mise à niveau d’Adobe Commerce et application de correctifs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
 - [Liste de contrôle de prélancement d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)

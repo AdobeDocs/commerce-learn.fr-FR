@@ -61,7 +61,7 @@ Au lieu d’une solution prête à l’emploi, Adobe Developer App Builder fourn
 
 Le diagramme suivant illustre la manière dont une application standard créée sur App Builder utilise ces fonctionnalités :
 
-![ Architecture ](/help/assets/app-builder/app-builder-architecture.jpeg)
+![&#x200B; Architecture &#x200B;](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Pour plus d’informations sur l’architecture d’App Builder, consultez la [Présentation de l’architecture](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
