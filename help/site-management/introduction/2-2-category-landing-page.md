@@ -1,31 +1,35 @@
 ---
-title: "[!DNL Commerce] pour les utilisateurs professionnels - Landing pages"
-description: Découvrez comment configurer une landing page de catégorie et contrôler l’aspect.
+title: '[!DNL Commerce] pour les utilisateurs professionnels - Pages de destination'
+description: Découvrez comment configurer la page de destination de la catégorie et contrôler l’apparence.
 kt: 5766
 doc-type: video
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
-feature: Configuration, System, Catalogs, Customers
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] pour les utilisateurs professionnels - Landing pages
+# [!DNL Commerce] pour les utilisateurs professionnels - Pages de destination
+
+<!--
+validation failure (if published)
+feature: Configuration, System, Catalogs, Customers
+-->
 
 Dans cette vidéo :
 
-- Landing pages pour les catégories de produits
-- Options de page vue
-- Paramètres de storefront
+- Pages de destination pour les catégories de produits
+- Options d’affichage des pages
+- Paramètres de Storefront
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
 - Utilisateurs professionnels
 
@@ -33,14 +37,14 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[&#x200B; Contenu de catégorie - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html?lang=fr)
+[Contenu de la catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[&#x200B; Paramètres d’affichage - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html?lang=fr)
+[Paramètres d’affichage - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Paramètres de conception - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html?lang=fr)
+[Paramètres de conception - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
