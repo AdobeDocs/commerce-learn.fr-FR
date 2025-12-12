@@ -36,12 +36,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## Ressources supplémentaires
 
-[Import - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
+[Import - [!DNL Commerce] Admin Systems Guide](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html?lang=fr)
 
-[Export - [!DNL Commerce] Guide des systèmes d&#39;administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
+[Export - [!DNL Commerce] Guide des systèmes d&#39;administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html?lang=fr)
