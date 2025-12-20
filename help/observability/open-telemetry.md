@@ -33,7 +33,7 @@ Découvrez comment Open Telemetry normalise l’observabilité sur les journaux,
 * Corréler les logs, les traces et les mesures pour accélérer l’analyse des causes premières
 * Maintenir les outils de surveillance existants tout en unifiant les flux de données
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478325?captions=fre_fr&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

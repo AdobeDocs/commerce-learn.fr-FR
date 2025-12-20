@@ -33,7 +33,7 @@ Découvrez pourquoi l’observabilité centralisée est essentielle pour les arc
 * L’observabilité centralisée est essentielle : corrélez les logs et les mesures sur tous les composants.
 * Améliorez les performances de passage en caisse : identifiez rapidement les goulots d’étranglement pour faciliter les achats.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478290?captions=fre_fr&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

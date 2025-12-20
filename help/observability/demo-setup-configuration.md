@@ -33,7 +33,7 @@ Découvrez comment obtenir une observabilité de bout en bout dans Adobe Commerc
 * Utiliser le module d’observabilité de Commerce pour les signaux automatisés
 * Extension de la surveillance avec la bibliothèque IO Live Telemetry pour les applications
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478336?captions=fre_fr&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
