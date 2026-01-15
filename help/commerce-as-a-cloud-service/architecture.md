@@ -39,4 +39,4 @@ Découvrez l’architecture et les principales fonctionnalités d’Adobe Commer
 * Couverture d’API complète : la plateforme prend en charge une couverture d’API complète à l’aide des API GraphQL et REST, permettant une intégration transparente avec des systèmes tiers.
 * Architecture découplée : l’architecture entièrement découplée permet aux développeurs d’utiliser divers frameworks front-end, offrant flexibilité et performances.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443269?captions=fre_fr&learn=on)
