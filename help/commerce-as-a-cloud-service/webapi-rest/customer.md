@@ -32,7 +32,7 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 * Utiliser le format de point d’entrée de l’API REST approprié pour Commerce as a Cloud Service
 * Créez et mettez à jour des comptes clients par programmation à l’aide de requêtes POST et PUT avec des payloads JSON appropriées
 
->[!VIDEO](https://video.tv.adobe.com/v/3479361/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3479364/?captions=fre_fr&learn=on&enablevpops)
 
 ## Exemples de code
 
