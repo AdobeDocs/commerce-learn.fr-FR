@@ -34,4 +34,4 @@ Les accélérateurs de succès Adobe Commerce pour l’adoption et l’activatio
 * Coaching sur site multi-session pour combler les lacunes en compétences et s&#39;aligner sur les priorités stratégiques.
 * Création de l’accès, des autorisations et de la gouvernance de conception pour garantir l’adoption appropriée des produits et les bonnes pratiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463080/?captions=fre_fr&learn=on&enablevpops)
