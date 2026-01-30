@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
+source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '945'
 ht-degree: 3%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -96,18 +96,6 @@ ht-degree: 3%
       + [Intégration du dernier kilomètre](../back-office-integrations/last-mile-integration.md)
       + [Ingestion du Webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [Vue d’ensemble](../adobe-commerce-optimizer/overview.md)
-   + [Création de votre première instance de Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
-   + [Gestion des instances Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
-   + [Ingérer des données d’exemple](../adobe-commerce-optimizer/ingest-sample-data.md)
-   + [Première requête à l’aide de GraphQL](../adobe-commerce-optimizer/first-query.md)
-   + Kit de démarrage cloud Salesforce Commerce {#sfcc-starter-kit}
-      + [Vue d’ensemble](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-      + [Aperçu de l’architecture](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-      + [Installation de la cartouche SFCC](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-      + [Kit de démarrage d’App Builder](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-      + [Démonstration de bout en bout](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Observability {#observability}
    + [Présentation de l’observabilité](../observability/overview.md)
    + [Télémétrie ouverte](../observability/open-telemetry.md)
@@ -273,7 +261,7 @@ ht-degree: 3%
    + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
 + Développement back-end {#backend-development}
-   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+   + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Création d’un module](../backend-development/create-module.md)
    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
