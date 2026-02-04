@@ -1,6 +1,6 @@
 ---
 title: Ajout d’un module JavaScript
-description: Cette vidéo fournit une présentation pour le développement d’un module JS simple qui fournit le message "Hello World".
+description: Cette vidéo présente une présentation du développement d’un module JS simple qui fournit la salutation « Hello World ».
 kt: 5612
 doc-type: video
 activity: use
@@ -9,7 +9,7 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -18,18 +18,20 @@ ht-degree: 0%
 
 # Ajout d’un module JavaScript
 
-Cette vidéo fournit une présentation pour le développement d’un module JS simple qui fournit le message &quot;Hello World&quot;.
+{{only-for-on-prem-commerce-cloud}}
 
-## Pour qui est cette vidéo ?
+Cette vidéo présente une présentation du développement d’un module JS simple qui fournit la salutation « Hello World ».
 
-- Développeurs
+## À qui s&#39;adresse cette vidéo ?
+
+- Développeur
 
 ## Étapes
 
 - Création d’un module
 - Création d’un fichier de module `requirejs-config.js` et JavaScript
-- Créer une mise à jour de mise en page pour l’ajout d’un modèle qui active le module JS
-- Créer un fichier de modèle
+- Créez une mise à jour de disposition pour ajouter un modèle qui active le module JS
+- Créer un fichier modèle
 - Ajouter le module et le tester
 
 ## Contenu vidéo
@@ -38,5 +40,5 @@ Cette vidéo fournit une présentation pour le développement d’un module JS s
 
 ## Ressources utiles
 
-- [Guide de développement de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [Appel et initialisation de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [Guide du développeur de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [Appeler et initialiser JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

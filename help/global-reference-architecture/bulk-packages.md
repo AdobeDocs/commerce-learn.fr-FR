@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # Modèle d’architecture de référence globale des packages en bloc
+
+{{only-for-on-prem-commerce-cloud}}
 
 Ce guide explique comment configurer Adobe Commerce avec le modèle d’architecture de référence globale (GRA) de packages en bloc.
 

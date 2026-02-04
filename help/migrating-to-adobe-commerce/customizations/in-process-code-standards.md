@@ -11,7 +11,7 @@ duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
 exl-id: 2f210adb-6f56-41cb-844e-131cbf85b131
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migration vers Adobe Commerce - Normes de codage en cours de traitement
+
+{{only-for-on-prem-commerce-cloud}}
 
 Découvrez quelques normes de codage et bonnes pratiques essentielles pour PHP, JavaScript et les personnalisations. Que vous soyez développeur ou entreprise, cet ensemble de tutoriels vous aide à vous familiariser avec les complexités de la migration vers Adobe Commerce, assurant une transition fluide et réussie.
 
@@ -32,4 +34,4 @@ Découvrez quelques normes de codage et bonnes pratiques essentielles pour PHP, 
 * Découvrez les bonnes pratiques relatives à PHP, JavaScript et aux personnalisations pour garantir une migration fluide.
 * Obtenez des informations auprès des experts Adobe sur la préparation, les performances et la sécurité pour la réussite des projets Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434859?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)

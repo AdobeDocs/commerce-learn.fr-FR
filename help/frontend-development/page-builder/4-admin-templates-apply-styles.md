@@ -9,8 +9,8 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
-source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,6 +18,8 @@ ht-degree: 0%
 ---
 
 # Page Builder pour les développeurs - Modèles et styles
+
+{{only-for-on-prem-commerce-cloud}}
 
 Dans cette vidéo :
 
@@ -34,12 +36,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [&#x200B; Notes de mise à jour de Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=fr).
+>Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [ Notes de mise à jour de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430948?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 
 ## Ressources utiles
 
 [Documentation destinée aux développeurs de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[&#x200B; Guide de Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=fr)
+[ Guide de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
