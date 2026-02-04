@@ -37,4 +37,4 @@ L’implémentation d’un gel de code lors de la migration de votre Adobe Comme
 * Coordination des tests manuels et automatisés, des tests de charge et des tests de pénétration pour garantir que tous les aspects du site fonctionnent comme prévu.
 * Impliquer les parties prenantes de l’entreprise, les développeurs et les équipes informatiques dans le processus de validation afin d’assurer un lancement fluide et réussi.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432965/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445487/?captions=fre_fr&learn=on)

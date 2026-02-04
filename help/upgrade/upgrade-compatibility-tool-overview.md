@@ -42,7 +42,7 @@ Pour en savoir plus sur cet outil, consultez la documentation [Outil de compatib
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344383?captions=fre_fr&quality=12&learn=on)
 
 ## Ressources supplémentaires
 

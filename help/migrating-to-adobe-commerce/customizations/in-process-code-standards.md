@@ -34,4 +34,4 @@ Découvrez quelques normes de codage et bonnes pratiques essentielles pour PHP, 
 * Découvrez les bonnes pratiques relatives à PHP, JavaScript et aux personnalisations pour garantir une migration fluide.
 * Obtenez des informations auprès des experts Adobe sur la préparation, les performances et la sécurité pour la réussite des projets Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434857?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434859?captions=fre_fr&learn=on&enablevpops)
