@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 279
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20092
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb
+source-git-commit: 8463195b62972d064f8b126ae286b30c050c3226
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-
-# Création d’expériences Commerce flexibles avec Composability
+# Créer des expériences commerciales flexibles avec composabilité
 
 Découvrez comment Adobe Commerce as a Cloud Service dote les entreprises d’une architecture composable pour plus d’agilité et d’évolutivité. Découvrez comment les services modulaires, les intégrations API-first et l’extensibilité de l’interface d’administration permettent de créer des expériences commerciales personnalisées sans compromettre les performances.
 
