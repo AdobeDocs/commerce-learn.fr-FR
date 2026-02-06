@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20091
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 00697a95-139d-4032-bc72-66173a9e1675
+source-git-commit: d95cff3b820efb6685d3bbbdc6b293b1775326be
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
-
-# Livrer un Parcours d&#39;achat de bout en bout
+# Fournir un parcours d&#39;achat de bout en bout
 
 Découvrez comment Adobe Commerce as a Cloud Service offre une expérience d’achat transparente, de la découverte du produit au passage en caisse et à l’assistance après achat. Découvrez comment des outils intégrés tels que la recherche en direct, les recommandations de produits et les tableaux de bord en libre-service stimulent la conversion et réduisent les frais généraux d’exploitation.
 
