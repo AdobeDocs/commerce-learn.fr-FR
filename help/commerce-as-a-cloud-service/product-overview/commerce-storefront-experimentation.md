@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 288
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20089
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
+source-git-commit: 3f57925e9998570513d3e6746942c28fa44dc72e
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-
-# Optimisation des storefronts avec l’expérimentation intégrée
+# Optimisation des storefronts avec une expérimentation intégrée
 
 Découvrez comment Adobe Commerce as a Cloud Service permet aux équipes commerciales d’exécuter des tests A/B et d’optimiser le contenu du storefront sans faire appel à des développeurs ou à des outils tiers. Découvrez comment mesurer l’impact sur les conversions et l’engagement à l’aide des fonctionnalités d’expérimentation natives.
 
