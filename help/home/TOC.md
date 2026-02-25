@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 3592fb0e022fcbecc100e64547c4ceea4b26e7ee
+source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
 workflow-type: tm+mt
-source-wordcount: '850'
+source-wordcount: '853'
 ht-degree: 3%
 
 ---
@@ -44,6 +44,7 @@ ht-degree: 3%
       + [Demande d’assistance](../cloud/best-practices/support-request.md)
       + [Liste de contrôle de prélancement](../cloud/best-practices/pre-launch-checklist.md)
 + Prise en main {#getting-started}
+   + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Vue d’ensemble](../commerce-as-a-cloud-service/overview.md)
       + [Architecture](../commerce-as-a-cloud-service/architecture.md)
@@ -52,7 +53,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -95,7 +96,7 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
