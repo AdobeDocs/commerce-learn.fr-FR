@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 1a3f532ec03fb38ae43d5593e0e2499060699147
+source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '876'
 ht-degree: 3%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -150,6 +150,8 @@ ht-degree: 3%
       + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Créer des tarifs de livraison personnalisés avec les outils d’IA {#custom-shipping-rates-ai-tools}
          + [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+         + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+         + [Implémentation et tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
          + [Laisser un commentaire à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
       + Créer votre première application App Builder {#first-app}
          + [Vue d’ensemble](../app-builder/first-app/overview.md)
