@@ -34,6 +34,6 @@ L&#39;agent finalise la mise en œuvre, nettoie le code inutilisé et prépare l
 Les informations d’identification et l’environnement sont configurés pour déployer et enregistrer la nouvelle extension d’expédition.
 Les tests en boutique confirment que les frais d&#39;expédition externes apparaissent et fonctionnent comme prévu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481330/?captions=fre_fr&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
