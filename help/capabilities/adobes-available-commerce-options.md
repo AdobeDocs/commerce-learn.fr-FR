@@ -34,7 +34,7 @@ Découvrez les options commerciales d’Adobe. Découvrez certaines des principa
 * Savoir quand moderniser les vitrines sans remplacer votre serveur principal
 * Identifiez le meilleur élément en fonction des ressources, de l’évolutivité et des objectifs commerciaux de DevOps
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480245?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 
