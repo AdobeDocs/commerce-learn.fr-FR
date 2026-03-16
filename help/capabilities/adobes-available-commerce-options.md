@@ -9,14 +9,14 @@ topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
 exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
-source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
+source-git-commit: cba4dc615b577f580a1c19a87cb81bc6944beed3
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Démonstration complète de la connexion aux données Adobe Commerce
+# Options d’Adobe Commerce
 
 Découvrez les options commerciales d’Adobe. Découvrez certaines des principales fonctionnalités, comment elles sont hébergées et à qui chaque modèle est le mieux adapté. Vous découvrirez les différences entre l’exécution de tous les éléments eux-mêmes (sur site), l’utilisation d’une infrastructure cloud gérée par Adobe (PaaS), l’adoption d’une approche SaaS entièrement gérée ou la modernisation de la couche storefront uniquement avec Commerce Optimizer tout en conservant un serveur principal existant.
 
@@ -34,10 +34,10 @@ Découvrez les options commerciales d’Adobe. Découvrez certaines des principa
 * Savoir quand moderniser les vitrines sans remplacer votre serveur principal
 * Identifiez le meilleur élément en fonction des ressources, de l’évolutivité et des objectifs commerciaux de DevOps
 
->[!VIDEO](https://video.tv.adobe.com/v/3480245?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## Documentation connexe
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/overview){target=« _blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=« _blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
