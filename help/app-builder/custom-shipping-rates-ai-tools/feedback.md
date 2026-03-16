@@ -32,6 +32,6 @@ Découvrez comment créer des frais de livraison personnalisés à l’aide d’
 * Découvrez comment fonctionne l’outil de commentaires MCP
 * Découvrez comment il est possible de fournir des commentaires à Adobe à partir de l’IDE.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481308?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

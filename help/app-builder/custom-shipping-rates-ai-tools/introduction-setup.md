@@ -33,6 +33,6 @@ Découvrez comment configurer des outils d’IA pour créer des frais de livrais
 * Cette section décrit la configuration de l’environnement de développement, y compris l’extraction du référentiel, la révision de la structure du kit de démarrage et l’installation des outils requis.
 * Prépare le système pour le développement assisté par l’IA en se connectant, en configurant l’accès et en s’assurant que toutes les dépendances et conditions préalables sont en place.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481330/?captions=fre_fr&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
