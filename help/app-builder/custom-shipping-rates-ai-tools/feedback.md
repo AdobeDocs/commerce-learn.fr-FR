@@ -1,16 +1,16 @@
 ---
-title: Tarifs d’expédition personnalisés à l’aide des outils d’IA | Fournir un retour d’informations
+title: Taux d’expédition personnalisés à l’aide des outils d’IA | Fournir des commentaires
 description: Découvrez comment créer des frais de livraison personnalisés à l’aide d’outils d’IA. Découvrez le processus de retour d’informations et rationalisez votre workflow grâce à ce tutoriel destiné aux débutants.
 feature: Tools and External Services
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 76
+duration: 97
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: f6eafb3a9d604d4111fbf44384ac7944815c8dd8
+source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -32,6 +32,6 @@ Découvrez comment créer des frais de livraison personnalisés à l’aide d’
 * Découvrez comment fonctionne l’outil de commentaires MCP
 * Découvrez comment il est possible de fournir des commentaires à Adobe à partir de l’IDE.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481308?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
