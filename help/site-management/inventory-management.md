@@ -1,8 +1,9 @@
 ---
 title: Inventory management
-description: Découvrez les fonctionnalités d’Inventory management et comment les utiliser pour travailler depuis un seul entrepôt ou un réseau d’expédition complexe.
+description: Découvrez les fonctionnalités d’Inventory management et comment les utiliser pour travailler à partir d’un seul entrepôt de données ou d’un réseau d’expédition complexe.
 kt: 10551
 doc-type: feature video
+duration: 383
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -20,18 +21,18 @@ ht-degree: 0%
 
 # Inventory management
 
-Les commerçants disposant d’un seul magasin pour plusieurs entrepôts, magasins, lieux de ramassage, expéditeurs, etc. peuvent utiliser les fonctionnalités de gestion des stocks pour gérer les quantités à vendre et gérer les envois afin de terminer les commandes. Vous pouvez suivre les quantités de vos stocks, fournir aux clients des quantités de stock vendables précises pour tous vos sites web et les envoyer en fonction des recommandations en fonction de la distance ou de la priorité. Vous pouvez également configurer globalement vos configurations de produit préférées (pour tous les magasins et produits), par source et par produit. Ces fonctionnalités s’étendent à votre entreprise, ce qui vous permet de travailler depuis un seul entrepôt ou un réseau d’expédition complexe.
+Les commerçants disposant d&#39;un magasin unique pour plusieurs entrepôts, magasins, lieux de ramassage, chargeurs, etc. peuvent utiliser les fonctions de gestion des stocks pour gérer les quantités pour les ventes et gérer les expéditions pour terminer les commandes. Vous pouvez suivre les quantités en stock, fournir des quantités de stock vendables exactes aux clients pour tous vos sites Web et les expédier selon des recommandations basées sur la distance ou la priorité. Vous pouvez également configurer vos configurations de produit préférées globalement (pour tous les magasins et produits), par source et par produit. Ces fonctionnalités évoluent avec votre entreprise, ce qui vous permet de travailler à partir d&#39;un seul entrepôt ou d&#39;un réseau d&#39;expédition complexe.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410196?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## Ressources supplémentaires
 
-- [Guide Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=fr)
-- [Inventory management - Documentation REST pour les développeurs](https://developer.adobe.com/commerce/webapi/rest/inventory/)
+* [Guide d’](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Inventory management - Documentation REST pour les développeurs](https://developer.adobe.com/commerce/webapi/rest/inventory/)

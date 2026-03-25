@@ -3,13 +3,14 @@ title: '[!DNL Commerce] pour les utilisateurs professionnels - Pages de destinat
 description: Découvrez comment configurer la page de destination de la catégorie et contrôler l’apparence.
 kt: 5766
 doc-type: video
+duration: 178
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -25,26 +26,26 @@ feature: Configuration, System, Catalogs, Customers
 
 Dans cette vidéo :
 
-- Pages de destination pour les catégories de produits
-- Options d’affichage des pages
-- Paramètres de Storefront
+* Pages de destination pour les catégories de produits
+* Options d’affichage des pages
+* Paramètres de Storefront
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Utilisateurs professionnels
+* Utilisateurs professionnels
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36388?learn=on)
 
 ## Ressources supplémentaires
 
-[Contenu de la catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html?lang=fr)
+[Contenu de la catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Paramètres d’affichage - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html?lang=fr)
+[Paramètres d’affichage - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Paramètres de conception - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html?lang=fr)
+[Paramètres de conception - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

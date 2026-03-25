@@ -5,6 +5,7 @@ landing-page-description: Découvrez comment configurer Adobe Commerce pour util
 short-description: Découvrez comment configurer Adobe Commerce pour utiliser le mécanisme d’événement pour la consommation par Adobe Developer App Builder.
 kt: 11889
 doc-type: tutorial
+duration: 299
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Découvrez comment configurer Adobe Commerce pour exposer les événements. Cons
 * Enregistrer l’identifiant unique dans l’administrateur Commerce
 * Créer un fournisseur d’événements
 
->[!VIDEO](https://video.tv.adobe.com/v/3419713?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
 
 ## Commandes utiles {#useful-commands}
 

@@ -1,35 +1,36 @@
 ---
 title: Gestion multisite 
-description: Gérez facilement plusieurs magasins, marques ou sites web grâce à Adobe Commerce, qui dispose de puissantes fonctionnalités multi-sites et d’une interface d’arrière-plan centralisée.
+description: Gérez facilement plusieurs magasins, marques ou sites web grâce aux puissantes fonctionnalités multi-sites d’Adobe Commerce et à l’interface back-end centralisée.
 feature: Admin Workspace, Configuration, Site Management
 topic: Administration, Commerce
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 353
+duration: 390
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
-source-git-commit: cea265de4a1e8f828d60d9f5773f0d7fa5e6b5de
+exl-id: c041bd9a-9955-4053-a147-570ae1d88692
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
-# Gestion de plusieurs sites Web Adobe Commerce
+# Gestion de sites web multiples Adobe Commerce
 
-Adobe Commerce permet aux entreprises de gérer plusieurs magasins, marques ou sites web à partir d’une seule interface d’arrière-plan sans avoir à posséder des compétences techniques. Il permet la création de plusieurs sites web, chacun disposant de son propre domaine, de ses produits, de sa tarification et de sa base de clients. Dans un site web, plusieurs magasins peuvent être créés, chacun disposant de son propre catalogue et de sa propre tarification. Dans un magasin, plusieurs vues de magasins peuvent être configurées pour différentes langues ou versions. Cette flexibilité garantit une gestion efficace des offres de produits et des stratégies de tarification, ce qui en fait l&#39;idéal pour les entreprises qui souhaitent développer et étendre leurs activités d&#39;e-commerce.
+Adobe Commerce permet aux entreprises de gérer plusieurs magasins, marques ou sites web à partir d’une seule interface back-end sans nécessiter de compétences techniques. Il permet la création de plusieurs sites web, chacun ayant son propre domaine, ses propres produits, ses propres prix et sa propre base de clients. Au sein d’un site web, plusieurs magasins peuvent être créés, chacun ayant son propre catalogue et ses propres prix. Au sein d’un magasin, plusieurs vues de magasin peuvent être configurées pour différentes langues ou versions. Cette flexibilité garantit une gestion efficace des offres de produits et des stratégies de tarification, ce qui en fait la solution idéale pour les entreprises qui cherchent à étendre leurs activités de commerce électronique.
 
-## Pour qui cette vidéo est-elle ?
+## À qui s’adresse cette vidéo ?
 
-- Les entreprises qui cherchent à étendre leurs activités d’e-commerce à plusieurs régions, marques ou lignes de produits.
-- Chargés de magasin, directeurs de commerce électronique et équipes marketing.
-- Entreprises visant une évolutivité et une flexibilité pour leur présence en ligne.
+* Les entreprises qui cherchent à étendre leurs opérations de commerce électronique à plusieurs régions, marques ou gammes de produits.
+* Chefs de magasin, directeurs d’e-commerce et équipes marketing.
+* Entreprises visant l&#39;évolutivité et la flexibilité dans leur présence en ligne.
 
 ## Contenu vidéo
 
-- Gestion multisite
-- Localisation et personnalisation
-- Évolutivité et flexibilité
+* Gestion de plusieurs sites
+* Localisation et personnalisation
+* Évolutivité et flexibilité
 
->[!VIDEO](https://video.tv.adobe.com/v/3434029?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)

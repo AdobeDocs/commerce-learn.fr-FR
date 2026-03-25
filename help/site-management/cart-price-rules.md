@@ -1,40 +1,41 @@
 ---
-title: Créer une règle de prix de panier
-description: Découvrez comment créer des règles de prix de panier qui appliquent des remises dans le panier en fonction d’un ensemble de conditions.
-doc-type: feature video
-audience: all
-activity: use
+title: Créer des règles de prix de panier
+description: Découvrez comment créer des règles de prix de panier qui appliquent des remises dans le panier lorsque les conditions que vous définissez sont remplies.
+doc-type: Tutorial
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
-role: Admin, Leader, User
+role: User
 level: Beginner
-duration: 171
+duration: 353
 jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
-# Créer une règle de prix de panier
+# Créer des règles de prix de panier
 
-Les règles de prix de panier appliquent des remises aux articles du panier, en fonction d’un ensemble de conditions. La remise peut être appliquée automatiquement lorsque les conditions sont remplies ou lorsque le client saisit un code de coupon valide. Lorsqu’elle est appliquée, la remise apparaît dans le panier sous le sous-total . Une règle de prix de panier peut être utilisée selon les besoins pour une saison ou une promotion en modifiant son statut et sa période.
+Les règles de prix de panier appliquent des remises aux articles du panier en fonction des conditions que vous avez définies. La remise peut s’appliquer automatiquement lorsque les conditions sont remplies ou lorsque le client saisit un code de coupon valide. La remise apparaît dans le panier sous le sous-total . Vous pouvez activer ou désactiver une règle pour une saison ou une promotion en modifiant son statut et sa période.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Spécialistes du marketing eCommerce
-- Gestionnaires de site web
+* Spécialistes du marketing eCommerce
+* Gestionnaires de site web
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410804?quality=12&learn=on&captions=fre_fr)
+* Créez des règles de prix de panier et des codes de coupon facultatifs.
+* Découvrez comment les remises apparaissent dans le panier et pour les promotions.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Problèmes d’affichage des prix
 
-Certains scénarios uniques nécessitent que chaque ligne affiche sa remise fournie, mais les valeurs peuvent ne pas correspondre exactement. Cela s’explique par le fait qu’une remise de règle de prix de panier est appliquée à plusieurs produits, mais que les valeurs ne sont pas divisées de manière égale à deux décimales.
+Dans certains cas, chaque ligne doit afficher la remise appliquée, mais les valeurs affichées peuvent ne pas correspondre exactement. Cela se produit lorsqu’une règle de prix de panier applique une remise à plusieurs produits et que la répartition n’est pas divisée de manière égale à deux décimales.
 
 >[!BEGINSHADEBOX]
 
@@ -54,7 +55,7 @@ C&#39;est le problème, nous avons 3 décimales, au lieu de deux. Convertir cela
 
 ### La solution
 
-En pensant au propriétaire du site Web, qui est la seule personne touchée par ce problème, il a été déterminé que montrer chaque article commandé avec la remise fournie en dollars était la plus appropriée. Pour s&#39;assurer que le montant total de la commande est correctement calculé, il a été décidé d&#39;arrondir le premier article et les autres de supprimer la troisième décimale. Examinez ce scénario :
+Pour le commerçant dans l&#39;Admin, l&#39;approche la plus claire est d&#39;afficher chaque ligne commandée avec sa remise en dollars. Pour que le total de la commande reste correct, arrondissez la première ligne vers le haut et déposez la troisième décimale sur les autres lignes. Examinez ce scénario :
 
 >[!BEGINSHADEBOX]
 
@@ -68,7 +69,7 @@ Produit 1 - 19,95 x 0,1 = 1,995
 Un total général de 3,99 est fourni à titre de remise au client
 
 Lors de l’affichage des éléments de ligne au propriétaire du magasin dans l’administrateur,
-nous devons ajuster le premier élément et l’arrondir à 2 000. Le deuxième élément est supprimé à la troisième décimale
+nous devons ajuster le premier élément et l&#39;arrondir à 2 000. Pour le deuxième élément, supprimez la troisième décimale.
 Produit 1 = 2,00
 Produit 2 = 1,99
 
@@ -125,8 +126,7 @@ toutefois, si nous laissons tomber la troisième décimale, cela indiquera que 3
 
 >[!ENDSHADEBOX]
 
-
 ## Ressources supplémentaires
 
-- [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=fr)
-- [Codes promotionnels - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=fr)
+* [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
+* [Codes promotionnels - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}

@@ -3,6 +3,7 @@ title: Créer un produit groupé
 description: Découvrez comment créer un produit groupé à l’aide de l’API REST et de l’administrateur Commerce.
 kt: 14585
 doc-type: video
+duration: 979
 audience: all
 activity: use
 last-substantial-update: 2023-11-30T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 76a67af957b0d8c1eb64ad42f92412f338650d4b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
@@ -20,36 +21,36 @@ ht-degree: 0%
 
 # Créer un produit groupé
 
-Un produit groupé est constitué de produits autonomes simples présentés sous la forme d’un groupe. Vous pouvez proposer des variantes d’un seul produit ou les regrouper par saison ou thème. Avant de créer un produit groupé, vérifiez que tous les produits simples à inclure dans le groupe sont disponibles dans Adobe Commerce et créez-en d’autres qui n’existent pas.
+Un produit regroupé se compose de produits simples autonomes présentés sous la forme d’un groupe. Vous pouvez proposer des variations d’un seul produit ou les regrouper par saison ou thème. Avant de créer un produit regroupé, vérifiez que tous les produits simples à inclure dans le groupe sont disponibles dans Adobe Commerce et créez-en d’autres qui n’existent pas.
 
 Dans ce tutoriel, vous apprendrez à créer un produit groupé à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
-Utilisez l’API REST pour créer un produit de groupe dans l’Admin :
+Utilisez l’API REST pour créer un produit de groupe dans Admin :
 
 1. Créez un produit groupé vide.
-1. Créez des produits simples à utiliser dans le produit groupé.
+1. Créez des produits simples à utiliser dans le produit regroupé.
 1. Renseignez le produit groupé vide avec des produits simples.
 1. Créez un produit groupé vide et associez les produits simples.
 
-   Lorsque vous associez des produits simples au produit groupé, l’attribut d’ordre de tri (`position`) dans la payload est utilisé par l’interface pour afficher les produits associés dans l’ordre souhaité. Si l’attribut `position` n’est pas spécifié, les produits s’affichent dans l’ordre dans lequel ils ont été ajoutés au produit groupé.
+   Lorsque vous associez des produits simples au produit regroupé, l’attribut d’ordre de tri (`position`) dans la payload est utilisé par le front-end pour afficher les produits associés dans l’ordre souhaité. Si l’attribut `position` n’est pas spécifié, les produits sont affichés dans l’ordre dans lequel ils ont été ajoutés au produit regroupé.
 
-Lors de la création de produits groupés à partir de l’administrateur Adobe Commerce, créez d’abord les produits simples. Lorsque vous êtes prêt à créer le produit groupé, associez les produits simples en les affectant au produit groupé dans un seul lot.
+Lors de la création de produits groupés à partir de l’administrateur Adobe Commerce, commencez par créer les produits simples. Lorsque vous êtes prêt à créer le produit regroupé, associez les produits simples en les affectant au produit regroupé dans un lot.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
-- Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits groupés dans Adobe Commerce à l’aide de l’API REST.
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
+* Les nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits groupés dans Adobe Commerce à l’aide de l’API REST.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454040?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
 
-## Configuration du produit groupé
+## Paramétrage pour le produit groupé
 
-Dans cet exemple, il existe trois produits simples (créés en premier) et un produit groupé. Deux produits simples sont associés au produit groupé, puis le troisième produit simple est ajouté au produit groupé.
+Dans cet exemple, il existe trois produits simples (créés en premier) et un produit regroupé. Deux produits simples sont associés au produit regroupé, puis le troisième produit simple est ajouté au produit regroupé.
 
-## Création du premier produit simple à l’aide de cURL
+## Créer le premier produit simple à l’aide de cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -67,7 +68,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Création du second produit simple à l’aide de cURL
+## Créer le second produit simple à l’aide de cURL
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -122,7 +123,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Ajouter les premier et deuxième produits simples au produit groupé
+## Ajouter les premier et deuxième produits simples au produit regroupé
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -158,7 +159,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/my-new-grouped-produ
 
 ## Ajouter le troisième produit simple au produit groupé existant
 
-Insérez le numéro de position approprié (sauf `1` ou `2`), qui sont utilisés pour les deux premiers produits initialement associés au produit groupé. Pour cet exemple, la position est `4`.
+Indiquez le numéro de position approprié (tout sauf `1` ou `2`), utilisé pour les deux premiers produits initialement associés au produit regroupé. Pour cet exemple, la position est `4`.
 
 ```bash
 curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new-grouped-product/links' \
@@ -181,14 +182,14 @@ curl --location --request PUT '{{your.url.here}}/rest/default/V1/products/my-new
 '
 ```
 
-## Supprimer un produit simple d’un produit regroupé
+## Supprimer un produit simple d’un produit groupé
 
-Pour [supprimer un produit simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) d’un produit groupé, utilisez : `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
+Pour [supprimer un produit simple](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/) d’un produit regroupé, utilisez : `DELETE /V1/products/{sku}/links/{type}/{linkedProductSku}`.
 
-Pour découvrir ce qu’il faut utiliser comme `{type}`, utilisez xdebug pour capturer la requête et évaluer $linkTypes: `related`, `crosssell`, `uupsell` et `associated`.
-![&#x200B; Types de lien de produit groupé - texte de remplacement &#x200B;](/help/assets/site-management/catalog/grouped-types.png "Types de lien de produit groupé capturés lors de la session xdebug")
+Pour découvrir les éléments à utiliser comme `{type}`, utilisez xdebug pour capturer la requête et évaluer $linkTypes : `related`, `crosssell`, `uupsell` et `associated`.
+![Types de liens de produit groupés - autre texte](/help/assets/site-management/catalog/grouped-types.png "Types de liens de produit groupés capturés au cours de la session xdebug")
 
-Lors de la liaison des produits simples au produit groupé, la payload contenait quelques sections similaires à :
+Lors de la liaison des produits simples au produit regroupé, la payload contenait quelques sections similaires à :
 
 ```bash
         {
@@ -203,9 +204,9 @@ Lors de la liaison des produits simples au produit groupé, la payload contenait
         }
 ```
 
-Dans la payload, la valeur `link_type` `associated` fournit la valeur `{type}` requise dans la requête du DELETE. L’URL de demande est similaire à `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+Dans la payload, la valeur `link_type` `associated` fournit la valeur `{type}` requise dans la requête DELETE. L’URL de la requête sera similaire à `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
-Voir la requête cURL pour supprimer le produit simple avec le SKU `product-sku-three` du produit groupé avec le SKU `my-new-grouped-product` :
+Voir la requête cURL pour supprimer le produit simple avec le SKU `product-sku-three` du produit regroupé avec le SKU `my-new-grouped-product` :
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}rest/default/V1/products/my-new-grouped-product/links/associated/product-sku-three' \
@@ -223,7 +224,7 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 
 ## Ressources supplémentaires
 
-- [Créer et gérer des produits groupés](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
-- [Produit groupé](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=fr){target="_blank"}
-- [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Créer et gérer des produits groupés](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
+* [Produit groupé](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html){target="_blank"}
+* [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

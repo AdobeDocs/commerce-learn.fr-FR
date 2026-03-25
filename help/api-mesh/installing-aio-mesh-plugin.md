@@ -5,6 +5,7 @@ landing-page-description: Découvrez comment utiliser Adobe App Builder et insta
 short-description: Découvrez comment utiliser Adobe App Builder et installer le plug-in Adobe I/O Runtime avec maillage API .
 kt: 11801
 doc-type: tutorial
+duration: 433
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Pour obtenir des instructions relatives à l’installation et connaître les co
 * Installation de l’interface de ligne de commande Adobe I/O Runtime
 * Installation du plug-in Maillage API
 
->[!VIDEO](https://video.tv.adobe.com/v/3419793?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
 
 ## Installation de l’interface de ligne de commande `aio` et du plug-in API Mesh
 

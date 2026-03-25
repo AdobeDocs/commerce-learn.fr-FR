@@ -1,7 +1,8 @@
 ---
-title: Le représentant commercial lance le guillemet B2B à l’aide de l’API REST.
-description: Découvrez comment le représentant commercial peut lancer le devis à partir de l’API REST Adobe Commerce.
+title: Le représentant commercial lance le devis B2B à l’aide de l’API REST
+description: Découvrez comment le commercial peut lancer le devis à partir de l’API REST Adobe Commerce.
 doc-type: feature video
+duration: 250
 audience: all
 activity: use
 kt: 13797
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -20,18 +21,18 @@ ht-degree: 0%
 
 # Le représentant commercial lance le devis avec l’API REST
 
-Découvrez comment le représentant commercial peut lancer le devis à partir de l’API REST Adobe Commerce.
+Découvrez comment le commercial peut lancer le devis à partir de l’API REST Adobe Commerce.
 
 {{b2b-feature}}
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
-- Développeurs
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
+* Développeur
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3423709?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

@@ -1,7 +1,8 @@
 ---
-title: Gérer le crédit de l’entreprise
-description: Découvrez comment créer des comptes d’entreprise B2B pour que les utilisateurs puissent effectuer des achats sur leur compte jusqu’à la limite de crédit qui est accordée.
+title: Gérer le crédit d’entreprise
+description: Découvrez comment les utilisateurs d’un compte d’entreprise B2B peuvent effectuer des achats sur leur compte jusqu’à la limite de crédit accordée.
 doc-type: feature video
+duration: 230
 audience: all
 activity: use
 kt: 13910
@@ -11,37 +12,37 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Gérer le crédit de l’entreprise
+# Gérer le crédit d’entreprise
 
-Pour les entreprises qui ont activé _[!UICONTROL Payment on Account]_&#x200B;et dont le crédit d’entreprise est disponible, elles peuvent effectuer des achats sur leur compte jusqu’à la limite de crédit qui est accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur société à partir du tableau de bord de leur compte.
+Pour les sociétés dont les _[!UICONTROL Payment on Account]_sont activées et pour lesquelles un crédit d’entreprise est disponible, elles peuvent effectuer des achats sur leur compte jusqu’à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
 
-Vous pouvez définir les paramètres liés au crédit suivants pour chaque profil d’entreprise :
+Vous pouvez définir les paramètres de crédit suivants pour chaque profil de société :
 
-- Devise de crédit
-- Limite de crédit
-- Autoriser à dépasser la limite de crédit
-- Motif du changement
+* Devise de crédit
+* Limite de crédit
+* Autoriser le dépassement de la limite de crédit
+* Raison du changement
 
 {{b2b-feature}}
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Représentants commerciaux
-- Représentants du service client
+* Gestionnaires de site web
+* Représentants commerciaux
+* Représentants du service client
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410759?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Ressources supplémentaires
 
-- [Configurer le paiement sur le compte](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=fr#configure-payment-on-account)
-- [Gérer le crédit de l’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=fr)
+* [Configurer le paiement en compte](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

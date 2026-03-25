@@ -1,35 +1,35 @@
 ---
-title: Amélioration de l’intégration d’Adobe Commerce à l’IA pour une gestion simplifiée des ressources
-description: Intégrez l’IA à Adobe Commerce pour un contenu personnalisé, des workflows rationalisés et un contrôle complet du cycle de vie des ressources.
+title: Améliorez Adobe Commerce avec l’intégration de l’IA pour une gestion des ressources rationalisée.
+description: Intégrez l’IA à Adobe Commerce pour obtenir du contenu personnalisé, des workflows rationalisés et un contrôle complet du cycle de vie des ressources.
 topic: Architecture, Commerce, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 189
+duration: 223
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
+exl-id: afd2c688-8abd-47cb-a6ec-c7e2c3b44743
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-
 # Adobe Commerce AEM Assets
 
-L’intégration de l’IA à Adobe Commerce centralise la gestion des ressources, en améliorant l’engagement des clients par le biais de contenus personnalisés et en rationalisant les workflows. &#x200B; Cette intégration native améliore l’efficacité et accélère le délai de mise sur le marché du contenu sans frais supplémentaires pour les commerçants. &#x200B; Il permet une synchronisation transparente entre les produits et les ressources, avec un contrôle de cycle de vie complet, y compris l’approbation, la suppression et l’expiration. &#x200B; L’intégration garantit que les ressources sont automatiquement synchronisées et affichées dans le panneau d’administration et le storefront, ce qui permet un processus de gestion de contenu fluide et efficace. &#x200B;
+L’intégration de l’IA à Adobe Commerce centralise la gestion des ressources, améliorant l’engagement des clients par du contenu personnalisé et rationalisant les workflows. &#x200B; Cette intégration native améliore l’efficacité et accélère le délai de mise sur le marché du contenu sans frais supplémentaires pour les commerçants. &#x200B; Il permet une synchronisation transparente entre les produits et les ressources, avec un contrôle complet du cycle de vie, y compris l’approbation, la suppression et l’expiration. &#x200B; L’intégration garantit que les ressources sont automatiquement synchronisées et affichées dans le panneau d’administration et le storefront, prenant en charge un processus de gestion de contenu fluide et efficace. &#x200B;
 
-## Pour qui cette vidéo est-elle ?
+## À qui s’adresse cette vidéo ?
 
-- Commerçants d’e-commerce et spécialistes du marketing numérique à l’aide d’Adobe Commerce
-- Administrateurs informatiques
-- Chargés de contenu cherchant à optimiser leur cycle de vie de contenu
+* Commerçants en ligne et spécialistes du marketing digital utilisant Adobe Commerce
+* Administrateurs informatiques
+* Les gestionnaires de contenu cherchent à optimiser leur cycle de vie du contenu
 
 ## Contenu vidéo
 
-- Plus grande efficacité et vitesse.
-- Synchronisation transparente entre les produits et les ressources.
-- Effectuez le contrôle du cycle de vie, y compris l’approbation, la suppression et l’expiration.
+* Efficacité et vitesse accrues.
+* Une synchronisation transparente entre les produits et les ressources.
+* Contrôle complet du cycle de vie, avec approbation, suppression et expiration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434078?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

@@ -3,6 +3,7 @@ title: Découvrez comment trouver les requêtes lentes dans les journaux de requ
 description: La base de données Galera possède une méthode de conception qui fait que la réplication des données vers des bases de données secondaires prend plus de temps que la base de données principale. Découvrez comment trouver ces événements dans le journal de requêtes lentes mysql, et la raison sous-jacente pour laquelle vous voyez des entrées dans les journaux de requêtes lentes et peut-être comment les empêcher à l’avenir.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -26,20 +27,20 @@ Si possible, la solution consiste à regrouper les opérations volumineuses pour
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Architectes
-- Développeur
-- Opérations de développement
+* Architectes
+* Développeur
+* Opérations de développement
 
 ## Contenu vidéo
 
-- Réplication de la galerie vers la base de données secondaire
-- En savoir plus sur le contrôle de flux
-- Recherche de numéros de threads dans les logs de requêtes lentes mysql
-- Les exécutions en bloc ne se produisent que sur l’instance principale. Les réplications se produisent 1 par
-- Effectuez des validations par lots volumineuses pour aider la réplication à suivre le processus principal.
+* Réplication de la galerie vers la base de données secondaire
+* En savoir plus sur le contrôle de flux
+* Recherche de numéros de threads dans les logs de requêtes lentes mysql
+* Les exécutions en bloc ne se produisent que sur l’instance principale. Les réplications se produisent 1 par
+* Effectuez des validations par lots volumineuses pour aider la réplication à suivre le processus principal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423539?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Ressources utiles
 
-- [Cluster Galera](https://galeracluster.com/)
+* [Cluster Galera](https://galeracluster.com/)

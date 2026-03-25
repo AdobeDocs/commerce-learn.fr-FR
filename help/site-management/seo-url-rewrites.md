@@ -3,6 +3,7 @@ title: Gestion des réécritures d’URL pour l’optimisation du moteur de rech
 description: Découvrez comment utiliser l’outil de réécriture d’URL pour modifier toute URL associée à un produit, une catégorie ou une page CMS.
 kt: 10554
 doc-type: feature video
+duration: 150
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,8 +12,8 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
-source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -25,15 +26,15 @@ L’outil Réécriture d’URL permet de modifier toute URL associée à un prod
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Gestionnaire de site web
-- Marchandiseurs eCommerce
-- Spécialistes du marketing eCommerce
+* Gestionnaire de site web
+* Marchandiseurs eCommerce
+* Spécialistes du marketing eCommerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410124?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
 
 ## Ressources supplémentaires
 
-- [Réécritures d’URL - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=fr)
-- [Général > Web - [!DNL Commerce] Guide de référence de configuration](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=fr)
+* [Réécritures d’URL - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+* [Général > Web - [!DNL Commerce] Guide de référence de configuration](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

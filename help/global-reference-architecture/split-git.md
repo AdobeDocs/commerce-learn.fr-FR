@@ -3,6 +3,7 @@ title: Configuration d’Adobe Commerce avec l’architecture de référence glo
 description: Découvrez comment configurer Adobe Commerce à l’aide de l’architecture de référence globale Split Git pour une gestion du code efficace et un déploiement rationalisé. ​
 kt: 16725
 doc-type: tutorial
+duration: 515
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Le modèle de Git Git partagé implique deux référentiels Git pour le dévelop
 
 Avantages :
 
-- Réutilisation du code via un référentiel de code partagé
-- Modèle GRA simple, adapté même aux équipes ayant des connaissances limitées en compositeur
-- Outre les modules Adobe Commerce, les thèmes et les modules linguistiques, il est possible d’installer n’importe quel type de package Composer via ce modèle, y compris composer-plugin, compositeur-metapackage, magento2-component et patchs
-- Publication possible par phases, en planifiant des versions pour les régions dans leurs propres fenêtres de maintenance.
-- Prise en charge des balises Git à des fins d’administration et non de contrôle du déploiement
-- Garantir que la combinaison de packages dans un déploiement en production est développée et testée dans cette configuration exacte
+* Réutilisation du code via un référentiel de code partagé
+* Modèle GRA simple, adapté même aux équipes ayant des connaissances limitées en compositeur
+* Outre les modules Adobe Commerce, les thèmes et les modules linguistiques, il est possible d’installer n’importe quel type de package Composer via ce modèle, y compris composer-plugin, compositeur-metapackage, magento2-component et patchs
+* Publication possible par phases, en planifiant des versions pour les régions dans leurs propres fenêtres de maintenance.
+* Prise en charge des balises Git à des fins d’administration et non de contrôle du déploiement
+* Garantir que la combinaison de packages dans un déploiement en production est développée et testée dans cette configuration exacte
 
 Inconvénients :
 
-- Aucune flexibilité supplémentaire par rapport aux autres modèles GRA
-- Impossible de mettre à niveau ou de rétrograder des modules individuels par instance. Mettez toujours à niveau ou rétrogradez la GRA dans son ensemble.
-- Dans la plupart des cas, le modèle des emballages en vrac est mieux adapté car il est tout aussi simple, mais plus conventionnel
+* Aucune flexibilité supplémentaire par rapport aux autres modèles GRA
+* Impossible de mettre à niveau ou de rétrograder des modules individuels par instance. Mettez toujours à niveau ou rétrogradez la GRA dans son ensemble.
+* Dans la plupart des cas, le modèle des emballages en vrac est mieux adapté car il est tout aussi simple, mais plus conventionnel
 
 ## Configuration d’Adobe Commerce avec le modèle de graphique Git partagé
 
@@ -153,11 +154,11 @@ Adobe Commerce est une application de compositeur. La méthode d’installation 
 
 En résumé :
 
-- **Adobe Commerce** : stocké dans un référentiel de compositeur.
-- **Modules tiers** : stockés dans un référentiel Composer.
-- **Option de secours des modules tiers** : stocké dans le référentiel Git gra-split-3rdparty.
-- **code de base GRA** : stocké dans le référentiel Git gra-split-gra.
-- **Code local** : stocké dans le référentiel Git gra-split-brand-x.
+* **** : stocké dans un référentiel de compositeur.
+* **Modules tiers** : stockés dans un référentiel Composer.
+* **Option de secours des modules tiers** : stocké dans le référentiel Git gra-split-3rdparty.
+* **code de base GRA** : stocké dans le référentiel Git gra-split-gra.
+* **Code local** : stocké dans le référentiel Git gra-split-brand-x.
 
 ### Connecter le stockage de package au compositeur
 
@@ -377,9 +378,9 @@ Ne fusionnez jamais les validations tierces et GRA dans le référentiel de marq
 
 Les exemples de code de cet article sont disponibles sous la forme d’un ensemble de référentiels Git, que vous pouvez utiliser pour tester la validation de principe.
 
-- Exemple de magasin de production : <https://github.com/AntonEvers/gra-split-brand-x>
-- Référentiel de code tiers : <https://github.com/AntonEvers/gra-split-3rdparty>
-- Le référentiel de code GRA : <https://github.com/AntonEvers/gra-split-gra>
-- Exemple de module local : <https://github.com/AntonEvers/module-example-local>
-- Exemple de module GRA : <https://github.com/AntonEvers/module-example-gra>
-- Exemple de module tiers : <https://github.com/AntonEvers/module-example-3rdparty>
+* Exemple de magasin de production : <https://github.com/AntonEvers/gra-split-brand-x>
+* Référentiel de code tiers : <https://github.com/AntonEvers/gra-split-3rdparty>
+* Le référentiel de code GRA : <https://github.com/AntonEvers/gra-split-gra>
+* Exemple de module local : <https://github.com/AntonEvers/module-example-local>
+* Exemple de module GRA : <https://github.com/AntonEvers/module-example-gra>
+* Exemple de module tiers : <https://github.com/AntonEvers/module-example-3rdparty>

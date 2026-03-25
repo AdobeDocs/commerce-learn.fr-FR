@@ -6,11 +6,11 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 380
+duration: 385
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: cb70f3e9bd02146b9c2f50106730583683d7cfca
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -33,6 +33,6 @@ L’agent termine la mise en œuvre, nettoie le code inutilisé et prépare le p
 Les informations d’identification et l’environnement sont configurés pour déployer et enregistrer la nouvelle extension d’expédition.
 Les tests de storefront confirment que les frais d’expédition externes apparaissent et fonctionnent comme prévu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481359/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

@@ -3,6 +3,7 @@ title: Optimisation d’Adobe Commerce avec l’architecture de référence glob
 description: Découvrez comment configurer Adobe Commerce à l’aide de l’architecture de référence globale des packages en bloc pour une gestion du code et un contrôle de version efficaces.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Le modèle GRA des packages en bloc implique un référentiel Git unique pour h�
 
 Avantages :
 
-- Réutilisation du code via un référentiel de code partagé
-- Flexibilité pour installer différentes versions historiques de la GRA sur différentes instances, ce qui permet des versions par phases
-- Flexibilité pour rétroporter et maintenir plusieurs versions majeures de la GRA
-- Prise en charge du contrôle de version sémantique de la GRA
-- En toute simplicité, les développeurs n’ont pas besoin de davantage de compétences que dans les modèles de développement standard d’un magasin unique
-- Aucun outil spécial, infrastructure complexe ou stratégie de branchement spéciale requis
-- La combinaison de packages dans une version est toujours développée et testée ensemble
+* Réutilisation du code via un référentiel de code partagé
+* Flexibilité pour installer différentes versions historiques de la GRA sur différentes instances, ce qui permet des versions par phases
+* Flexibilité pour rétroporter et maintenir plusieurs versions majeures de la GRA
+* Prise en charge du contrôle de version sémantique de la GRA
+* En toute simplicité, les développeurs n’ont pas besoin de davantage de compétences que dans les modèles de développement standard d’un magasin unique
+* Aucun outil spécial, infrastructure complexe ou stratégie de branchement spéciale requis
+* La combinaison de packages dans une version est toujours développée et testée ensemble
 
 Inconvénients :
 
-- Seule une mise à niveau de l’ensemble de la GRA est possible, y compris tous les packages qu’elle contient.
-- Pas de prise en charge dans le package en bloc GRA pour les packages de compositeurs autres que les modules Adobe Commerce, les modules linguistiques et les thèmes, donc pas de métapaquets, de packages de composants magento2, de modules externes de compositeur et de correctifs
+* Seule une mise à niveau de l’ensemble de la GRA est possible, y compris tous les packages qu’elle contient.
+* Pas de prise en charge dans le package en bloc GRA pour les packages de compositeurs autres que les modules Adobe Commerce, les modules linguistiques et les thèmes, donc pas de métapaquets, de packages de composants magento2, de modules externes de compositeur et de correctifs
 
 ## Configuration d’Adobe Commerce avec le modèle de graphique Git partagé
 
@@ -233,11 +234,11 @@ git push origin main
 
 Ce n’est que si le tiers ne propose pas d’installation par le biais d’un référentiel de compositeur que vous pouvez stocker les modules tiers dans le répertoire `src/` de votre référentiel de base ou dans un package tiers en bloc dédié.
 
-- **Adobe Commerce core** : disponible via repo.magento.com.
-- **Modules tiers** : disponibles via la Marketplace ou le référentiel Composer d’un fournisseur.
-- **Option de secours des modules tiers** : stocké en `src/` d&#39;un package en masse.
-- **code de base GRA** : stocké en `src/` du package de base en masse.
-- **Code local** : stocké dans le répertoire `packages/local` du référentiel de déploiement.
+* **Adobe Commerce core** : disponible via repo.magento.com.
+* **Modules tiers** : disponibles via la Marketplace ou le référentiel Composer d’un fournisseur.
+* **Option de secours des modules tiers** : stocké en `src/` d&#39;un package en masse.
+* **code de base GRA** : stocké en `src/` du package de base en masse.
+* **Code local** : stocké dans le répertoire `packages/local` du référentiel de déploiement.
 
 ## Développement d’un module GRA
 
@@ -272,6 +273,6 @@ Dans les branches de ticket, vous ne devriez presque jamais avoir à mettre à j
 
 Les exemples de code de cet article sont disponibles sous la forme d’un ensemble de référentiels Git, que vous pouvez utiliser pour tester la validation de principe.
 
-- Exemple de magasin de production : <https://github.com/AntonEvers/gra-bulk-brand-x>
-- Le référentiel de code GRA : <https://github.com/AntonEvers/gra-bulk-foundation>
-- Exemple de module local : <https://github.com/AntonEvers/module-example-local>
+* Exemple de magasin de production : <https://github.com/AntonEvers/gra-bulk-brand-x>
+* Le référentiel de code GRA : <https://github.com/AntonEvers/gra-bulk-foundation>
+* Exemple de module local : <https://github.com/AntonEvers/module-example-local>

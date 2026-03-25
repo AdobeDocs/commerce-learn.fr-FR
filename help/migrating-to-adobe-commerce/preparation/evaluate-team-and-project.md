@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 270
+duration: 336
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -38,8 +38,8 @@ Sur le front-end, l’expérience avec les implémentations découplées peut si
 * Découvrez quelques considérations sur le front-end et le back-end.
 * Planifiez une migration fluide en évaluant les modules existants, en mettant à niveau les applications principales et en intégrant d’autres solutions Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447445/?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## Documentation connexe
 
-[Qu’est-ce qu’Adobe Commerce &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)
+[Qu’est-ce qu’Adobe Commerce ](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

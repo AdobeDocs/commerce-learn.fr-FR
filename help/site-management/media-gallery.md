@@ -1,7 +1,8 @@
 ---
 title: Gestion de la galerie de médias
-description: Découvrez comment utiliser la nouvelle galerie de médias améliorée pour organiser et gérer les fichiers multimédia sur le serveur.
+description: Découvrez comment utiliser la nouvelle Galerie de médias améliorée pour organiser et gérer les fichiers multimédias sur le serveur.
 doc-type: feature video
+duration: 196
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
-source-git-commit: 972a50c3e9e70ae0724b78ab79bd6304bbff4042
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -19,18 +20,18 @@ ht-degree: 0%
 
 # Gestion de la galerie de médias
 
-Avec Adobe Commerce ou Magento Open Source 2.4, les marchands peuvent utiliser la nouvelle galerie de médias améliorée pour organiser et gérer leurs fichiers multimédia sur le serveur.
+Avec Adobe Commerce ou Magento Open Source 2.4, les commerçants peuvent utiliser la nouvelle Galerie de médias améliorée pour organiser et gérer leurs fichiers multimédias sur le serveur.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411044?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343785?learn=on)
 
 ## Ressources supplémentaires
 
-- [The Media Gallery - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Autre stockage de médias - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+* [Galerie multimédia - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+* [Stockage sur médias alternatifs - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

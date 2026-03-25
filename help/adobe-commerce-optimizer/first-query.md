@@ -6,11 +6,11 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 182
+duration: 243
 last-substantial-update: 2025-08-13T00:00:00Z
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
-source-git-commit: 5d34c2e3b93c937139e88fa2f75dc6046f7093fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Découvrez comment interroger des données à l’aide de GraphQL sur une instan
 * Interroger des données à l’aide de GraphQL
 * Utilisation de json pour faciliter la lecture du fichier json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470802?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
 
 ## Exemples de code
 
@@ -57,4 +57,4 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 ## Contenu connexe
 
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer]  Guide &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer]  Guide ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

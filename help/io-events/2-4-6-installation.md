@@ -5,6 +5,7 @@ landing-page-description: Découvrez comment installer plusieurs modules nécess
 short-description: Découvrez comment installer plusieurs modules nécessaires pour Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
+duration: 167
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.6
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l
 * Commandes à exécuter pour Adobe Commerce Cloud
 * Modification requise pour l’yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3419811?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?learn=on)
 
 ## Commandes utiles {#useful-commands}
 

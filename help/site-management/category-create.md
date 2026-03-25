@@ -1,8 +1,9 @@
 ---
-title: Création d’une catégorie
-description: Découvrez comment définir la structure de catégorie de base de votre catalogue de produits.
+title: Créer une catégorie
+description: Découvrez comment définir la structure des catégories de base pour votre catalogue de produits.
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,28 +12,28 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
-# Création d’une catégorie
+# Créer une catégorie
 
-Avant d’ajouter des produits à votre catalogue, vous devez établir la structure de catégorie de base de votre catalogue. Les produits peuvent être affectés à aucune ou plusieurs catégories. Les catégories sont généralement créées à l’avance, avant que les produits ne soient ajoutés au catalogue. Cependant, vous pouvez également ajouter des catégories &quot;à la volée&quot; lors de la création d’un produit.
+Avant d’ajouter des produits à votre catalogue, vous devez établir la structure des catégories de base de votre catalogue. Les produits peuvent être affectés à aucune ou plusieurs catégories. Les catégories sont généralement créées à l’avance, avant l’ajout des produits au catalogue. Cependant, vous pouvez également ajouter des catégories « à la volée » lors de la création d’un produit.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410134?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## Ressources supplémentaires
 
-- [Créer des catégories - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=fr)
-- [Autorisations de catégorie - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=fr)
-- [Navigation supérieure - [!DNL Commerce] Guide de gestion de catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=fr)
+* [Créer des catégories - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Autorisations de catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Navigation supérieure - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

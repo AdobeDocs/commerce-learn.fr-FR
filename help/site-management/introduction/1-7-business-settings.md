@@ -1,8 +1,9 @@
 ---
-title: "[!DNL Commerce] pour les utilisateurs professionnels - Paramètres du magasin"
-description: Découvrez les paramètres régionaux, les informations de magasin, les URL sécurisées et non sécurisées, le titre du site web, le logo, les informations de copyright, les logos des emails de communication, les adresses électroniques de magasin, les options de devise et les taux de change.
+title: '[!DNL Commerce] pour les utilisateurs professionnels - Paramètres de la boutique'
+description: Découvrez les paramètres régionaux, les informations du magasin, les URL sécurisées et non sécurisées, le titre du site web, le logo, les informations de copyright, les logos des e-mails de communication, les adresses e-mail du magasin, les options de devise et les taux de change.
 kt: 5764
 doc-type: video
+duration: 390
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System
@@ -10,39 +11,39 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] pour les utilisateurs professionnels - Paramètres du magasin
+# [!DNL Commerce] pour les utilisateurs professionnels - Paramètres de la boutique
 
 Dans cette vidéo :
 
-- Paramètres régionaux
-- Informations sur le magasin
-- URL sécurisée et non sécurisée
-- Titre du site web, logo et informations de copyright
-- Stocker les logos des emails de communication
-- Stocker les adresses électroniques
-- Logo des factures, des envois et des notes de crédit
-- Options de devise
-- Taux de change
+* Paramètres régionaux
+* Informations sur le magasin
+* URL sécurisées et non sécurisées
+* Titre, logo et informations de copyright du site web
+* Stocker les logos des e-mails de communication
+* Stocker les adresses e-mail
+* Logos des factures, des expéditions et des avoirs
+* Options par devise
+* Taux de change
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Utilisateurs professionnels
+* Utilisateurs professionnels
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330031?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35949?learn=on)
 
 ## Ressources supplémentaires
 
-[Détails du magasin - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html?lang=fr)
+[Détails de la boutique - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 3%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Recommandations relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
       + [Réplication lente du cluster Galera](../backend-development/galera-db-slow-replication.md)
       + [Cache de requête MySQL](../backend-development/mysql-query-cache.md)
       + [Résumé de requête PT](../backend-development/pt-query-digest.md)
-      + [Connexion et téléchargement de la base de données Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
+      + [Connexion et exécution de requêtes sur la base de données Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
       + Mises à niveau de Commerce {#upgrade}
          + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
          + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [Utiliser l’outil de compatibilité de mise à niveau dans PHP Storm](../upgrade/uct-phpstorm.md)
+         + [Utilisation de l’outil de compatibilité de mise à niveau dans PhpStorm](../upgrade/uct-phpstorm.md)
    + Développement front-end de Luma {#frontend-development}
       + Créateur de page PaaS/SaaS pour les développeurs {#page-builder}
          + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -131,12 +131,12 @@ ht-degree: 3%
          + Présentation du mode découplé {#introduction-to-headless}
             + [Architecture découplée - Session 1](../headless/session-1.md)
          + Présentation de PWA Studio {#introduction}
-            + [1 - Présentation](../pwa/introduction/1-overview.md)
-            + [2 - Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - Lancement](../pwa/introduction/3-launch.md)
-            + [4 - VERS LE HAUT](../pwa/introduction/4-upward.md)
-            + [5 - Prise en main](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrine](../pwa/introduction/6-peregrine.md)
+            + [Vue d’ensemble](../pwa/introduction/1-overview.md)
+            + [Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Launch](../pwa/introduction/3-launch.md)
+            + [VERS LE HAUT](../pwa/introduction/4-upward.md)
+            + [Prise en main](../pwa/introduction/5-getting-started.md)
+            + [Peregrine](../pwa/introduction/6-peregrine.md)
          + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
          + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
    + GraphQL et REST {#graphql-rest}
@@ -170,7 +170,7 @@ ht-degree: 3%
          + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
          + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
          + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-         + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
+         + [Développement de modules ](../io-events/commerce-module-development.md)
          + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
    + Maillage API {#api-mesh}
       + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)

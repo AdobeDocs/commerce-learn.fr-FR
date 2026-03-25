@@ -1,8 +1,9 @@
 ---
-title: "[!DNL Commerce] pour les utilisateurs professionnels - Portées des rôles et autorisations"
-description: Découvrez comment définir des portées de rôle (exclusives à Adobe Commerce) et les autorisations associées par site ou magasin.
+title: '[!DNL Commerce] pour les utilisateurs professionnels - Portées et autorisations des rôles'
+description: Découvrez comment définir les étendues des rôles (exclusives à Adobe Commerce) et les autorisations associées par site ou magasin.
 kt: 5763
 doc-type: video
+duration: 290
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Security, Roles/Permissions
@@ -10,33 +11,33 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c655ef88-1ddf-4ba3-9ad3-1883c0c93ee2
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] pour les utilisateurs professionnels - Portées des rôles et autorisations
+# [!DNL Commerce] pour les utilisateurs professionnels - Portées et autorisations des rôles
 
 Dans cette vidéo :
 
-- Portées de rôle (Adobe Commerce uniquement)
+* Portées des rôles (Adobe Commerce uniquement)
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Utilisateurs professionnels
+* Utilisateurs professionnels
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, voir les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330039?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35948?learn=on)
 
 ## Ressources supplémentaires
 
-[Gérer les comptes d’utilisateurs administrateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=fr)
+[Gestion des comptes utilisateur d’administration - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Rôles utilisateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=fr)
+[Rôles utilisateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)

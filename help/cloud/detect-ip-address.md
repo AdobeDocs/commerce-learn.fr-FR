@@ -6,11 +6,11 @@ topic: Commerce, Development, Integrations
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 624
 last-substantial-update: 2025-04-07T00:00:00Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: b015b9c64be631b43ad63d180c003dda8fdd198a
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1095'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Découvrez comment détecter des adresses IP pour différents environnements dan
 
 * Découvrez comment découvrir l’adresse IP de n’importe quel environnement dans Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457493/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457493?learn=on)
 
 ## Commande pour obtenir l&#39;adresse IP
 
@@ -50,7 +50,7 @@ L’outil d’interface de ligne de commande Magento-Cloud est conçu pour aider
 
 Dans cette première section de l’exemple de code, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` demande l’URL de l’environnement . La valeur renvoyée ressemble à ce qui suit `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De temps en temps, ça ressemble plus à ce `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Cette première commande est assez simple, et il est maintenant temps de passer à la commande suivante.
 
-Pour plus d’informations, consultez [Présentation de l’interface de ligne de commande Cloud](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Pour plus d’informations, consultez [Présentation de l’interface de ligne de commande Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Utilisation de `sed` pour la recherche et le remplacement
 
@@ -120,4 +120,4 @@ Ces environnements de niveau inférieur sont à clients multiples et partagent d
 
 ## Documentation connexe
 
-* [&#x200B; Adresses IP régionales &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [ Adresses IP régionales ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

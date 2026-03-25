@@ -1,42 +1,42 @@
 ---
 title: Création d’un module
-description: Découvrez comment créer un module dans Adobe Commerce qui envoie des informations au journal PSR. Cette opération ajoute la fonctionnalité à votre premier module dans Adobe Commerce.
-kt: 5614
-doc-type: video
+description: Créez et enregistrez un module dans Adobe Commerce, exécutez le programme d’installation et ajoutez des modules externes qui se connectent à l’enregistreur PSR dans les contextes de zone d’administration, de storefront et d’API REST.
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Création d’un module
 
-Le module est un élément structurel de [!DNL Commerce] : l’ensemble du système est construit sur des modules. En règle générale, la première étape de la création d’une personnalisation est la création d’un module.
+Un module est un élément structurel de [!DNL Commerce]. Les modules constituent la colonne vertébrale du système. En règle générale, vous commencez une personnalisation en créant un module.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Développeurs
+* Développeurs et développeuses back-end
 
-## Étapes pour ajouter un module
+## Étapes d’ajout d’un module
 
-- Créez le dossier du module.
-- Créez le fichier etc/module.xml .
-- Créez le fichier registration.php .
-- Exécutez la configuration bin/magento.
-- Mettre à niveau le script pour installer le nouveau module.
-- Vérifiez que le module fonctionne.
+1. Créez le dossier du module.
+2. Créez le fichier `etc/module.xml`.
+3. Créez le fichier `registration.php`.
+4. Exécutez `bin/magento setup:upgrade` pour enregistrer et installer le module.
+5. Vérifiez que le module fonctionne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412452?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### Le fichier module.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ Le module est un élément structurel de [!DNL Commerce] : l’ensemble du syst�
 </config>
 ```
 
-### registration.php
+### Le fichier registration.php
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Ajouter un module externe et fournir certaines fonctionnalités
+### Ajout d’un module externe
 
-L’étape suivante consiste à ajouter des fonctionnalités à notre module de base. Un module externe est un outil essentiel que tous les développeurs Adobe Commerce utilisent. Cette vidéo et ce tutoriel vous aident à créer un module externe.
+Vous ajoutez ensuite des fonctionnalités à votre module de base. Vous utilisez des modules externes en tant qu’outils essentiels au développement d’Adobe Commerce. Cette vidéo et ce tutoriel vous montrent comment créer un plug-in.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
-### Informations à retenir pour les modules externes
+### Éléments à retenir pour les modules externes
 
-- Tous les modules externes sont déclarés dans `di.xml`.
-- Le module externe nécessite un nom unique.
-- disabled et sortOrder sont facultatifs
-- La portée du module externe est définie par le dossier dans lequel il se trouve.
-- Les modules externes peuvent être exécutés avant, après ou après l’appel de la méthode.
-- Évitez d’utiliser des modules externes `around`. Ils sont tentants d’utiliser, mais sont souvent le mauvais choix et entraîneront des problèmes de performances.
+* Vous déclarez tous les plug-ins dans `di.xml`.
+* Attribuez un nom unique à chaque module externe.
+* Vous pouvez éventuellement définir les attributs `disabled` et `sortOrder`.
+* Vous définissez la portée du plug-in en choisissant le dossier contenant le fichier `di.xml`.
+* Vous exécutez des modules externes avant, après ou autour de l’appel de méthode cible.
+* Évitez les modules externes `around`. Ils vous tentent, mais ils représentent souvent le mauvais choix et entraînent des problèmes de performances.
 
-### Exemples de code de module externe
+### Exemples de code de plug-in
 
-Voici les classes XML et PHP utilisées dans le tutoriel pour ajouter un module externe au premier module.
+Le tutoriel utilise les classes XML et PHP suivantes pour ajouter un module externe à votre premier module.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Ressources utiles
 
-- [Guide de référence de module](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plugins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Guide de référence des modules](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Modules externes](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

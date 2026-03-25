@@ -1,8 +1,9 @@
 ---
-title: Création d’un produit de lot
-description: Découvrez comment créer un produit groupé à l’aide de l’API REST et de l’administrateur Commerce.
+title: Créer un produit groupé
+description: Découvrez comment créer un bundle de produits à l’aide de l’API REST et de l’administrateur Commerce.
 kt: 14589
 doc-type: video
+duration: 1335
 audience: all
 activity: use
 last-substantial-update: 2024-1-8
@@ -11,65 +12,65 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-# Création d’un produit de lot
+# Créer un produit groupé
 
-Un produit groupé permet de regrouper plusieurs produits sous un produit parent. Ces produits enfants peuvent être un ensemble défini de produits ou proposer quelques variantes qui offrent des options de configuration flexibles aux clients. La configuration des types de produits par lots prend un peu plus de temps et vous devez planifier leur configuration. Cependant, l’offre de produits groupés améliore l’expérience d’achat en facilitant la personnalisation des sélections de produits par les clients.
+Un produit groupé est un moyen de regrouper plusieurs produits sous un produit parent. Ces produits enfants peuvent être un ensemble défini de produits ou offrir quelques variations qui offrent des options de configuration flexibles aux clients. La configuration des types de produits groupés prend un peu plus de temps et vous devez effectuer une certaine planification avant de les configurer. Cependant, l’offre groupée améliore l’expérience d’achat en permettant aux clients de personnaliser plus facilement leurs sélections de produits.
 
-Par exemple, vous pouvez proposer un lot de produits appelé `Learning to surf` dans votre boutique Web. Le lot est le produit parent qui sert de conteneur pour les produits enfants attribués qui spécifient les options disponibles :
+Par exemple, vous pouvez proposer une offre groupée de produits appelée `Learning to surf` dans votre boutique en ligne. Le lot est le produit parent qui sert de conteneur pour les produits enfants affectés qui spécifient les options disponibles :
 
-- Une planche de surf standard
-- Une laisse de surf typique
-- ailerons de surf rouge
+* Une planche de surf standard
+* Une laisse de planche de surf typique
+* Nageoires rouges pour planche de surf
 
-Lorsque vous avez besoin d’une flexibilité supplémentaire, nous vous recommandons d’autoriser plusieurs options de produits enfants. Cela nécessite une utilisation plus complexe des options et des produits enfants. Pour développer l’exemple précédent, les options finales sont les suivantes :
+Lorsqu’une flexibilité supplémentaire est souhaitée, il est recommandé d’autoriser plusieurs options de produits enfants. Cela nécessite une utilisation plus complexe des options et des produits enfants. Pour développer l’exemple précédent, les dernières options sont les suivantes :
 
-- Une planche de surf standard
-- Une laisse de surf typique
-- Choix de la couleur de la fin :
-   - Rouge
-   - bleu
-   - Jaune
+* Une planche de surf standard
+* Une laisse de planche de surf typique
+* Choix de la couleur des nageoires :
+   * Rouge
+   * Bleu
+   * Jaune
 
-Que le lot soit un groupe statique de produits simples ou plusieurs produits avec des variantes, les options de configuration flexibles font des types de produits du lot un outil de marchandisage puissant et unique pour la boutique Adobe Commerce.
+Qu’il s’agisse d’un groupe statique de produits simples ou de plusieurs produits avec des variations, les options de configuration flexibles font des types de produits groupés un outil de marchandisage unique et puissant pour la boutique Adobe Commerce.
 
-Avant de créer un produit groupé, vérifiez que tous les produits simples à inclure dans le produit groupé sont disponibles dans Adobe Commerce. Créez tout qui n’existe pas.
+Avant de créer un produit groupé, vérifiez que tous les produits simples à inclure dans le produit groupé sont disponibles dans Adobe Commerce. Créez les qui n’existent pas.
 
-Dans ce tutoriel, découvrez comment créer un produit en bundle à l’aide de l’API REST et de l’administrateur Adobe Commerce.
+Dans ce tutoriel, apprenez à créer un bundle de produits à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
-Utilisez l’API REST pour définir un produit de lot :
+Utilisez l’API REST pour définir un produit groupé :
 
-1. Créez des produits simples à utiliser dans le produit du lot.
-1. Créez un lot de produits et associez les produits simples.
-1. Obtenez le produit du lot et toutes les options associées.
-1. Supprimez une option d’une section des produits du lot.
+1. Créez des produits simples à utiliser dans le produit groupé.
+1. Créez un produit groupé et associez les produits simples.
+1. Obtenez le produit groupé et toutes les options associées.
+1. Supprimez une option d’une section du lot de produits.
 1. Restaurez les options d’un produit groupé.
 
-Lors de la création de lots de produits à partir de l’administrateur Adobe Commerce, vous pouvez soit créer les produits simples en premier, soit utiliser l’outil automatisé pour créer des produits simples à l’aide d’un assistant.
+Lors de la création de lots de produits à partir de l’administration Adobe Commerce, vous pouvez soit commencer par créer les produits simples, soit utiliser l’outil automatisé pour créer des produits simples à l’aide d’un assistant.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
-- Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits en bundle dans Adobe Commerce à l’aide de l’API REST
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
+* Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits groupés dans Adobe Commerce à l’aide de l’API REST.
 
 ## Contenu vidéo
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
-## Création de produits avec REST
+## Créer des produits avec REST
 
-Les commandes suivantes créent tous les produits requis pour définir le produit du lot dans cet exemple : cinq produits simples et un produit du lot qui comporte trois options.
+Les commandes suivantes créent tous les produits requis pour définir le produit groupé dans cet exemple : cinq produits simples et un produit groupé qui comporte trois options.
 
-Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
+Avant d’envoyer la requête, mettez à jour l’exemple avec des valeurs pour votre environnement.
 
-- Modifiez `"attribute-set": 4` pour remplacer `4` par l’identifiant de jeu d’attributs de votre environnement.
+* Modifiez `"attribute-set": 4` pour remplacer `4` par l’ID de jeu d’attributs de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -186,13 +187,13 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Créez un produit groupé et affectez les produits simples comme options.
+## Créez un produit groupé et affectez les produits simples en tant qu’options
 
-Créez un produit groupé en envoyant la demande de POST suivante.
+Créez un produit groupé en envoyant la requête POST suivante.
 
-Avant d’envoyer la requête, mettez à jour l’exemple avec les valeurs de votre environnement.
+Avant d’envoyer la requête, mettez à jour l’exemple avec des valeurs pour votre environnement.
 
-- Modifiez `"attribute_set_id": 4,` et remplacez `4` par l’identifiant de jeu d’attributs de votre environnement.
+* Modifiez le `"attribute_set_id": 4,` et remplacez `4` par l’ID de jeu d’attributs de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -307,9 +308,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Suppression d’une option d’un produit groupé
+## Supprimer une option d’un produit groupé
 
-Supprimez un produit enfant d’un produit groupé sans supprimer le produit du catalogue en envoyant la demande de DELETE suivante à l’aide de cURL.
+Supprimez un produit enfant d’un produit groupé sans supprimer le produit du catalogue en envoyant la requête DELETE suivante à l’aide de cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-products/beginner-surfboard/options/35/children/blue-fins-and-fin-plugs' \
@@ -317,11 +318,11 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 --header 'Cookie: private_content_version=41d94540f5bd8b691017a850bc3b82b3'
 ```
 
-## Restaurer les options de produit
+## Restaurer les options du produit
 
-Lors de la mise à jour des options de produit groupé, veillez à inclure toutes les options que vous souhaitez associer à ce produit. Si votre ensemble d’options d’origine contenait trois produits et qu’un a été supprimé, incluez les trois options dans la demande de POST pour vous assurer que le lot de produits spécifie toutes les options. Si vous avez inclus uniquement l’option que vous avez supprimée, le lot de produits mis à jour inclut uniquement cette option.
+Lors de la mise à jour des options de l’offre groupée, veillez à inclure toutes les options que vous souhaitez associer à ce produit. Si votre jeu d’options d’origine contenait trois produits et que l’un d’eux a été supprimé, incluez les trois options dans la requête POST pour vous assurer que le bundle de produits spécifie toutes les options. Si vous avez inclus uniquement l’option que vous avez supprimée, le bundle de produits mis à jour inclut uniquement cette option.
 
-Recherchez l’ID d’option en examinant la réponse de création pour le produit du lot. Dans cette réponse, `option_id` est `35`.
+Recherchez l’ID de l’option en examinant la réponse de la création pour le produit groupé. Dans cette réponse, la `option_id` est `35`.
 
 ```json
 ...
@@ -372,7 +373,7 @@ Recherchez l’ID d’option en examinant la réponse de création pour le produ
 ...
 ```
 
-Mettez à jour le lot de produits pour ajouter l’option que vous avez supprimée en envoyant la demande de POST suivante.
+Mettez à jour l’offre groupée de produits pour ajouter l’option que vous avez supprimée en envoyant la requête POST suivante.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -429,7 +430,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Ressources supplémentaires
 
-- [Tutoriel sur la création d’un lot](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Produit groupé](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=fr){target="_blank"}
-- [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Tutoriel sur la création d’une offre groupée](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Produit groupé](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

@@ -1,8 +1,9 @@
 ---
-title: Achat assisté par le vendeur
-description: Découvrez comment ajouter une assistance immédiate pour les invités et les clients qui se sont inscrits à un compte dans votre boutique.
+title: Achats Assistés Par Le Vendeur
+description: Découvrez comment ajouter une assistance immédiate aux clients et invitées qui se sont inscrits à un compte auprès de votre boutique.
 kt: 10548
 doc-type: feature video
+duration: 205
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,27 +12,27 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: a7129f74-e9f1-4c45-9513-d0328e3f3ec3
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Achat assisté par le vendeur
+# Achats Assistés Par Le Vendeur
 
-Les clients ont parfois besoin d’aide pour effectuer un achat. Certains clients aiment faire leurs achats en ligne, mais peuvent préférer commander par téléphone. Vous pouvez offrir une assistance immédiate aux invités et aux clients qui se sont inscrits pour un compte auprès de votre boutique.
+Les clients ont parfois besoin d’aide pour effectuer un achat. Certains clients aiment faire leurs achats en ligne, mais préfèrent commander par téléphone. Vous pouvez offrir une assistance immédiate aux clients et aux invités qui se sont inscrits à un compte auprès de votre boutique.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de ventes
-- Représentants du service client
+* Responsable des ventes
+* Représentants du service client
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410201?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Ressources supplémentaires
 
-- [&#x200B; Assistance clientèle - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=fr)
-- [Assistance commerciale - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=fr#shopping-assistance)
+* [Fournir une assistance aux acheteurs - [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Aide au shopping - [!DNL Commerce] Guide des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 jira: KT-17149
-duration: 124
+duration: 153
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: c3f992e4ec71632629500adc7c0b8f2feef34364
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -25,14 +25,14 @@ Les règles de prix de catalogue peuvent être utilisées pour proposer des prod
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Spécialistes du marketing eCommerce
-- Gestionnaires de site web
+* Spécialistes du marketing eCommerce
+* Gestionnaires de site web
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410848?quality=12&learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
 
 ## Ressources supplémentaires
 
-- [Créer une règle de prix de catalogue - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html?lang=fr)
-- [Règle de prix de catalogue avec plusieurs SKU - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html?lang=fr)
+* [Créer une règle de prix de catalogue - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+* [Règle de prix de catalogue avec plusieurs SKU - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

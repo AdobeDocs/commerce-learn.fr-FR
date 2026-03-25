@@ -5,6 +5,7 @@ landing-page-description: Découvrez comment installer plusieurs modules nécess
 short-description: Découvrez comment installer plusieurs modules nécessaires à Adobe Commerce 2.4.5 à l’aide du compositeur.
 kt: 11886
 doc-type: tutorial
+duration: 214
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.5
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l
 * Commandes à exécuter pour Adobe Commerce Cloud
 * Modification requise pour l’yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3419827?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## Commandes utiles {#useful-commands}
 

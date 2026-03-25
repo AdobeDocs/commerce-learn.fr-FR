@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Découvrez comment Adobe et les commerçants partagent la responsabilité de la 
 * Réponse aux incidents : les commerçants doivent répondre rapidement aux alertes de sécurité, qui peuvent passer par divers canaux tels que les courriels et les notifications des administrateurs.
 * Bonnes pratiques : Adobe recommande de bonnes pratiques aux commerçants, notamment l’activation de l’authentification à deux facteurs, la configuration d’un accès administrateur sécurisé et le respect du principe de moindre privilège.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## Documentation supplémentaire
 
-* [Notes de mise à jour du correctif de sécurité](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/security-patches/overview)
-* [Canaux de notification](https://business.adobe.com/fr/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Bulletins de sécurité Adobe](https://helpx.adobe.com/fr/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Sécurisez votre site et votre infrastructure commerciaux](https://experienceleague.adobe.com/fr/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Notes de mise à jour du correctif de sécurité](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Canaux de notification](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Bulletins de sécurité ](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Sécurisez votre site et votre infrastructure commerciaux](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

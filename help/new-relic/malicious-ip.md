@@ -5,6 +5,7 @@ landing-page-description: Cette vidéo indique à un utilisateur de New Relic de
 short-description: Cette vidéo indique à un utilisateur de New Relic de rechercher les adresses IP potentielles qui doivent être bloquées pour accéder au site.
 kt: 11566
 doc-type: video
+duration: 153
 audience: all
 activity: use
 last-substantial-update: 2022-12-9
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -25,6 +26,6 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- Identifiez une adresse IP potentielle suspecte ou malveillante&#x200B; à utiliser dans Fastly pour la bloquer
+* Identifiez une adresse IP potentielle suspecte ou malveillante&#x200B; à utiliser dans Fastly pour la bloquer
 
->[!VIDEO](https://video.tv.adobe.com/v/3417127?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412088?learn=on)

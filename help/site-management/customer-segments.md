@@ -1,39 +1,41 @@
 ---
-title: Création de segments client
-description: Découvrez comment afficher dynamiquement le contenu et les promotions à des clients spécifiques, en fonction de propriétés telles que l’adresse du client, l’historique des commandes, le contenu du panier.
-kt: 10545
-doc-type: feature video
-audience: all
-activity: use
+title: Créer des segments clients
+description: Découvrez comment créer des segments de clients afin de cibler le contenu et les promotions à l’aide de l’adresse, de l’historique de commandes, des données de panier, etc.
+doc-type: Technical Video
+duration: 221
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
-role: Admin, Leader, User
-level: Beginner, Intermediate
+role: Admin, User
+level: Intermediate
+jira: KT-10545
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Création de segments client
+# Créer des segments clients
 
 {{ee-feature}}
 
-Les segments de clients vous permettent d’afficher dynamiquement le contenu et les promotions à des clients spécifiques, en fonction de propriétés telles que l’adresse du client, l’historique des commandes, le contenu du panier. Vous pouvez optimiser les initiatives marketing basées sur des segments ciblés avec des règles de prix de panier. Vous pouvez également générer des rapports et exporter la liste des clients ciblés.
+Les segments de clients vous permettent d’afficher de manière dynamique du contenu et des promotions à des clients spécifiques, en fonction de propriétés telles que l’adresse du client, l’historique de commandes et le contenu du panier. Vous pouvez optimiser les initiatives marketing avec des segments ciblés et des règles de prix de panier. Vous pouvez également générer des rapports et exporter la liste des clients et clientes ciblés.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Administrateurs de magasin
-- Marketing du commerce électronique
+* Administrateurs de magasin
+* Spécialistes du marketing eCommerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410189?quality=12&learn=on&captions=fre_fr)
+* Créez des segments à partir des attributs du client, des commandes et des données de panier.
+* Connectez les segments aux promotions et aux règles de prix de panier.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
 
 ## Ressources supplémentaires
 
-- [Segments client - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=fr)
-- [&#x200B; Segments client dans les règles de prix - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=fr)
+* [Segments clients - [!DNL Commerce] Guide de gestion de la clientèle](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
+* [Segments clients dans les règles de prix - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}

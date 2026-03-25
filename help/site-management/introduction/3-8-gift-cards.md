@@ -3,6 +3,7 @@ title: '[!DNL Commerce] pour les utilisateurs professionnels - Cartes-cadeaux'
 description: Découvrez comment inclure des cartes-cadeaux dans votre  [!DNL Commerce] .
 kt: 5774
 doc-type: video
+duration: 448
 activity: use
 badge1: Adobe Commerce 2.3.1
 badge2: label="Uniquement sur Adobe Commerce" type="Positive"
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -27,22 +28,22 @@ feature: Configuration, System, Catalogs, Shopping Cart
 
 Dans cette vidéo :
 
-- Cartes cadeaux
+* Cartes cadeaux
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Utilisateurs professionnels
+* Utilisateurs professionnels
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/329959?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35959?learn=on)
 
 ## Ressources supplémentaires
 
-[Produit de carte cadeau - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=fr)
-[Achat et rachat de cartes-cadeaux - [!DNL Commerce] Guide d’expérience sur les magasins et les achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html?lang=fr)
+[Produit de carte cadeau - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
+[Achat et rachat de cartes-cadeaux - [!DNL Commerce] Guide d’expérience sur les magasins et les achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
 

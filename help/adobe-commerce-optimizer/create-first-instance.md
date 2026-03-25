@@ -6,11 +6,11 @@ topic: Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Tutorial
-duration: 97
+duration: 131
 last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
-source-git-commit: b65f10c09df2487f9ec566dad83f475fc757b5e3
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,9 +33,9 @@ Découvrez comment créer votre première instance Adobe Commerce Optimizer du d
 * Choisissez l’environnement et la région appropriés pour votre instance.
 * Déployez et préparez rapidement la configuration du catalogue dans les futurs tutoriels.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469880?learn=on&enablevpops&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## Contenu connexe
 
-* [[!DNL Adobe Commerce Optimizer]  Guide &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
-* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
+* [[!DNL Adobe Commerce Optimizer]  Guide ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)

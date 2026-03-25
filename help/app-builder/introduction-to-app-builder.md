@@ -5,6 +5,7 @@ landing-page-description: Découvrez App Builder et comment il peut vous aider a
 short-description: Découvrez App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
 kt: 11433
 doc-type: tutorial
+duration: 322
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '728'
 ht-degree: 6%
@@ -26,7 +27,7 @@ Historiquement, le développement Adobe Commerce a utilisé l’extensibilité e
 
 ## App Builder pour Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3412839?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 Adobe Developer App Builder est une plateforme d’extensibilité sans serveur permettant d’intégrer et de créer des expériences personnalisées pour étendre les solutions Adobe. Elle est désormais disponible pour Adobe Commerce. Avec App Builder, vous pouvez créer des applications sécurisées et évolutives qui étendent les fonctionnalités natives de Commerce et s’intègrent à des solutions tierces. En tant que développeur, vous pouvez désormais tirer parti de l’extensibilité hors processus avec Adobe Commerce, ce qui offre des avantages immédiats et à long terme.
 
@@ -61,7 +62,7 @@ Au lieu d’une solution prête à l’emploi, Adobe Developer App Builder fourn
 
 Le diagramme suivant illustre la manière dont une application standard créée sur App Builder utilise ces fonctionnalités :
 
-![&#x200B; Architecture &#x200B;](/help/assets/app-builder/app-builder-architecture.jpeg)
+![ Architecture ](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Pour plus d’informations sur l’architecture d’App Builder, consultez la [Présentation de l’architecture](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
@@ -73,14 +74,14 @@ Vous trouverez un aperçu de la stratégie de commerce composable, qui comprend 
 
 Pour vous aider à prendre en main App Builder, Adobe a créé la documentation suivante :
 
-* [Prise en main d’App Builder](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
+* [Prise en main d’](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## Poursuivre l’apprentissage avec la documentation {#appbuilder-documentation}
 
 App Builder fournit des vidéos et de la documentation à l’intention des développeurs, y compris des guides et une documentation de référence pour vous aider à développer vos propres applications personnalisées :
 
-* [Documentation App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Vidéos App Builder](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
+* [Documentation ](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Vidéos ](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Essayez l’un des exemples d’applications {#appbuilder-codesamples}
 
@@ -90,6 +91,6 @@ Prêt à développer ? Le lien suivant contient des exemples d’applications po
 
 ## Support technique {#support}
 
-Pour les demandes d’assistance aux développeurs, utilisez le [forum Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=fr){target="_blank"} pour obtenir de l’aide.
+Pour les demandes d’assistance aux développeurs, utilisez le [forum ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} pour obtenir de l’aide.
 
 {{$include /help/_includes/app-builder-related-links.md}}

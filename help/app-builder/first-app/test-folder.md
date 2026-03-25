@@ -4,6 +4,7 @@ description: Découvrez les types de fichiers dans le dossier de test pour cet e
 landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et quels types de fichiers se trouvent dans le dossier de test.
 kt: 12424
 doc-type: tutorial
+duration: 233
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Il s’agit d’un exemple simple qui peut être étendu pour créer des tests c
 * Brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 
->[!VIDEO](https://video.tv.adobe.com/v/3421061?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## Exemples de code
 

@@ -1,17 +1,18 @@
 ---
 title: Ajout d’un module JavaScript
-description: Cette vidéo présente une présentation du développement d’un module JS simple qui fournit la salutation « Hello World ».
-kt: 5612
-doc-type: video
+description: Découvrez comment créer un module JavaScript simple dans Adobe Commerce qui affiche un message d’accueil Hello World à l’aide d’RequireJS, d’une mise à jour de disposition et d’un modèle.
+jira: KT-5612
+doc-type: Technical Video
+duration: 260
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Developer
+level: Beginner
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -20,25 +21,29 @@ ht-degree: 0%
 
 {{only-for-on-prem-commerce-cloud}}
 
-Cette vidéo présente une présentation du développement d’un module JS simple qui fournit la salutation « Hello World ».
+Découvrez comment développer un module JavaScript simple qui affiche la salutation « Hello World » sur le storefront.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Développeur
+* Développeur
 
 ## Étapes
 
-- Création d’un module
-- Création d’un fichier de module `requirejs-config.js` et JavaScript
-- Créez une mise à jour de disposition pour ajouter un modèle qui active le module JS
-- Créer un fichier modèle
-- Ajouter le module et le tester
+1. Créez un module .
+2. Ajoutez `requirejs-config.js` et un fichier de module JavaScript.
+3. Créez une mise à jour de disposition qui charge un modèle pour le module .
+4. Créez le fichier modèle.
+5. Enregistrez le module et testez-le sur le storefront.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
+* Configurez le module et la configuration RequireJS .
+* Câbler le script par le biais d’une mise à jour de disposition et d’un modèle.
+* Vérifiez la salutation sur la page.
+
+>[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
 
 ## Ressources utiles
 
-- [Guide du développeur de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [Appeler et initialiser JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [Guide du développeur de ](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Appeler et initialiser JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}

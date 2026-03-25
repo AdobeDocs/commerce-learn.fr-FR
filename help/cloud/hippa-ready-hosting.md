@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 268
+duration: 324
 last-substantial-update: 2025-05-30T00:00:00Z
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -33,10 +33,10 @@ Adobe Commerce propose une solution conforme à la loi HIPAA conçue pour aider 
 * La solution comprend des mécanismes de journalisation améliorés pour les informations d’identification personnelles et offre des fonctionnalités d’intégration avec des produits Adobe internes et des services tiers externes.
 * Adobe Commerce propose un environnement d’évaluation spécial pour l’assistance et le dépannage, afin de garantir la protection des données sensibles et de refléter fidèlement la production.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463179/?captions=fre_fr&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177?learn=on)
 
 ## Documentation supplémentaire
 
-* [Préparation du HIPAA - Connexion aux données](https://experienceleague.adobe.com/fr/docs/commerce/data-connection/hipaa-readiness)
-* [Conformité à la norme HIPAA](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Installer la connexion aux données](https://experienceleague.adobe.com/fr/docs/commerce/data-connection/fundamentals/install)
+* [Préparation du HIPAA - Connexion aux données](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [Conformité à la norme HIPAA](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Installer la connexion aux données](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

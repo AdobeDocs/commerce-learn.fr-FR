@@ -3,6 +3,7 @@ title: Monorepo d’architecture de référence globale
 description: Découvrez comment utiliser l’approche monorepo pour une architecture de référence mondiale afin d’établir une expérience commerciale évolutive et résiliente
 jira: KT-16728
 doc-type: tutorial
+duration: 441
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -33,18 +34,18 @@ Le modèle GRA Monorepo implique un référentiel Git unique pour héberger tout
 
 Avantages :
 
-- Idéal pour les tests fonctionnels
-- Réutilisation du code dans des référentiels de code partagés
-- Flexibilité totale dans l&#39;installation des packages, chaque package GRA peut être mis à niveau, rétrogradé ou rétroporté individuellement
-- Prise en charge complète du contrôle de version sémantique
-- Aucun outil spécial, infrastructure complexe ou stratégie de branchement spéciale requis
-- Prise en charge de tous les types de packages pris en charge par le compositeur
-- Idéal pour les environnements éphémères, qui sont facultatifs, mais très utiles pour les équipes de diffusion à volume élevé
+* Idéal pour les tests fonctionnels
+* Réutilisation du code dans des référentiels de code partagés
+* Flexibilité totale dans l&#39;installation des packages, chaque package GRA peut être mis à niveau, rétrogradé ou rétroporté individuellement
+* Prise en charge complète du contrôle de version sémantique
+* Aucun outil spécial, infrastructure complexe ou stratégie de branchement spéciale requis
+* Prise en charge de tous les types de packages pris en charge par le compositeur
+* Idéal pour les environnements éphémères, qui sont facultatifs, mais très utiles pour les équipes de diffusion à volume élevé
 
 Inconvénients :
 
-- Possibilité de déployer des combinaisons de packages qui n&#39;ont pas été développés dans la même configuration, nécessité de procédures de test strictes
-- Le motif GRA monorepo peut être complexe au début. Attribuer un prospect qui aide l’équipe à travailler avec le système
+* Possibilité de déployer des combinaisons de packages qui n&#39;ont pas été développés dans la même configuration, nécessité de procédures de test strictes
+* Le motif GRA monorepo peut être complexe au début. Attribuer un prospect qui aide l’équipe à travailler avec le système
 
 ## Configuration d’Adobe Commerce avec le modèle GRA de packages distincts
 
@@ -348,5 +349,5 @@ Si vous utilisez des environnements éphémères ou si vous envisagez de les uti
 
 Les exemples de code de cet article ont été combinés dans un ensemble de référentiels Git, que vous pouvez utiliser pour jouer avec la preuve de concept.
 
-- Exemple de référentiel monorepo : <https://github.com/AntonEvers/gra-monorepo>
-- Exemple de magasin de production : <https://github.com/AntonEvers/gra-monorepo-brand-x>
+* Exemple de référentiel monorepo : <https://github.com/AntonEvers/gra-monorepo>
+* Exemple de magasin de production : <https://github.com/AntonEvers/gra-monorepo-brand-x>

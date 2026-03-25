@@ -11,9 +11,9 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
-duration: 101
+duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -26,14 +26,14 @@ L’outil d’analyse à l’échelle du site est un outil en libre-service proa
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Gestionnaires de site web
-- Développeur
+* Gestionnaires de site web
+* Développeur
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410777?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Ressources supplémentaires
 
-- [&#x200B; Outil d’analyse à l’échelle du site &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=fr)
-- [Afficher et gérer les journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=fr)
+* [ Outil d’analyse à l’échelle du site ](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [Afficher et gérer les journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

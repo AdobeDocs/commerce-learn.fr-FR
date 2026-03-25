@@ -5,6 +5,7 @@ landing-page-description: Regardez ce webinaire enregistré pour en savoir plus 
 short-description: Regardez ce webinaire enregistré pour en savoir plus sur les étapes de mise à niveau d’Adobe Commerce 2.4 et les bonnes pratiques.
 kt: 9620
 doc-type: technical video
+duration: 4306
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -14,7 +15,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: fba4a08b-5633-433b-bf87-fa85457e4578
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 33%
@@ -29,22 +30,22 @@ Regardez ce webinaire enregistré pour découvrir les étapes et les bonnes prat
 
 Au cours de cet atelier, Adobe Commerce s’est associé à Merkle pour partager :
 
-- Étapes techniques à suivre lors de la mise à niveau vers Adobe Commerce 2.4
-- Bonnes pratiques et outils à utiliser lors de la mise à niveau
-- Chemins de mise à niveau recommandés vers les versions 2.4.4 ou ultérieures
-- Ressources de mise à niveau principales à référencer
+* Étapes techniques à suivre lors de la mise à niveau vers Adobe Commerce 2.4
+* Bonnes pratiques et outils à utiliser lors de la mise à niveau
+* Chemins de mise à niveau recommandés vers les versions 2.4.4 ou ultérieures
+* Ressources de mise à niveau principales à référencer
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Gestionnaires de site
-- Développeur
+* Gestionnaires de site
+* Développeur
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432521?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
 
 ## Ressources supplémentaires
 
-- [&#x200B; Guide de mise à niveau &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=fr)
-- [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=fr)
-- [Calendrier des versions](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=fr)
+* [ Guide de mise à niveau ](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [Versions publiées](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+* [Calendrier des versions](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

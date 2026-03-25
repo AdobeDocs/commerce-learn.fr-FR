@@ -3,6 +3,7 @@ title: Découvrez comment la mise en cache des requêtes mysql
 description: Parfois, les requêtes mysql sont sauvegardées en attendant un verrou. Ce tutoriel explique ce qu’est la mise en cache des requêtes et fournit quelques recommandations de paramètres en cas de problèmes.
 kt: 13690
 doc-type: video
+duration: 444
 activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -24,20 +25,20 @@ Découvrez ce qu’est le cache de requête MySQL et les principes de base de so
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Architectes
-- Développeur
-- Opérations de développement
+* Architectes
+* Développeur
+* Opérations de développement
 
 ## Contenu vidéo
 
-- En savoir plus sur la mise en cache des requêtes
-- Comment détecter si les paramètres de cache de requête peuvent poser un problème en recherchant « wait for query cache lock »
-- Découvrez comment le code SQL est enregistré et utilisé pour trouver un cache de requête correspondant
-- Quelques conseils sur les paramètres de configuration
+* En savoir plus sur la mise en cache des requêtes
+* Comment détecter si les paramètres de cache de requête peuvent poser un problème en recherchant « wait for query cache lock »
+* Découvrez comment le code SQL est enregistré et utilisé pour trouver un cache de requête correspondant
+* Quelques conseils sur les paramètres de configuration
 
->[!VIDEO](https://video.tv.adobe.com/v/3423383?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Ressources utiles
 
-- [Directives générales MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=fr){target="_blank"}
-- [Réplication de la Galera et requêtes lentes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=fr){target="_blank"}
+* [Directives générales MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+* [Réplication de la Galera et requêtes lentes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

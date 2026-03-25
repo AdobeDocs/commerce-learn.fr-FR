@@ -7,12 +7,12 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 811
 last-substantial-update: 2024-03-05T00:00:00Z
 jira: KT-15018
 kt: 15018
 exl-id: e5b82073-0905-4e25-8e15-5b66672c3e79
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -25,19 +25,19 @@ Découvrez l’utilisation du cloud de Fastly pour Adobe Commerce.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Gestionnaires de site web
-- Architectes Commerce
-- Propriétaires du site e-commerce
+* Gestionnaires de site web
+* Architectes Commerce
+* Propriétaires du site e-commerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432806?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
 
 ## Documentation Experience League et Vérificateur Fastly Adobe Commerce mentionnés dans la vidéo
 
-- [Fastly Checker](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- [Services Fastly dans Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=fr)
-- [FAQ sur Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=fr)
-- [Optimisation des images](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=fr)
+* [Fastly Checker](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
+* [Services Fastly dans Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+* [FAQ sur Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+* [Optimisation des images](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

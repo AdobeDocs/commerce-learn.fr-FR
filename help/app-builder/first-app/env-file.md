@@ -4,6 +4,7 @@ description: Découvrez les types de fichiers dans le fichier .env pour cet exem
 landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et les types de contenu utilisés dans le fichier .env
 kt: 12423
 doc-type: tutorial
+duration: 177
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
@@ -34,7 +35,7 @@ Le `.env` est un fichier spécial qui ne fait pas partie de l’exemple de modul
 * Comment ajouter le fichier pour ajouter de nouveaux secrets
 * Évitez de valider ce fichier, car il contient des informations sensibles
 
->[!VIDEO](https://video.tv.adobe.com/v/3421067?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
 
 ## Exemple de code
 

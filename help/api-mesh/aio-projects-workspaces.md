@@ -5,6 +5,7 @@ landing-page-description: Découvrez comment utiliser la console Adobe Developer
 short-description: Découvrez comment utiliser la console Adobe Developer. Découvrez les projets et les espaces de travail à utiliser avec le maillage API.
 kt: 11803
 doc-type: tutorial
+duration: 593
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 # Utilisation des projets et des espaces de travail
 
-Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [Adobe Developer](https://developer.adobe.com/console){target="_blank"}.
+Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [](https://developer.adobe.com/console){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -37,7 +38,7 @@ Ce tutoriel aborde la création d’un projet et d’un espace de travail pour c
 * Modification de l’organisation, du projet ou de l’espace de travail sélectionné dans l’interface de ligne de commande
 * Test des commandes de maillage API simples
 
->[!VIDEO](https://video.tv.adobe.com/v/3419726?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## En savoir plus sur Adobe Developer Console
 

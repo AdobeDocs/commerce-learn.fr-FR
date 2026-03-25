@@ -5,11 +5,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 160
+duration: 193
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
 exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -35,4 +35,4 @@ Les accélérateurs de succès Adobe Commerce incluent des services tels que la 
 * Utilisation du produit, performances et adoption globale.
 * Conseils et prise en charge 24h/24 et 7j/7 des campagnes et des lancements de produits essentiels.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457655/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)

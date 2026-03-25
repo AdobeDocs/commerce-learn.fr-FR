@@ -1,8 +1,9 @@
 ---
-title: Création d’un produit simple
+title: Créer un produit simple
 description: Découvrez comment créer un produit simple à l’aide de l’API REST et de l’administrateur Commerce.
 kt: 14446
 doc-type: video
+duration: 197
 audience: all
 activity: use
 last-substantial-update: 2023-11-14T00:00:00Z
@@ -11,28 +12,28 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
-source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
-# Création d’un produit simple
+# Créer un produit simple
 
 Découvrez comment créer un produit simple à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
-- Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits dans Adobe Commerce à l’aide de l’API REST.
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
+* Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits dans Adobe Commerce à l’aide de l’API REST.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3443904?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
 
-## Création d’un produit à l’aide de curl
+## Créer un produit à l’aide de la commande curl
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -50,7 +51,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }
 ```
 
-## Obtention d’un produit à l’aide de curl
+## Obtenir un produit à l’aide de la commande curl
 
 ```bash
 curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
@@ -60,5 +61,5 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
 
 ## Ressources supplémentaires
 
-- [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

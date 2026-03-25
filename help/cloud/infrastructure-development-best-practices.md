@@ -7,12 +7,12 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 781
 last-substantial-update: 2024-03-04T00:00:00Z
 jira: KT-15017
 kt: 15017
 exl-id: 097561c7-5198-4544-985d-255c80a9648b
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -25,21 +25,21 @@ Découvrez l’infrastructure cloud et quelques bonnes pratiques de développeme
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Gestionnaires de site web
-- Architectes Commerce
-- Propriétaires du site e-commerce
+* Gestionnaires de site web
+* Architectes Commerce
+* Propriétaires du site e-commerce
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432791?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
 
 ## Documentation Experience League mentionnée dans la vidéo
 
-- [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=fr#migrate-files-using-rsync)
-- [&#x200B; SFTP &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=fr#sftp)
-- [Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=fr)
-  [Mise à niveau d’Adobe Commerce et application de correctifs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=fr)
-- [Liste de contrôle de prélancement d’Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=fr)
-- [Création de tickets d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=fr)
+* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+* [ SFTP ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+* [Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [Mise à niveau d’Adobe Commerce et application de correctifs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+* [Liste de contrôle de prélancement d’](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+* [Création de tickets d’assistance](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

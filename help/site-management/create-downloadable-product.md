@@ -3,6 +3,7 @@ title: Créer un produit téléchargeable
 description: Découvrez comment créer un produit téléchargeable à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 kt: 14464
 doc-type: video
+duration: 946
 audience: all
 activity: use
 last-substantial-update: 2023-11-16T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -22,19 +23,19 @@ ht-degree: 0%
 
 Découvrez comment créer un produit téléchargeable à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
-- Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits dans Adobe Commerce à l’aide de l’API REST
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
+* Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits dans Adobe Commerce à l’aide de l’API REST.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453944?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Domaines téléchargeables autorisés
 
-Vous devez indiquer les domaines autorisés pour autoriser les téléchargements. Les domaines sont ajoutés au fichier `env.php` du projet via la ligne de commande. Le fichier `env.php` détaille les domaines autorisés à contenir du contenu téléchargeable. Une erreur se produit si un produit téléchargeable est créé à l’aide de l’API REST _avant_ que le fichier `php.env` soit mis à jour :
+Vous devez spécifier les domaines autorisés à autoriser les téléchargements. Les domaines sont ajoutés au fichier `env.php` du projet via la ligne de commande. Le fichier `env.php` détaille les domaines autorisés à contenir du contenu téléchargeable. Une erreur se produit si un produit téléchargeable est créé à l’aide de l’API REST _avant_ la mise à jour du fichier `php.env` :
 
 ```bash
 {
@@ -52,22 +53,22 @@ Une fois cette opération terminée, le `env.php` est modifié dans le tableau _
     ],
 ```
 
-Maintenant que le domaine est ajouté à `env.php`, vous pouvez créer un produit téléchargeable dans l’administrateur Adobe Commerce ou à l’aide de l’API REST.
+Maintenant que le domaine est ajouté à la `env.php`, vous pouvez créer un produit téléchargeable dans l’administration d’Adobe Commerce ou à l’aide de l’API REST.
 
-Voir [Référence de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=fr#downloadable_domains) pour en savoir plus.
+Voir [Référence de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) pour en savoir plus.
 
 >[!IMPORTANT]
->Dans certaines versions d’Adobe Commerce, l’erreur suivante peut s’afficher lorsqu’un produit est modifié dans l’administrateur Adobe Commerce. Le produit est créé à l’aide de l’API REST, mais le téléchargement lié a un prix `null`.
+>Sur certaines versions d’Adobe Commerce, il se peut que vous receviez l’erreur suivante lorsqu’un produit est modifié dans l’Administrateur Adobe Commerce. Le produit est créé à l’aide de l’API REST, mais le téléchargement lié a un prix `null`.
 
 `Deprecated Functionality: number_format(): Passing null to parameter #1 ($num) of type float is deprecated in /app/vendor/magento/module-downloadable/Ui/DataProvider/Product/Form/Modifier/Data/Links.php on line 228`.
 
-Pour corriger cette erreur, utilisez l’API de lien de mise à jour : `POST V1/products/{sku}/downloadable-links.`
+Pour corriger cette erreur, utilisez l’API de mise à jour de lien : `POST V1/products/{sku}/downloadable-links.`
 
-Pour plus d’informations, consultez la section [Mise à jour d’un lien de téléchargement de produit à l’aide de cURL](#update-downloadable-links) .
+Pour plus d’informations, consultez la section [Mettre à jour un lien de téléchargement de produit à l’aide de cURL](#update-downloadable-links).
 
-## Créer un produit téléchargeable à l’aide de cURL (téléchargement depuis un serveur distant)
+## Créer un produit téléchargeable en utilisant cURL (téléchargement depuis un serveur distant)
 
-Cet exemple montre comment créer un produit téléchargeable à l’aide de cURL lorsque le fichier à télécharger ne se trouve pas sur le même serveur. Ce cas pratique est typique si le fichier est stocké dans un compartiment S3 ou un autre gestionnaire de ressources numériques.
+Cet exemple montre comment créer un produit téléchargeable à l’aide de cURL lorsque le fichier à télécharger ne se trouve pas sur le même serveur. Ce cas d’utilisation est type si le fichier est stocké dans un compartiment S3 ou un autre gestionnaire de ressources numériques.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -112,24 +113,24 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Créer un produit téléchargeable à l’aide de cURL (téléchargement depuis le serveur d’applications Commerce)
+## Création d’un produit téléchargeable à l’aide de cURL (téléchargement depuis le serveur d’applications Commerce)
 
-Cet exemple montre comment utiliser cURL pour créer un produit téléchargeable depuis l’administrateur Adobe Commerce lorsque le fichier est stocké sur le même serveur que l’application Adobe Commerce.
+Cet exemple montre comment utiliser cURL pour créer un produit téléchargeable à partir de l’administration Adobe Commerce lorsque le fichier est stocké sur le même serveur que l’application Adobe Commerce.
 
-Dans ce cas pratique, lorsque l’administrateur qui gère le catalogue choisit `upload file`, le fichier est transféré vers le répertoire `pub/media/downloadable/files/links/`.  L’automatisation crée les fichiers et les déplace vers leurs emplacements respectifs en fonction du modèle suivant :
+Dans ce cas d’utilisation, lorsque l’administrateur du catalogue choisit `upload file`, le fichier est transféré dans le répertoire `pub/media/downloadable/files/links/`.  Automation crée et déplace les fichiers vers leurs emplacements respectifs en fonction du motif suivant :
 
-- Chaque fichier téléchargé est stocké dans un dossier en fonction des deux premiers caractères du nom du fichier.
-- Lorsque le chargement est lancé, l’application Commerce crée ou utilise des dossiers existants pour transférer le fichier.
-- Lors du téléchargement du fichier, la section `link_file` du chemin utilise la partie du chemin annexée au répertoire `pub/media/downloadable/files/links/`.
+* Chaque fichier chargé est stocké dans un dossier en fonction des deux premiers caractères du nom de fichier.
+* Lorsque le chargement démarre, l’application Commerce crée ou utilise des dossiers existants pour transférer le fichier.
+* Lors du téléchargement du fichier, la section `link_file` du chemin d’accès utilise la partie du chemin d’accès ajoutée au répertoire `pub/media/downloadable/files/links/`.
 
-Par exemple, si le fichier téléchargé est nommé `download-example.zip` :
+Par exemple, si le fichier chargé est nommé `download-example.zip` :
 
-- Le fichier est téléchargé vers le chemin d’accès `pub/media/downloadable/files/links/d/o/`.
+* Le fichier est chargé vers le chemin d’accès `pub/media/downloadable/files/links/d/o/`.
 Les sous-répertoires `/d` et `/d/o` sont créés s’ils n’existent pas.
 
-- Le chemin d’accès final au fichier est `/pub/media/downloadable/files/links/d/o/download-example.zip`.
+* Le chemin d’accès final au fichier est `/pub/media/downloadable/files/links/d/o/download-example.zip`.
 
-- La valeur `link_url` de cet exemple est `d/o/download-example.zip`
+* La valeur `link_url` pour cet exemple est `d/o/download-example.zip`
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -171,7 +172,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Obtention d’un produit à l’aide de curl
+## Obtenir un produit à l’aide de la commande curl
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-product-1' \
@@ -181,8 +182,8 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## Mettre à jour le produit à l’aide de Postman {#update-downloadable-links}
 
-Utilisation du point d’entrée `rest/all/V1/products/{sku}/downloadable-links`
-`SKU` est l’ID de produit qui a été généré lors de la création du produit. Par exemple, dans l’exemple de code ci-dessous, il s’agit du numéro 39, mais assurez-vous qu’il est mis à jour pour utiliser l’identifiant de votre site web. Ceci met à jour les liens pour les produits téléchargeables.
+Utiliser le point d’entrée `rest/all/V1/products/{sku}/downloadable-links`
+Le `SKU` est l’ID de produit qui a été généré lors de la création du produit. Par exemple, dans l’exemple de code ci-dessous, il s’agit du nombre 39, mais assurez-vous qu’il est mis à jour pour utiliser l’identifiant de votre site web. Cette opération met à jour les liens pour les produits téléchargeables.
 
 ```json
 {
@@ -205,9 +206,9 @@ Utilisation du point d’entrée `rest/all/V1/products/{sku}/downloadable-links`
 }
 ```
 
-## Mise à jour d’un lien de téléchargement de produit à l’aide de CURL
+## Mettre à jour un lien de téléchargement de produit à l’aide d’une CURL
 
-Lorsque vous mettez à jour un lien de téléchargement de produit à l’aide de cURL, l’URL inclut le SKU du produit mis à jour.  Dans l’exemple de code suivant, le SKU est `abcd12345`. Lorsque vous envoyez la commande, modifiez la valeur pour qu’elle corresponde au SKU du produit que vous souhaitez mettre à jour.
+Lorsque vous mettez à jour un lien de téléchargement de produit à l’aide de cURL, l’URL inclut le SKU du produit mis à jour.  Dans l’exemple de code suivant, le SKU est `abcd12345`. Lorsque vous envoyez la commande, modifiez la valeur afin qu’elle corresponde au SKU du produit que vous souhaitez mettre à jour.
 
 ```bash
 curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-links' \
@@ -236,7 +237,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Ressources supplémentaires
 
-- [Type de produit téléchargeable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=fr){target="_blank"}
-- [Guide de configuration des domaines téléchargeables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=fr#downloadable_domains){target="_blank"}
-- [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Type de produit téléchargeable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Guide de configuration des domaines téléchargeables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
+* [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

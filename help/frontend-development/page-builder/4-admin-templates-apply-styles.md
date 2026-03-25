@@ -3,14 +3,15 @@ title: Page Builder pour les développeurs - Modèles et styles
 description: '[!DNL Admin] et évaluation des tâches de thème. Créer [!DNL Admin] modèles​. Appliquez des styles aux types de contenu sur la scène (aperçu en direct).'
 kt: 5653
 doc-type: video
+duration: 267
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -23,25 +24,25 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-- [!DNL Admin] et évaluation des tâches de thème
-- Créez [!DNL Admin] modèles&#x200B;
-- Application de styles aux types de contenu sur la scène (aperçu en direct)
+* [!DNL Admin] et évaluation des tâches de thème
+* Créez [!DNL Admin] modèles&#x200B;
+* Application de styles aux types de contenu sur la scène (aperçu en direct)
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Créateurs de contenu
-- Développeurs front-end
+* Créateurs de contenu
+* Développeurs front-end
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [&#x200B; Notes de mise à jour de Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=fr).
+>Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [ Notes de mise à jour de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3430948?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35712?learn=on)
 
 ## Ressources utiles
 
 [Documentation destinée aux développeurs de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[&#x200B; Guide de Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=fr)
+[ Guide de Page Builder ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

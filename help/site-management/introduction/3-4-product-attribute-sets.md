@@ -3,13 +3,14 @@ title: '[!DNL Commerce] pour les utilisateurs professionnels - Jeux d’attribut
 description: Découvrez les jeux d’attributs de produit et comment les utiliser dans votre catalogue.
 kt: 5770
 doc-type: video
+duration: 179
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c3cedc33-a5a5-489a-954b-a001a4ea2eb4
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -25,20 +26,20 @@ feature: Configuration, System, Catalogs
 
 Dans cette vidéo :
 
-- Jeux d’attributs
+* Jeux d’attributs
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Utilisateurs professionnels
+* Utilisateurs professionnels
 
 ## Contenu vidéo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/329991?captions=fre_fr&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35955?learn=on)
 
 ## Ressources supplémentaires
 
-[Jeux d’attributs - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=fr)
+[Jeux d’attributs - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)

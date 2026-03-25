@@ -1,6 +1,6 @@
 ---
-title: Créer un produit de carte-cadeau
-description: Découvrez comment créer un produit de carte-cadeau à l’aide de l’API REST et de l’administrateur Commerce.
+title: Créer un produit de carte cadeau
+description: Découvrez comment créer un produit de carte cadeau à l’aide de l’API REST et de l’administrateur Commerce.
 kt: 14587
 doc-type: video
 audience: all
@@ -10,32 +10,32 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Créer un produit de carte-cadeau
+# Créer un produit de carte cadeau
 
-Découvrez comment créer un produit de carte-cadeau à l’aide de l’API REST et de l’administrateur Adobe Commerce.
+Découvrez comment créer un produit de carte cadeau à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
-## Pour qui est cette vidéo ?
+## À qui s&#39;adresse cette vidéo ?
 
-- Chargés de site web
-- Marchandisers e en eCommerce
-- Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits dans Adobe Commerce à l’aide de l’API REST.
+* Gestionnaires de site web
+* Marchandiseurs eCommerce
+* Nouveaux développeurs Adobe Commerce qui souhaitent apprendre à créer des produits dans Adobe Commerce à l’aide de l’API REST.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453079?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
-## Création d’une carte-cadeau avec une charge utile simple
+## Création d’une carte cadeau avec une payload simple
 
-L’exemple de requête suivant montre la charge utile pour créer une carte-cadeau comme celle affichée dans la vidéo. Cette payload plus petite remplace les paramètres par défaut d’un sous-ensemble des attributs disponibles. Les autres attributs qui ne sont pas inclus dans la payload restent définis sur les valeurs par défaut.
+L’exemple de requête suivant illustre la payload permettant de créer une carte cadeau telle qu’affichée dans la vidéo. Cette payload plus petite remplace les paramètres par défaut d’un sous-ensemble des attributs disponibles. Les attributs restants non inclus dans la payload restent définis sur les valeurs par défaut.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -143,9 +143,9 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Créer une carte-cadeau avec une payload complète
+## Création d’une carte cadeau avec une payload complète
 
-L’exemple suivant illustre la demande du POST de créer une carte-cadeau avec une payload complète. La payload comprend tous les attributs configurables lors de la création d’une carte cadeau. Si vous utilisez cet exemple de code, personnalisez la configuration en mettant à jour les valeurs par défaut de chaque attribut, le cas échéant, avant d’envoyer la requête.
+L’exemple suivant illustre la requête POST de création d’une carte cadeau avec une payload complète. La payload inclut tous les attributs configurables lors de la création d’une carte cadeau. Si vous utilisez cet exemple de code, personnalisez la configuration en mettant à jour les valeurs par défaut de chaque attribut selon vos besoins avant d’envoyer la requête.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Ressources supplémentaires
 
-- [Créez un produit de carte-cadeau à partir de l’administrateur Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=fr){target="_blank"}
-- [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Créer un produit de carte cadeau à partir de l’administrateur Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Tutoriels Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
