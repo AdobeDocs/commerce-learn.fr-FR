@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Le statut de l’inventaire vérifie les considérations relatives au développement et aux performances.
 
-L&#39;exactitude de l&#39;inventaire est un facteur très important. Certaines fonctionnalités natives peuvent permettre de s’assurer que ce risque est aussi faible que possible, telles que les commandes en souffrance et la définition du seuil de rupture de stock. Vous pouvez lire ces deux rubriques sur [](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) pour plus d’explications.
+L&#39;exactitude de l&#39;inventaire est un facteur très important. Certaines fonctionnalités natives peuvent permettre de s’assurer que ce risque est aussi faible que possible, telles que les commandes en souffrance et la définition du seuil de rupture de stock. Vous pouvez lire ces deux rubriques sur [&#128279;](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) pour plus d’explications.
 
 Il existe des projets et des cas d’utilisation pour lesquels des vérifications de statut de l’inventaire en temps réel sont demandées pour une boutique Adobe Commerce. Ce tutoriel permet à insight de gérer cette conversation en tenant compte des considérations de développement et de performances.
 

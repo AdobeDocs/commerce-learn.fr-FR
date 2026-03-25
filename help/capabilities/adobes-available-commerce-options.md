@@ -41,4 +41,4 @@ Découvrez les options commerciales d’Adobe. Découvrez certaines des principa
 
 * [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=« _blank}
 * [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
-* [](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [&#128279;](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
