@@ -31,7 +31,7 @@ Découvrez l’infrastructure cloud et quelques bonnes pratiques de développeme
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432791?captions=fre_fr&learn=on)
 
 ## Documentation Experience League mentionnée dans la vidéo
 

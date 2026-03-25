@@ -27,7 +27,7 @@ Une démonstration expliquant comment afficher, définir et rechercher des valeu
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439972?captions=fre_fr&learn=on)
 
 ## Certaines commandes utilisées dans le tutoriel
 

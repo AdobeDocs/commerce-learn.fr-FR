@@ -28,4 +28,4 @@ Dans cette vidéo :
 
 * Identifiez une adresse IP potentielle suspecte ou malveillante&#x200B; à utiliser dans Fastly pour la bloquer
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417127?captions=fre_fr&learn=on)

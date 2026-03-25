@@ -30,7 +30,7 @@ Les attributs du client fournissent les informations requises pour prendre en ch
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410184?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

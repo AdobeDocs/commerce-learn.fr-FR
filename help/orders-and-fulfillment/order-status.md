@@ -29,7 +29,7 @@ Lorsqu&#39;un client passe une commande, une commande client est créée comme e
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410797?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

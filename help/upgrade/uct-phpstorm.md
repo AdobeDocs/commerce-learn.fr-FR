@@ -38,7 +38,7 @@ Dans cette vidéo :
 * Installez et exécutez UCT à partir de PhpStorm.
 * Consultez les rapports HTML et hiérarchisez les correctifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344405?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

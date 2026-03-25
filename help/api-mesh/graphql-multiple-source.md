@@ -36,7 +36,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 * Comment résoudre les erreurs telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre maillage avec une configuration modifiée
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419787?captions=fre_fr&learn=on)
 
 ## Créer le fichier de configuration json
 

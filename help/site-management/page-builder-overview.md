@@ -42,7 +42,7 @@ Dans cette vidéo, découvrez comment :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447892?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

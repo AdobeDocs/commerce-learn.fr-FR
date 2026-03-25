@@ -30,7 +30,7 @@ Les règles de prix de catalogue peuvent être utilisées pour proposer des prod
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410848?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

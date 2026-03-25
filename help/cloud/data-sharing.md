@@ -33,4 +33,4 @@ Intégrez-la de manière transparente aux produits Adobe Experience Cloud afin d
 * Fidélisation et engagement accrus des clients
 * Intégration transparente et vue unifiée du client
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433571?captions=fre_fr&learn=on)

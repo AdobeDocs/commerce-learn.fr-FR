@@ -40,7 +40,7 @@ Vous pouvez définir les paramètres de crédit suivants pour chaque profil de s
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410759?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

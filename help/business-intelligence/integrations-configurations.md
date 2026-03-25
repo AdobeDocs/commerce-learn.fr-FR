@@ -34,4 +34,4 @@ Le document couvre également le processus de synchronisation des tableaux avec 
 
 ## Intégrations et configurations
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452692?captions=fre_fr&learn=on)

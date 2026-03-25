@@ -31,4 +31,4 @@ Découvrez les différentes options de Report Builder, ainsi que la manière de 
 
 ## Rapports et tableaux de bord Adobe Commerce Intelligence
 
->[!VIDEO](https://video.tv.adobe.com/v/3428252?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453145?captions=fre_fr&learn=on)

@@ -30,7 +30,7 @@ Les groupes de clients déterminent les remises disponibles et la classe de taxe
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410169?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

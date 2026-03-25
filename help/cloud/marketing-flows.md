@@ -33,4 +33,4 @@ _ Nouveaux clients et clients existants qui explorent le storefront de diffusion
 * Apprenez comment optimiser grâce aux tests A/B.
 * Découvrez quelques outils avancés et une intégration de l’IA pour affiner le contenu, générer des variations et améliorer la stratégie promotionnelle globale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433534?captions=fre_fr&learn=on)

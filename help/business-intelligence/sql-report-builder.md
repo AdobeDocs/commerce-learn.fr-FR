@@ -40,7 +40,7 @@ Adobe Commerce Intelligence SQL Report Builder vous permet d’interroger votre 
 * Créez une visualisation à partir des résultats de la requête.
 * Enregistrez le rapport dans un tableau de bord pour votre équipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346409?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

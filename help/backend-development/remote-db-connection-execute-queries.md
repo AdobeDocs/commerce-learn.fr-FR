@@ -26,7 +26,7 @@ Découvrez comment vous connecter à un projet Adobe Commerce sur le cloud, cré
 * Connectez-vous à un projet Adobe Commerce Cloud distant à l’aide d’un outil d’interface utilisateur graphique tel que MySQL Workbench ou TablePlus.
 * Connectez-vous au projet et exécutez SQL à partir de la ligne de commande.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450038?captions=fre_fr&learn=on)
 
 Vous pouvez accéder aux données Adobe Commerce à partir de votre projet cloud à l’aide de l’une des méthodes suivantes :
 

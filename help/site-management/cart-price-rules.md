@@ -31,7 +31,7 @@ Les règles de prix de panier appliquent des remises aux articles du panier en f
 * Créez des règles de prix de panier et des codes de coupon facultatifs.
 * Découvrez comment les remises apparaissent dans le panier et pour les promotions.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410804?captions=fre_fr&learn=on)
 
 ## Problèmes d’affichage des prix
 

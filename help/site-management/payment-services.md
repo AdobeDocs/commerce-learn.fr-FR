@@ -35,7 +35,7 @@ Pour les petites et moyennes entreprises, les concurrents de taille intermédiai
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410789?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

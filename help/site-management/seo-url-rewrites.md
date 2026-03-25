@@ -32,7 +32,7 @@ L’outil Réécriture d’URL permet de modifier toute URL associée à un prod
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410124?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

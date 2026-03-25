@@ -31,7 +31,7 @@ Les widgets sont des composants réutilisables que vous pouvez créer et modifie
 * Identifiez les widgets et leur emplacement.
 * Créer et gérer des widgets dans l’administration.
 
->[!VIDEO](https://video.tv.adobe.com/v/343786?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411056?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

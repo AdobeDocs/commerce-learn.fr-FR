@@ -30,7 +30,7 @@ Les commerçants disposant d&#39;un magasin unique pour plusieurs entrepôts, ma
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410196?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

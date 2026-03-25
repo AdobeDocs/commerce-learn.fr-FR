@@ -31,7 +31,7 @@ Votre boutique contient de nombreux emplacements où vous pouvez saisir des mét
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410174?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

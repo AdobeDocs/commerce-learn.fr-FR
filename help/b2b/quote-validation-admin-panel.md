@@ -31,6 +31,6 @@ Découvrez les étapes et les domaines de validation fournis par la fonctionnali
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423718?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

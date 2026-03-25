@@ -31,7 +31,7 @@ L’organisation de vos produits en catégories est essentielle pour gérer vos 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343747?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410179?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

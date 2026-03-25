@@ -35,7 +35,7 @@ Le `.env` est un fichier spécial qui ne fait pas partie de l’exemple de modul
 * Comment ajouter le fichier pour ajouter de nouveaux secrets
 * Évitez de valider ce fichier, car il contient des informations sensibles
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421067?captions=fre_fr&learn=on)
 
 ## Exemple de code
 

@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430964?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

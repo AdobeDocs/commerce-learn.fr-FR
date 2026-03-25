@@ -36,7 +36,7 @@ Pour obtenir des instructions relatives à l’installation et connaître les co
 * Installation de l’interface de ligne de commande Adobe I/O Runtime
 * Installation du plug-in Maillage API
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419793?captions=fre_fr&learn=on)
 
 ## Installation de l’interface de ligne de commande `aio` et du plug-in API Mesh
 

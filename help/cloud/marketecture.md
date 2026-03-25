@@ -35,4 +35,4 @@ Les outils d’extensibilité tels que le maillage API et la gestion unifiée de
 * Adobe Commerce propose des services composables tels que la recherche en direct, des recommandations d’IA et des solutions de paiement flexibles.
 * Intégration avancée, notamment le maillage API, la gestion unifiée des événements et l’intégration transparente de Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433437?captions=fre_fr&learn=on)

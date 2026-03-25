@@ -44,4 +44,4 @@ Vous apprendrez à naviguer dans l’expérience du storefront Adobe Commerce su
 * Utiliser le panier et les commandes : ajouter des articles, extraire en tant qu&#39;invité, annuler des commandes, réorganiser et traiter les retours.
 * Mettez à jour les informations du compte, fusionnez les paniers d’invités et de clients et assurez la cohérence du passage en caisse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446764?captions=fre_fr&learn=on)

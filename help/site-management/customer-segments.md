@@ -33,7 +33,7 @@ Les segments de clients vous permettent d’afficher de manière dynamique du co
 * Créez des segments à partir des attributs du client, des commandes et des données de panier.
 * Connectez les segments aux promotions et aux règles de prix de panier.
 
->[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410189?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

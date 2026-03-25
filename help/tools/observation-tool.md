@@ -30,7 +30,7 @@ Dans cette vidéo, découvrez l’outil d’observation d’Adobe Commerce, qui 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410747?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
