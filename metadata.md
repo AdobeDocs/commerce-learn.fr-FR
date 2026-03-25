@@ -3,14 +3,16 @@ cloud: Experience Cloud
 solution-title: Commerce
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/commerce-learn.fr-FR
-index: y
+index: true
 type: Tutorial
 solution: Commerce
 feature-set: Commerce
+landing-page-name: commerce
+landing-page-breadcrumb-title: Commerce
 product: Magento
-source-git-commit: 757e7746c6000dbe46b3e2b343a65815e87d3ab1
+source-git-commit: 3c1f9d2c38adb80c54d7c59b9f8dd8b978387a98
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -18,21 +20,21 @@ ht-degree: 0%
 
 # Métadonnées à usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier du contenu metadata.md pour n’importe quel guide de l’utilisateur, effectuez vos modifications dans n’importe quel fichier TOC.md.
 
-| metadata | ce qu’il fait |
+| métadonnées | ce qu&#39;il fait |
 |--- |--- |
 | solution-title | Utilisé dans l’en-tête de l’article comme lien |
-| solution-hub-url | Ouvre la page hub helpx |
-| solution-icon | Affiche l’icône de solution en regard du titre de la solution. Pas encore implémenté |
-| getting-started-url | Lien vers la page de prise en main de helpx |
-| tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou KT |
-| mini-toc-levels | Détermine le nombre de niveaux d’en-tête qui apparaissent dans le rail droit. la valeur par défaut est 2 |
-| git-repo | Spécifie l’emplacement du référentiel maître pour une utilisation interne. |
+| solution-hub-url | Ouvre la page hub d’aide |
+| solution-icon | Affiche l’icône de la solution en regard du titre de la solution. Pas encore implémenté |
+| getting-started-url | Lien vers la page de prise en main |
+| tutorials-url | Lien vers des tutoriels vidéo : tutoriels d’aide ou tutoriels d’AC. |
+| niveaux de mini-table des matières | Détermine le nombre de niveaux de titre qui apparaissent dans le rail de droite. la valeur par défaut est 2 |
+| git-repo | Spécifie l&#39;emplacement du référentiel principal pour une utilisation interne |
 
 Dans le fichier TOC.md
 
-| metadata | ce qu’il fait |
+| métadonnées | ce qu&#39;il fait |
 |--- |--- |
 | user-guide-title | Utilisé dans l’en-tête de l’article comme lien |
-| user-guide-url | Ouvre la page hub helpx |
+| user-guide-url | Ouvre la page hub d’aide |

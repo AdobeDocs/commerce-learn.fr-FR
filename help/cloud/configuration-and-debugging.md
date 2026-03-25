@@ -1,50 +1,52 @@
 ---
 title: Configuration et débogage d’Adobe Commerce Cloud
-description: Découvrez les fichiers de configuration, les outils de débogage et la gestion des journaux d’Adobe Commerce Cloud, essentiels pour les opérations de développement, les administrateurs système et les développeurs et développeuses back-end.
+description: Découvrez comment la configuration YAML, les outils de validation, les outils ECE, l’outil de correctifs de qualité, New Relic et Xdebug prennent en charge le débogage et la gestion des journaux sur Adobe Commerce Cloud.
 feature: Cloud
 topic: Commerce, Architecture, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 500
+duration: 553
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
-kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
-# Intégration technique - Configuration et débogage
+# Configuration et débogage
 
-Découvrez les principaux fichiers Yaml utilisés dans Adobe Commerce Cloud pour la configuration dans différents environnements, les outils disponibles pour valider et optimiser ces configurations et le processus de débogage et de journalisation. Découvrez l’importance des paramètres spécifiques à un environnement, comment utiliser les outils EC et les correctifs de qualité, ainsi que le rôle de New Relic dans l’agrégation des journaux. Obtenez des informations sur le débogage à distance avec Xdebug et sur la nécessité de gérer les journaux sur plusieurs serveurs d’applications.
+Cette vidéo fait partie de la série d’intégration technique d’Adobe Commerce Cloud . Il explique le fonctionnement des fichiers de configuration YAML dans les environnements, les outils qui vous aident à les valider et à les optimiser, ainsi que votre approche du débogage et de la journalisation. Vous découvrirez également comment les outils ECE et l’outil de correctifs de qualité s’intègrent, comment New Relic regroupe les journaux, comment utiliser Xdebug pour le débogage à distance et comment gérer les journaux sur plusieurs serveurs d’applications.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-- Ingénieurs DevOp
-- Architectes Commerce
-- Développeurs et développeuses back-end
+* Ingénieurs et ingénieures DevOps
+* Architectes Commerce
+* Développeurs et développeuses back-end
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432813?captions=fre_fr&learn=on)
+* Configuration YAML dans les environnements cloud et paramètres spécifiques à l’environnement.
+* Workflows de validation, d’optimisation et de débogage.
+* ECE-Tools, Quality Patches Tool, New Relic, Xdebug et la gestion des journaux.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
 ## Documentation Experience League mentionnée dans la vidéo
 
-- [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=fr)
-- [Cloud Docker configure Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/)
-- [&#x200B; Bonnes pratiques de débogage &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=fr)
-- [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=fr)
-- [Outils CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=fr)
-- [Mettre à jour le module ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=fr)
-- Présentation de [New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=fr)
-- [Afficher et gérer les fichiers journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=fr)
-- [Gestion des journaux New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=fr)
-- [Outil de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
-- [Utilisation de l’outil de correctifs de qualité](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=fr)
+* [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
+* [Cloud Docker : configuration de Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
+* [ Bonnes pratiques de débogage ](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html){target="_blank"}
+* [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
+* [Outils CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html){target="_blank"}
+* [Mettre à jour le module ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html){target="_blank"}
+* Présentation de [](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html){target="_blank"}
+* [Afficher et gérer les fichiers journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html){target="_blank"}
+* [Gestion des journaux ](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html){target="_blank"}
+* [ Outil de correctifs de qualité ](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html){target="_blank"}
+* [ Utilisation de l’outil de correctifs de qualité ](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html){target="_blank"}
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
