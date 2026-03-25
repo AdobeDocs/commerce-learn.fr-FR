@@ -39,5 +39,5 @@ Dans cette vidéo :
 
 ## Ressources utiles
 
-* [Documentation ](https://developer.adobe.com/commerce/pwa-studio/)
-* [Référentiel GitHub ](https://github.com/magento/pwa-studio)
+* [Documentation &#x200B;](https://developer.adobe.com/commerce/pwa-studio/)
+* [Référentiel GitHub &#x200B;](https://github.com/magento/pwa-studio)

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 # Utilisation des projets et des espaces de travail
 
-Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [](https://developer.adobe.com/console){target="_blank"}.
+Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [&#128279;](https://developer.adobe.com/console){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 

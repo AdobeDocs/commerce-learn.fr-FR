@@ -33,4 +33,4 @@ ht-degree: 0%
 
 ## Ressources utiles
 
-Guide de PWA Studio [](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)
+Guide de PWA Studio [&#128279;](https://developer.adobe.com/commerce/pwa-studio/tutorials/setup-storefront/)

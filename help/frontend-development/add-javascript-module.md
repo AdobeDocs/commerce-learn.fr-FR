@@ -45,5 +45,5 @@ Découvrez comment développer un module JavaScript simple qui affiche la saluta
 
 ## Ressources utiles
 
-* [Guide du développeur de ](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Guide du développeur de &#x200B;](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
 * [Appeler et initialiser JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}

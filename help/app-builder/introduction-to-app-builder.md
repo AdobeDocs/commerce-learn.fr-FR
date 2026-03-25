@@ -62,7 +62,7 @@ Au lieu d’une solution prête à l’emploi, Adobe Developer App Builder fourn
 
 Le diagramme suivant illustre la manière dont une application standard créée sur App Builder utilise ces fonctionnalités :
 
-![ Architecture ](/help/assets/app-builder/app-builder-architecture.jpeg)
+![&#x200B; Architecture &#x200B;](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Pour plus d’informations sur l’architecture d’App Builder, consultez la [Présentation de l’architecture](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
@@ -80,8 +80,8 @@ Pour vous aider à prendre en main App Builder, Adobe a créé la documentation 
 
 App Builder fournit des vidéos et de la documentation à l’intention des développeurs, y compris des guides et une documentation de référence pour vous aider à développer vos propres applications personnalisées :
 
-* [Documentation ](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Vidéos ](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
+* [Documentation &#x200B;](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Vidéos &#x200B;](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Essayez l’un des exemples d’applications {#appbuilder-codesamples}
 
@@ -91,6 +91,6 @@ Prêt à développer ? Le lien suivant contient des exemples d’applications po
 
 ## Support technique {#support}
 
-Pour les demandes d’assistance aux développeurs, utilisez le [forum ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} pour obtenir de l’aide.
+Pour les demandes d’assistance aux développeurs, utilisez le [forum &#x200B;](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} pour obtenir de l’aide.
 
 {{$include /help/_includes/app-builder-related-links.md}}

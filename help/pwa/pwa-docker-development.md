@@ -31,4 +31,4 @@ ht-degree: 0%
 
 ## Ressources utiles
 
-Guide de [](https://developer.adobe.com/commerce/pwa-studio/)
+Guide de [&#128279;](https://developer.adobe.com/commerce/pwa-studio/)

@@ -29,7 +29,7 @@ Bienvenue dans la collection de vidéos et de tutoriels [!DNL Commerce]. L’uti
 
 >[!TIP]
 >
->L’espace [Événements ](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) permet d’accéder au contenu d’événement enregistré que vous pouvez regarder à la demande.
+>L’espace [Événements &#x200B;](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) permet d’accéder au contenu d’événement enregistré que vous pouvez regarder à la demande.
 
 ## Ressources supplémentaires
 

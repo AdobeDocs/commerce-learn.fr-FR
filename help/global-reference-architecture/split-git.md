@@ -154,7 +154,7 @@ Adobe Commerce est une application de compositeur. La méthode d’installation 
 
 En résumé :
 
-* **** : stocké dans un référentiel de compositeur.
+* **&#x200B;**&#x200B;: stocké dans un référentiel de compositeur.
 * **Modules tiers** : stockés dans un référentiel Composer.
 * **Option de secours des modules tiers** : stocké dans le référentiel Git gra-split-3rdparty.
 * **code de base GRA** : stocké dans le référentiel Git gra-split-gra.

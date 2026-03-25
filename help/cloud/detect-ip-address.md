@@ -120,4 +120,4 @@ Ces environnements de niveau inférieur sont à clients multiples et partagent d
 
 ## Documentation connexe
 
-* [ Adresses IP régionales ](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [&#x200B; Adresses IP régionales &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
