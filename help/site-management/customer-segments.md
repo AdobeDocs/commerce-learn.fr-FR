@@ -37,5 +37,5 @@ Les segments de clients vous permettent d’afficher de manière dynamique du co
 
 ## Ressources supplémentaires
 
-* [Segments clients - [!DNL Commerce] Guide de gestion de la clientèle](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
-* [Segments clients dans les règles de prix - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}
+* [Segments clients - [!DNL Commerce] Guide de gestion de la clientèle](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=fr){target="_blank"}
+* [Segments clients dans les règles de prix - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=fr){target="_blank"}

@@ -34,5 +34,5 @@ Les groupes de clients déterminent les remises disponibles et la classe de taxe
 
 ## Ressources supplémentaires
 
-* [Groupes de clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+* [Groupes de clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=fr)
 * [Limitations des groupes de clients par site web - [!DNL Commerce] Guide de gestion de la clientèle](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

@@ -12,10 +12,10 @@ ht-degree: 4%
 
 ## Ressources supplémentaires
 
-* [Aperçu des devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-* [Configurer les devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-* [Demande de devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-* [Négocier un devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-* [Mes devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+* [Aperçu des devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html?lang=fr){target="_blank"}
+* [Configurer les devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html?lang=fr){target="_blank"}
+* [Demande de devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html?lang=fr){target="_blank"}
+* [Négocier un devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html?lang=fr){target="_blank"}
+* [Mes devis](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html?lang=fr){target="_blank"}
 * [Gérer les devis négociables](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-manage/){target="_blank"}
 * [Intégration au module NegotiableQuote](https://developer.adobe.com/commerce/webapi/rest/b2b/negotiable-quote/){target="_blank"}

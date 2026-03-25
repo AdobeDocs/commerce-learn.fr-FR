@@ -128,5 +128,5 @@ toutefois, si nous laissons tomber la troisième décimale, cela indiquera que 3
 
 ## Ressources supplémentaires
 
-* [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html){target="_blank"}
-* [Codes promotionnels - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html){target="_blank"}
+* [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=fr){target="_blank"}
+* [Codes promotionnels - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=fr){target="_blank"}

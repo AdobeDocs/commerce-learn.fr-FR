@@ -35,4 +35,4 @@ Votre boutique contient de nombreux emplacements où vous pouvez saisir des mét
 
 ## Ressources supplémentaires
 
-[Meta data - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Meta data - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=fr)

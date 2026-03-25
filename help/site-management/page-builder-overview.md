@@ -12,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
@@ -46,5 +46,5 @@ Dans cette vidéo, découvrez comment :
 
 ## Ressources supplémentaires
 
-* [Guide de l’utilisateur de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
+* [Guide de l’utilisateur de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=fr)
 * [Guide du développeur de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)

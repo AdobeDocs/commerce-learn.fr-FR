@@ -50,7 +50,7 @@ L’outil d’interface de ligne de commande Magento-Cloud est conçu pour aider
 
 Dans cette première section de l’exemple de code, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1` demande l’URL de l’environnement . La valeur renvoyée ressemble à ce qui suit `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De temps en temps, ça ressemble plus à ce `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Cette première commande est assez simple, et il est maintenant temps de passer à la commande suivante.
 
-Pour plus d’informations, consultez [Présentation de l’interface de ligne de commande Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Pour plus d’informations, consultez [Présentation de l’interface de ligne de commande Cloud](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Utilisation de `sed` pour la recherche et le remplacement
 
@@ -120,4 +120,4 @@ Ces environnements de niveau inférieur sont à clients multiples et partagent d
 
 ## Documentation connexe
 
-* [&#x200B; Adresses IP régionales &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [&#x200B; Adresses IP régionales &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

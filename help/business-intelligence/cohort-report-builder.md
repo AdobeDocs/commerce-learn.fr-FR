@@ -34,7 +34,7 @@ Dans cette vidéo :
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fournit une vue d’ensemble complète pour obtenir de meilleures informations et résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr){target="_blank"} fournit une vue d’ensemble complète pour obtenir de meilleures informations et résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -47,6 +47,6 @@ Dans cette vidéo :
 
 ## Ressources utiles
 
-[Utilisation de Cohort Report Builder - Guide d’utilisation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
+[Utilisation de Cohort Report Builder - Guide d’utilisation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=fr)
 
-[Création d’une analyse qualitative des cohortes - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)
+[Création d’une analyse qualitative des cohortes - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=fr)

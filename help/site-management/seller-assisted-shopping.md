@@ -34,5 +34,5 @@ Les clients ont parfois besoin d’aide pour effectuer un achat. Certains client
 
 ## Ressources supplémentaires
 
-* [Fournir une assistance aux acheteurs - [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
-* [Aide au shopping - [!DNL Commerce] Guide des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)
+* [Fournir une assistance aux acheteurs - [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=fr)
+* [Aide au shopping - [!DNL Commerce] Guide des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=fr#shopping-assistance)

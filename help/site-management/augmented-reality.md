@@ -58,8 +58,8 @@ Une fois que le visiteur scanne le code QR avec son appareil, l’élément est 
 
 ## Ressources utiles
 
-[Visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Gestion des modèles 3D de produit avec la visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[Visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=fr){target="_blank"}
+[Gestion des modèles 3D de produit avec la visionneuse AR pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=fr){target="_blank"}
 
 ## Extension Adobe Commerce Marketplace
 

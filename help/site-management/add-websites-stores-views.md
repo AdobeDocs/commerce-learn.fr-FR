@@ -32,11 +32,11 @@ Chaque installation d’Adobe Commerce et de Magento Open Source prend en charge
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.1.0. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Ressources supplémentaires
 
-* [Sites web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
-* [Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)
+* [Sites web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html?lang=fr)
+* [Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html?lang=fr)

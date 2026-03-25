@@ -34,6 +34,6 @@ Adobe Commerce utilise des attributs pour gérer les informations associées aux
 
 ## Ressources supplémentaires
 
-[Présentation des attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Présentation des attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)
 
-[Jeux d’attributs - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html)
+[Jeux d’attributs - [!DNL Commerce] Guide de gestion du catalogue](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=fr)

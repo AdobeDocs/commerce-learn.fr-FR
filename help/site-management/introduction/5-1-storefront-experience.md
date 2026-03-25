@@ -35,12 +35,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?learn=on)
 
 ## Ressources supplémentaires
 
-[Périmètre du compte client - [!DNL Commerce] Guide de gestion de la clientèle](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Périmètre du compte client - [!DNL Commerce] Guide de gestion de la clientèle](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html?lang=fr)
 
-[Liste de souhaits expérience storefront - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Liste de souhaits expérience storefront - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html?lang=fr)

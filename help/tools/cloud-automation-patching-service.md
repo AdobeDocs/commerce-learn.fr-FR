@@ -33,4 +33,4 @@ Service de correctifs d’Adobe Cloud Automation (CAPS), une fonctionnalité de 
 
 ## Documentation connexe
 
-* [Documentation du service de correctifs de Cloud Automation](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentation du service de correctifs de Cloud Automation](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/caps-tool/intro)
