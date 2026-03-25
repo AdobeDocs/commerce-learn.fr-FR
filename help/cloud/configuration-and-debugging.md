@@ -33,7 +33,7 @@ Cette vidéo fait partie de la série d’intégration technique d’Adobe Comme
 * Workflows de validation, d’optimisation et de débogage.
 * ECE-Tools, Quality Patches Tool, New Relic, Xdebug et la gestion des journaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432813?captions=fre_fr&learn=on)
 
 ## Documentation Experience League mentionnée dans la vidéo
 
