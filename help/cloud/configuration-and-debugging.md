@@ -37,16 +37,16 @@ Cette vidéo fait partie de la série d’intégration technique d’Adobe Comme
 
 ## Documentation Experience League mentionnée dans la vidéo
 
-* [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
+* [Configurer Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=fr){target="_blank"}
 * [Cloud Docker : configuration de Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
-* [&#x200B; Bonnes pratiques de débogage &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html){target="_blank"}
-* [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
-* [Outils CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html){target="_blank"}
-* [Mettre à jour le module ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html){target="_blank"}
-* Présentation de [&#128279;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html){target="_blank"}
-* [Afficher et gérer les fichiers journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html){target="_blank"}
-* [Gestion des journaux &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html){target="_blank"}
-* [&#x200B; Outil de correctifs de qualité &#x200B;](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html){target="_blank"}
-* [&#x200B; Utilisation de l’outil de correctifs de qualité &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html){target="_blank"}
+* [&#x200B; Bonnes pratiques de débogage &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=fr){target="_blank"}
+* [Présentation des fichiers de configuration](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=fr){target="_blank"}
+* [Outils CEE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=fr){target="_blank"}
+* [Mettre à jour le module ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=fr){target="_blank"}
+* Présentation de [&#128279;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=fr){target="_blank"}
+* [Afficher et gérer les fichiers journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=fr){target="_blank"}
+* [Gestion des journaux &#x200B;](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=fr){target="_blank"}
+* [&#x200B; Outil de correctifs de qualité &#x200B;](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr){target="_blank"}
+* [&#x200B; Utilisation de l’outil de correctifs de qualité &#x200B;](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=fr){target="_blank"}
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
