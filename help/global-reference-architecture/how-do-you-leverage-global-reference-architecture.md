@@ -4,6 +4,7 @@ description: Découvrez comment tirer parti d’une architecture de référence 
 landing-page-description: Découvrez l’architecture de référence globale et son utilisation avec Adobe Commerce
 kt: 14040
 doc-type: video
+duration: 1833
 audience: all
 last-substantial-update: 2023-9-27
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -35,6 +36,6 @@ Découvrez comment tirer parti de l’architecture de référence globale (GRA).
 * Collecte des besoins
 * Quand impliquez-vous l’équipe d’assurance qualité ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3456002?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -40,8 +40,8 @@ Les chefs de projet qui doivent suivre l’avancement des tâches de développem
 * la validation et la gestion des erreurs pour les champs d’entrée d’adresse, en veillant à ce que les utilisateurs reçoivent un retour immédiat sur les entrées incorrectes ou incomplètes, ce qui améliore leur expérience ;
 * Extension du tableau de bord du compte d’utilisateur qui ajoute un nouvel élément de menu de barre latérale au tableau de bord du compte d’utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442908?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentation supplémentaire
 
-* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=fr)
+* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

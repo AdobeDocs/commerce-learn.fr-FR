@@ -1,16 +1,16 @@
 ---
-title: Articles du panier Edge Delivery Services
+title: Éléments du panier Edge Delivery Services
 description: Découvrez les services de diffusion Adobe Edge et comment utiliser les attributs de produit pour afficher de nouvelles informations pour les articles du panier.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 363
+duration: 429
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
@@ -38,9 +38,9 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Réduction de coupon affichée à l’aide des règles de panier et des emplacements de pied de page pour afficher efficacement ces informations.
 * Utilisation des attributs de produit et des emplacements pour étendre et personnaliser la fonctionnalité du panier, en veillant à ce que toutes les exigences du projet soient satisfaites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441118?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## Documentation supplémentaire
 
-* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=fr)
+* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

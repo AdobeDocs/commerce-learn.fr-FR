@@ -4,7 +4,7 @@ description: Intégration du dernier kilomètre dans Commerce, mettant en évide
 landing-page-description: Découvrez la structure et les fonctions des hooks d’extensibilité dans l’intégration Last Mile pour les systèmes Commerce.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Découvrez l’importance des activités de post-traitement par le biais du hook
 ## Audience
 
 * Développeurs qui souhaitent découvrir la structure et les fonctionnalités des hooks d’extensibilité, ainsi que la manière dont ces hooks peuvent améliorer la connectivité avec des systèmes tiers.
-* Développeurs qui souhaitent découvrir les cas d’utilisation standard et les bonnes pratiques associées à chaque hook d’extensibilité, telles que la validation, la transformation, le prétraitement, l’envoi et le post-traitement, afin de faciliter le flux de données transparent, la synchronisation du système et une maintenance efficace de la configuration de l’intégration. &#x200B;
+* Développeurs qui souhaitent découvrir les cas d’utilisation standard et les bonnes pratiques associées à chaque hook d’extensibilité, telles que la validation, la transformation, le prétraitement, l’envoi et le post-traitement, afin de faciliter le flux de données transparent, la synchronisation du système et la maintenance efficace de la configuration de l’intégration. &#x200B;
 
 ## Contenu vidéo
 
@@ -45,6 +45,6 @@ Découvrez l’importance des activités de post-traitement par le biais du hook
 * Découvrez le rôle du crochet de transformation dans la transformation des objets de données entre les systèmes d’origine et de destination.
 * Découvrez l’importance du hook d’envoi pour faciliter l’envoi réel des données au système de destination.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451921?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

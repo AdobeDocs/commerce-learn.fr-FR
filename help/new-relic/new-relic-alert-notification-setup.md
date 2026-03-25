@@ -5,6 +5,7 @@ landing-page-description: Découvrez comment rechercher des alertes, des politiq
 short-description: Découvrez comment ajouter une nouvelle adresse e-mail à une politique d’alerte existante dans New Relic.
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Découvrez comment rechercher des alertes, des politiques, des workflows et des 
 * Découvrez les notifications d’alerte, les politiques et les workflows.
 * L’enregistrement de la destination et la validation du nouvel e-mail ont été ajoutés à une politique
 
->[!VIDEO](https://video.tv.adobe.com/v/3441200?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

@@ -4,6 +4,7 @@ description: Découvrez le kit de démarrage Adobe Commerce pour les intégratio
 landing-page-description: Découvrez le kit de démarrage Adobe Commerce pour les intégrations back-office
 kt: 15341
 doc-type: video
+duration: 502
 audience: all
 last-substantial-update: 2024-4-19
 feature: Best Practices, Backend Development, Integration
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -38,4 +39,4 @@ Découvrez le kit de démarrage de l’intégration back-office d’Adobe Commer
 * Configuration des événements I/O
 * Connexion à un tiers pour synchroniser les données
 
->[!VIDEO](https://video.tv.adobe.com/v/3452016?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)

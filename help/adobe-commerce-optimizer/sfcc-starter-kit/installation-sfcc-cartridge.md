@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 665
+duration: 710
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: b7c6d55f-bef6-4245-b45f-ec0842a94952
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
-
 
 # Installation de la cartouche SFCC
 
@@ -37,4 +37,4 @@ Découvrez comment installer et configurer la cartouche Adobe Commerce Optimizer
 * Importez des définitions de tâche et d’objet personnalisées pour prendre en charge le suivi et la synchronisation.
 * Testez un point d’entrée d’API personnalisé pour confirmer une installation réussie et préparez la synchronisation du catalogue.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476072?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

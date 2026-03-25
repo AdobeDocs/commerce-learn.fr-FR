@@ -4,7 +4,7 @@ description: Tirez parti du mécanisme de reprise de Adobe I/O Events pour les a
 landing-page-description: Découvrez et utilisez le mécanisme de reprise intégré de Adobe I/O Events pour améliorer la résilience des applications et gérer efficacement les activations d’événements.
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Découvrez comment le mécanisme de reprise fonctionne dans le contexte des acti
 * Indicateurs visuels dans Developer Console, tels que les icônes d’avertissement pour les événements ayant échoué et les icônes de flèche circulaire pour les événements ayant fait l’objet d’une nouvelle tentative.
 * Les actions d’exécution « consommateur » jouent un rôle essentiel dans la détermination des codes d’état de réponse HTTP appropriés pour la gestion des événements.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449075?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 598
+duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # En savoir plus sur l’architecture du kit de démarrage cloud Salesforce Commerce
 
@@ -34,4 +34,4 @@ Découvrez comment configurer et déployer le kit de démarrage App Builder pour
 * Clonez le kit de démarrage App Builder et configurez les fichiers d’environnement à l’aide de l’interface de ligne de commande Adobe IO.
 * Déployez l’application et confirmez la réussite de l’enregistrement des actions et des événements dans votre espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476084?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

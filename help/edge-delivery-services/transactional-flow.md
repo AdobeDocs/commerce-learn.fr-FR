@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 453
+duration: 525
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '205'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Ajuster le flux transactionnel pour le passage en caisse
 
-Découvrez comment ajuster le flux transactionnel pour le passage en caisse à l’aide du menu déroulant du panier de Edge Delivery Services.
+Découvrez comment ajuster le flux transactionnel pour le passage en caisse à l’aide du menu déroulant du panier Edge Delivery Services.
 
 ## Ce que vous apprendrez
 
@@ -27,7 +27,7 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs et les propriétaires de boutique découvrent les Edge Delivery Services qui ont besoin de modifier certains éléments de dépôt de panier.
+* Les développeurs et les propriétaires de magasin découvrent Edge Delivery Services et ont besoin de modifier certains éléments de menu déroulant du panier.
 * Spécialistes du marketing et autres personnes intéressées par l’utilisation de SharePoint pour gérer les fonctionnalités et les tests AB.
 
 ## Contenu vidéo
@@ -37,8 +37,8 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Flexibilité des tests A/B. Activation des configurations via SharePoint, ce qui permet aux spécialistes marketing de contrôler et de tester ces fonctionnalités.
 * Contrôle marketing amélioré. Gérez et testez facilement les configurations, améliorant l’expérience utilisateur et l’efficacité marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442353?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Documentation supplémentaire
 
-* [Configurer le résumé du panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=fr)
+* [Configurer le résumé du panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

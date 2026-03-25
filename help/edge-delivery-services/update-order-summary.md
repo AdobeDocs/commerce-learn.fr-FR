@@ -1,16 +1,16 @@
 ---
-title: Résumé des commandes Edge Delivery Services dans le passage en caisse
+title: Résumé de la commande Edge Delivery Services dans le passage en caisse
 description: Découvrez les services de diffusion Adobe Edge et comment mettre à jour la section de résumé de commande du menu déroulant Commerce lors du passage en caisse.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 269
+duration: 292
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Mettre à jour le résumé du panier lors du passage en caisse
 
-Découvrez comment apporter des modifications au résumé de commande du menu déroulant du panier Adobe Commerce pour les Edge Delivery Services.  Il existe plusieurs exemples de la manière d’améliorer rapidement la mise en page ou les informations fournies au client lors du passage en caisse.
+Découvrez comment apporter des modifications au résumé de commande du menu déroulant du panier Adobe Commerce pour Edge Delivery Services.  Il existe plusieurs exemples de la manière d’améliorer rapidement la mise en page ou les informations fournies au client lors du passage en caisse.
 
 ## Ce que vous apprendrez
 
@@ -36,8 +36,8 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Découvrez comment inclure un montant total enregistré pour le résumé du panier.
 * Découvrez comment fusionner des lignes du résumé du panier en une seule section réductible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441187?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Documentation supplémentaire
 
-* [Résumé de la commande](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=fr)
+* [Résumé de la commande](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

@@ -3,6 +3,7 @@ title: Démonstration complète de Data Connection
 description: Regardez une démonstration complète des fonctionnalités de Adobe Commerce Data Connection
 kt: 14364
 doc-type: tutorial
+duration: 783
 audience: all
 last-substantial-update: 2023-11-08T00:00:00Z
 feature: Configuration, System, Personalization
@@ -10,7 +11,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -27,7 +28,7 @@ Découvrez comment utiliser Adobe Commerce Data Connection avec quelques configu
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs et les propriétaires de boutique qui découvrent Adobe Commerce ou et qui souhaitent en savoir plus sur la personnalisation à grande échelle à l’aide de la connexion aux données d’Adobe.
+* Les développeurs et les propriétaires de boutique qui découvrent Adobe Commerce ou et qui souhaitent en savoir plus sur la personnalisation à grande échelle à l’aide de la connexion aux données Adobe.
 
 ## Contenu vidéo
 
@@ -35,4 +36,4 @@ Découvrez comment utiliser Adobe Commerce Data Connection avec quelques configu
 * Audiences Real-Time CDP mise à jour et modification de la segmentation en temps réel en fonction des données du navigateur, des données côté serveur (y compris l’historique des commandes) et des données provenant d’autres sources (c’est-à-dire des données de fidélité).
 * Utilisation des audiences Real-Time CDP pour personnaliser les règles de prix de panier et les blocs dynamiques dans Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453820?learn=on&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
