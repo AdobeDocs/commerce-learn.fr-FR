@@ -32,7 +32,7 @@ Découvrez comment créer un ticket d’assistance dans Experience League pour A
 * Découvrez comment les articles recommandés changent en fonction des informations utilisées dans le formulaire
 * Comprendre comment le texte d’espace réservé figurant dans les champs du formulaire permet de comprendre le type d’informations nécessaires à une bonne demande d’assistance
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449555?captions=fre_fr&learn=on)
 
 ## Guide du centre d’aide de la base de connaissances Commerce
 

@@ -45,6 +45,6 @@ Découvrez l’importance des activités de post-traitement par le biais du hook
 * Découvrez le rôle du crochet de transformation dans la transformation des objets de données entre les systèmes d’origine et de destination.
 * Découvrez l’importance du hook d’envoi pour faciliter l’envoi réel des données au système de destination.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451921?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

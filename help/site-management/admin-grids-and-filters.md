@@ -31,4 +31,4 @@ Découvrez comment rechercher et ajuster des filtres à utiliser par l’adminis
 * Comprendre comment utiliser un filtre pour limiter les résultats d’une grille d’administration
 * Découvrez comment les filtres affectent les autres administrateurs dans Adobe Commerce Admin Console
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440384?captions=fre_fr&learn=on)

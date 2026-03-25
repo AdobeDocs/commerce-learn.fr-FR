@@ -31,7 +31,7 @@ Découvrez comment créer un ticket de recherche, de révision, de recommandatio
 * Découvrez comment ajouter un commentaire à un ticket d’assistance ouvert
 * Découvrez comment et quelques raisons de réaffecter un ticket d’assistance
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445313?captions=fre_fr&learn=on)
 
 ## Guide du centre d’aide de la base de connaissances Commerce
 
