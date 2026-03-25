@@ -39,4 +39,4 @@ Découvrez des exemples de personnalisation de l’expérience de passage en cai
 
 ## Documentation supplémentaire
 
-* [Passage en caisse des invités à plusieurs étapes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Passage en caisse des invités à plusieurs étapes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=fr)
