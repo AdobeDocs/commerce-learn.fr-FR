@@ -36,7 +36,7 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 
 ## Exemples de code
 
-Avant de commencer, rassemblez toutes les valeurs requises à partir de [](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
+Avant de commencer, rassemblez toutes les valeurs requises à partir de [&#128279;](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
 
 >[!NOTE]
 >
@@ -246,4 +246,4 @@ curl -s -X PUT \
 
 * [Notes De Mise À Jour D’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Référence de l’API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [ Guide d’authentification de l’utilisateur ](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [&#x200B; Guide d’authentification de l’utilisateur &#x200B;](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
