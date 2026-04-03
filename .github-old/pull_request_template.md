@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Avez-vous suivi les [ Normes d’affectation des noms ](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Avez-vous suivi les [&#x200B; Normes d’affectation des noms &#x200B;](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] La table des matières et le H1 correspondent pour chaque page créée ou mise à jour.
 - [ ] Une action est associée à la table des matières et au H1, par exemple : Découvrez comment créer une demande d’extraction GutHub .
 - [ ] Aucun élément ne doit être à espacement fixe dans H1
 - [ ] Chaque titre de page doit commencer par une lettre ***C***apitol
 - [ ] j’ai vérifié si des vidéos devaient comporter des chapitres.
 - [ ] Une affiche est affectée à toutes les vidéos pour les représenter correctement
-- [ ] Avez-vous utilisé [ Acrolinx ](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] Avez-vous utilisé [&#x200B; Acrolinx &#x200B;](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
