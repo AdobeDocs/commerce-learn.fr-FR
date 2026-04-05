@@ -29,7 +29,7 @@ Ce tutoriel explique le fonctionnement de la capacité sur Adobe Commerce Cloud,
 
 ## Vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482038?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 
