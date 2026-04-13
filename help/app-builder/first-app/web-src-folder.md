@@ -31,7 +31,7 @@ Le dossier web-src de cet exemple d’application contient de nombreux fichiers 
 * Fichiers et dossiers généralement inclus
 * Utilisation du dossier `web-src` et de son contenu dans l’exemple d’application
 
->[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421039?captions=fre_fr&learn=on)
 
 ## Exemples de code
 
