@@ -1,9 +1,8 @@
 ---
 title: Présentation de l’architecture du connecteur Commerce Cloud Salesforce
-description: Découvrez l’architecture du Commerce Cloud Salesforce avec Adobe Commerce Optimizer.
+description: Découvrez l’architecture de Salesforce Commerce Cloud avec Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,7 +10,7 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -33,4 +32,4 @@ Découvrez l’architecture et les fonctionnalités du kit de démarrage du conn
 * Les cartouches et API SFCC personnalisées détectent les modifications de catalogue par le biais d’exportations delta, ce qui permet une synchronisation efficace des données avec Adobe App Builder.
 * Les actions d’exécution d’App Builder gèrent les synchronisations complètes et par différence, la validation et le suivi d’état afin d’assurer des mises à jour précises et sans conflit de Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476053?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)

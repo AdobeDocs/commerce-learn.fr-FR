@@ -1,9 +1,8 @@
 ---
-title: Présentation du kit de démarrage App Builder pour Salesforce Commerce Cloud
+title: Kit de démarrage App Builder pour Salesforce Commerce Cloud
 description: Découvrez le kit de démarrage Adobe App Builder pour Salesforce Commerce Cloud avec Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,14 +10,14 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# En savoir plus sur l’architecture du kit de démarrage cloud Salesforce Commerce
+# En savoir plus sur l’architecture du kit de démarrage Salesforce Commerce Cloud
 
 Découvrez comment configurer et déployer le kit de démarrage App Builder pour Salesforce Commerce Cloud à l’aide de Adobe Commerce Optimizer. Découvrez comment créer un projet dans Adobe Developer Console, ajouter les API nécessaires et télécharger le fichier JSON de l’espace de travail. Découvrez le processus de clonage du référentiel du kit de démarrage, la configuration des fichiers de configuration et l’installation de l’interface de ligne de commande d’Adobe IO pour lier la base de code locale au projet de console de développement. Découvrez comment renseigner les variables d’environnement et synchroniser les détails du site, et vérifier que l’application est créée et déployée correctement. découvrez certaines des étapes d’intégration, telles que les actions d’enregistrement, pour que le déploiement soit confirmé dans l’espace de travail de la console de développement.
 
@@ -34,4 +33,4 @@ Découvrez comment configurer et déployer le kit de démarrage App Builder pour
 * Clonez le kit de démarrage App Builder et configurez les fichiers d’environnement à l’aide de l’interface de ligne de commande Adobe IO.
 * Déployez l’application et confirmez la réussite de l’enregistrement des actions et des événements dans votre espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476084?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

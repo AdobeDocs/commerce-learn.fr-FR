@@ -7,10 +7,10 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 242
-last-substantial-update: 2025-03-6
+last-substantial-update: 2025-03-06T00:00:00Z
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Présentation de Adobe Commerce Optimizer
 
-Adobe Commerce Optimizer améliore les plateformes commerciales existantes en fournissant une vitrine découplée haute performance qui stimule le trafic organique et prend en charge des outils de marchandisage tels que les tests A/B. Il se concentre sur l’augmentation du trafic et des taux de conversion des vitrines, l’augmentation de la productivité des marchandiseurs, l’extension des opérations numériques et la simplification de la gestion pour réduire les coûts et accélérer l’innovation. Cette solution s&#39;intègre de manière transparente aux systèmes existants, en offrant des services de migration de storefront, des intégrations de catalogues plug-and-play et une orchestration de catalogues unifiée, ce qui en fait la solution idéale pour les entreprises qui cherchent à augmenter leur chiffre d&#39;affaires et à optimiser leurs expériences d&#39;achat sans avoir à changer de plateforme.
+Adobe Commerce Optimizer améliore les plateformes commerciales existantes en fournissant une vitrine découplée haute performance qui stimule le trafic organique et prend en charge des outils de marchandisage tels que les tests A/B. Il se concentre sur l’augmentation du trafic et des taux de conversion des vitrines, l’augmentation de la productivité des marchandiseurs, l’extension des opérations numériques et la simplification de la gestion pour réduire les coûts et accélérer l’innovation. Cette solution s&#39;intègre de manière transparente aux systèmes existants, offrant des services de migration de storefront, des intégrations de catalogues plug-and-play et une orchestration de catalogues unifiée, ce qui en fait la solution idéale pour les entreprises qui cherchent à augmenter leur chiffre d&#39;affaires et à optimiser leurs expériences d&#39;achat sans avoir à changer de plateforme.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -33,8 +33,8 @@ Adobe Commerce Optimizer améliore les plateformes commerciales existantes en fo
 * Intégration transparente avec les systèmes ERP, CRM, OMS et autres existants sans avoir à reconfigurer les plateformes.
 * Mise à l’échelle des opérations numériques
 
->[!VIDEO](https://video.tv.adobe.com/v/3450465?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## Ressources supplémentaires
 
-[[!DNL Adobe Commerce Optimizer]  Guide &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer]  Guide ](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
