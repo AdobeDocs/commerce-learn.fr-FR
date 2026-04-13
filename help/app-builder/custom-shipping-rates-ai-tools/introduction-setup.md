@@ -1,5 +1,5 @@
 ---
-title: Créer des tarifs de livraison personnalisés avec les outils d’IA | Introduction et configuration
+title: Présentation et configuration des taux d’expédition personnalisés avec les outils d’IA
 description: Découvrez comment configurer des outils d’IA pour créer des frais d’expédition personnalisés, notamment le clonage du kit de démarrage, la révision des structures et la préparation de votre environnement.
 feature: Install
 topic: Development
@@ -10,7 +10,7 @@ duration: 195
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,6 +33,6 @@ Découvrez comment configurer des outils d’IA pour créer des frais de livrais
 * Cette section décrit la configuration de l’environnement de développement, y compris l’extraction du référentiel, la révision de la structure du kit de démarrage et l’installation des outils requis.
 * Prépare le système pour le développement assisté par l’IA en se connectant, en configurant l’accès et en s’assurant que toutes les dépendances et conditions préalables sont en place.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481330?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

@@ -1,21 +1,18 @@
 ---
 title: Le dossier d’actions
 description: Découvrez les types de fichiers du dossier Actions pour cet exemple d’application.
-landing-page-description: Découvrez Adobe Developer App Builder utilisé avec Adobe Commerce et quels types de fichiers sont placés dans le dossier d’actions.
-kt: 12422
-doc-type: tutorial
+jira: KT-12422
+doc-type: Tutorial
 duration: 465
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -37,7 +34,7 @@ Les noms réels des dossiers dans cet exemple sont arbitraires, mais connaître 
 * L’objectif du fichier JavaScript qui se trouve dans les dossiers `actions` et `commerce`
 * Aperçu rapide des fichiers d’authentification OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421079?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Exemples de code
 

@@ -1,23 +1,19 @@
 ---
 title: Extensibilité hors processus pour Adobe Commerce
 description: Découvrez Adobe App Builder et pourquoi il constitue un aspect important de l’extensibilité hors processus.
-landing-page-description: Découvrez App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
-short-description: Découvrez App Builder et comment il peut vous aider avec les stratégies de développement Adobe Commerce.
-kt: 11433
-doc-type: tutorial
+jira: KT-11433
+doc-type: Tutorial
 duration: 322
-audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '728'
-ht-degree: 6%
+source-wordcount: '698'
+ht-degree: 2%
 
 ---
 
@@ -62,7 +58,7 @@ Au lieu d’une solution prête à l’emploi, Adobe Developer App Builder fourn
 
 Le diagramme suivant illustre la manière dont une application standard créée sur App Builder utilise ces fonctionnalités :
 
-![&#x200B; Architecture &#x200B;](/help/assets/app-builder/app-builder-architecture.jpeg)
+![ Architecture ](/help/assets/app-builder/app-builder-architecture.jpeg)
 
 Pour plus d’informations sur l’architecture d’App Builder, consultez la [Présentation de l’architecture](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
@@ -80,8 +76,8 @@ Pour vous aider à prendre en main App Builder, Adobe a créé la documentation 
 
 App Builder fournit des vidéos et de la documentation à l’intention des développeurs, y compris des guides et une documentation de référence pour vous aider à développer vos propres applications personnalisées :
 
-* [Documentation &#x200B;](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Vidéos &#x200B;](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
+* [Documentation ](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Vidéos ](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Essayez l’un des exemples d’applications {#appbuilder-codesamples}
 
@@ -91,6 +87,6 @@ Prêt à développer ? Le lien suivant contient des exemples d’applications po
 
 ## Support technique {#support}
 
-Pour les demandes d’assistance aux développeurs, utilisez le [forum &#x200B;](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=fr){target="_blank"} pour obtenir de l’aide.
+Pour les demandes d’assistance aux développeurs, utilisez le [forum ](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} pour obtenir de l’aide.
 
 {{$include /help/_includes/app-builder-related-links.md}}

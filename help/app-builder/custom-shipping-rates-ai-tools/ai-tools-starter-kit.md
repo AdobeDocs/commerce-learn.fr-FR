@@ -1,5 +1,5 @@
 ---
-title: Créer des tarifs de livraison personnalisés à l’aide d’outils d’IA | Créer la fonctionnalité
+title: Créer la fonctionnalité pour les taux d’expédition personnalisés avec des outils d’IA
 description: Découvrez comment utiliser les outils d’IA d’Adobe pour créer des frais d’expédition personnalisés et étendre les fonctionnalités de passage en caisse avec une API simulée et des configurations sécurisées.
 feature: Extensibility
 topic: Artificial Intelligence
@@ -10,7 +10,7 @@ duration: 341
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Découvrez comment utiliser les outils optimisés par l’IA d’Adobe pour rati
 * Les outils MCP exposent les commandes et les données utilisées par l’agent pour planifier et générer du code.
 * L’IA automatise les exigences, l’architecture et la décision d’implémentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481346?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
