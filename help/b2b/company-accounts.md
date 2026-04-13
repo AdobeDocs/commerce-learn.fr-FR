@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Gestion des comptes d’entreprise
 
-Pour les commerçants B2B, la page _[!UICONTROL Companies]_répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici et toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
+Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici et toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
 
 {{b2b-feature}}
 
