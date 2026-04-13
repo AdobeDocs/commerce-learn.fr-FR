@@ -1,21 +1,18 @@
 ---
 title: Test à l’aide de l’URL d’Adobe Developer App Builder
 description: Découvrez comment tester votre première application Adobe Developer App Builder à partir de l’URL App Builder fournie pour votre projet.
-landing-page-description: Découvrez comment tester votre première application Adobe Developer App Builder à partir de l’URL fournie à partir de votre projet.
-kt: 12427
-doc-type: tutorial
+jira: KT-12427
+doc-type: Tutorial
 duration: 78
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---

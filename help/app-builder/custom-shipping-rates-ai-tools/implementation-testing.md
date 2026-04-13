@@ -1,5 +1,5 @@
 ---
-title: Tarifs d’expédition personnalisés à l’aide des outils d’IA | Implémentation et tests
+title: Mise en œuvre et test des tarifs d’expédition personnalisés avec des outils d’IA
 description: Découvrez comment implémenter et tester des tarifs d’expédition personnalisés pilotés par l’IA, configurer des environnements et vérifier les intégrations pour des expériences de passage en caisse améliorées.
 feature: Deploy
 topic: Development
@@ -10,9 +10,9 @@ duration: 385
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
