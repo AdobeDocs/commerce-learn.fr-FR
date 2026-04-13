@@ -1,17 +1,16 @@
 ---
 title: Kit de démarrage du maillage API à l’aide de workflows
 description: Commencez avec le maillage API d’Adobe Commerce à l’aide de workflows pour déployer votre maillage et effectuer des tests de chargement.
-kt: 18388
-doc-type: tutorial
+jira: KT-18388
+doc-type: Tutorial
 duration: 351
-audience: all
-last-substantial-update: 2025-6-27
+last-substantial-update: 2025-06-27T00:00:00Z
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: 8add45cc-f0cb-43a6-99d9-6b89beff6b19
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -33,10 +32,10 @@ Découvrez les workflows GitHub inclus dans le kit de démarrage du maillage API
 * Workflow deployMesh qui déploie ou met à jour automatiquement un maillage
 * Test de charge avec le workflow de test de charge K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464526?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## Documentation connexe
 
 * [Référentiel GitHub du kit de démarrage de maillage API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guide de mise en œuvre de serveur à serveur OAuth d’](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/fr/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

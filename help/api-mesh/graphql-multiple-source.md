@@ -1,22 +1,18 @@
 ---
 title: Créer un GraphQL source multiple à utiliser dans le maillage API
 description: Découvrez comment utiliser plusieurs sources pour le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez certaines erreurs courantes et comment les résoudre.
-landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant plusieurs sources et comment résoudre certaines erreurs courantes.
-short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment créer un maillage ayant plusieurs sources et comment résoudre certaines erreurs courantes.
-kt: 11804
-doc-type: tutorial
+jira: KT-11804
+doc-type: Tutorial
 duration: 409
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -36,7 +32,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 * Comment résoudre les erreurs telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre maillage avec une configuration modifiée
 
->[!VIDEO](https://video.tv.adobe.com/v/3419787?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Créer le fichier de configuration json
 

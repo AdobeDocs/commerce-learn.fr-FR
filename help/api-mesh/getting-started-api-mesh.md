@@ -1,23 +1,19 @@
 ---
 title: Prise en main du maillage API
 description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment installer Adobe App Builder, travailler sur des projets, créer un proxy inverse GraphQL et bien plus encore.
-landing-page-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment installer Adobe IO, travailler sur des projets, créer un proxy inverse GraphQL et bien plus encore.
-short-description: Découvrez comment utiliser le maillage API sur Adobe Commerce et  [!DNL Adobe App Builder]. Découvrez comment installer Adobe IO, travailler sur des projets, créer un proxy inverse GraphQL et bien plus encore.
-kt: 11802
-doc-type: tutorial
+jira: KT-11802
+doc-type: Tutorial
 duration: 442
-audience: all
-last-substantial-update: 2023-8-27
+last-substantial-update: 2023-08-27T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 16%
+source-wordcount: '253'
+ht-degree: 6%
 
 ---
 
@@ -29,11 +25,11 @@ Si vous découvrez le maillage API pour Adobe Developer App Builder, Adobe vous 
 
 Le maillage API combine plusieurs sources de données afin d’obtenir une réponse unique que votre application peut utiliser.
 
-[Consultez la documentation complète sur le maillage API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[Consultez la documentation complète sur le maillage API](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Tout développeur débutant dans l’utilisation du maillage API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation de [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} et du maillage API.
+* Tout développeur débutant dans l’utilisation du maillage API ou [!DNL Adobe Commerce] avec une expérience limitée de l’utilisation de [Adobe I/O Runtime](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"} et du maillage API.
 
 ## Contenu vidéo
 
@@ -42,7 +38,7 @@ Le maillage API combine plusieurs sources de données afin d’obtenir une répo
 * Cas pratique de vérification de l’inventaire en temps réel lors du passage en caisse
 * Éloigner les efforts de développement et l’utilisation des ressources de votre application commerciale
 
->[!VIDEO](https://video.tv.adobe.com/v/3421886?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## Exemples de cas d’utilisation
 
@@ -52,7 +48,7 @@ Votre application Commerce comporte une API REST et un point d’entrée GraphQL
 
 En tant que développeur ou développeuse utilisant Adobe App Builder et le maillage API, il n’est pas nécessaire de comprendre ce qu’est un proxy inverse. Cependant, si vous êtes intéressé par la fonctionnalité globale associée à Adobe App Builder, utilisez les ressources suivantes :
 
-* [Qu’est-ce qu’un proxy inverse &#x200B;](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [Qu’est-ce qu’un proxy inverse ](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
 
 
 {{$include /help/_includes/api-mesh-related-links.md}}
