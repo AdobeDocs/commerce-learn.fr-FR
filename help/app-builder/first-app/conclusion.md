@@ -35,10 +35,10 @@ Maintenant que vous avez créé votre première application Adobe Developer App 
 
 ## Ressources App Builder supplémentaires
 
-* [](https://developer.adobe.com/app-builder/){target="_blank"}
+* [&#128279;](https://developer.adobe.com/app-builder/){target="_blank"}
 * [Version d’essai d’](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Documents ](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Forums ](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
-* [Instructions de contribution ](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Documents &#x200B;](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Forums &#x200B;](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [Instructions de contribution &#x200B;](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
