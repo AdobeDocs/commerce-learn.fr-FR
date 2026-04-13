@@ -32,7 +32,7 @@ Si la fonction Catalogue partagé est activée dans la configuration, le catalog
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410753?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

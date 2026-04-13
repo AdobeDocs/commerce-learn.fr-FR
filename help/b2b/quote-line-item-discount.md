@@ -31,6 +31,6 @@ Découvrez comment utiliser la remise sur ligne et afficher les valeurs à l’a
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445587?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
