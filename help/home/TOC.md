@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '932'
 ht-degree: 3%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -148,9 +148,10 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [Installation d’applications à partir d’Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
-      + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-      + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Utiliser les outils d’IA pour créer un PDC de paiement fractionné {#create-a-split-payment-poc}
+         + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+         + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + Créer des tarifs de livraison personnalisés à l’aide des outils d’IA {#custom-shipping-rates-ai-tools}
          + [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
