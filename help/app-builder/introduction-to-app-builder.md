@@ -102,6 +102,6 @@ Ready to start developing? The following link contains sample applications to he
 
 ## Support technique {#support}
 
-For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} for assistance.
+For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=fr){target="_blank"} for assistance.
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -50,5 +50,5 @@ In this video, learn how to manage product attributes when you have a storefront
 
 ## Ressources supplémentaires
 
-* [Product attributes - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+* [Product attributes - [!DNL Commerce] Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)
 * [PWA Studio - Developer documentation](https://developer.adobe.com/commerce/pwa-studio/)

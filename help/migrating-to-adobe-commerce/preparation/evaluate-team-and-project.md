@@ -56,4 +56,4 @@ On the frontend, experience with headless implementations can simplify the proce
 
 ## Documentation connexe
 
-[What is Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[What is Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)

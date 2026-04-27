@@ -50,6 +50,6 @@ Si d’autres membres de votre équipe ou fournisseurs de services ont besoin d�
 
 ## Ressources supplémentaires
 
-[Gestion des comptes utilisateur d’administration - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
+[Gestion des comptes utilisateur d’administration - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=fr)
 
-[Rôles utilisateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
+[Rôles utilisateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=fr)

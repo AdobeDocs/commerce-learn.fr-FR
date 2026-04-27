@@ -52,4 +52,4 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 
 ## Documentation supplémentaire
 
-* [Récapitulatif des commandes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Récapitulatif des commandes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=fr)

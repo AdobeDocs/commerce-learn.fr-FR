@@ -53,6 +53,6 @@ Avant d’ajouter des produits à votre catalogue, vous devez établir la struct
 
 ## Ressources supplémentaires
 
-* [Créer des catégories - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-* [Autorisations de catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-* [Barre de navigation supérieure - Guide  [!DNL Commerce]  gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+* [Créer des catégories - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=fr)
+* [Autorisations de catégorie - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=fr)
+* [Barre de navigation supérieure - Guide  [!DNL Commerce]  gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=fr)

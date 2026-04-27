@@ -57,5 +57,5 @@ Vous pouvez définir les paramètres de crédit suivants pour chaque profil de s
 
 ## Ressources supplémentaires
 
-* [Configurer le paiement en compte](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
-* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)
+* [Configurer le paiement en compte](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=fr#configure-payment-on-account)
+* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=fr)

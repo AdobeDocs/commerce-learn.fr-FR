@@ -31,7 +31,7 @@ ht-degree: 0%
 
 # Commerce tutorials {#videos}
 
-Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html), provides an opportunity to learn how to use Adobe Commerce and Magento Open Source to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
+Welcome to the [!DNL Commerce] videos and tutorials collection. Using these resources, along with the [documentation](https://experienceleague.adobe.com/docs/commerce.html?lang=fr), provides an opportunity to learn how to use Adobe Commerce and Magento Open Source to support your e-commerce business. The collection is designed to provide helpful content for backend developers, frontend developers, system administrators, merchants, and other roles within your organization.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -42,11 +42,11 @@ Welcome to the [!DNL Commerce] videos and tutorials collection. Using these reso
 
 >[!TIP]
 >
->The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) space provides access to recorded event content that you can watch on demand.
+>The [Commerce Events](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=fr) space provides access to recorded event content that you can watch on demand.
 
 ## Ressources supplémentaires
 
-* [Merchant documentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+* [Merchant documentation](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=fr)
 * [Developer documentation](https://developer.adobe.com/commerce)
 * [Adobe Digital Learning Services - Adobe Commerce course catalog](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 

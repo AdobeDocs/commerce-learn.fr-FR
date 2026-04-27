@@ -45,6 +45,6 @@ Découvrez comment gérer une instance Adobe Commerce Optimizer pour mettre à j
 
 ## Contenu connexe
 
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/get-started){target="_blank"}

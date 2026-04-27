@@ -48,7 +48,7 @@ Privilégiez une image mémoire de base de données que vous nettoyez pour suppr
 
 ## Utilisation de l’outil Adobe Commerce Cloud CLI
 
-L’[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) doit être installée pour créer une image mémoire de la base de données. Sur votre ordinateur local, ouvrez un répertoire et exécutez la commande suivante. Remplacez `your-project-id` par votre ID de projet (similaire à `asasdasd45q`). Remplacez `your-environment-name` par le nom de votre environnement, par exemple `master` ou `staging`.
+L’[Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=fr) doit être installée pour créer une image mémoire de la base de données. Sur votre ordinateur local, ouvrez un répertoire et exécutez la commande suivante. Remplacez `your-project-id` par votre ID de projet (similaire à `asasdasd45q`). Remplacez `your-environment-name` par le nom de votre environnement, par exemple `master` ou `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -284,7 +284,7 @@ Pour accéder directement à la base de données MariaDB, utilisez SSH pour vous
    magento-cloud ssh
    ```
 
-2. Récupérez les informations d’identification de connexion MySQL à partir des propriétés `database` et `type` de la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
+2. Récupérez les informations d’identification de connexion MySQL à partir des propriétés `database` et `type` de la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=fr#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -330,7 +330,7 @@ After you configure the connection, you can use a MySQL GUI to run queries on a 
 
 ## Connecting directly to the cloud project database to run SQL
 
-The following method uses the `magento-cloud` CLI to connect directly to the MySQL database and run SQL for faster querying. If you need a copy of this database, use one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+The following method uses the `magento-cloud` CLI to connect directly to the MySQL database and run SQL for faster querying. If you need a copy of this database, use one of the alternative methods to [create a database dump](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=fr).
 
 ```bash
 magento-cloud db:sql    
@@ -390,7 +390,7 @@ MariaDB [main]>
 
 ## Ressources supplémentaires
 
-* [Interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-* [Set up MySQL service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-* [Set up a remote MySQL database connection](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-* [Create database dump on Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+* [Interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=fr)
+* [Set up MySQL service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=fr)
+* [Set up a remote MySQL database connection](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=fr)
+* [Create database dump on Adobe Commerce on cloud infrastructure](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=fr)

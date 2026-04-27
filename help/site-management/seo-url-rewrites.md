@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
 TQID: https://experienceleague.adobe.com/rMtOFlHuXwFeZzdDdeYfANHlZM6mQYPr-Z7oTkyjaQ8
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -51,5 +51,5 @@ L’outil Réécriture d’URL permet de modifier toute URL associée à un prod
 
 ## Ressources supplémentaires
 
-* [Réécritures d’URL - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-* [Général > Web - [!DNL Commerce] Guide de référence de configuration](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+* [Réécritures d’URL - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=fr)
+* [Général > Web - [!DNL Commerce] Guide de référence de configuration](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=fr)

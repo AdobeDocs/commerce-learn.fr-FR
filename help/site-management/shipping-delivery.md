@@ -49,6 +49,6 @@ La gestion de vos méthodes d&#39;expédition et de livraison est essentielle po
 
 ## Ressources supplémentaires
 
-* [Paramètres d’expédition -  [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html)
-* [Méthodes de diffusion de base -  [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html#basic-delivery-methods)
-* [Configuration du transporteur -  [!DNL Commerce] Guide sur l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html)
+* [Paramètres d’expédition -  [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-settings.html?lang=fr)
+* [Méthodes de diffusion de base -  [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/delivery.html?lang=fr#basic-delivery-methods)
+* [Configuration du transporteur -  [!DNL Commerce] Guide sur l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers.html?lang=fr)

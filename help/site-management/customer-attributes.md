@@ -50,5 +50,5 @@ Customer attributes provide the information that is required to support the orde
 
 ## Ressources supplémentaires
 
-* [Customer attribute properties - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-* [Create an Individual Customer Account - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+* [Customer attribute properties - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=fr)
+* [Create an Individual Customer Account - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=fr)

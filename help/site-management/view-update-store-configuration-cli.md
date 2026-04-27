@@ -75,5 +75,5 @@ To view a page in terminal and show line numbers `cat -n vendor/magento/module-e
 
 ## Ressources supplémentaires
 
-* [Command Line Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
-* [Configure Admin security](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}
+* [Command Line Tool](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=fr){target="_blank"}
+* [Configure Admin security](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=fr){target="_blank"}

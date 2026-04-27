@@ -50,4 +50,4 @@ Les règles de produits associés vous permettent de cibler la sélection de pro
 
 ## Ressources supplémentaires
 
-[Règles relatives aux produits associés -  [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Règles relatives aux produits associés -  [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=fr)

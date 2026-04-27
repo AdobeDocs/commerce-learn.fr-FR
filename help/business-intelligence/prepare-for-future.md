@@ -47,7 +47,7 @@ Regardez cette série de vidéos pour mieux comprendre les changements sans pré
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fournit une vue d’ensemble complète pour obtenir de meilleures informations et résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr){target="_blank"} fournit une vue d’ensemble complète pour obtenir de meilleures informations et résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
 
 ## À qui s&#39;adresse cette vidéo ?
 
