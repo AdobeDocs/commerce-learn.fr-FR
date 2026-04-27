@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '924'
 ht-degree: 3%
 
 ---
@@ -53,7 +53,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -146,58 +146,59 @@ ht-degree: 3%
       + [Mutations](../graphql-rest/graphql-mutations.md)
       + [Schéma](../graphql-rest/graphql-schema.md)
    + Adobe Developer App Builder {#adobe-developer-app-builder}
-      + [Installing Apps from Adobe Exchange](../app-builder/install-app-builder-app.md)
-      + [Introduction to App Builder](../app-builder/introduction-to-app-builder.md)
+      + [Installation d’applications à partir d’Adobe Exchange](../app-builder/install-app-builder-app.md)
+      + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
       + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-      + [Extensibility Framework for App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-      + Create custom shipping rates using AI Tools {#custom-shipping-rates-ai-tools}
-         + [Introduction and Setup](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-         + [AI tools and Adobe starter kit](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-         + [Implementation and testing](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-         + [Provide feedback to Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-      + Build your first App builder App {#first-app}
+      + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+      + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Créer des tarifs de livraison personnalisés à l’aide des outils d’IA {#custom-shipping-rates-ai-tools}
+         + [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+         + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+         + [Implémentation et tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+         + [Fournir des commentaires à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+      + Créer votre première application App Builder {#first-app}
          + [Vue d’ensemble](../app-builder/first-app/overview.md)
-         + [Generate and configure the .env file](../app-builder/first-app/env-file.md)
-         + [Description and usage of the app.config.yaml file](../app-builder/first-app/app-config-yaml-file.md)
-         + [Learn about the actions folder](../app-builder/first-app/actions-folder.md)
-         + [Learn about the test folder](../app-builder/first-app/test-folder.md)
-         + [Discover the purpose of the web-src folder](../app-builder/first-app/web-src-folder.md)
-         + [Testing locally](../app-builder/first-app/testing-locally.md)
-         + [Testing Using App Builder URL](../app-builder/first-app/testing-app-builder-url.md)
+         + [Générer et configurer le fichier .env](../app-builder/first-app/env-file.md)
+         + [Description et utilisation du fichier app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+         + [En savoir plus sur le dossier Actions](../app-builder/first-app/actions-folder.md)
+         + [En savoir plus sur le dossier test](../app-builder/first-app/test-folder.md)
+         + [Découvrez l’objectif du dossier web-src](../app-builder/first-app/web-src-folder.md)
+         + [Test local](../app-builder/first-app/testing-locally.md)
+         + [Test à l’aide de l’URL d’App Builder](../app-builder/first-app/testing-app-builder-url.md)
          + [Conclusion](../app-builder/first-app/conclusion.md)
-         + [Sample Module source code](https://github.com/magento/app-builder-samples){target="_blank"}
-      + IO Events for Adobe Commerce {#io-events}
-         + [Getting started IO Events](../io-events/getting-started-io-events.md)
+         + [Exemple de code source de module](https://github.com/magento/app-builder-samples){target="_blank"}
+      + Événements d’E/S pour Adobe Commerce {#io-events}
+         + [Prise en main des événements IO](../io-events/getting-started-io-events.md)
          + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
          + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-         + [Create an App Builder project](../io-events/create-app-builder-project.md)
+         + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
          + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-         + [Adobe Commerce module development](../io-events/commerce-module-development.md)
+         + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
          + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
-   + API Mesh {#api-mesh}
+   + Maillage API {#api-mesh}
       + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
-      + [API Mesh starter kit workflows](../api-mesh/starter-kit-workflows.md)
-      + [Get started with API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Installing Adobe IO and mesh plugin](../api-mesh/installing-aio-mesh-plugin.md)
-      + [Working with projects and workspaces](../api-mesh/aio-projects-workspaces.md)
-      + [Create single source GraphQL API mesh](../api-mesh/graphql-single-source.md)
-      + [Create multiple source GraphQL API mesh](../api-mesh/graphql-multiple-source.md)
+      + [Workflows du kit de démarrage du maillage API](../api-mesh/starter-kit-workflows.md)
+      + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
+      + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
+      + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
+      + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 
 + Observability {#observability}
-   + [Observability overview](../observability/overview.md)
-   + [Open Telemetry](../observability/open-telemetry.md)
-   + [Demo setup and configuration](../observability/demo-setup-configuration.md)
-   + [Demo](../observability/demo.md)
-+ Global Reference Architecture {#global-reference-architecture-implementation-techniques}
+   + [Présentation de l’observabilité](../observability/overview.md)
+   + [Télémétrie ouverte](../observability/open-telemetry.md)
+   + [Paramétrage et configuration de la démonstration](../observability/demo-setup-configuration.md)
+   + [Démo](../observability/demo.md)
++ Architecture de référence globale {#global-reference-architecture-implementation-techniques}
    + [Vue d’ensemble](../global-reference-architecture/overview.md)
-   + [Split Git](../global-reference-architecture/split-git.md)
-   + [Bulk Packages](../global-reference-architecture/bulk-packages.md)
-   + [Separate packages](../global-reference-architecture/separate-packages.md)
+   + [Fractionner Git](../global-reference-architecture/split-git.md)
+   + [Packages en bloc](../global-reference-architecture/bulk-packages.md)
+   + [Packages distincts](../global-reference-architecture/separate-packages.md)
    + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Help and support {#help-and-support}
-   + [Create a support ticket](../help-and-support/create-a-support-ticket.md)
-   + [Search, track, comment and escalate support ticket](../help-and-support/search-track-comment-escalate-support-ticket.md)
-   + [Add and remove watchers, close and reopen a ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Aide et support {#help-and-support}
+   + [Créer un ticket d’assistance](../help-and-support/create-a-support-ticket.md)
+   + [Rechercher, suivre, commenter et escalader le ticket d’assistance](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Ajouter et supprimer des observateurs, fermer et rouvrir un ticket](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + Administration de la boutique {#admin}
    + [Gérer les rôles utilisateur et les autorisations](../site-management/users-roles-permissions.md)
@@ -224,31 +225,31 @@ ht-degree: 3%
    + [Inventory management](../site-management/inventory-management.md)
    + [Créer des attributs de produit](../site-management/product-attributes-create.md)
    + [Utilisation des attributs de produit avec PWA Studio](../site-management/product-attributes-pwa.md)
-   + [Manage SEO Metadata](../site-management/seo-metadata.md)
-   + [Manage URL Rewrites for SEO](../site-management/seo-url-rewrites.md)
-   + [AR Viewer](../site-management/augmented-reality.md)
-   + [Catalog Import and update](../site-management/catalog-import.md)
-+ Content Management {#content}
-   + [Page Builder Overview](../site-management/page-builder-overview.md)
-   + [Create Static and Dynamic Blocks](../site-management/static-dynamic-blocks.md)
-   + [Create Widgets](../site-management/widgets.md)
-   + [Use Content Templates](../site-management/content-templates.md)
-   + [Content Staging](../site-management/content-staging.md)
-   + [Manage the Media Gallery](../site-management/media-gallery.md)
-+ Marketing Tools {#marketing}
-   + [Create Catalog Price Rules](../site-management/catalog-price-rules.md)
-   + [Create Cart Price Rules](../site-management/cart-price-rules.md)
-   + [Manage Related Product Rules](../site-management/related-product-rules.md)
-   + [Set Up Product Recommendations](../site-management/product-recommendations.md)
-   + [Introduction to Live Search](../site-management/live-search.md)
-   + [Live Search for recommendations](../site-management/live-search-recommendations.md)
-   + [Integrate Commerce with AJO](../site-management/integrate-commerce-ajo.md)
-+ Orders and Fulfillment {#orders}
-   + [Manage Order Status](../orders-and-fulfillment/order-status.md)
-   + [Checking Inventory Status](../orders-and-fulfillment/checking-inventory-status.md)
-+ B2B for Adobe Commerce {#b2b}
-   + [Manage Company Accounts](../b2b/company-accounts.md)
-   + [Manage Shared Catalogs](../b2b/shared-catalogs.md)
+   + [Gestion des métadonnées d’optimisation du moteur de recherche](../site-management/seo-metadata.md)
+   + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../site-management/seo-url-rewrites.md)
+   + [Visionneuse AR](../site-management/augmented-reality.md)
+   + [Importation et mise à jour de catalogues](../site-management/catalog-import.md)
++ Gestion de contenu {#content}
+   + [Présentation de Page Builder](../site-management/page-builder-overview.md)
+   + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
+   + [Création de widgets](../site-management/widgets.md)
+   + [Utiliser des modèles de contenu](../site-management/content-templates.md)
+   + [Évaluation du contenu](../site-management/content-staging.md)
+   + [Gestion de la galerie de médias](../site-management/media-gallery.md)
++ Outils marketing {#marketing}
+   + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
+   + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
+   + [Gestion des règles de produits associés](../site-management/related-product-rules.md)
+   + [Configurer des recommandations de produits](../site-management/product-recommendations.md)
+   + [Présentation de Live Search](../site-management/live-search.md)
+   + [Live Search de recommandations](../site-management/live-search-recommendations.md)
+   + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
++ Commandes et exécution {#orders}
+   + [Gérer le statut de la commande](../orders-and-fulfillment/order-status.md)
+   + [Vérification du statut du stock](../orders-and-fulfillment/checking-inventory-status.md)
++ B2B pour Adobe Commerce {#b2b}
+   + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
+   + [Gérer les catalogues partagés](../b2b/shared-catalogs.md)
    + [Gérer le crédit d’entreprise](../b2b/company-credit.md)
    + [Commandes et approbations d&#39;achat](../b2b/purchase-orders.md)
    + Citation {#b2b-quote}
@@ -276,6 +277,4 @@ ht-degree: 3%
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Préparer l’avenir](../business-intelligence/prepare-for-future.md)
-
-
 
