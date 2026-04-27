@@ -56,7 +56,7 @@ Adobe Commerce Intelligence SQL Report Builder lets you query your data warehous
 * Build a visualization from the query results.
 * Save the report to a dashboard for your team.
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346409?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

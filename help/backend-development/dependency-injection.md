@@ -42,7 +42,7 @@ L’injection de dépendance est un motif de conception qui permet à un objet A
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412446?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

@@ -45,7 +45,7 @@ Using templates saves you time and effort when creating content (or replacing ol
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410842?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

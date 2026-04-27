@@ -55,7 +55,7 @@ In this video, learn how to set up product recommendations.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449946?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

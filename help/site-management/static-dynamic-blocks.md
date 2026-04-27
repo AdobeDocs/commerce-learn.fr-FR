@@ -46,7 +46,7 @@ Un bloc est une unité modulaire de contenu qui peut être positionnée presque 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411068?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

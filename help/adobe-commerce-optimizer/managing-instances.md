@@ -41,7 +41,7 @@ Découvrez comment gérer une instance Adobe Commerce Optimizer pour mettre à j
 * Mettre à jour le nom et les descriptions
 * Rechercher les points d’entrée et les identifiants clés pour les intégrations
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470234?captions=fre_fr&learn=on)
 
 ## Contenu connexe
 

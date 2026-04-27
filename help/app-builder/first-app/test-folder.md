@@ -41,7 +41,7 @@ Il s’agit d’un exemple simple qui peut être étendu pour créer des tests c
 * Brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 
->[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421061?captions=fre_fr&learn=on)
 
 ## Exemples de code
 

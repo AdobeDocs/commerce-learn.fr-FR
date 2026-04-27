@@ -47,4 +47,4 @@ L’intégration de l’IA à Adobe Commerce centralise la gestion des ressource
 * Une synchronisation transparente entre les produits et les ressources.
 * Contrôle complet du cycle de vie, avec approbation, suppression et expiration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434078?captions=fre_fr&learn=on)

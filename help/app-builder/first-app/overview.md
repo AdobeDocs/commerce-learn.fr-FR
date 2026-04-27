@@ -60,7 +60,7 @@ This tutorial was designed for you to follow the order of pages in the left navi
 * Attentes relatives à l’utilisation de l’exemple de module
 * Parties réutilisables de dans l’exemple de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421024?captions=fre_fr&learn=on)
 
 {{avoid-400-error}}
 

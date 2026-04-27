@@ -46,7 +46,7 @@ Les règles de produits associés vous permettent de cibler la sélection de pro
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411062?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

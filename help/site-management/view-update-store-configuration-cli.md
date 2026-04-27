@@ -40,7 +40,7 @@ A demonstration for how to view, set, and find config values with the Commerce C
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439972?captions=fre_fr&learn=on)
 
 ## Some commands used in the tutorial
 

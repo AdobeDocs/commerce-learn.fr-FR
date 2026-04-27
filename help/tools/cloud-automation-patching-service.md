@@ -43,7 +43,7 @@ Service de correctifs d’Adobe Cloud Automation (CAPS), une fonctionnalité de 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476249?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 

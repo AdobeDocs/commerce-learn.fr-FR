@@ -49,7 +49,7 @@ Avant d’ajouter des produits à votre catalogue, vous devez établir la struct
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410134?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

@@ -41,7 +41,7 @@ Découvrez comment ajouter et supprimer des observateurs, ainsi que fermer et ro
 * Découvrez comment fermer un ticket d’assistance
 * Découvrez comment rouvrir un ticket d’assistance
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441352?captions=fre_fr&learn=on)
 
 ## Guide du centre d’aide de la base de connaissances Commerce
 

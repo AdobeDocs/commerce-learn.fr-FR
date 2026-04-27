@@ -48,7 +48,7 @@ For small business, mid-market contender, or large enterprise, Payment Services 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343990?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410789?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

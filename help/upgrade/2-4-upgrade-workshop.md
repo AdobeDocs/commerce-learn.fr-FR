@@ -59,7 +59,7 @@ In this workshop, Adobe Commerce partnered with Merkle to share:
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432521?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

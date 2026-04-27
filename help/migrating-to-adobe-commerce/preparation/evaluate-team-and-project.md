@@ -52,7 +52,7 @@ On the frontend, experience with headless implementations can simplify the proce
 * Learn some frontend and backend Considerations.
 * Plan for a smooth migration by evaluating existing modules, upgrading core applications, and integrating with other Adobe solutions.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447445?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 

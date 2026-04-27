@@ -45,7 +45,7 @@ Les règles fiscales intègrent une combinaison de classe de produits, de classe
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410211?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

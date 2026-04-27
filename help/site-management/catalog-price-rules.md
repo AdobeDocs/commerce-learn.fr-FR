@@ -43,7 +43,7 @@ Catalog price rules can be used to offer products to buyers at a discounted pric
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410848?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

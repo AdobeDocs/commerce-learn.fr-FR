@@ -50,4 +50,4 @@ _ New and existing customers exploring Adobe Commerce&#39;s Edge delivery storef
 * Gain an understanding for optimization through A/B Testing.
 * Learn a few advanced tools and AI integration to refine content, generate variations, and enhance the overall promotional strategy.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433534?captions=fre_fr&learn=on)

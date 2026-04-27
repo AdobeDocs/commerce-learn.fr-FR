@@ -47,7 +47,7 @@ Your store is loaded with places where you can enter keyword-rich metadata to im
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410174?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

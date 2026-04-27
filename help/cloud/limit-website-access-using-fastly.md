@@ -47,7 +47,7 @@ Restreindre l’accès au site Adobe Commerce avec les listes de contrôle d’a
 * Développeur Adobe Commerce
 * Ingénieur de fiabilité du site
 
->[!VIDEO](https://video.tv.adobe.com/v/3464779?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464781?captions=fre_fr&learn=on)
 
 ## Exemple de code
 

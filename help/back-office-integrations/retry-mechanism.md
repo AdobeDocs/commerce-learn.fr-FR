@@ -48,7 +48,7 @@ Learn how the retry mechanism functions within the context of the &#39;consumer&
 * Visual indicators in the developer console, such as warning icons for failed events and circular arrow icons for retried events.
 * The &#39;consumer&#39; runtime actions play a crucial role in determining the appropriate HTTP response status codes for event handling.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449075?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

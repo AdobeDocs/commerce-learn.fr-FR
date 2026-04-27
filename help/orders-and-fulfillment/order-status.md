@@ -43,7 +43,7 @@ When a customer places an order, a sales order is created as a temporary record 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410797?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

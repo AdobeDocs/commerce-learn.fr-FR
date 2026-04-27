@@ -47,7 +47,7 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412439?captions=fre_fr&learn=on)
 
 ## Exemple de code
 

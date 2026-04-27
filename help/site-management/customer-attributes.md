@@ -46,7 +46,7 @@ Customer attributes provide the information that is required to support the orde
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410184?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

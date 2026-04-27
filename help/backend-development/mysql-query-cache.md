@@ -45,7 +45,7 @@ Learn what MySQL query cache is and some basic understanding for how it works. L
 * See how the SQL is saved and used in finding a matching query cache
 * Some tips on configuration settings
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423383?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

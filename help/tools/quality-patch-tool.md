@@ -50,7 +50,7 @@ L’équipe d’assistance d’Adobe Commerce et la communauté Magento Open Sou
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410783?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 

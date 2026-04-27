@@ -46,7 +46,7 @@ Découvrez comment créer un produit de carte cadeau à l’aide de l’API REST
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453079?captions=fre_fr&learn=on)
 
 ## Création d’une carte cadeau avec une payload simple
 

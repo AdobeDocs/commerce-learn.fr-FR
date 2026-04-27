@@ -50,7 +50,7 @@ This video is part of the Adobe Commerce Cloud technical onboarding series. It e
 * Validation, optimization, and debugging workflows.
 * ECE-Tools, Quality Patches Tool, New Relic, Xdebug, and log management.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432813?captions=fre_fr&learn=on)
 
 ## Documentation Experience League mentionnée dans la vidéo
 
