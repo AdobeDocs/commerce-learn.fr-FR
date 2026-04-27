@@ -1,8 +1,8 @@
 ---
-title: Commerce Intelligence - Report Builder de cohorte
-description: Découvrez comment utiliser le Report Builder de cohortes de Commerce Intelligence pour créer des rapports et des analyses optimisés qui sont pertinents pour votre entreprise.
-landing-page-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder de cohortes de Commerce Intelligence pour créer des rapports et des analyses optimisés qui sont pertinents pour votre entreprise.
-short-description: Regardez cette vidéo pour découvrir comment utiliser le Report Builder de cohortes de Commerce Intelligence pour créer des rapports et des analyses optimisés qui sont pertinents pour votre entreprise.
+title: Commerce Intelligence - Cohort Report Builder
+description: Learn how to use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
+landing-page-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
+short-description: Watch this video to learn how use the Commerce Intelligence Cohort Report Builder to create optimized reporting and analysis that is relevant to your business.
 kt: 10288
 doc-type: feature video
 duration: 103
@@ -15,31 +15,48 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 1d5d6f96-3e0d-4c0d-a8fe-370be6ea1b38
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/H78NPo0SNXPVAnxcBJIn90lUwY4TNWOYenCJgneQzkU
+product_v2:
+  - id: cc9c1b69-d771-4a04-84d3-df2e3989418f
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b6935462-7263-4ced-a703-60de6a5aeb2d
+  - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: 262
 ht-degree: 0%
 
 ---
 
-# Commerce Intelligence - Report Builder de cohorte
+# Commerce Intelligence - Cohort Report Builder
 
-Avez-vous déjà voulu étudier le comportement des différents sous-ensembles de vos utilisateurs au fil du temps ? Par exemple, vous êtes-vous déjà demandé si les utilisateurs qui s’inscrivent pendant une période de promotion ont un chiffre d’affaires moyen sur toute leur durée de vie plus élevé que les utilisateurs qui ne s’inscrivent pas ? Si la réponse est _Oui_, le Report Builder de cohorte est l’outil idéal pour vous. Commerce Intelligence est optimisé pour effectuer cette analyse et la rendre pertinente pour votre entreprise.
+Have you ever wanted to study how different subsets of your users behave over time? For example, ever wondered if users who register during a promo period have a higher average lifetime revenue than users who don&#39;t? If the answer is _Yes_, then the Cohort Report Builder is the perfect tool for you. Commerce Intelligence is optimized to perform this analysis and make it relevant to your business.
 
 Dans cette vidéo :
 
-* Qu’est-ce que l’analyse des cohortes
-* Pourquoi c&#39;est important
-* Comment créer votre propre analyse des cohortes
+* What cohort analysis is
+* Why it&#39;s important
+* How to build your own cohort analysis
 
 >[!TIP]
 >
->Si vous découvrez Commerce Intelligence, le [Guide de l’utilisateur de Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr){target="_blank"} fournit une vue d’ensemble complète pour obtenir de meilleures informations et résultats commerciaux grâce à l’agrégation, l’analyse et la visualisation des données.
+>If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr){target="_blank"} provides a full overview for driving better business insights and results through data aggregation, analysis, and visualization.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Utilisateurs professionnels
-* Analystes des données
+* Business users
+* Data analysts
 
 ## Contenu vidéo
 
@@ -47,6 +64,6 @@ Dans cette vidéo :
 
 ## Ressources utiles
 
-[Utilisation de Cohort Report Builder - Guide d’utilisation de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=fr)
+[Using the Cohort Report Builder - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=fr)
 
-[Création d’une analyse qualitative des cohortes - Guide de l’utilisateur de Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=fr)
+[Create a qualitative cohort analysis - Commerce Intelligence User Guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=fr)

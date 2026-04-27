@@ -7,12 +7,25 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 624
-last-substantial-update: 2025-04-07T00:00:00Z
+last-substantial-update: 2025-04-07T00:00:00.000Z
 jira: KT-17553
 exl-id: beb0a6e1-e6b1-4ec0-976c-77a22a27e8a2
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/evduXZiZpjjhXbDahgpPjmemxRYcMhFJIwfu4GsYI9c
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1095'
+source-wordcount: 1127
 ht-degree: 0%
 
 ---
@@ -58,20 +71,20 @@ Pour plus d’informations, consultez [Présentation de l’interface de ligne d
 sed 's/.\.c\.(.)/\1/;s/.$//'
 ```
 
-La commande `sed` sous UNIX®Linux® signifie Éditeur de flux. Il est utilisé pour effectuer des transformations de texte de base sur un flux d’entrée (un fichier ou une entrée à partir d’un pipeline). Les utilisations courantes comprennent la recherche, la recherche et le remplacement, l’insertion et la suppression de texte. La `sed` de commande traite le texte ligne par ligne et applique des opérations spécifiées, ce qui en fait un outil puissant pour la manipulation de texte et les scripts.
+The command `sed` in UNIX®Linux® stands for Stream Editor. It is used to perform basic text transformations on an input stream (a file or input from a pipeline). Common uses include searching, finding and replacing, inserting, and deleting text. The command `sed` processes text line by line and applies specified operations, making it a powerful tool for text manipulation and scripting.
 
-Comme mentionné précédemment, il existe généralement 2 types d’URL renvoyés par l’interface de ligne de commande `magento-cloud`. Il existe une variation qui contient des `.com.c.c` au milieu. Cette variante est celle qui doit être manipulée. Si cette structure est détectée, elle nécessite la suppression de tout, du début de l’URL jusqu’à `.com.c.c`.  Il ne reste alors que la dernière partie de l’URL. Un exemple d’URL ressemble à `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Lorsque ce modèle est détecté, l’objectif est de tout conserver après `.c.`.  Dans cet exemple de code fourni, `sed 's/.\.c\.(.)/\1/'` est utilisé pour saisir cette partie et ignorer le reste de la valeur renvoyée d’origine. La partie restante de l’URL ressemble à quelque chose comme `abcikdxbg789.ent.magento.cloud/`.\
-Deux commandes sont en cours d’exécution dans `sed`. Ils sont séparés par un point-virgule. La deuxième partie de mon `sed` de commande `;s/.$//'` consiste à supprimer les barres obliques de fin si elles existent, à nettoyer cette URL pour qu’elle ressemble à `abcikdxbg789.ent.magento.cloud`.  À ce stade, l’URL a été nettoyée et prête pour la commande suivante.
+As mentioned earlier, there are typically 2 types of URLs returned from the `magento-cloud` cli. There is one variation which contains `.com.c.c` in the middle. This variant is the one which needs to be manipulated. If this structure is detected, it requires the removal everything starting from the beginning of the URL through `.com.c.c`.  Then, what is left is only the last part of the URL. An example URL looks like `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  When this pattern is detected, the goal is to keep everything after `.c.`.  In this example code provided, `sed 's/.\.c\.(.)/\1/'` is used to grab this part and ignore the rest of the original returned value. The remaining part of the URL resembles something like `abcikdxbg789.ent.magento.cloud/`.\
+There are two commands being executed in `sed`. They are separated by a semi-colon. The second part of my `sed` command `;s/.$//'` is to remove any trailing slashes if they exist, to clean up that URL to look like `abcikdxbg789.ent.magento.cloud`.  At this point, the URL has been cleaned up and ready for the next command.
 
-## Cartes avec dig
+## Xargs with dig
 
 ```bash
 xargs -I% dig +short {1..3}."%"
 ```
 
-La commande `xargs` sous UNIX®Linux® est utilisée pour créer et exécuter des lignes de commande à partir d’une entrée standard. Il prend l’entrée d’une barre verticale ou d’un fichier et la convertit en arguments pour une autre commande. Elle est particulièrement utile pour gérer un grand nombre d’arguments qui dépassent la limite du shell. La commande `xargs` peut être utilisée pour effectuer des opérations telles que le déplacement, la copie ou la suppression de fichiers. Il permet un traitement par lots efficace en transmettant plusieurs arguments aux commandes dans une seule exécution.
+The`xargs` command in UNIX®Linux® is used to build and execute command lines from standard input. It takes input from a pipe or a file and converts it into arguments for another command. It is particularly useful for handling large numbers of arguments that exceed the shell&#39;s limit. The command `xargs` can be used to perform operations like moving, copying, or deleting files. It allows for efficient batch processing by passing multiple arguments to commands in a single execution.
 
-La commande `dig`, abréviation de Domain Information Groper, est un outil d’administration réseau utilisé pour interroger les serveurs DNS (Domain Name System). Il permet de récupérer des informations sur les enregistrements DNS, tels que les enregistrements A, AAAA, MX et CNAME. La commande `dig` est généralement utilisée pour résoudre les problèmes de DNS, vérifier les configurations DNS et collecter des informations détaillées sur les noms de domaine et leurs adresses IP associées. À l’aide de plusieurs options et indicateurs, les utilisateurs et utilisatrices peuvent personnaliser la sortie pour afficher des détails spécifiques ou un résumé concis.
+The `dig` command, short for Domain Information Groper, is a network administration tool used to query DNS (Domain Name System) servers. It helps retrieve information about DNS records, such as A, AAAA, MX, and CNAME records. La commande `dig` est généralement utilisée pour résoudre les problèmes de DNS, vérifier les configurations DNS et collecter des informations détaillées sur les noms de domaine et leurs adresses IP associées. À l’aide de plusieurs options et indicateurs, les utilisateurs et utilisatrices peuvent personnaliser la sortie pour afficher des détails spécifiques ou un résumé concis.
 
 L’utilisation de `xargs` avec `dig` complique les choses, mais elle est nécessaire. L’objectif est de prendre cette URL nettoyée et de l’enregistrer.  Une fois l’URL enregistrée en tant que variable, elle est insérée dans la commande `dig`.
 
@@ -120,4 +133,4 @@ Ces environnements de niveau inférieur sont à clients multiples et partagent d
 
 ## Documentation connexe
 
-* [&#x200B; Adresses IP régionales &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Adresses IP régionales](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}

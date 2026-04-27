@@ -8,19 +8,38 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 498
-last-substantial-update: 2024-05-09T00:00:00Z
+last-substantial-update: 2024-05-09T00:00:00.000Z
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2:
+  - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1932'
+source-wordcount: 1982
 ht-degree: 0%
 
 ---
 
 # Le statut de l’inventaire vérifie les considérations relatives au développement et aux performances.
 
-L&#39;exactitude de l&#39;inventaire est un facteur très important. Certaines fonctionnalités natives peuvent permettre de s’assurer que ce risque est aussi faible que possible, telles que les commandes en souffrance et la définition du seuil de rupture de stock. Vous pouvez lire ces deux rubriques sur [&#128279;](https://experienceleague.adobe.com/fr/docs/commerce-admin/inventory/configuration/backorders) pour plus d’explications.
+L&#39;exactitude de l&#39;inventaire est un facteur très important. Certaines fonctionnalités natives peuvent permettre de s’assurer que ce risque est aussi faible que possible, telles que les commandes en souffrance et la définition du seuil de rupture de stock. Vous pouvez lire ces deux rubriques sur [Experience League](https://experienceleague.adobe.com/fr/docs/commerce-admin/inventory/configuration/backorders) pour plus d’explications.
 
 Il existe des projets et des cas d’utilisation pour lesquels des vérifications de statut de l’inventaire en temps réel sont demandées pour une boutique Adobe Commerce. Ce tutoriel permet à insight de gérer cette conversation en tenant compte des considérations de développement et de performances.
 
@@ -60,21 +79,21 @@ L’utilisation d’Adobe App Builder avec un maillage API est également une ex
 
 Adobe Developer App Builder fournit un framework d’extensibilité tiers unifié permettant d’intégrer et de créer des expériences personnalisées pour étendre les solutions Adobe. Adobe Commerce peut utiliser Adobe Developer App Builder. Ce serait un excellent cas d’utilisation pour étendre certaines fonctionnalités qui se produisent normalement dans l’application principale et la déplacer hors site. En supprimant certaines fonctionnalités de l’application Commerce, vous réduisez le nombre de modules et la complexité de l’application Commerce. En retour, un nombre réduit de personnalisations en cours de processus réduit la complexité de la mise à niveau et de la maintenance.
 
-Pour vous inspirer de la manière dont cela pourrait être réalisé, l’équipe d’Adobe a créé une documentation qui peut être une excellente source d’inspiration et fournir des exemples de code de travail. Lorsqu’un acheteur ajoute un produit au panier, un système de gestion des stocks tiers vérifie si l’article est en stock. Si c’est le cas, autorisez l’ajout du produit. Sinon, affichez un message d’erreur.  Pour obtenir des exemples de code et des informations supplémentaires, accédez à [Cas d’utilisation de Webhook](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart).
+Pour vous inspirer de la manière dont cela pourrait être réalisé, l’équipe d’Adobe a créé une documentation qui peut être une excellente source d’inspiration et fournir des exemples de code de travail. When a shopper adds a product to the cart, a third-party inventory management system checks whether the item is in stock. If it is, allow the product to be added. Otherwise, display an error message.  For code samples and further information go to [Webhook Use Cases](https://developer.adobe.com/commerce/extensibility/webhooks/use-cases/#add-product-to-cart).
 
-## Quand effectuer des vérifications d’inventaire
+## When to do inventory checks
 
-Le moment où il faudra vérifier si l&#39;inventaire est toujours disponible reviendra éventuellement à l&#39;acteur commercial, l&#39;architecte logiciel avec l&#39;apport d&#39;autres acteurs clés. Voici quelques moments appropriés à inclure lors de l’ajout d’un article au panier et lors de la saisie du workflow de passage en caisse. Tous les autres événements ajoutent simplement de la charge aux systèmes principaux lorsque cela n’est pas nécessaire. Gardez à l’esprit que l’objectif est de détecter un problème d’inventaire uniquement lorsqu’il est primordial. D’autres vérifications peuvent être utiles, mais si elles peuvent avoir un impact sur l’objectif global des vérifications de statut des stocks, elles doivent être soigneusement examinées et autorisées uniquement si les parties prenantes de l’entreprise ou d’autres sont conscientes du risque potentiel de charge supplémentaire sur les systèmes principaux.
+When to check if inventory is still available will eventually be up to the business stake holder, the software architect with some input from other key stakeholders. A few appropriate times would include when adding an item to the cart and when entering the checkout workflow. Any other events will simply add load to the backend systems when it may not be necessary. Keep in mind that the goal is to catch an inventory issue only when it is paramount. Other checks may be nice to have but if they may impact the overall goal for inventory status checks, they should be carefully considered and only allowed if the business stakeholders or others are aware of the potential risk for extra load on the backend systems.
 
-## Recherche de la source de l’inventaire
+## Research how the inventory source
 
-Il faut mener une enquête approfondie sur la source de l&#39;inventaire externe. Les éléments à évaluer sont les options d’API disponibles, la prise en charge de GraphQL et les temps de réponse attendus. Si la source d’inventaire a une bande passante de connexion limitée ou n’a jamais été conçue pour être utilisée dans une requête en temps réel, la possibilité d’utilisation est exclue et l’architecte doit plutôt envisager une utilisation en temps quasi réel.  Si les délais de requête de l’API dépassent les paramètres définis, cela exclura également qu’il s’agisse d’une option viable.  Par exemple, les réponses de l’api sont ® pour une requête unique, mais elles atteignent 500 à 900MS® avec une charge modérée.  La situation empirerait probablement avec une charge plus importante et exclurait la disponibilité des appels d’inventaire dynamique.
+Comprehensive investigation of the external inventory source is required. Items that should be evaluated are available API options, support for GraphQL, and expected response times. If the inventory source has a limited connection bandwidth or was never intended to be used in a real time request, the ability for use is excluded and the architect needs to consider near-real-time instead.  If the API request times exceed the defined parameters it will also exclude this from being a viable option.  An example of this would be api responses are 200MS® for one a time requests, but rise to 500 to 900MS® under moderate load.  This would likely just get worse with more load and rules out live inventory calls from being available.
 
-Veillez à tester les temps de réponse de l’api avec des requêtes simples et avec un volume élevé similaire au trafic attendu sur le site web en ligne. N’oubliez pas de tester simultanément toutes les zones de Commerce pour simuler des scénarios réels. S’il est attendu qu’un appel d’inventaire actif se produise sur les pages de produits, lors de l’affichage et de la modification d’un panier et lors du passage en caisse, le test de chargement doit simuler tous ces éléments en même temps pour imiter le comportement réel du client et les attentes d’un magasin.
+Be sure to test the api response times with simple requests as well as with a high volume similar to the expected traffic on the live website. Remember to test all areas from commerce at the same time to simulate real world scenarios. If the expectation is a live inventory call should occur on product pages, when viewing and editing a cart and during checkout, the load testing needs to simulate all of these at the same time to mimic real customer behavior and the expectation for a store.
 
-## Options de secours
+## Fallback options
 
-SI la source d’inventaire est en panne et que la surveillance est disponible, il est recommandé d’utiliser la fonctionnalité native d’Adobe Commerce. Cependant, avec une surveillance appropriée, l’expérience client peut changer de manière dynamique pour refléter la perte des contrôles d’inventaire en temps réel. Cela peut signifier qu&#39;une vente ou un événement est annulé de manière anticipée ou retiré de l&#39;affichage pour éviter les ventes excessives. Il faut tenir compte des attentes à l&#39;égard de ce qu&#39;il faut faire lorsque la source d&#39;inventaire est en panne pour quelque raison que ce soit et en discuter avec le propriétaire du magasin afin que tout le monde soit au courant de tout processus automatique qui prend le relais dans ces circonstances malheureuses.
+IF the inventory source is down and monitoring is available, using the native capability of Adobe Commerce is recommended. However, with proper monitoring the customer experience can dynamically change to reflect the loss of real time inventory checks. This may mean that a sale or event is canceled early or removed from display to avoid overselling. The expectation for what to do when the inventory source is down for any reason needs to be considered and discussed with the store owner so everyone is aware of any automatic process that takes over in that unfortunate circumstance.
 
 ## Conclusion
 

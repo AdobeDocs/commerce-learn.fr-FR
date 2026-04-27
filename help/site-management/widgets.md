@@ -1,39 +1,52 @@
 ---
-title: Création de widgets
-description: Découvrez comment créer et modifier des widgets afin que le contenu soit automatiquement mis à jour dans l’ensemble de votre boutique.
+title: Create Widgets
+description: Learn how to create and edit widgets so content updates automatically across your store.
 doc-type: Tutorial
 duration: 232
-last-substantial-update: 2023-04-27T00:00:00Z
+last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System
 topic: Commerce, Administration
 role: Developer, User
 level: Beginner
 jira: KT-17155
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/6dxodVlmh0w0hfVY8hftjgIFcW9ibNIoK-Ujip4gVzI
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: 106
 ht-degree: 0%
 
 ---
 
-# Création de widgets
+# Create Widgets
 
-Les widgets sont des composants réutilisables que vous pouvez créer et modifier pour mettre à jour automatiquement le contenu de votre boutique. Cette vidéo montre comment créer et gérer des widgets.
+Widgets are reusable components that you can create and modify to automatically update content across your store. This video shows how to create and manage widgets.
 
 ## À qui s&#39;adresse cette vidéo ?
 
 * Gestionnaires de site web
-* Concepteurs de contenu
+* Content designers
 
 ## Contenu vidéo
 
-* Identifiez les widgets et leur emplacement.
-* Créer et gérer des widgets dans l’administration.
+* Understand what widgets are and where they appear.
+* Create and manage widgets in the Admin.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411056?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
-* [Widgets - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=fr){target="_blank"}
-* [Créer et gérer des widgets - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=fr){target="_blank"}
+* [Widgets - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html?lang=fr){target="_blank"}
+* [Create and Manage Widgets - [!DNL Commerce] Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html?lang=fr){target="_blank"}

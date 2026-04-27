@@ -1,47 +1,61 @@
 ---
-title: Expérience client avec Edge Delivery Services
-description: Découvrez ce que les acheteurs voient et font sur la vitrine Adobe Commerce optimisée par Edge Delivery Services, notamment le panier, le passage en caisse, les remises, les tâches de compte, les commandes et les retours.
+title: Shopper experience with Edge Delivery Services
+description: Learn what shoppers see and do on the Adobe Commerce storefront powered by Edge Delivery Services, including cart, checkout, discounts, account tasks, orders, and returns.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: User
 level: Beginner
 doc-type: Technical Video
 duration: 596
-last-substantial-update: 2024-02-21T00:00:00Z
+last-substantial-update: 2024-02-21T00:00:00.000Z
 jira: KT-17259
 exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
-source-git-commit: 0eff93523a3c798c77c4750a325f5eb0b37f82f8
+TQID: https://experienceleague.adobe.com/3AYupbUJJncbDDt6wnSXU0MO2Em-6gOeCbzwgxMzpBQ
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 204
 ht-degree: 0%
 
 ---
 
 # Expérience client
 
-Découvrez comment la vitrine Commerce optimisée par Edge Delivery Services prend en charge les tâches courantes des acheteurs : ajout d’articles au panier, application des règles de prix de panier et des codes de coupon, passage en caisse en tant qu’invité, mise à jour des informations de compte, annulation des commandes, réorganisation et lancement des retours. La vidéo aborde également la gestion des commandes, la manière dont les clients appliquent des remises et le moment où plusieurs codes de coupon peuvent s’empiler.
+Learn how the Commerce storefront powered by Edge Delivery Services supports common shopper tasks: adding items to the cart, applying cart price rules and coupon codes, checking out as a guest, updating account information, canceling orders, reordering, and starting returns. The video also covers order management, how customers apply discounts, and when multiple coupon codes can stack.
 
-## Ce que vous apprenez
+## What you learn
 
-Vous apprendrez à naviguer dans l’expérience du storefront Adobe Commerce sur Edge Delivery Services, notamment le panier, les remises et les codes de coupon, le passage en caisse des invités, les mises à jour de compte, l’annulation et la réorganisation, les retours et un chemin plus fluide pour passer en caisse.
+You learn how to navigate the Adobe Commerce storefront experience on Edge Delivery Services, including the cart, discounts and coupon codes, guest checkout, account updates, canceling and reordering, returns, and a smoother path through checkout.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Propriétaires d’entreprise eCommerce
-* Administrateurs de site web
-* Spécialistes du marketing numérique
-* Représentants du service client
-* Professionnels de l&#39;informatique
-* Gestionnaires de boutique en ligne
-* Concepteurs d’IU/d’IU
+* eCommerce business owners
+* Website administrators
+* Digital marketers
+* Customer service representatives
+* IT professionals
+* Online store managers
+* UX/UI designers
 * Responsable des ventes
-* Spécialistes marketing
-* Chefs de produit
+* Marketing specialists
+* Product managers
 
 ## Contenu vidéo
 
-* Appliquez les règles de prix de panier et les codes de coupon lors du passage en caisse, y compris lorsque l’empilage est disponible.
-* Utiliser le panier et les commandes : ajouter des articles, extraire en tant qu&#39;invité, annuler des commandes, réorganiser et traiter les retours.
-* Mettez à jour les informations du compte, fusionnez les paniers d’invités et de clients et assurez la cohérence du passage en caisse.
+* Apply cart price rules and coupon codes during checkout, including when stacking is available.
+* Work with the cart and orders: add items, check out as a guest, cancel orders, reorder, and process returns.
+* Update account information, merge guest and customer carts, and keep checkout consistent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446764?captions=fre_fr&learn=on)

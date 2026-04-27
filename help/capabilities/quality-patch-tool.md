@@ -1,78 +1,96 @@
 ---
 title: Outil de correctifs de qualité
-description: Découvrez comment utiliser l’outil de correctifs de qualité lors du diagnostic d’un problème, de la recherche d’une solution et de l’application d’un correctif trouvé dans la liste des correctifs disponibles.
+description: Learn how to use the quality patch tool when diagnosing a problem, finding a solution and applying a patch found in the existing list of patches available.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 903
-last-substantial-update: 2024-07-17T00:00:00Z
+last-substantial-update: 2024-07-17T00:00:00.000Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/GpcJqSCn3XqLZtm-QdQ-ka9c-RdkG-C6Hd3FpXrh8-I
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+  - id: f42e0a1a-0d79-488d-a83f-f2c30672b137
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: 593
 ht-degree: 0%
 
 ---
 
-# Outil de correction de la qualité
+# Quality patch tool
 
-Découvrez comment utiliser l’outil de correctifs de qualité lors du diagnostic d’un problème, de la recherche d’une solution et de l’application d’un correctif trouvé dans la liste des correctifs disponibles.
+Learn how to use the quality patch tool when diagnosing a problem, finding a solution and applying a patch found in the existing list of patches available.
 
 ## Ce que vous apprendrez
 
-Découvrez comment trier un problème, puis utiliser certaines techniques de base pour trouver un correctif de qualité afin d’appliquer un correctif.
+Learn how to triage an issue, then use some basic techniques to find a quality patch to apply a fix.
 
 ## Audience
 
-* Les développeurs apprennent à résoudre les problèmes et à utiliser cet outil pour appliquer des correctifs GIT en cas de problèmes connus
+* Developers learning how to find issues and leverage this tool for applying GIT patches for known issues
 
 ## Contenu vidéo
 
-L’outil de correctifs de qualité est un utilitaire de ligne de commande pour Adobe Commerce et Magento Open Source. Voici ce qu’il vous permet de faire :
+The Quality Patches Tool is a command-line utility for Adobe Commerce and Magento Open Source. Here&#39;s what it allows you to do:
 
-* Affichez des informations générales sur les derniers correctifs de qualité.
-* Appliquez des correctifs de qualité à votre installation.
-* Rétablissement des correctifs appliqués si nécessaire
+* View general information about the latest quality patches.
+* Apply quality patches to your installation.
+* Revert applied patches if needed
 
-Ces correctifs sont développés à partir de la communauté Adobe Developers et Magento Open Source pour améliorer la stabilité et les performances. Gardez à l&#39;esprit qu&#39;il n&#39;est pas recommandé d&#39;appliquer un grand nombre de correctifs, car cela peut compliquer les futures mises à niveau.
+These patches are developed from Adobe Developers the Magento Open Source community to enhance stability and performance. Keep in mind that it&#39;s not recommended for applying large numbers of patches, as it can complicate future upgrades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454069?captions=fre_fr&learn=on)
 
-## Pourquoi utiliser l’outil de correctif de qualité ?
+## Why use the quality patch tool
 
-Vous pouvez utiliser l’outil de correctifs de la qualité pour Adobe Commerce ou Magento Open Source si vous souhaitez :
+You might want to use the Quality Patches Tool for Adobe Commerce or Magento Open Source if you&#39;re looking to:
 
-Améliorez la stabilité et les performances : les correctifs de qualité résolvent les problèmes, améliorent la sécurité et optimisent votre installation.
-Restez à jour : l’application de correctifs garantit que votre système est à jour et protégé.
-Annuler les modifications : si un correctif entraîne des problèmes inattendus, vous pouvez l’annuler à l’aide de l’outil. N’oubliez pas qu’il est préférable d’appliquer un nombre limité de correctifs pour éviter de compliquer les mises à niveau ultérieures.  
+Enhance stability and performance: Quality patches address issues, improve security, and optimize your installation.
+Stay up-to-date: Applying patches ensures that your system is current and protected.
+Revert changes: If a patch causes unexpected issues, you can revert it using the tool. Remember, it&#39;s best suited for applying a limited number of patches to avoid complicating future upgrades.  
 
-## Restrictions ou problèmes liés à l’utilisation de l’outil de correctif de qualité
+## Limitations or concerns with using the quality patch tool
 
-Bien que l’outil de correctifs de qualité offre des avantages, il existe quelques points à garder à l’esprit :
+While the Quality Patches Tool offers benefits, there are a few considerations to keep in mind:
 
-* Compatibilité : assurez-vous que les correctifs sont compatibles avec votre version spécifique d’Adobe Commerce ou de Magento Open Source.
-* Tests : testez toujours les correctifs dans un environnement d’évaluation avant de les appliquer à la production. Des problèmes inattendus peuvent survenir.
-* Dépendances de correctifs : certains correctifs peuvent dépendre d’autres. Tenez compte de toutes les conditions préalables.
-* Personnalisations : si vous avez apporté des modifications de code personnalisé, les correctifs peuvent entrer en conflit. Examinez attentivement les modifications.
-* Sauvegarde : sauvegardez votre installation avant d&#39;appliquer des correctifs pour éviter la perte de données.
+* Compatibility: Ensure that the patches are compatible with your specific version of Adobe Commerce or Magento Open Source.
+* Testing: Always test patches in a staging environment before applying them to production. Unexpected issues can arise.
+* Patch Dependencies: Some patches may depend on others. Be aware of any prerequisites.
+* Customizations: If you&#39;ve made custom code changes, patches might conflict. Review the changes carefully.
+* Back up: Back up your installation before applying patches to avoid data loss.
 
-Bien que l&#39;outil Correctifs de la qualité soit utile pour appliquer un nombre limité de correctifs, il n&#39;est pas recommandé pour gérer un grand volume de correctifs. L’application d’un trop grand nombre de correctifs peut compliquer les futures mises à niveau et maintenance. Si vous devez appliquer de nombreux correctifs, envisagez d’autres approches ou consultez un spécialiste Magento. 
+While the Quality Patches Tool is useful for applying a limited number of patches, it&#39;s not recommended for handling a large volume of patches. Applying too many patches can complicate future upgrades and maintenance. If you have numerous patches to apply, consider alternative approaches or consult with a Magento specialist. 
 
 ## Résumé
 
-L’outil de correctifs de qualité permet aux plateformes d’e-commerce d’améliorer la stabilité et la sécurité en appliquant des correctifs. Ces correctifs résolvent les problèmes, améliorent les performances et optimisent le système. La mise à jour de votre installation garantit une protection contre les vulnérabilités.
+The Quality Patches Tool allows e-commerce platforms to enhance stability and security by applying patches. These patches address issues, improve performance, and optimize the system. Keeping your installation up-to-date ensures protection against vulnerabilities.
 
-Avant d’appliquer des correctifs, il est essentiel de les tester dans un environnement d’évaluation. Vérifiez la compatibilité avec votre version spécifique d’Adobe Commerce ou de Magento Open Source. Certains correctifs peuvent avoir des dépendances. Examinez donc attentivement les conditions préalables.
+Before applying patches, it&#39;s crucial to test them in a staging environment. Ensure compatibility with your specific version of Adobe Commerce or Magento Open Source. Some patches may have dependencies, so review the prerequisites carefully.
 
- Sauvegardez votre installation avant d&#39;appliquer des correctifs pour éviter la perte de données. Si vous avez apporté des modifications de code personnalisé, sachez que les correctifs peuvent entrer en conflit. Appliquez les bonnes pratiques et surveillez l’impact de chaque correctif.
+ Back up your installation before applying patches to prevent data loss. If you&#39;ve made custom code changes, be aware that patches might conflict. Follow best practices and monitor the impact of each patch.
 
-## Articles et vidéos connexes
+## Related articles and videos
 
-* [Recherche des outils de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
+* [Quality Patch Tools search](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
 * [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/release-notes)
-* [Github pour les correctifs](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Utilisation de l’outil de correctifs de qualité](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Github for patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
+* [Usage of quality patch tool](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/usage)
 * [Vidéo technique sur QPT](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/tools/quality-patch-tool)

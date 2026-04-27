@@ -1,6 +1,6 @@
 ---
-title: Découvrez comment la mise en cache des requêtes mysql
-description: Parfois, les requêtes mysql sont sauvegardées en attendant un verrou. Ce tutoriel explique ce qu’est la mise en cache des requêtes et fournit quelques recommandations de paramètres en cas de problèmes.
+title: Learn how mysql query caching
+description: Sometimes mysql queries get backed up waiting for a lock. This tutorial explains what is query caching and some recommendations for settings if you have issues.
 kt: 13690
 doc-type: video
 duration: 444
@@ -12,16 +12,25 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/W91-fJGZtgfpp03ZtYmSh97oNqmCFpF8AvkTYDaOB-g
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: 165
 ht-degree: 0%
 
 ---
 
-# En savoir plus sur la mise en cache des requêtes mysql
+# Learn about mysql query caching
 
-Découvrez ce qu’est le cache de requête MySQL et les principes de base de son fonctionnement. Découvrez comment détecter un problème de mise en cache des requêtes mysql, en recherchant « wait for query cache lock » apparaissant dans un volume élevé dans les logs de requêtes lentes mysql.
+Learn what MySQL query cache is and some basic understanding for how it works. Learn how to detect an issue with mysql query caching, by finding &quot;waiting for query cache lock&quot; appearing in a high volume in the mysql slow query logs.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -31,14 +40,14 @@ Découvrez ce qu’est le cache de requête MySQL et les principes de base de so
 
 ## Contenu vidéo
 
-* En savoir plus sur la mise en cache des requêtes
-* Comment détecter si les paramètres de cache de requête peuvent poser un problème en recherchant « wait for query cache lock »
-* Découvrez comment le code SQL est enregistré et utilisé pour trouver un cache de requête correspondant
-* Quelques conseils sur les paramètres de configuration
+* Learn about query caching
+* How to detect if your query cache settings may be an issue by finding &quot;waiting for query cache lock&quot;
+* See how the SQL is saved and used in finding a matching query cache
+* Some tips on configuration settings
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423383?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 
-* [Directives générales MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=fr){target="_blank"}
-* [Réplication de la Galera et requêtes lentes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=fr){target="_blank"}
+* [General MySQL guidelines](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=fr){target="_blank"}
+* [Galera replication and slow queries](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=fr){target="_blank"}

@@ -1,6 +1,6 @@
 ---
-title: Valeurs de configuration
-description: Découvrez comment localiser, valider et gérer les valeurs de configuration dans Adobe Commerce à l’aide de core_config_data, de fichiers XML et de paramètres d’administration.
+title: Configuration values
+description: Learn how to locate, validate, and manage configuration values in Adobe Commerce using core_config_data, XML files, and admin settings.
 feature: Cloud, Configuration, System, Variables
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -8,39 +8,50 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 709
-last-substantial-update: 2024-11-08T00:00:00Z
+last-substantial-update: 2024-11-08T00:00:00.000Z
 jira: KT-16429
 exl-id: 9ff16e96-a63f-4fab-be7d-9160c1172603
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-DrHhEXwmrrLBb63QKAYRdKbWQEFmJZ4uUhJa5ORFEs
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: 309
 ht-degree: 0%
 
 ---
 
-# Valeurs de configuration
+# Configuration values
 
-Ce guide fournit un aperçu complet de la localisation, de la validation et de la gestion des valeurs de configuration dans Adobe Commerce. Il couvre les méthodes de base telles que l’interrogation de la table core_config_data et l’utilisation de commandes d’interface de ligne de commande, ainsi que les techniques avancées impliquant des fichiers XML et des configurations spécifiques à un environnement. Découvrez les bonnes pratiques pour maintenir la cohérence entre les différents environnements et comment utiliser des outils tels que l’interface utilisateur d’administration d’Adobe Commerce Cloud et .magento.app.yaml pour définir les variables d’environnement.
+This guide provides a comprehensive overview of how to locate, validate, and manage configuration values in Adobe Commerce. It covers basic methods like querying the core_config_data table and using CLI commands, as well as advanced techniques involving XML files and environment-specific configurations. Learn best practices for maintaining consistency across different environments and how to use tools like the Adobe Commerce Cloud admin UI and .magento.app.yaml for setting environment variables.
 
 ## À qui s’adresse cette vidéo ?
 
-* Développeurs et développeuses utilisant Adobe Commerce et Adobe Commerce Cloud
-* Les administrateurs système ou le personnel du support technique qui peuvent être amenés à apporter leur aide au niveau du serveur
+* Developers using the Adobe Commerce and Adobe Commerce Cloud
+* System administrators or technical support staff who may be asked to help at a server level
 
 ## Contenu vidéo
 
-* Découvrez comment rechercher des valeurs de configuration dans Adobe Commerce à l’aide du tableau core_config_data, de fichiers XML et de commandes d’interface de ligne de commande.
-* Découvrez comment modifier et remplacer les valeurs de configuration par le biais du panneau d’administration, du référentiel de code et des fichiers spécifiques à l’environnement.
-* Découvrez les bonnes pratiques de gestion des paramètres de configuration cohérents dans différents environnements à l’aide d’outils tels que app:config:dump et l’interface utilisateur d’administration d’Adobe Commerce Cloud.
+* Learn how to find configuration values in Adobe Commerce using the core_config_data table, XML files, and CLI commands.
+* Understand how to edit and override configuration values through the admin panel, code repository, and environment-specific files.
+* Discover best practices for maintaining consistent configuration settings across different environments using tools like app:config:dump and Adobe Commerce Cloud&#39;s admin UI.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
 
-## Documentation Experience League connexe
+## Related Experience League documentation
 
-* [Exporter la configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-* [Remplacer les paramètres de configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-* [Définissez les valeurs de configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-* [Configuration de référence config.php](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-* [Détails techniques du guide de configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [Export Configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [Override Config Settings](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [Set configuration values](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [Config reference config.php](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [Config guide technical details](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/deployment/technical-details)
 * [&#x200B; Valeurs de configuration verrouillées &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
 * [Valeurs enregistrées sur env.php](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

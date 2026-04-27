@@ -1,6 +1,6 @@
 ---
 title: Tronquer les logs
-description: Découvrez comment trier un déploiement ayant échoué en raison d’un disque dur saturé en tronquant les fichiers journaux volumineux.
+description: Learn how to triage a failed deployment because of a full hard drive by truncating large log files.
 feature: Cloud, Site Management
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -11,36 +11,48 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: 200
 ht-degree: 0%
 
 ---
 
 # Tronquer les logs
 
-Découvrez comment effectuer un triage et un déploiement ayant échoué en raison d’un disque dur saturé. Découvrez comment rechercher et quelles commandes peuvent être exécutées pour libérer de l’espace dans votre environnement Adobe Commerce Cloud.
+Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your Adobe Commerce Cloud environment.
 
-Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou utiliser d’autres méthodes pour obtenir une copie disponible sur le serveur avant de les tronquer.
+If you think you might need these log files, you can `rsync` them or use other methods to get a copy available off the server before you truncate them.
 
 ## À qui s’adresse cette vidéo ?
 
-* Développeurs et professionnels de l’informatique
+* Developers and IT Professionals
 * Administrateurs système
 
 ## Contenu vidéo
 
-* Diagnostiquer et résoudre un déploiement ayant échoué
-* Emplacement de certains grands fichiers journaux courants
-* Méthode rapide pour tronquer un fichier journal
+* Diagnose and Resolve a failed deployment
+* Where some common large log files are found
+* Quick method to truncate a log file
 
 >[!VIDEO](https://video.tv.adobe.com/v/3454585?captions=fre_fr&learn=on)
 
 
-## Commandes utilisées dans la vidéo
+## Commands used in the video
 
-Pour vérifier l&#39;espace disque `df -h`. Faites attention à la ligne dev/mapper/xxxx
+To check hard drive space `df -h`. Pay attention to the line dev/mapper/xxxx
 
 ```SHELL
 df -h
@@ -60,7 +72,7 @@ tmpfs                                   5.0M     0  5.0M   0% /run/lock
 ```
 
 
-Affichez les fichiers et leur taille dans un format lisible par l’utilisateur, tel que ko, mo et go à l’aide de la `ls -lah` de commande
+Display the files and their sizes in human readable format such as kb, mb and gb using the command `ls -lah`
 
 ```SHELL
 ls -lah
@@ -80,9 +92,9 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 -rw-rw-r-- 1 web web  516 Dec  6  2023 system.log
 ```
 
-## Exemples de journal tronqué
+## Examples for truncate log
 
-Après avoir envoyé le fichier dans le projet et l’environnement appropriés, accédez au répertoire `var/log` . Vous pouvez ensuite tronquer un fichier avec un élément similaire à `> some-log-file.log`
+After you ssh into the right project and environment, change into the `var/log` directory. Then you can truncate a file with something similar to `> some-log-file.log`
 
 ```BASH
 > support_report.log 
@@ -91,4 +103,4 @@ Après avoir envoyé le fichier dans le projet et l’environnement appropriés,
 
 ## Documentation connexe
 
-* [Notifications d’intégrité](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Health notifications](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

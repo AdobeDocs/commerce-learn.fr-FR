@@ -1,6 +1,6 @@
 ---
 title: Évaluer l'équipe et le projet
-description: Évaluez votre équipe et votre projet pour Adobe Commerce en vous concentrant sur les rôles, les points forts techniques, les aspects frontaux et principaux à prendre en compte pour une migration réussie.
+description: Evaluate your team and project for Adobe Commerce, focusing on roles, technical strengths, frontend, and backend considerations for a successful migration.
 feature: Backend Development, Saas, Storefront, Tools and External Services
 topic: Architecture, Collaboration, Development, Migration, Upgrade
 old-role: Architect, Developer
@@ -8,38 +8,52 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 336
-last-substantial-update: 2024-10-24T00:00:00Z
+last-substantial-update: 2024-10-24T00:00:00.000Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-1BqPg0V0-13eK-Xv8dr1IWslRuxgST7HQhcc-GGrKE
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: 290
 ht-degree: 0%
 
 ---
 
-# Migration vers Adobe Commerce - Évaluation de l’équipe et du projet
+# Migrating to Adobe Commerce - valuating the team and project
 
 {{only-for-on-prem-commerce-cloud}}
 
-Lorsque vous passez à Adobe Commerce, il est essentiel d’évaluer minutieusement votre équipe et votre projet. Votre équipe doit inclure des rôles clés tels que chefs de projet, testeurs d’assurance qualité, développeurs, parties prenantes de l’entreprise et responsables techniques. Évaluez les points forts techniques de votre équipe afin de vous assurer qu’ils correspondent aux objectifs de votre projet. Par exemple, une solide connaissance des intégrations JavaScript et back-end est idéale pour tirer parti d’Adobe Commerce et d’App Builder. Si votre équipe a plus d’expérience avec Java ou PHP, pensez à vous associer aux services Adobe Consulting pour la partie App Builder.
+When moving to Adobe Commerce, it&#39;s crucial to evaluate your team and project thoroughly. Your team should include key roles such as project managers, QA testers, developers, business stakeholders, and technical leads. Assess the technical strengths of your team to ensure they align with your project goals. For instance, a strong background in JavaScript and backend integrations is ideal for leveraging Adobe Commerce and App Builder. If your team is more experienced with Java or PHP, consider partnering with Adobe Consulting Services for the App Builder portion.
 
-Sur le front-end, l’expérience avec les implémentations découplées peut simplifier le processus. Adobe Edge Delivery Services peut améliorer les performances et accélérer les délais de lancement grâce à la création de documents, ce qui permet d’apporter des modifications sans l’aide d’un développeur. De plus, évaluez les modules PHP existants et les extensions tierces, et envisagez d’utiliser des modules App Builder préconfigurés pour minimiser le code personnalisé. La mise à niveau de l’application principale nécessite une planification minutieuse, notamment la suppression des attributs inutiles et l’évaluation des tables de base de données personnalisées pour rationaliser la migration des données. L’intégration d’Adobe Commerce à d’autres solutions Adobe, telles que Adobe Journey Optimizer et Real-time CDP, peut améliorer encore les fonctionnalités de votre projet.
+On the frontend, experience with headless implementations can simplify the process. Adobe&#39;s Edge Delivery Services can enhance performance and speed up launch times with document-based authoring, allowing changes without a developer. Additionally, evaluate existing PHP modules and third-party extensions, and consider using pre-built App Builder modules to minimize custom code. Upgrading the core application requires careful planning, including removing unnecessary attributes and evaluating custom database tables to streamline data migration. Integrating Adobe Commerce with other Adobe solutions, such as Adobe Journey Optimizer and Real-time CDP, can further enhance your project&#39;s capabilities.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Chefs de projet
-* Responsable technique/architecte
-* Développeur e-commerce
+* Project Managers
+* Technical Lead/Architect
+* E-commerce Developer
 
 ## Contenu vidéo {#video-content}
 
-* L&#39;évaluation d&#39;équipe consiste à évaluer les rôles et les forces techniques de votre équipe afin d&#39;assurer l&#39;alignement avec les objectifs du projet.
-* Découvrez quelques considérations sur le front-end et le back-end.
-* Planifiez une migration fluide en évaluant les modules existants, en mettant à niveau les applications principales et en intégrant d’autres solutions Adobe.
+* Team Evaluation consists of assessment of the roles and technical strengths of your team to ensure alignment with project goals.
+* Learn some frontend and backend Considerations.
+* Plan for a smooth migration by evaluating existing modules, upgrading core applications, and integrating with other Adobe solutions.
  
 >[!VIDEO](https://video.tv.adobe.com/v/3447445?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 
-[Qu’est-ce qu’Adobe Commerce &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)
+[What is Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)
