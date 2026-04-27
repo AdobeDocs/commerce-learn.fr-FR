@@ -1,44 +1,49 @@
 ---
-title: Flux transactionnel Edge Delivery Services
-description: Découvrez les services de diffusion Adobe Edge et comment modifier le flux transactionnel.
+title: Edge Delivery Services transactional flow
+description: Learn about Adobe Edge Delivery Services and how to change the transactional flow.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 525
-last-substantial-update: 2024-12-16T00:00:00Z
+last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 217
 ht-degree: 0%
 
 ---
 
-# Ajuster le flux transactionnel pour le passage en caisse
+# Adjust transactional flow for checkout
 
-Découvrez comment ajuster le flux transactionnel pour le passage en caisse à l’aide du menu déroulant du panier Edge Delivery Services.
+Learn how to adjust the transactional flow for checkout using Edge Delivery Services cart drop-in.
 
 ## Ce que vous apprendrez
 
-Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Commerce et ajuster le flux transactionnel pour montrer aux clients un nouvel ensemble de fonctionnalités en modifiant quelques lignes de code.  Découvrez également comment convertir ces modifications pour les gérer à partir de SharePoint afin de réaliser des tests AB.
+Gain an understanding on how to use Adobe Commerce cart drop in and adjust the transactional flow to show customers a new set of features by changing a few lines of code.  Also learn how to convert these changes to be managed from Sharepoint to conduct AB testing.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Les développeurs et les propriétaires de magasin découvrent Edge Delivery Services et ont besoin de modifier certains éléments de menu déroulant du panier.
-* Spécialistes du marketing et autres personnes intéressées par l’utilisation de SharePoint pour gérer les fonctionnalités et les tests AB.
+* Developers and store owners learning about Edge Delivery Services with a need to change some cart drop-in elements.
+* Marketers and others who are interested in using SharePoint to manage features and AB testing.
 
 ## Contenu vidéo
 
-* Mise à jour du sélecteur de quantité. Mettez à jour le sélecteur de quantité de produit d’un incrémenteur vers une liste déroulante, personnalisée pour afficher les valeurs comprises entre 1 et 20.
-* Affichage de la remise. Fonctionnalités implémentées pour afficher les pourcentages de remise et les remises en dollars pour les articles en vente dans le panier.
-* Flexibilité des tests A/B. Activation des configurations via SharePoint, ce qui permet aux spécialistes marketing de contrôler et de tester ces fonctionnalités.
-* Contrôle marketing amélioré. Gérez et testez facilement les configurations, améliorant l’expérience utilisateur et l’efficacité marketing.
+* Quantity Selector Update. Update the product quantity selector from an incrementor to a dropdown, customized to display values from 1 to 20.
+* Discount Display. Implemented features to show discount percentages and dollar amount discounts for sale items in the cart.
+* A/B Testing Flexibility. Enabled configurations through SharePoint, empowering marketers to control and test these features.
+* Enhanced Marketing Control. Easily manage and test configurations, improving user experience and marketing effectiveness.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442353?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
-## Documentation supplémentaire
+## Additional Documentation
 
-* [Configurer le résumé du panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=fr)
+* [Configure Cart Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

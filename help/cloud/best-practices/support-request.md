@@ -1,42 +1,47 @@
 ---
-title: Créer une demande d’assistance effective
-description: Découvrez comment créer un ticket d’assistance pour optimiser l’efficacité de la requête.
+title: Create an effective support request
+description: Learn about ways to create a support ticket to maximize the efficiency of the request.
 feature: Best Practices, Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 126
-last-substantial-update: 2024-08-23T00:00:00Z
+last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-15165
 exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/Si-izuH329pVtctIZ71FLXHfo48YaFtOGXGtAisu-tw
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: 519
 ht-degree: 0%
 
 ---
 
-# Demandes d’assistance effectives
+# Effective Support Requests
 
-Lors de la création d’un ticket d’assistance, il est important de l’envoyer par les canaux appropriés, de fournir des informations exactes et détaillées sur le problème, de sélectionner la bonne organisation et le motif de contact, de choisir le produit et la version appropriés, de passer en revue les articles suggérés pour les solutions potentielles, de vérifier toutes les informations avant l’envoi, de suivre la progression du ticket et d’engager une conversation avec l’équipe d’assistance, de marquer le ticket comme résolu lorsque le problème est résolu, et d’ouvrir un ticket de suivi si une assistance supplémentaire est nécessaire. &#x200B; N’oubliez pas d’envoyer le ticket par les canaux appropriés, de fournir des informations exactes et détaillées, de sélectionner l’organisation et le motif du contact appropriés, de choisir le produit et la version appropriés, de consulter les articles suggérés, de revérifier toutes les informations avant l’envoi, de suivre la progression du ticket, d’engager une conversation avec l’équipe d’assistance, de marquer le ticket comme résolu lorsque le problème est résolu, et d’ouvrir un ticket de suivi si nécessaire. &#x200B;
+When creating a support ticket, it is important to submit it through the appropriate channels, provide accurate and detailed information about the issue, select the correct organization and contact reason, choose the appropriate product and version, review suggested articles for potential solutions, double-check all the information before submitting, track the ticket&#39;s progress and engage in a conversation with the support team, mark the ticket as solved when the issue is resolved, and open a follow-up ticket if further assistance is needed. &#x200B; Remember to submit the ticket through the appropriate channels, provide accurate and detailed information, select the correct organization and contact reason, choose the appropriate product and version, review suggested articles, double-check all information before submitting, track the ticket&#39;s progress, engage in conversation with the support team, mark the ticket as solved when the issue is resolved, and open a follow-up ticket if needed. &#x200B;
 
-## Inclure des journaux ou des captures d’écran
+## Include logs or screenshots
 
-Plusieurs journaux sont utiles en fonction du problème en question. Si possible, recherchez une section du journal et incluez-la dans le cadre de la demande d’assistance. Ce fragment de journal aide les ingénieurs à comprendre les erreurs affichées et accélère le processus de triage. N’oubliez pas que chaque serveur d’applications comporte des journaux individuels, qui sont intégrés en tant qu’agrégats dans New Relic.  Cela signifie que vous pouvez rechercher toutes les erreurs dans un seul emplacement au lieu de lire les fichiers journaux individuels de chaque serveur d’applications. Comme dernière option, si une entrée est trouvée dans New Relic, une capture d’écran peut également être utilisée comme information supplémentaire et aider à accélérer le processus, mais il est préférable d’avoir une instruction NRQL.
+There are several logs that are helpful depending on the issue at hand. If possible, find a section of the log and include it as part of the support request. This snippet of the log helps the engineers understand the errors being shown and will expedite the triage process. Remember, every app server has individual logs, and those logs are fed into New Relic as an aggregate.  This means that you can search in one location for all errors instead of reading each application server&#39;s individual log files. As a final option, if there is an entry found in New Relic, a screenshot can also be used as additional information and help expedite the process, but having an NRQL statement is preferred.
 
-## Vérifiez que le fuseau horaire est référencé
+## Ensure that the time zone is referenced
 
-Veiller à ce que, lorsque les personnes contribuent à un problème de support, leur rappelle de clarifier leur fuseau horaire lorsqu’elles font référence à un incident. En référençant un fuseau horaire, l’équipe d’ingénierie d’assistance qui effectue des recherches dans les journaux et les événements peut se concentrer sur les périodes qui sont réellement pertinentes. N’oubliez pas que quelqu’un peut avoir plusieurs heures d’avance ou de retard sur les heures de journal du serveur.
+Ensuring that when people contribute to a support issue, remind them to clarify their time zone when referring to an incident. Referencing a timezone ensures that when the support engineering team is researching the logs and events, they are able to focus on the time frames that are actually relevant. Remember that someone can be many hours ahead or behind the server log times.
 
-## Décrire le tri initial effectué et les résultats
+## Describe initial triage taken and findings
 
-En discutant et en documentant toutes les étapes de triage effectuées jusqu’à présent, les ingénieurs d’assistance peuvent valider les hypothèses initiales. Si les étapes et les résultats de triage fournis sont suffisants, le processus global peut être accéléré. Cela permettra également de réduire le chevauchement des efforts et, au bout du compte, de documenter les résultats avec un certain niveau de validation.
+By discussing and documenting all triage steps taken so far helps the support engineers validate early assumptions. If the supporting triage steps and findings are provided it can expedite the overall process. This will also help reduce duplication of efforts and eventually provide a way to document the findings with a level of validation.
 
-## Liens vers les rapports New Relic ou fournir une instruction NRQL
+## Links to New Relic reports or provide NRQL statement
 
-La plupart des problèmes d’Adobe Commerce sont traçables via New Relic. L’examen des tableaux de bord New Relic ou des instructions NRQL personnalisées vous donne des informations sur l’origine de certains problèmes. Ces mêmes tableaux de bord et requêtes New Relic personnalisées peuvent être partagés. En fournissant ces liens dans le ticket d’assistance, les ingénieurs peuvent voir exactement ce qu’est le rapporteur.
+Many of the issues for Adobe Commerce are traceable through New Relic. By looking at the New Relic dashboards or custom NRQL statements give you insights to where some issues are originating. Those same dashboards and custom New Relic queries are shareable. By providing those links in the support ticket, the engineers are able to see exactly what the reporter is.
 
 >[!MORELIKETHIS]
 > 
-> * Guide de l’utilisateur de l’aide d’Adobe Commerce [&#128279;](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Adobe Commerce Help User Guide](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

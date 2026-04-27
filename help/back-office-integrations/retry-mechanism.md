@@ -1,7 +1,7 @@
 ---
-title: Utilisation de la fonctionnalité native d’un mécanisme de reprise
-description: Tirez parti du mécanisme de reprise de Adobe I/O Events pour les applications résilientes, y compris les conditions de reprise et les indicateurs visuels.
-landing-page-description: Découvrez et utilisez le mécanisme de reprise intégré de Adobe I/O Events pour améliorer la résilience des applications et gérer efficacement les activations d’événements.
+title: Use the Native Functionality of a Retry Mechanism
+description: Leverage Adobe I/O Events' retry mechanism for resilient applications, including retry conditions and visual indicators.
+landing-page-description: Understand and utilize Adobe I/O Events' built-in retry mechanism to enhance application resilience and manage event activations effectively.
 kt: 15872
 doc-type: video
 duration: 402
@@ -13,37 +13,42 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 394
 ht-degree: 0%
 
 ---
 
-# Utilisation du mécanisme de reprise de Adobe I/O Events pour la résilience des applications
+# Leverage Adobe I/O Events retry mechanism for application resilience
 
-La vidéo présente un guide complet sur l’utilisation du mécanisme de reprise intégré de Adobe I/O Events pour améliorer la résilience des applications. Découvrez comment des codes d’état de réponse HTTP spécifiques déclenchent des reprises d’événement. Adobe I/O Events utilise des stratégies d’interruption exponentielles et fixes pour les reprises, avec des intervalles allant d’une minute à 15 minutes. La documentation décrit également comment les indicateurs de reprise apparaissent dans Developer Console, avec des repères visuels tels que des icônes d’avertissement et des flèches circulaires indiquant respectivement les événements ayant échoué et ceux ayant fait l’objet d’une nouvelle tentative.
+The video outlines a comprehensive guide on leveraging Adobe I/O Events&#39; built-in retry mechanism to enhance application resilience. Learn how specific HTTP response status codes trigger event retries. Adobe I/O Events employs exponential and fixed back-off strategies for retries, with intervals increasing from one minute to 15 minutes. The documentation also details how retry indicators appear in the developer console, with visual cues like warning icons and circular arrows denoting failed and retried events, respectively.
 
-Découvrez comment le mécanisme de reprise fonctionne dans le contexte des actions d’exécution « consommateur », et déterminez si un événement doit être repris. Les réponses réussies sont indiquées par un code d’état 200, tandis que les réponses d’erreur incluent un objet d’erreur avec un attribut « statusCode ». L’action d’exécution consommateur détermine le code de réponse HTTP à renvoyer en fonction des résultats du traitement en aval, ce qui garantit une gestion efficace des événements et d’éventuelles activations réussies.
+Learn how the retry mechanism functions within the context of the &#39;consumer&#39; runtime actions, and determine whether an event is retried. Successful responses are indicated with a 200 status code, while error responses include an error object with a &#39;statusCode&#39; attribute. The &#39;consumer&#39; runtime action determines the HTTP response code to return based on downstream processing outcomes, ensuring efficient event handling and eventual successful activations.
 
 ## Audience
 
-* Les développeurs qui souhaitent comprendre les codes de statut de réponse HTTP spécifiques qui déclenchent des reprises d’événement.
-* Les équipes qui souhaitent en savoir plus sur les stratégies d’interruption exponentielle et fixe utilisées par Adobe I/O Events pour les reprises.
-* Les développeurs et développeuses qui souhaitent comprendre comment les indicateurs visuels dans Developer Console représentent des événements ayant échoué et ayant fait l’objet d’une nouvelle tentative.
+* Developers who want to understand the specific HTTP response status codes that trigger event retries.
+* Teams who want to learn about the exponential and fixed back-off strategies employed by Adobe I/O Events for retries.
+* Developers who want to understand how visual indicators in the developer console represent failed and retried events.
 
-## Contenu vidéo
+## Video dontent
 
-* Les Adobe I/O Events disposent d’un mécanisme de reprise intégré qui tente automatiquement d’activer à nouveau les événements en fonction de codes d’état de réponse HTTP spécifiques.
-* Le mécanisme de reprise mis en œuvre par Adobe I/O Events implique des stratégies d’interruption exponentielles et fixes.
-* Indicateurs visuels dans Developer Console, tels que les icônes d’avertissement pour les événements ayant échoué et les icônes de flèche circulaire pour les événements ayant fait l’objet d’une nouvelle tentative.
-* Les actions d’exécution « consommateur » jouent un rôle essentiel dans la détermination des codes d’état de réponse HTTP appropriés pour la gestion des événements.
+* Adobe I/O Events have a built-in out-of-the-box retry mechanism that automatically retries event activations based on specific HTTP response status codes.
+* The retry mechanism implemented by Adobe I/O Events involves exponential and fixed back-off strategies.
+* Visual indicators in the developer console, such as warning icons for failed events and circular arrow icons for retried events.
+* The &#39;consumer&#39; runtime actions play a crucial role in determining the appropriate HTTP response status codes for event handling.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449075?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 
 ## Documentation connexe
 
-* [Webhook ne peut pas gérer un événement](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook arrêté et marqué comme instable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [Webhook unable to handle an event](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
+* [Webhook down and marked as unstable](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)

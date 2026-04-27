@@ -7,16 +7,22 @@ kt: 13939
 doc-type: video
 duration: 363
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/P9gopqc6BD8qZJlc1-gvVem4Gq3fqpX8AsRvglLAQYI
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: 436
 ht-degree: 0%
 
 ---
@@ -25,7 +31,7 @@ ht-degree: 0%
 
 Il s’agit de la partie 4 de la série pour GraphQL et Adobe Commerce. Les requêtes et les mutations utilisées reposent sur un graphique de données spécifique implémenté sur le serveur, que l’exécution de GraphQL consomme et utilise pour résoudre la requête. La spécification GraphQL définit un langage agnostique pour exprimer les types et les relations de votre graphique de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446612?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Vidéos et tutoriels connexes sur GraphQL dans cette série
 
@@ -109,12 +115,12 @@ type Mutation {
 
 Plongez-vous dans [la documentation de GraphQL](https://graphql.org/learn/schema/){target="_blank"} pour en savoir plus sur les détails du système de type, y compris la syntaxe de certains concepts qui ne sont pas représentés ici. L’exemple ci-dessus s’explique par lui-même. (Notez également à quel point la syntaxe est similaire à la syntaxe de requête.) La définition d’un schéma GraphQL consiste simplement à exprimer les arguments et champs disponibles d’un type donné, ainsi que les types de ces champs. Chaque type de champ complexe doit lui-même avoir une définition, etc., dans l’arborescence, jusqu’à ce que vous obteniez des types scalaires simples comme `String`.
 
-La déclaration `input` est à tous égards semblable à un `type`, mais elle définit un type qui peut être utilisé comme entrée pour un argument. Notez également la déclaration `interface`. Cela sert une fonction plus ou moins identique aux interfaces en PHP. D’autres types héritent de cette interface.
+La déclaration `input` est à tous égards semblable à un `type`, mais elle définit un type qui peut être utilisé comme entrée pour un argument. Notez également la déclaration `interface`. This serves a function more or less the same as interfaces in PHP. Other types inherit from this interface.
 
-La syntaxe `[CartItemInput!]!` semble délicate, mais est assez intuitive à la fin. Le `!` _within_ le crochet déclare que chaque valeur du tableau doit être non nulle, tandis que celui _external_ déclare que la valeur du tableau elle-même doit être non nulle (par exemple, un tableau vide).
+The syntax `[CartItemInput!]!` looks tricky but is fairly intuitive in the end. The `!` _inside_ the bracket declares that every value in the array must be non-null, while the one _outside_ declares that the array value itself must be non-null (for example, an empty array).
 
 >[!NOTE]
 >
->La logique de récupération et de formatage des données en fonction d’un schéma, ainsi que la manière dont une telle logique est mappée à des types particuliers, dépendent de l’implémentation du runtime GraphQL. Toutefois, les implémentations doivent suivre un flux conceptuel logique à la lumière d’une compréhension des champs imbriqués : une opération de résolution associée au `Query` racine ou au type de `Mutation` est effectuée, qui examine chaque champ spécifié dans la requête. Pour chaque champ qui correspond à un type complexe, une résolution similaire est effectuée pour ce type, et ainsi de suite, jusqu’à ce que tout soit résolu en valeurs scalaires.
+>The logic for how data is fetched and formatted according to a schema, and how such logic is mapped to particular types, is up to the GraphQL runtime implementation. Implementations, however, should follow a conceptual flow that makes sense in light of an understanding around nested fields: A resolve operation associated with the root `Query` or `Mutation` type is performed, which examines each field specified in the request. For each field that resolves to a complex type, a similar resolve is done for that type, and so on, until everything has resolved into scalar values.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

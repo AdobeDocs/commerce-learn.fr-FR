@@ -13,9 +13,15 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/q4NzQxc7XJDB-TNv2pU7ghDr6bahliY6soUGPu7fhfg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1172'
+source-wordcount: 1188
 ht-degree: 0%
 
 ---
@@ -249,25 +255,25 @@ rm -r vendor/antonevers/gra-bulk-foundation
 composer install --prefer-source
 ```
 
-Le package en bloc a été extrait à l’aide de Git. Lorsque vous accédez au répertoire `vendor/antonevers/gra-bulk-foundation`, vous accédez également au référentiel Git de création en masse. Vous pouvez créer, extraire et fusionner des branches dans ce répertoire.
+The bulk package has been checked out using Git. When you enter the `vendor/antonevers/gra-bulk-foundation` directory, you are also entering the gra-bulk-foundation Git repository. You can create, checkout and merge branches in this directory.
 
-Ajoutez des dépendances du compositeur au fichier composer.json à la racine du package en bloc GRA, qui est le seul fichier dans le package en bloc que le compositeur évalue.
+Add Composer dependencies to the composer.json file at the root of the GRA bulk package, which is the only file in the bulk package that Composer evaluates.
 
-## Inclure des modules tiers dans le package en bloc GRA
+## Include third-party modules to the GRA bulk package
 
-Ajoutez des packages tiers dans la section obligatoire du fichier composer.json à la racine des bases GRA pour les ajouter à votre GRA. Ainsi, les packages sont toujours installés dans toutes vos instances via le compositeur.
+Add third-party packages in the require section of the composer.json at the root of the GRA foundation to add them to your GRA. That way, the packages are always installed in all your instances through composer.
 
-## Diffuser votre code
+## Deliver your code
 
-Pour diffuser du code vers la branche principale, il existe 2 chemins d’accès. Tout d’abord, les modules locaux, qui sont fusionnés à la branche principale. Exécutez la mise à jour du compositeur pour ces modules. N’autorisez pas les développeurs à mettre à jour composer.lock dans leurs branches de ticket pour réduire les conflits. Mettez uniquement à jour le fichier composer.lock dans les branches d’évaluation et de production, ce qui réduit le risque de conflits.
+To deliver code to the main branch, there are 2 paths. First the local modules, which are merged to the main branch. Run Composer update for those modules. Do not allow developers to update composer.lock in their ticket branches to reduce conflicts. Only update the composer.lock file in staging and production branches, which reduces the risk of conflicts.
 
-Deuxièmement, les packages de GRA en vrac, qui sont fusionnés dans la branche principale du référentiel de GRA en vrac. Vous pouvez ensuite ajouter une balise Git à la branche principale pour créer le contrôle de version du package du compositeur. Nécessite votre nouvelle version du package de masse GRA dans le fichier composer.json du référentiel de déploiement pour l’installer.
+Secondly, the GRA bulk packages, which are merged into the main branch of the GRA bulk repository. Then you can add a Git tag to the main branch, versioning the Composer package. Require your new version of the GRA bulk package in the composer.json of the deployment repository to install it.
 
-## Stratégie d’embranchement
+## Branching strategy
 
-Ce modèle GRA fonctionne avec toutes les stratégies d’embranchement à condition de refléter la stratégie d’embranchement des référentiels de déploiement dans votre référentiel en bloc GRA. Pour les versions, créez une branche de version portant le même nom dans les deux référentiels. Pour le développement, créez une branche de ticket dans les deux référentiels.
+This GRA pattern works with all branching strategies so long as you mirror the branching strategy of the deployment repositories in your GRA bulk repository. For releases, create a release branch with the same name in both repositories. For development, create a ticket branch in both repositories.
 
-Dans les branches de ticket, vous ne devriez presque jamais avoir à mettre à jour le fichier composer.lock. Il vous suffit d’examiner les branches appropriées dans votre environnement de développement pour le magasin et le référentiel de base GRA avec Git. Une exception se produit lorsque vous mettez à jour les exigences du fichier GRA foundation composer.json . La mise à niveau de GRA Foundation dans le référentiel de déploiement est effectuée uniquement lors de la création de la version ou de la création d’une branche d’assurance qualité.
+In ticket branches, you should almost never have to update the composer.lock file. Just check out the right branches in your development environment for both the store and the GRA foundation repository with Git. The exception is when you update requirements in the GRA foundation composer.json file. Upgrading the GRA foundation in the deployment repository is only done when building the release, or when building a QA branch.
 
 ## Exemples de code
 

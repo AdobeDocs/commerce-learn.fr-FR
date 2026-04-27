@@ -1,6 +1,6 @@
 ---
-title: COMMERCE INTELLIGENCE - SQL REPORT BUILDER
-description: Découvrez comment utiliser Adobe Commerce Intelligence SQL Report Builder pour interroger votre entrepôt de données, afficher les résultats et créer des graphiques sans attendre les cycles de mise à jour des rapports.
+title: Commerce Intelligence - SQL Report Builder
+description: Learn how to use Adobe Commerce Intelligence SQL Report Builder to query your data warehouse, view results, and build charts without waiting on report update cycles.
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
@@ -8,26 +8,32 @@ level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 259
 solution: Commerce,Commerce Intelligence
-last-substantial-update: 2023-02-10T00:00:00Z
+last-substantial-update: 2023-02-10T00:00:00.000Z
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/o4S12aA7X2D-PGFY6r0rvFrWLqazLakOFrA5S8TnPhE
+product_v2: id: cc9c1b69-d771-4a04-84d3-df2e3989418fid: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b6935462-7263-4ced-a703-60de6a5aeb2d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: 214
 ht-degree: 0%
 
 ---
 
 # SQL REPORT BUILDER
 
-Adobe Commerce Intelligence SQL Report Builder vous permet d’interroger votre entrepôt de données, de consulter les résultats et de les transformer en graphiques. Lorsque vous créez des rapports avec SQL, vous n’attendez pas les cycles de mise à jour pour affiner les colonnes que vous créez. Si quelque chose semble se produire, modifiez et réexécutez la requête jusqu’à ce que la sortie corresponde à ce que vous attendiez.
+Adobe Commerce Intelligence SQL Report Builder lets you query your data warehouse, review results, and turn them into charts. When you build reports with SQL, you do not wait on update cycles to refine the columns you create. If something looks off, edit and rerun the query until the output matches what you expect.
 
 >[!IMPORTANT]
 >
-> Vous avez besoin d’autorisations d’administrateur pour utiliser SQL Report Builder.
+> You need Admin permissions to use SQL Report Builder.
 
 >[!TIP]
 >
-> Si vous découvrez Commerce Intelligence, le guide d’utilisation de [Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=fr){target="_blank"} explique comment agréger, analyser et visualiser des données pour obtenir des informations commerciales plus fiables.
+> If you are new to Commerce Intelligence, the [Adobe Commerce Intelligence user guide](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} explains how to aggregate, analyze, and visualize data for stronger business insights.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -36,13 +42,13 @@ Adobe Commerce Intelligence SQL Report Builder vous permet d’interroger votre 
 
 ## Contenu vidéo
 
-* Ouvrez SQL Report Builder et exécutez une requête sur votre entrepôt de données.
-* Créez une visualisation à partir des résultats de la requête.
-* Enregistrez le rapport dans un tableau de bord pour votre équipe.
+* Open SQL Report Builder and run a query against your data warehouse.
+* Build a visualization from the query results.
+* Save the report to a dashboard for your team.
 
->[!VIDEO](https://video.tv.adobe.com/v/346409?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
 
 ## Ressources utiles
 
-* [Utilisation de SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html?lang=fr){target="_blank"} (guide d’utilisation de Commerce Intelligence)
-* [Création de visualisations à partir de requêtes SQL](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html?lang=fr){target="_blank"} (guide d’utilisation de Commerce Intelligence)
+* [Using the SQL Report Builder](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html){target="_blank"} (Commerce Intelligence user guide)
+* [Creating visualizations from SQL queries](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html){target="_blank"} (Commerce Intelligence user guide)
