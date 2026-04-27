@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
 workflow-type: tm+mt
-source-wordcount: '924'
+source-wordcount: '932'
 ht-degree: 3%
 
 ---
@@ -148,9 +148,10 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [Installation d’applications à partir d’Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
-      + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-      + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+      + Utiliser les outils d’IA pour créer un PDC de paiement fractionné {#create-a-split-payment-poc}
+         + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
+         + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
       + Créer des tarifs de livraison personnalisés à l’aide des outils d’IA {#custom-shipping-rates-ai-tools}
          + [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
