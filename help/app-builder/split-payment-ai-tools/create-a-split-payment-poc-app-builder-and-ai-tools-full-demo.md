@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # Création d’un PDC de paiement partagé : démonstration complète d’App Builder
 
-Il s’agit de la présentation complète de la preuve de concept du paiement partagé basée sur Adobe Commerce et Adobe App Builder. La démonstration suppose que vous avez déjà utilisé les outils d’IA et une invite pour produire l’extension Commerce en cours de traitement et l’application App Builder. Cette vidéo montre ce qui se passe après la fusion de ce code, son déploiement sur Commerce en mode cloud (Luma) et la mise en ligne du projet App Builder.
+Il s’agit de la présentation complète de la preuve de concept du paiement partagé basée sur Adobe Commerce et Adobe App Builder. La démonstration suppose que vous avez déjà utilisé les outils d’IA et une invite pour produire l’extension Commerce en cours de traitement et l’application App Builder. Cette vidéo montre ce qui se passe après la fusion de ce code, son déploiement sur un site web Adobe Commerce Cloud à l’aide du thème Luma natif et la mise en ligne du projet App Builder.
 
 Un acheteur paie en partie en espèces et en partie en **[!UICONTROL Store Credit]**. Commerce possède des extractions synchrones et les API dont le storefront a besoin ; App Builder gère l’orchestration, les workflows d’opérateur et les consommateurs d’événements d’E/S. L’implémentation de référence utilise un projet Commerce (PaaS) et le passage en caisse natif de Luma plutôt qu’un storefront Edge Delivery Services, qui reste un chemin d’accès courant pour de nombreux commerçants. Si vous utilisez **Adobe Commerce as a Cloud Service** dans une topologie différente, le code App Builder reste similaire, mais le storefront et le travail en cours semblent différents. Pour le code local, auto-hébergé et Commerce en mode cloud sur Luma, cette vidéo présente une répartition pratique entre le code en cours de traitement et App Builder pour de nouvelles fonctionnalités.
 
