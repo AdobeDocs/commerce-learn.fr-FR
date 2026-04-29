@@ -95,7 +95,7 @@ Stockez ces valeurs en toute sécurité. Vous en avez besoin dans chaque fichier
 * Un **projet** (nouveau ou réutilisé)
 * Un espace de travail configuré ; les invites supposent **[!UICONTROL Stage]**
 * **[!UICONTROL Adobe I/O Events]** ajouté en tant que service à l’espace de travail
-* **** connecté en tant que fournisseur d&#39;événements pour l&#39;espace de travail
+* **&#x200B;**&#x200B;connecté en tant que fournisseur d&#39;événements pour l&#39;espace de travail
 
 Le code d’événement utilisé dans la preuve de concept est le suivant : `com.adobe.commerce.observer.sales_order_place_before`
 
