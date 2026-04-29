@@ -6,12 +6,12 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 955
+duration: 933
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Actualisez la même commande dans **[!UICONTROL Admin]** : le statut passe à **
 
 ## Seuil total des commandes (validation avant création de la commande)
 
-La configuration d’App Builder ou d’**[!UICONTROL Commerce]** peut prendre en charge les règles de validation ; cette version bloque les commandes supérieures à 100 **&#x200B;**&#x200B;de la valeur du panier (limite de démonstration que vous pouvez modifier). Une vérification de valeur n’est pas la règle métier la plus courante (les vérifications d’inventaire ou de disponibilité sont plus courantes), mais elle indique que la validation peut s’exécuter au **[!UICONTROL Payment]** dans **[!UICONTROL Commerce]** avant la création d’une commande, tandis qu’App Builder gère toujours l’automatisation du suivi.
+La configuration d’App Builder ou d’**[!UICONTROL Commerce]** peut prendre en charge les règles de validation ; cette version bloque les commandes supérieures à 100 **** de la valeur du panier (limite de démonstration que vous pouvez modifier). Une vérification de valeur n’est pas la règle métier la plus courante (les vérifications d’inventaire ou de disponibilité sont plus courantes), mais elle indique que la validation peut s’exécuter au **[!UICONTROL Payment]** dans **[!UICONTROL Commerce]** avant la création d’une commande, tandis qu’App Builder gère toujours l’automatisation du suivi.
 
 1. Ajoutez des produits jusqu’à ce que le total soit supérieur **100** de dollars.
 1. Le **[!UICONTROL UI]** de fractionnement apparaît toujours ; le résultat de dépassement de limite n&#39;apparaît que sur **Ordre de placement**.
@@ -88,6 +88,4 @@ Une note de risque, une règle de région ou autre règle similaire peut s’app
 
 La présentation correspond **[!UICONTROL Adobe Commerce]** une infrastructure que vous gérez ou **[!UICONTROL Commerce in the cloud]** (PaaS) avec une vitrine traditionnelle. Pour les **[!UICONTROL Adobe Commerce as a Cloud service]** (SaaS) avec un front-end différent et aucun module en cours de traitement de cette forme, les éléments d’App Builder sont largement les mêmes, tandis que le storefront et le travail d’extension seraient différents. Dans tous les cas, le même principe s’applique : **[!UICONTROL Commerce]** ce qui doit se produire dans la requête **[!UICONTROL Commerce]** et utilisez **[!UICONTROL App Builder]** pour le reste de l’expérience.
 
-## Ressources supplémentaires
-
-* [Création d’un PDC de paiement partagé : App Builder et outils d’IA](create-a-split-payment-poc-app-builder-and-ai-tools.md) — Présentation de la série sur les objectifs et l’architecture.
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}
