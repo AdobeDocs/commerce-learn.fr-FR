@@ -3,9 +3,9 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
+source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
@@ -152,6 +152,15 @@ ht-degree: 3%
       + Utiliser les outils d’IA pour créer un PDC de paiement fractionné {#create-a-split-payment-poc}
          + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+         + [Paiement fractionné POC : décisions d&#39;architecture et de conception](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
+         + [PdC de paiement fractionné : prérequis et configuration de l&#39;environnement](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
+         + [PDC de paiement fractionné : référence des variables d’environnement](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
+         + [PdC de paiement partagé : invite d’IA du module Commerce](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
+         + [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
+         + [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
+         + [PdC de paiement partagé : guide de test et de vérification](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
+         + [PdC de paiement partagé : les étapes suivantes après la preuve de concept](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
+         + [Split Payment POC : tutoriel de référence rapide pour les auteurs](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
       + Créer des tarifs de livraison personnalisés à l’aide des outils d’IA {#custom-shipping-rates-ai-tools}
          + [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)

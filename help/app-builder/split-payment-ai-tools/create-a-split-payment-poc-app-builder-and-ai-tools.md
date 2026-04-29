@@ -2,15 +2,15 @@
 title: 'Création d’un PDC de paiement partagé : App Builder et outils d’IA'
 description: Découvrez une preuve de concept de paiement partagé avec App Builder et Commerce PaaS, y compris les objectifs, l’architecture et ce que cette première session couvre.
 feature: App Builder, Paas, Payments
-topic: App Builder, Commerce, Development, Integrations
+topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 259
+duration: 260
 jira: KT-20791
-source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Il s’agit du premier d’une série de tutoriels qui vous présentent l’util
 
 ## Vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483935?captions=fre_fr&learn=on)
 
 ## Détails importants
 
@@ -31,11 +31,13 @@ Ce tutoriel permet de combler le fossé entre l’emplacement actuel de la plupa
 ### Ce que vous allez réellement construire
 
 Système de paiement fractionné dans lequel les clients paient en combinant l&#39;option Contre remboursement et le crédit de magasin. Une fois la commande passée, un opérateur (ou un système ERP) confirme ou refuse le paiement en espèces via un tableau de bord autonome, sans jamais ouvrir Commerce Admin. L’ensemble du workflow d’acceptation/refus s’exécute dans App Builder.
-La leçon d&#39;architecture (c&#39;est l&#39;enseignement de base)
+
+#### La leçon d&#39;architecture (enseignement de base)
+
 Le tutoriel présente un cadre de décision délibéré et répétable :
 
-Ce qui doit rester dans PHP : tout ce qui s&#39;exécute de manière synchrone dans le cycle de requête Commerce, ou qui appelle des API internes à Commerce sans surface externe propre
-Ce qui passe à App Builder : tout le reste : traitement des événements, workflow des opérateurs, intégrations externes et outils pour les opérateurs.
+* **Que doit-on garder dans PHP :** tout ce qui s&#39;exécute de manière synchrone dans le cycle de requête de Commerce, ou qui appelle des API internes à Commerce sans surface externe propre
+* **Ce qui passe à App Builder :** tout le reste : traitement des événements, workflow des opérateurs, intégrations externes et outils pour les opérateurs.
 
 Il ne s’agit pas de « tout déplacer vers App Builder ». Il s’agit d’un point de départ pratique et honnête pour les équipes qui doivent commencer la transition sans avoir à la réécrire.
 
@@ -45,19 +47,21 @@ L’approche d’invite de l’IA est en fait meilleure que l’exemple de code 
 
 ### Éléments Inclus
 
-Complétez le code de l’application App Builder (cohérent dans tous les projets — utilisez-le directement ou comme référence).
-Un ensemble complet d’invites d’IA numérotées conçues pour Cursor et Claude, couvrant le module Commerce, l’orchestrateur App Builder, le tableau de bord de l’opérateur, les tests et le chemin vers la production
-A simulation script to test the accept/decline flow against a live Commerce site without needing a real ERP
-Architecture documentation explaining every decision
+* Complétez le code de l’application App Builder (cohérent dans tous les projets — utilisez-le directement ou comme référence).
+* Un ensemble complet d’invites d’IA numérotées conçues pour Cursor et Claude, couvrant le module Commerce, l’orchestrateur App Builder, le tableau de bord de l’opérateur, les tests et le chemin vers la production
+* Un script de simulation permettant de tester le flux d’acceptation/refus par rapport à un site Commerce en ligne sans avoir besoin d’un véritable ERP
+* Documentation sur l’architecture expliquant chaque décision
 
-### Who This Is For
+### À Qui Ceci Est Destiné
 
-Developers on Adobe Commerce on-premise or Commerce Cloud who are starting their first real App Builder integration. Not for the fully headless API-first deployment — specifically for teams in the transition, running a traditional storefront, who want to see how to offload real business logic to App Builder without abandoning their existing PHP investment.
+Développeurs sur Adobe Commerce On-premise ou Commerce Cloud qui démarrent leur première véritable intégration à App Builder. Pas pour le déploiement API-first entièrement découplé, en particulier pour les équipes en transition, exécutant un storefront traditionnel, qui veulent voir comment décharger la logique commerciale réelle vers App Builder sans abandonner leur investissement PHP existant.
 
-### Prerequisites Callout
+### Légende des prérequis
 
-Adobe Commerce 2.4.5 or later, access to an Adobe Developer Console organization with an App Builder project, and I/O Events enabled. A clean Luma theme is assumed for the checkout UI — custom themes will require adjusting the prompt before running it.
+Adobe Commerce version 2.4.5 ou ultérieure, accès à une organisation Adobe Developer Console avec un projet App Builder et événements d’E/S activés. Un thème Luma propre est supposé être utilisé pour l’interface utilisateur de passage en caisse ; les thèmes personnalisés nécessiteront d’ajuster l’invite avant de l’exécuter.
 
-### Final thoughts
+### Réflexions finales
 
-This should be considered an entry level discussion on AI-assisted development. This tutorial is a demonstration for using AI tools in a Commerce development workflow, not just a tutorial about split payments.
+Cela devrait être considéré comme une discussion d&#39;entrée de gamme sur le développement assisté par l&#39;IA. Ce tutoriel est une démonstration de l’utilisation des outils d’IA dans un workflow de développement Commerce, et pas seulement un tutoriel sur le fractionnement de paiements.
+
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}

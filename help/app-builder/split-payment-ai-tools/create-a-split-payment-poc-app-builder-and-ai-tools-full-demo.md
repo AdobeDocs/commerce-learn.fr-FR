@@ -6,12 +6,12 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 955
+duration: 933
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Un acheteur paie en partie en espèces et en partie en **[!UICONTROL Store Credi
 
 ## Vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484101?captions=fre_fr&learn=on)
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -88,6 +88,4 @@ Une note de risque, une règle de région ou autre règle similaire peut s’app
 
 La présentation correspond **[!UICONTROL Adobe Commerce]** une infrastructure que vous gérez ou **[!UICONTROL Commerce in the cloud]** (PaaS) avec une vitrine traditionnelle. Pour les **[!UICONTROL Adobe Commerce as a Cloud service]** (SaaS) avec un front-end différent et aucun module en cours de traitement de cette forme, les éléments d’App Builder sont largement les mêmes, tandis que le storefront et le travail d’extension seraient différents. Dans tous les cas, le même principe s’applique : **[!UICONTROL Commerce]** ce qui doit se produire dans la requête **[!UICONTROL Commerce]** et utilisez **[!UICONTROL App Builder]** pour le reste de l’expérience.
 
-## Ressources supplémentaires
-
-* [Création d’un PDC de paiement partagé : App Builder et outils d’IA](create-a-split-payment-poc-app-builder-and-ai-tools.md) — Présentation de la série sur les objectifs et l’architecture.
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}
