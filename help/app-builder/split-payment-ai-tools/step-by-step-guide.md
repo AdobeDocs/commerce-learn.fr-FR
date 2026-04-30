@@ -22,7 +22,7 @@ Cette page présente la liste de contrôle de l’implémentation. Cela suppose 
 
 ## Avant de commencer
 
-Confirmez tous les éléments suivants avant d’exécuter une invite ou une commande. La page [ Conditions préalables et configuration ](./prerequisites-and-setup.md) couvre chaque élément en détail.
+Confirmez tous les éléments suivants avant d’exécuter une invite ou une commande. La page [&#x200B; Conditions préalables et configuration &#x200B;](./prerequisites-and-setup.md) couvre chaque élément en détail.
 
 **côté**
 
@@ -49,7 +49,7 @@ S&#39;il manque quelque chose au-dessus, arrêtez-vous ici et terminez-le d&#39;
 
 ### Étape 1.1 — Personnaliser l&#39;invite pour votre projet
 
-Ouvrez la page d’invite d’IA du module Commerce [](./commerce-module-prompt.md) et notez les points suivants avant de copier l’invite :
+Ouvrez la page d’invite d’IA du module Commerce [&#128279;](./commerce-module-prompt.md) et notez les points suivants avant de copier l’invite :
 
 * Remplacez `Client` par le nom réel du fournisseur à l’invite
 * Remplacez `SplitPayment` si vous souhaitez un autre nom de module
