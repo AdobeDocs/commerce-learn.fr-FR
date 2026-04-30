@@ -3,9 +3,10 @@ user-guide-title: Vidéos et tutoriels
 user-guide-description: Découvrez Adobe Commerce et Magento Open Source par le biais de vidéos et de tutoriels.
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
-source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
+author: Russell A.
+source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '958'
 ht-degree: 3%
 
 ---
@@ -53,7 +54,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -97,7 +98,7 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -150,17 +151,18 @@ ht-degree: 3%
       + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
       + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Utiliser les outils d’IA pour créer un PDC de paiement fractionné {#create-a-split-payment-poc}
-         + [Création d’un PDC de paiement partagé : App Builder et outils d’IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-         + [Création d’un PDC de paiement partagé : démonstration complète d’App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-         + [Paiement fractionné POC : décisions d&#39;architecture et de conception](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
-         + [PdC de paiement fractionné : prérequis et configuration de l&#39;environnement](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
-         + [PDC de paiement fractionné : référence des variables d’environnement](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
-         + [PdC de paiement partagé : invite d’IA du module Commerce](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
-         + [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
-         + [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
-         + [PdC de paiement partagé : guide de test et de vérification](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
-         + [PdC de paiement partagé : les étapes suivantes après la preuve de concept](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
-         + [Split Payment POC : tutoriel de référence rapide pour les auteurs](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
+         + [App Builder et les outils d’IA](../app-builder/split-payment-ai-tools/overview.md)
+         + [Démonstration complète](../app-builder/split-payment-ai-tools/full-demo.md)
+         + [Guide de mise en œuvre détaillé](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+         + [Décisions d’architecture et de conception](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+         + [Conditions préalables et configuration de l’environnement](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+         + [Tests et vérification](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+         + [Étapes suivantes](../app-builder/split-payment-ai-tools/next-steps.md)
+         + Ressources de référence {#split-payment-resources}
+            + [Référence des variables d’environnement](../app-builder/split-payment-ai-tools/env-reference.md)
+            + [Invite d’IA du module Commerce](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+            + [Invite de l’IA de l’orchestrateur App Builder](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+            + [Invite de l’IA de l’extension de l’interface utilisateur d’Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + Créer des tarifs de livraison personnalisés à l’aide des outils d’IA {#custom-shipping-rates-ai-tools}
          + [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
@@ -183,7 +185,7 @@ ht-degree: 3%
          + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
          + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
          + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-         + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
+         + [Développement de modules ](../io-events/commerce-module-development.md)
          + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
    + Maillage API {#api-mesh}
       + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
