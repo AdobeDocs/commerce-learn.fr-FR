@@ -1,6 +1,6 @@
 ---
 title: 'PdC de paiement partagé : guide de test et de vérification'
-description: 'Découvrez comment vérifier la preuve de concept de paiement partagé : installation de Commerce, REST, passage en caisse, seuil, acceptation et refus de la simulation, tableau de bord de démonstration et journaux App Builder.'
+description: Découvrez comment vérifier la preuve de concept de paiement partagé. installation de Commerce, REST, passage en caisse, seuil, simulation d’acceptation et de refus, tableau de bord de démonstration et journaux App Builder.
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%

@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud
 
-Il s’agit de l’étape facultative qui incorpore un panneau d’ordres de paiement fractionnés dans le shell d’administration **[!UICONTROL Adobe Commerce]** (Experience Cloud) à l’aide de la `commerce-checkout-starter-kit` et du modèle de `commerce-backend-ui-1`. Le [tableau de bord de démonstration](split-payment-poc-app-builder-orchestrator-prompt.md) autonome de l’orchestrateur App Builder couvre le même flux d’acceptation et de refus sans intégration Admin Shell.
+Il s’agit de l’étape facultative qui incorpore un panneau d’ordres de paiement fractionnés dans le shell d’administration **[!UICONTROL Adobe Commerce]** (Experience Cloud) à l’aide de la `commerce-checkout-starter-kit` et du modèle de `commerce-backend-ui-1`. Le [tableau de bord de démonstration](./orchestrator-prompt.md) autonome de l’orchestrateur App Builder couvre le même flux d’acceptation et de refus sans intégration Admin Shell.
 
 ## Utiliser cette invite
 
@@ -26,8 +26,8 @@ Copiez tout du **INVITE DÉBUT** au **Fin de l&#39;invite** dans Curseur ou Clau
 
 ## Avant d’exécuter
 
-* Ce chemin d’accès nécessite des informations d’identification **IMS** en plus des valeurs OAuth (voir [Référence des variables d’environnement pour le paiement partagé : référence des variables d’environnement](split-payment-poc-env-reference.md) pour les variables de `commerce-checkout-starter-kit`).
-* Terminez [Split Payment POC : invite de l’IA de l’orchestrateur d’App Builder](split-payment-poc-app-builder-orchestrator-prompt.md) tout d’abord si vous souhaitez comparer le même `payment-accept` et `payment-decline` comportement ; l’extension d’interface utilisateur réutilise cette logique avec les noms d’environnement de `COMMERCE_INTEGRATION_*`.
+* Ce chemin d’accès nécessite des informations d’identification **IMS** en plus des valeurs OAuth (voir [Référence des variables d’environnement pour le paiement partagé : référence des variables d’environnement](./env-reference.md) pour les variables de `commerce-checkout-starter-kit`).
+* Terminez [Split Payment POC : invite de l’IA de l’orchestrateur d’App Builder](./orchestrator-prompt.md) tout d’abord si vous souhaitez comparer le même `payment-accept` et `payment-decline` comportement ; l’extension d’interface utilisateur réutilise cette logique avec les noms d’environnement de `COMMERCE_INTEGRATION_*`.
 
 
 ## L’invite
@@ -137,16 +137,16 @@ commerce-checkout-starter-kit/commerce-backend-ui-1/
 
 **`scripts/simulate-split-payment.mjs`**
 
-A Node.js ESM script for testing Commerce REST calls directly (without going through App Builder). Uses the same OAuth 1.0a signing as the App Builder actions.
+Un script ESM Node.js pour tester directement les appels REST Commerce (sans passer par App Builder). Utilise la même signature OAuth 1.0a que les actions App Builder.
 
-Commands:
-* `node simulate-split-payment.mjs help` — show usage
-* `node simulate-split-payment.mjs list` — list recent orders with split payment data
-* `node simulate-split-payment.mjs show <orderId>` — show split payment fields for a specific order (entity_id)
-* `node simulate-split-payment.mjs accept <orderId>` — call `cash-received` endpoint
-* `node simulate-split-payment.mjs decline <orderId>` — call `cash-decline` endpoint
+Commandes :
+* `node simulate-split-payment.mjs help` — afficher l&#39;utilisation
+* `node simulate-split-payment.mjs list` — liste des commandes récentes avec données de paiement fractionné
+* `node simulate-split-payment.mjs show <orderId>` — afficher les champs de paiement fractionné pour une commande spécifique (entity_id)
+* `node simulate-split-payment.mjs accept <orderId>` — appeler `cash-received` point d&#39;entrée
+* `node simulate-split-payment.mjs decline <orderId>` — appeler `cash-decline` point d&#39;entrée
 
-Reads credentials from `commerce-backend-ui-1/.env.simulation` (copy from `.env.simulation.example`).
+Lit les informations d’identification depuis `commerce-backend-ui-1/.env.simulation` (copie depuis `.env.simulation.example`).
 
 **`.env.simulation.example`:**
 
@@ -161,11 +161,11 @@ COMMERCE_ACCESS_TOKEN_SECRET=
 
 ### `ext.config.yaml`
 
-Configure the extension with:
-* The `commerce-backend-ui-1` extension type
-* The four backend actions (`commerce`, `payment-accept`, `payment-decline`, `registration`)
-* `require-adobe-auth: true` for all actions except `registration`
-* Input bindings from env for `COMMERCE_INTEGRATION_*` credentials
+Configurez l’extension avec :
+* Type d’extension `commerce-backend-ui-1`
+* Les quatre actions principales (`commerce`, `payment-accept`, `payment-decline`, `registration`)
+* `require-adobe-auth: true` pour toutes les actions, à l’exception de `registration`
+* Liaisons d’entrée depuis l’environnement pour les informations d’identification `COMMERCE_INTEGRATION_*`
 
 
 ### Après la génération des fichiers

@@ -1,6 +1,6 @@
 ---
 title: 'Split Payment POC : tutoriel de référence rapide'
-description: 'Découvrez le mappage des fichiers POC de paiement partagé : la page Experience League qui correspond à chaque invite d’IA, l’ordre de section suggéré et les notes de création pour le passage en caisse Luma.'
+description: Découvrez le mappage des fichiers POC de paiement partagé. La page Experience League qui correspond à chaque invite d’IA, ordre de section suggéré et notes de création pour l’extraction Luma.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1444'
 ht-degree: 0%
 
 ---
@@ -23,9 +23,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 
 ## Référence fichier par fichier
 
-### [Créer un PDC de paiement partagé : outils App Builder et d’IA](create-a-split-payment-poc-app-builder-and-ai-tools.md)
-
-**Source label :** `00_TUTORIAL_OVERVIEW.md` (présentation conceptuelle ; la série publiée s’ouvre sur cette page.)
+### [Créer un PDC de paiement partagé : outils App Builder et d’IA](./overview.md)
 
 **Objectif :** introduction et orientation du tutoriel.
 
@@ -34,7 +32,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** ouverture de la section. Définit le contexte avant toute étape technique.
 
 
-### [Paiement fractionné POC : décisions d&#39;architecture et de conception](split-payment-poc-architecture-and-decisions.md)
+### [Paiement fractionné POC : décisions d&#39;architecture et de conception](./architecture-and-decisions.md)
 
 
 **Objectif :** explication approfondie de chaque décision architecturale dans la preuve de concept.
@@ -52,7 +50,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section « Architecture » ou « Fonctionnement ». Peut être ignoré par les développeurs et développeuses Commerce expérimentés, mais est essentiel pour les nouveaux venus sur App Builder.
 
 
-### [Validation de principe de paiement fractionné : conditions préalables et configuration de l’environnement](split-payment-poc-prerequisites-and-setup.md)
+### [Validation de principe de paiement fractionné : conditions préalables et configuration de l’environnement](./prerequisites-and-setup.md)
 
 
 **Objectif :** remplir la liste de vérification avant vol avant que le code soit écrit ou que des invites soient exécutées.
@@ -68,7 +66,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section « Conditions préalables » ou « Prise en main ». Doit être complété de manière interactive, pas seulement lu.
 
 
-### [PDC de paiement fractionné : référence des variables d’environnement](split-payment-poc-env-reference.md)
+### [PDC de paiement fractionné : référence des variables d’environnement](./env-reference.md)
 
 
 **Objectif :** toutes les variables d’environnement pour les trois composants sont regroupées au même endroit.
@@ -84,7 +82,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** barre latérale de référence ou section « Configuration ». Également utilisé comme complément aux invites de build.
 
 
-### [PDC de paiement partagé : invite d’IA du module Commerce](split-payment-poc-commerce-module-prompt.md)
+### [PDC de paiement partagé : invite d’IA du module Commerce](./commerce-module-prompt.md)
 
 
 **Objectif :** invite complète et autonome d’IA pour générer l’ensemble du module PHP `Client_SplitPayment`.
@@ -103,7 +101,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel** section « Créer le module Commerce ». L’invite elle-même est l’artefact : les développeurs la copient dans leur outil d’IA et l’exécutent.
 
 
-### [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](split-payment-poc-app-builder-orchestrator-prompt.md)
+### [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](./orchestrator-prompt.md)
 
 
 **Objectif :** invite d’IA complète et autonome permettant de générer l’application App Builder `split-payment-orchestrator`.
@@ -122,7 +120,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel** section « Créer l’application App Builder ». Accompagnement de l’invite du module Commerce.
 
 
-### [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](split-payment-poc-experience-cloud-ui-prompt.md)
+### [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](./experience-cloud-ui-prompt.md)
 
 
 **Objectif :** invite de l’IA pour générer l’extension facultative SDK de l’interface utilisateur d’administration Experience Cloud.
@@ -139,7 +137,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section facultative « Aller plus loin » ou « Chemin de production ». Peut être ignoré si le tutoriel se concentre uniquement sur la preuve de concept.
 
 
-### [Paiement fractionné POC : guide de test et de vérification](split-payment-poc-testing-and-verification.md)
+### [Paiement fractionné POC : guide de test et de vérification](./testing-and-verification.md)
 
 
 **Objectif :** guide de test détaillé couvrant chaque composant dans l’ordre de vérification approprié.
@@ -162,7 +160,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section « Test » ou « Vérification ». Également utile comme référence de dépannage.
 
 
-### [Paiement fractionné POC : prochaines étapes après la preuve de concept](split-payment-poc-next-steps.md)
+### [Paiement fractionné POC : prochaines étapes après la preuve de concept](./next-steps.md)
 
 
 **Objectif :** feuille de route pour faire évoluer la preuve de concept en modèles prêts pour la production.
@@ -186,16 +184,16 @@ Sur la base de ces fichiers, une structure type pour les lecteurs est la suivant
 
 | Section du tutoriel | page Experience League |
 | --- | --- |
-| Introduction et objectifs d’apprentissage | [Créer un PDC de paiement partagé : outils App Builder et d’IA](create-a-split-payment-poc-app-builder-and-ai-tools.md) |
-| Démonstration de bout en bout (vidéo) | [Création d’une preuve de concept de paiement partagé : démonstration complète d’App Builder](create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md) |
-| Architecture : ce qui vit où | [Paiement fractionné POC : décisions d&#39;architecture et de conception](split-payment-poc-architecture-and-decisions.md) |
-| Conditions préalables et configuration | [Validation de principe de paiement fractionné : conditions préalables et configuration de l’environnement](split-payment-poc-prerequisites-and-setup.md) |
-| Variables d’environnement | [PDC de paiement fractionné : référence des variables d’environnement](split-payment-poc-env-reference.md) |
-| Étape 1 : création du module Commerce | [PDC de paiement partagé : invite d’IA du module Commerce](split-payment-poc-commerce-module-prompt.md) |
-| Étape 2 : création de l’orchestrateur App Builder | [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](split-payment-poc-app-builder-orchestrator-prompt.md) |
-| Étape 3 : tester le flux de bout en bout | [Paiement fractionné POC : guide de test et de vérification](split-payment-poc-testing-and-verification.md) |
-| Étape 4 (facultatif) : extension de l’interface utilisateur d’administration | [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](split-payment-poc-experience-cloud-ui-prompt.md) |
-| Étapes suivantes et chemin d’accès en production | [Paiement fractionné POC : prochaines étapes après la preuve de concept](split-payment-poc-next-steps.md) |
+| Introduction et objectifs d’apprentissage | [Créer un PDC de paiement partagé : outils App Builder et d’IA](./overview.md) |
+| Démonstration de bout en bout (vidéo) | [Création d’une preuve de concept de paiement partagé : démonstration complète d’App Builder](./full-demo.md) |
+| Architecture : ce qui vit où | [Paiement fractionné POC : décisions d&#39;architecture et de conception](./architecture-and-decisions.md) |
+| Conditions préalables et configuration | [Validation de principe de paiement fractionné : conditions préalables et configuration de l’environnement](./prerequisites-and-setup.md) |
+| Variables d’environnement | [PDC de paiement fractionné : référence des variables d’environnement](./env-reference.md) |
+| Étape 1 : création du module Commerce | [PDC de paiement partagé : invite d’IA du module Commerce](./commerce-module-prompt.md) |
+| Étape 2 : création de l’orchestrateur App Builder | [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](./orchestrator-prompt.md) |
+| Étape 3 : tester le flux de bout en bout | [Paiement fractionné POC : guide de test et de vérification](./testing-and-verification.md) |
+| Étape 4 (facultatif) : extension de l’interface utilisateur d’administration | [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](./experience-cloud-ui-prompt.md) |
+| Étapes suivantes et chemin d’accès en production | [Paiement fractionné POC : prochaines étapes après la preuve de concept](./next-steps.md) |
 
 
 ## Notes importantes à l’intention des auteurs de tutoriels

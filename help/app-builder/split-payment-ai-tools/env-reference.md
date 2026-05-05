@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # PDC de paiement fractionné : référence des variables d’environnement
 
-Les quatre mêmes informations d’identification OAuth Commerce sont utilisées dans chaque composant. Dans **[!UICONTROL Commerce Admin]**, créez une **[!UICONTROL Integration]**, puis réutilisez les quatre valeurs dans chaque fichier `.env` ci-dessous. (Pour connaître les étapes d’activation, voir [Validation de principe du paiement partagé : conditions préalables et configuration de l’environnement](split-payment-poc-prerequisites-and-setup.md).)
+Les quatre mêmes informations d’identification OAuth Commerce sont utilisées dans chaque composant. Dans **[!UICONTROL Commerce Admin]**, créez une **[!UICONTROL Integration]**, puis réutilisez les quatre valeurs dans chaque fichier `.env` ci-dessous. (Pour connaître les étapes d’activation, voir [Validation de principe du paiement partagé : conditions préalables et configuration de l’environnement](./prerequisites-and-setup.md).)
 
 ## Les quatre informations d’identification OAuth (utilisées partout)
 

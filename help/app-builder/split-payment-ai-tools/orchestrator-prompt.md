@@ -1,6 +1,6 @@
 ---
 title: 'PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder'
-description: 'Découvrez comment utiliser cette invite pour créer l’application split-pay-orchestrator : événements I/O, Payment-orchestrator, actions web, tableau de bord de démonstration et déploiement de l’application aio.'
+description: Découvrez comment utiliser cette invite pour créer l’application split-pay-orchestrator. Événements I/O, orchestrateur de paiement, actions web, tableau de bord de démonstration et déploiement d’applications en mode automatique.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 421
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '927'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Copiez tout du **DÉBUT INVITE** au **Fin de l&#39;invite** dans Cursor (avec Cl
 
 ## Avant d’exécuter
 
-* Terminer [preuve de concept de paiement partagé : conditions préalables et configuration de l’environnement](split-payment-poc-prerequisites-and-setup.md).
-* Préparez votre [preuve de concept de paiement partagé : référence des variables d’environnement](split-payment-poc-env-reference.md) et `.env` fichier dans le projet.
+* Terminer [preuve de concept de paiement partagé : conditions préalables et configuration de l’environnement](./prerequisites-and-setup.md).
+* Préparez votre [preuve de concept de paiement partagé : référence des variables d’environnement](./env-reference.md) et `.env` fichier dans le projet.
 
 
 ## L’invite

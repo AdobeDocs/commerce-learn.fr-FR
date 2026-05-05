@@ -1,6 +1,6 @@
 ---
-title: 'Split payment POC: next steps after the proof of concept'
-description: 'Learn how to move the split payment POC toward production: Experience Cloud UI, ERP hooks, API Mesh, PHP scope, App Builder workflows, and deploy checklist.'
+title: 'PdC de paiement partagé : les étapes suivantes après la preuve de concept'
+description: Découvrez comment déplacer le PDC de paiement partagé vers la production. Interface utilisateur d’Experience Cloud, hooks ERP, maillage API, portée PHP, workflows App Builder et liste de contrôle de déploiement.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,42 +9,42 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
 
 ---
 
-# Split payment POC: next steps after the proof of concept
+# PdC de paiement partagé : les étapes suivantes après la preuve de concept
 
-The demo dashboard and simulation script you built in this tutorial are intentionally rough. They exist to prove the pattern. This page describes a practical path from proof of concept to production-style App Builder development.
-
-
-## Step 1 — Replace the Demo Dashboard with an Experience Cloud UI Extension
-
-The `demo-dashboard` web action serves HTML from a string inside a Node.js function. It works, but it is not the production pattern.
-
-The proper replacement is the `commerce-backend-ui-1` extension in the `commerce-checkout-starter-kit` — a React application embedded in the Commerce Admin Shell via the Adobe Admin UI SDK. See [Split payment POC: Experience Cloud UI extension AI prompt](split-payment-poc-experience-cloud-ui-prompt.md) for the generation prompt.
-
-**What changes:**
-* Operators log in through Commerce Admin Shell (IMS authentication instead of a shared secret)
-* The order list uses the IMS token context — no need for a demo secret
-* Accept/decline actions are scoped to the operator&#39;s IMS identity
-* The UI is embedded in Commerce Admin at the URL Commerce administrators already know
-
-**What stays the same:**
-* `payment-accept` and `payment-decline` App Builder actions are unchanged
-* Commerce REST endpoints are unchanged
-* The PHP module is unchanged
+Le tableau de bord de démonstration et le script de simulation que vous avez créés dans ce tutoriel sont intentionnellement approximatifs. Ils existent pour prouver le schéma. Cette page décrit un chemin pratique pour passer de la preuve de concept au développement App Builder de style production.
 
 
-## Step 2 — Connect a Real ERP
+## Étape 1 — Remplacer le tableau de bord de démonstration par une extension de l’interface utilisateur d’Experience Cloud
 
-The accept/decline flow in this PoC is driven by a human clicking a button. In production, this is driven by your ERP, CRM, or payment processor.
+L’action web `demo-dashboard` diffuse HTML à partir d’une chaîne dans une fonction Node.js. Cela fonctionne, mais ce n&#39;est pas le modèle de production.
 
-**The integration pattern:**
-1. Your ERP system captures cash and calls `POST /payment-accept` (the App Builder web action URL) with `{ orderId: <entity_id> }`
+Le remplacement approprié est l’extension `commerce-backend-ui-1` dans l’`commerce-checkout-starter-kit` : une application React incorporée dans Commerce Admin Shell via l’interface utilisateur d’administration d’Adobe SDK. Consultez [Invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud : paiement partagé](./experience-cloud-ui-prompt.md) pour l’invite de génération.
+
+**Changements :**
+* Les opérateurs se connectent via Commerce Admin Shell (authentification IMS au lieu d’un secret partagé).
+* La liste de commandes utilise le contexte du jeton IMS : aucun secret de démonstration n’est nécessaire
+* Les actions Accepter/Refuser sont limitées à l’identité IMS de l’opérateur
+* L’interface utilisateur est incorporée dans Commerce Admin à l’URL que les administrateurs Commerce connaissent déjà
+
+**Qu’est-ce qui reste identique**
+* `payment-accept` et `payment-decline` actions App Builder restent inchangées
+* Les points d’entrée REST Commerce restent inchangés
+* Le module PHP est inchangé
+
+
+## Etape 2 — Connecter un ERP réel
+
+Le flux d’acceptation/de refus dans cette preuve de concept est généré par un clic humain sur un bouton. En production, cela est géré par votre ERP, votre CRM ou votre processeur de paiement.
+
+**Modèle d’intégration :**
+1. Votre système ERP capture l’argent et appelle `POST /payment-accept` (l’URL d’action web d’App Builder) avec `{ orderId: <entity_id> }`
 2. App Builder valide l’appel (jeton du porteur ou clé API — ajout du middleware d’authentification au `payment-accept`)
 3. App Builder appelle le `cash-received` REST Commerce
 4. Commerce facture et expédie la commande
@@ -72,7 +72,7 @@ Actuellement, App Builder appelle Commerce REST directement avec les information
 
 ## Étape 4 — Réduire l&#39;empreinte PHP
 
-Le module PHP actuel gère cinq éléments qui doivent rester en cours de traitement (voir [Split Payment POC : architecture and design decisions](split-payment-poc-architecture-and-decisions.md)). À mesure que la surface de l’API Adobe Commerce se développe, certaines d’entre elles peuvent devenir mobiles :
+Le module PHP actuel gère cinq éléments qui doivent rester en cours de traitement (voir [Split Payment POC : architecture and design decisions](./architecture-and-decisions.md)). À mesure que la surface de l’API Adobe Commerce se développe, certaines d’entre elles peuvent devenir mobiles :
 
 **Éventuellement déplaçable à l’avenir :**
 * L’API REST de crédit de magasin est en évolution. Les versions futures pourront prendre en charge l’application de crédit après commande ou aux paniers inactifs.

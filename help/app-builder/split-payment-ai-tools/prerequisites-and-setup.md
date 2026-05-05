@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -92,10 +92,10 @@ Stockez ces valeurs en toute sécurité. Vous en avez besoin dans chaque fichier
 ## &#x200B;3. Adobe Developer Console et App Builder
 
 * Accès à une organisation Adobe Developer Console
-* Un **projet App Builder** (nouveau ou réutilisé)
+* Un **projet** (nouveau ou réutilisé)
 * Un espace de travail configuré ; les invites supposent **[!UICONTROL Stage]**
 * **[!UICONTROL Adobe I/O Events]** ajouté en tant que service à l’espace de travail
-* **Commerce** connecté en tant que fournisseur d&#39;événements pour l&#39;espace de travail
+* **&#x200B;**&#x200B;connecté en tant que fournisseur d&#39;événements pour l&#39;espace de travail
 
 Le code d’événement utilisé dans la preuve de concept est le suivant : `com.adobe.commerce.observer.sales_order_place_before`
 
@@ -125,14 +125,14 @@ aio app use
 
 Ce tutoriel utilise deux racines de répertoire distinctes. Gardez-les séparées.
 
-**racine du projet Commerce** (votre référentiel git Magento) :
+**racine du projet** (votre référentiel git Magento) :
 
 ```text
 <commerce-root>/
 └── app/code/Client/SplitPayment/   ← Module goes here
 ```
 
-**Racine du projet App Builder** (le dossier `split-payment-orchestrator` du package source ou un nouveau projet que vous créez) :
+**Racine du projet** (le dossier `split-payment-orchestrator` du package source ou un nouveau projet que vous créez) :
 
 ```text
 split-payment-orchestrator/
@@ -197,7 +197,7 @@ Avant de démarrer les invites de build, vérifiez les points suivants :
 * [ ] Le service Événements I/O et le fournisseur d’événements Commerce sont configurés pour le projet App Builder
 * [ ] `aio login` est terminé et l’espace de travail approprié est sélectionné avec `aio app use`
 * [ ] Node.js version 18 ou ultérieure est installé et l’interface de ligne de commande `aio` est installée
-* [ ] fichiers `.env` sont préparés conformément à [Répartition des POC de paiement : référence des variables d’environnement](split-payment-poc-env-reference.md) (et votre package source, le cas échéant)
+* [ ] fichiers `.env` sont préparés conformément à [Répartition des POC de paiement : référence des variables d’environnement](./env-reference.md) (et votre package source, le cas échéant)
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}
