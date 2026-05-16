@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Chaque vue de catalogue peut également contrôler **les prix**. Les **données 
 
 Lorsqu’un acheteur visite la vitrine **Celport**, Adobe Commerce Optimizer utilise la vue de catalogue **Celport** pour déterminer exactement quels produits, prix et règles s’appliquent. L&#39;acheteur ne voit que ce que permet cette lentille.
 
-D’autres produits peuvent encore exister dans le catalogue (par exemple, les pneus Aurora, les moteurs Bolt ou les batteries Cruz), mais **le storefront de Celport ne les expose jamais** si la vue du catalogue ne le permet pas.
+D&#39;autres produits peuvent encore exister dans le catalogue (par exemple des pneus Aurora, des moteurs Bolt ou des batteries Cruz), mais **le storefront de Celport ne les expose jamais** si la vue du catalogue ne le permet pas.
 
 ## ID de vue de catalogue et valeur commerciale
 
@@ -67,5 +67,5 @@ Au lieu de conserver des catalogues distincts pour chaque concessionnaire ou mar
 
 ## Contenu connexe
 
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
