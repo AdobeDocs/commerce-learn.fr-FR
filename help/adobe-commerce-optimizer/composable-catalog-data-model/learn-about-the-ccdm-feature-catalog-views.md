@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Les vues catalogue vous permettent de diffuser chaque audience différemment d�
 * Comment un storefront utilise une vue de catalogue pour filtrer les produits et les prix (par exemple, Celport)
 * Identifiants uniques d’affichage du catalogue et valeur commerciale d’une source unique de vérité
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491264?captions=fre_fr&learn=on)
 
 ## Scénario : Carvelo Automobiles
 
@@ -57,7 +57,7 @@ Chaque vue de catalogue peut également contrôler **les prix**. Les **données 
 
 Lorsqu’un acheteur visite la vitrine **Celport**, Adobe Commerce Optimizer utilise la vue de catalogue **Celport** pour déterminer exactement quels produits, prix et règles s’appliquent. L&#39;acheteur ne voit que ce que permet cette lentille.
 
-D’autres produits peuvent encore exister dans le catalogue (par exemple, les pneus Aurora, les moteurs Bolt ou les batteries Cruz), mais **le storefront de Celport ne les expose jamais** si la vue du catalogue ne le permet pas.
+D&#39;autres produits peuvent encore exister dans le catalogue (par exemple des pneus Aurora, des moteurs Bolt ou des batteries Cruz), mais **le storefront de Celport ne les expose jamais** si la vue du catalogue ne le permet pas.
 
 ## ID de vue de catalogue et valeur commerciale
 
