@@ -31,7 +31,7 @@ Les vues catalogue vous permettent de diffuser chaque audience différemment d�
 * Comment un storefront utilise une vue de catalogue pour filtrer les produits et les prix (par exemple, Celport)
 * Identifiants uniques d’affichage du catalogue et valeur commerciale d’une source unique de vérité
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491264?captions=fre_fr&learn=on)
 
 ## Scénario : Carvelo Automobiles
 
