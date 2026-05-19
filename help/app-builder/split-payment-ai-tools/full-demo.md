@@ -24,7 +24,7 @@ Un acheteur paie en partie en espèces et en partie en **[!UICONTROL Store Credi
 
 ## Vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3484101?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -75,7 +75,7 @@ Actualisez la même commande dans **[!UICONTROL Admin]** : le statut passe à **
 
 ## Seuil total des commandes (validation avant création de la commande)
 
-La configuration d’App Builder ou d’**[!UICONTROL Commerce]** peut prendre en charge les règles de validation ; cette version bloque les commandes supérieures à 100 **&#x200B;**&#x200B;de la valeur du panier (limite de démonstration que vous pouvez modifier). Une vérification de valeur n’est pas la règle métier la plus courante (les vérifications d’inventaire ou de disponibilité sont plus courantes), mais elle indique que la validation peut s’exécuter au **[!UICONTROL Payment]** dans **[!UICONTROL Commerce]** avant la création d’une commande, tandis qu’App Builder gère toujours l’automatisation du suivi.
+La configuration d’App Builder ou d’**[!UICONTROL Commerce]** peut prendre en charge les règles de validation ; cette version bloque les commandes supérieures à 100 **** de la valeur du panier (limite de démonstration que vous pouvez modifier). Une vérification de valeur n’est pas la règle métier la plus courante (les vérifications d’inventaire ou de disponibilité sont plus courantes), mais elle indique que la validation peut s’exécuter au **[!UICONTROL Payment]** dans **[!UICONTROL Commerce]** avant la création d’une commande, tandis qu’App Builder gère toujours l’automatisation du suivi.
 
 1. Ajoutez des produits jusqu’à ce que le total soit supérieur **100** de dollars.
 1. Le **[!UICONTROL UI]** de fractionnement apparaît toujours ; le résultat de dépassement de limite n&#39;apparaît que sur **Ordre de placement**.
