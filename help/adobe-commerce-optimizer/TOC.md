@@ -2,9 +2,9 @@
 user-guide-title: Vidéos et tutoriels Adobe Commerce Optimizer
 user-guide-description: Découvrez Adobe Commerce Optimizer au moyen de vidéos et de tutoriels.
 breadcrumb-title: Adobe Commerce Optimizer
-source-git-commit: 57aa5e9ed4a83c66eeb7f3226c3c30dc92f82ab1
+source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '78'
 ht-degree: 5%
 
 ---
@@ -26,3 +26,4 @@ ht-degree: 5%
 + Modèle de données de catalogue composable {#composable-catalog-data-model}
    + [Pourquoi le CCDM existe](./composable-catalog-data-model/why-ccdm-exists.md)
    + [En savoir plus sur les vues de catalogue](./composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views.md)
+   + [En savoir plus sur les politiques CCDM](./composable-catalog-data-model/learn-about-ccdm-policies.md)
