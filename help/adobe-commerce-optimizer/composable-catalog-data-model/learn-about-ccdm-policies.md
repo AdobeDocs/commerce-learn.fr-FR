@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,6 @@ Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voie
 * Mise à jour des politiques dans les opérations quotidiennes sans reconstruction de catalogue
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## Scénario : Carvelo Automobiles et Celport
-
-**Carvelo Automobiles** est une société fictive de pièces automobiles utilisée dans les démonstrations d’Adobe Commerce. Carvelo vend des pièces sur trois marques — **Aurora**, **Bolt** et **Cruz** — par l&#39;intermédiaire de concessionnaires, dont **Celport**.
-
-Dans la vue de catalogue [Celport](./learn-about-the-ccdm-feature-catalog-views.md), deux politiques fonctionnent ensemble :
-
-1. **Filtre de marque** — autorise uniquement les marques **Bolt** et **Cruz**. Les produits Aurora ne passent pas ce filtre.
-2. **Filtre de catégorie** — limite les produits visibles aux **freins** et **suspension** uniquement.
-
-Un produit doit satisfaire **chaque politique active** pour être visible. Tout le reste est filtré.
-
-Les politiques évaluent les attributs de produit tels que **marque**, **modèle de véhicule** ou **catégorie de pièce** et définissent les produits autorisés par pour cette vue de catalogue.
-
-## Qu’est-ce qu’une politique ?
 
 Une **politique** est un **filtre d’accès aux données**. Il inspecte les attributs de produit et applique des règles qui déterminent les produits qu’une vue de catalogue peut exposer. Les politiques se trouvent au-dessus du catalogue composable partagé et ne dupliquent pas les données du catalogue.
 
@@ -94,6 +79,6 @@ Les politiques sont des filtres légers sur un **catalogue partagé**, et non de
 
 * [Explication du modèle de données de catalogue composable](./why-ccdm-exists.md)
 * [En savoir plus sur les vues de catalogue](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
