@@ -56,4 +56,4 @@ Sur le front-end, l’expérience avec les implémentations découplées peut si
 
 ## Documentation connexe
 
-[En quoi consiste Adobe Commerce ?](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)
+[En quoi consiste Adobe Commerce ?](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)
