@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,7 @@ Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voie
 * Politiques TRIGGER activées par les en-têtes de requête API (par exemple, `AC-Policy-Brand`)
 * Mise à jour des politiques dans les opérations quotidiennes sans reconstruction de catalogue
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## Scénario : Carvelo Automobiles et Celport
-
-**Carvelo Automobiles** est une société fictive de pièces automobiles utilisée dans les démonstrations d’Adobe Commerce. Carvelo vend des pièces sur trois marques — **Aurora**, **Bolt** et **Cruz** — par l&#39;intermédiaire de concessionnaires, dont **Celport**.
-
-Dans la vue de catalogue [Celport](./learn-about-the-ccdm-feature-catalog-views.md), deux politiques fonctionnent ensemble :
-
-1. **Filtre de marque** — autorise uniquement les marques **Bolt** et **Cruz**. Les produits Aurora ne passent pas ce filtre.
-2. **Filtre de catégorie** — limite les produits visibles aux **freins** et **suspension** uniquement.
-
-Un produit doit satisfaire **chaque politique active** pour être visible. Tout le reste est filtré.
-
-Les politiques évaluent les attributs de produit tels que **marque**, **modèle de véhicule** ou **catégorie de pièce** et définissent les produits autorisés par pour cette vue de catalogue.
-
-## Qu’est-ce qu’une politique ?
+>[!VIDEO](https://video.tv.adobe.com/v/3491426?captions=fre_fr&learn=on)
 
 Une **politique** est un **filtre d’accès aux données**. Il inspecte les attributs de produit et applique des règles qui déterminent les produits qu’une vue de catalogue peut exposer. Les politiques se trouvent au-dessus du catalogue composable partagé et ne dupliquent pas les données du catalogue.
 
