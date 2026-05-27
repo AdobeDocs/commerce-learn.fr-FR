@@ -52,7 +52,7 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 
 ## Exemples de code
 
-Avant de commencer, rassemblez toutes les valeurs requises à partir de [Experience Cloud](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
+Avant de commencer, rassemblez toutes les valeurs requises à partir de [&#128279;](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
 
 >[!NOTE]
 >

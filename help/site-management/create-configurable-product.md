@@ -1,6 +1,6 @@
 ---
-title: Create a configurable product
-description: Learn how to create a configurable product using the REST API and the Commerce Admin.
+title: Création d’un produit configurable
+description: Découvrez comment créer un produit configurable à l’aide de l’API REST et de l’administrateur Commerce.
 kt: 14586
 doc-type: video
 duration: 1760
@@ -30,28 +30,28 @@ ht-degree: 0%
 
 ---
 
-# Create a configurable product
+# Création d’un produit configurable
 
-A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
+Un produit configurable est un produit parent de plusieurs produits simples. Définissez un produit configurable pour obliger l&#39;acheteur à faire un ou plusieurs choix pour sélectionner une variation de produit spécifique. Par exemple, si le produit est une chemise, l’acheteur doit choisir les options de taille et de couleur pour sélectionner la chemise.
 
-Although a configurable product uses more SKUs and may initially take a little longer to set up, it can save you time in the end. If you plan to grow your business, the configurable product type is a good choice for products with multiple options.
+Bien qu’un produit configurable utilise plus de SKU et puisse prendre un peu plus de temps à configurer au début, il peut vous faire gagner du temps à la fin. Si vous prévoyez faire croître votre entreprise, le type de produit configurable est un bon choix pour les produits à options multiples.
 
-Before creating a configurable product, verify that all the simple products to include in the configurable product are available in Adobe Commerce. Create any that do not exist.
+Avant de créer un produit configurable, vérifiez que tous les produits simples à inclure dans le produit configurable sont disponibles dans Adobe Commerce. Créez les qui n’existent pas.
 
-In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
+Dans ce tutoriel, découvrez comment créer un produit configurable à l’aide de l’API REST et de l’administrateur Adobe Commerce.
 
-Use the REST API to create a configurable product:
+Utilisez l’API REST pour créer un produit configurable :
 
-1. Get the attributes for an [attribute set](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=fr) to use the ID numbers for subsequent API calls.
-1. Create simple products for use in the configurable product.
-1. Create an empty configurable product and associate the simple products.
-1. Set the product attributes for the configurable product.
-1. Populate the empty configurable product with simple products.
-1. Get the configurable product and all the attributes.
-1. Get the assigned children products for the configurable product.
-1. Delete the association of simple products to configurable products.
+1. Obtenez les attributs d’un [jeu d’attributs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=fr) afin d’utiliser les numéros d’ID pour les appels d’API suivants.
+1. Créez des produits simples à utiliser dans le produit configurable.
+1. Créez un produit configurable vide et associez les produits simples.
+1. Définissez les attributs de produit pour le produit configurable.
+1. Renseignez le produit configurable vide avec des produits simples.
+1. Obtenez le produit configurable et tous les attributs.
+1. Obtenez les produits enfants attribués au produit configurable.
+1. Supprimez l’association de produits simples à des produits configurables.
 
-When creating configurable products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool that creates new simple products for use using the wizard.
+Lors de la création de produits configurables à partir de l’administration Adobe Commerce, vous pouvez soit commencer par créer les produits simples, soit utiliser l’outil automatisé qui crée de nouveaux produits simples à utiliser à l’aide de l’assistant.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -229,13 +229,13 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 '
 ```
 
-## Create an empty configurable product using cURL
+## Créer un produit configurable vide à l’aide de cURL
 
-Create an empty configurable product by sending the following POST request using cURL.
+Créez un produit configurable vide en envoyant la requête POST suivante à l’aide de cURL.
 
 Avant d’envoyer la requête, mettez à jour l’exemple avec des valeurs pour votre environnement.
 
-* Change `"attribute_set_id": 10,` and replace `10` with the attribute set id from your environment.
+* Modifiez le `"attribute_set_id": 10,` et remplacez `10` par l’ID de jeu d’attributs de votre environnement.
 * Modifiez `"value": "93"` et remplacez `93` par la valeur de votre environnement.
 
 ```bash
@@ -262,11 +262,11 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 }'
 ```
 
-## Set the options available for the configurable product
+## Définir les options disponibles pour le produit configurable
 
-Set the options available for the configurable product by sending the following POST request using cURL.
+Définissez les options disponibles pour le produit configurable en envoyant la requête POST suivante à l’aide de cURL.
 
-Before submitting the request, change `"attribute_id": 93,` to replace `93` with the attribute id from your environment.
+Avant d’envoyer la requête, modifiez la `"attribute_id": 93,` pour remplacer `93` avec l’ID d’attribut de votre environnement.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/options' \
@@ -288,21 +288,21 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Ha
 }'
 ```
 
-If you forget to set the options for the configurable product (parent), you get an error when you try to associate a child product to the configurable product. The error message is similar to the following example:
+Si vous oubliez de définir les options du produit configurable (parent), une erreur se produit lorsque vous essayez d’associer un produit enfant au produit configurable. Le message d’erreur est similaire à l’exemple suivant :
 
 `{"message":"The parent product doesn't have configurable product options.","trace":"#0 [internal function]: Magento\\ConfigurableProduct\\Model\\LinkManagement->addChild('Kids-Hawaiian-U...'}`
 
-## Link the child product to the configurable
+## Lier le produit enfant au configurable
 
-Now, you have created three simple products:
+Vous avez à présent créé trois produits simples :
 
 * `"Kids Hawaiian Ukulele Red"`,
 * `"Kids-Hawaiian-Ukulele-Blue"`
 * `"Kids-Hawaiian-Ukulele-Green"`
 
-Add these simple products as children of the configurable product by sending the following POST request. Submit a separate request for each product.
+Ajoutez ces produits simples en tant qu’enfants du produit configurable en envoyant la requête POST suivante. Envoyez une demande distincte pour chaque produit.
 
-For each request, update the `childSKU` value with the value for the child product you are adding. The following example assigns the simple product `kids-Hawaiian-Ukulele-red` to the configurable product with the SKU `Kids-Hawaiian-Ukulele-red`.
+Pour chaque requête, mettez à jour la valeur du `childSKU` avec la valeur du produit enfant que vous ajoutez. L’exemple suivant attribue la `kids-Hawaiian-Ukulele-red` de produit simple au produit configurable avec la `Kids-Hawaiian-Ukulele-red` de SKU.
 
 
 ```bash
@@ -316,9 +316,9 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 '
 ```
 
-## Get a configurable product using cURL
+## Obtention d’un produit configurable à l’aide de cURL
 
-Now that you have created a configurable product with three assigned child SKUs. You can see the linked IDs for the assigned products by sending the following GET request using cURL. This request returns detailed information about the configurable product.
+Maintenant que vous avez créé un produit configurable avec trois SKU enfants attribués. Vous pouvez afficher les identifiants liés pour les produits affectés en envoyant la requête GET suivante à l’aide de cURL. Cette requête renvoie des informations détaillées sur le produit configurable.
 
 ```json
 ...
@@ -330,27 +330,27 @@ Now that you have created a configurable product with three assigned child SKUs.
 ...
 ```
 
-The following uses the GET method
+L’exemple suivant utilise la méthode GET
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulele' \
 --header 'Authorization: Bearer {{Your Bearer Token}}'
 ```
 
-## Get the children product associated to a configurable product
+## Obtenir le produit enfant associé à un produit configurable
 
-Return only the children associated with the configurable product by sending the following GET request. The response will include all the attributes for the child product including SKU and price.
+Renvoyez uniquement les enfants associés au produit configurable en envoyant la requête GET suivante. La réponse inclut tous les attributs du produit enfant, y compris le SKU et le prix.
 
-The following uses the GET method
+L’exemple suivant utilise la méthode GET
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-hawaiian-ukulele/children' \
 --header 'Authorization: Bearer {{Your Bearer Token}}'
 ```
 
-## Delete or remove a child product from the parent configurable
+## Supprimer ou supprimer un produit enfant du parent configurable
 
-You can remove a child product from a configurable product without deleting the product from the catalog by sending the following DELETE request using cURL.
+Vous pouvez supprimer un produit enfant d’un produit configurable sans supprimer le produit du catalogue en envoyant la requête DELETE suivante à l’aide de cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
@@ -359,7 +359,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Ressources supplémentaires
 
-* [Create a configurable product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [Configurable Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=fr){target="_blank"}
+* [Tutoriel sur la création d’un produit configurable](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Produit configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=fr){target="_blank"}
 * [Tutoriels REST Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
