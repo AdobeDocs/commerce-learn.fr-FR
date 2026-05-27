@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
 source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -33,12 +33,12 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330181?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36190?learn=on)
 
 ## Ressources supplémentaires
 
-[Modèles d’e-mail - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=fr)
+[Modèles d’e-mail - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Variables et communications client - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=fr#variables-and-customer-communications)
+[Variables et communications client - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)
