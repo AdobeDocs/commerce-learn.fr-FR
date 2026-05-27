@@ -60,7 +60,7 @@ Si un CTA/CSE est affecté(e) au compte, contactez-le ainsi que le gestionnaire 
 
 2. [!BADGE Bloqueur]{type=caution tooltip="Bloqueur potentiel"} consulter les recommandations et informations relatives aux informations d’assistance (SWAT) ([Guide de l’utilisateur](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Vérifiez que les utilisateurs finaux et les commerçants ont terminé l’UAT (test d’acceptation utilisateur), y compris les opérations principales.
-4. Vérifiez que l’équipe de l’intégrateur système a effectué un test d’expérience utilisateur de bout en bout sur l’évaluation et la production. Consultez la [documentation Experience League](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}.
+4. Vérifiez que l’équipe de l’intégrateur système a effectué un test d’expérience utilisateur de bout en bout sur l’évaluation et la production. Consultez la [documentation &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}.
 5. Confirmez le déploiement et le test du code dans les environnements d’évaluation et de production ([En savoir plus](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/develop/test/staging-and-production){target="_blank"}).
 6. Vérifiez que la taille du cluster de production a été augmentée de manière permanente par rapport à la valeur de référence quotidienne sous-traitée. Contactez le CTA/CSE affecté pour plus d’informations ou ouvrez un ticket d’assistance.
 
@@ -80,7 +80,7 @@ Si un CTA/CSE est affecté(e) au compte, contactez-le ainsi que le gestionnaire 
 
 3. Assurez-vous que l’optimisation des images Fastly est activée ([Voir Optimisation des images Fastly](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization){target="_blank"})
 4. Vérifiez que l&#39;emplacement correct du blindage est configuré ([Configurer le cache, les serveurs principaux et le blindage d&#39;origine](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
-5. Vérifiez que le pare-feu d&#39;application web (**WAF**) fonctionne. (Voir [&#x200B; Dépannage des requêtes bloquées](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"} le cas échéant, et des limitations.)
+5. Vérifiez que le pare-feu d&#39;application web (**&#x200B;**) fonctionne. (Voir [&#x200B; Dépannage des requêtes bloquées](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"} le cas échéant, et des limitations.)
 6. Mettez à jour la liste [&#x200B; rapidement « Paramètres d’URL ignorés »](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} dans le panneau d’administration pour améliorer les performances du cache.
 
    >[!NOTE]
@@ -183,12 +183,12 @@ Au moment du basculement, procédez comme suit (pour plus d’informations, voir
 
 1. Accédez à votre service DNS et mettez à jour les enregistrements A et CNAME pour chacun de vos domaines et noms d’hôte :
    1. Ajoutez un enregistrement CNAME pour _&lt;&lt;www.yourdomain.com>>_, pointant vers **prod.magentocloud.map.fastly.net**
-   2. Définissez quatre enregistrements A pour _&lt;&lt;yourdomain.com>_, pointant vers :\
+   2. Définissez quatre enregistrements A pour _&lt;&lt;yourdomain.com>>_, pointant vers :\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. Modifiez l’URL de base d’Adobe Commerce en _&lt;&lt;www.yourdomain.com>_
+2. Modifiez l’URL de base d’Adobe Commerce en _&lt;&lt;www.yourdomain.com>>_
 3. Patientez jusqu’à ce que le temps de TTL soit écoulé, puis redémarrez le navigateur web.
 4. Testez le site web.
 

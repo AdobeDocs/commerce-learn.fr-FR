@@ -1,6 +1,6 @@
 ---
-title: Separate Packages Global Reference Architecture
-description: Optimize Adobe Commerce with Separate Packages GRA. Learn setup, benefits, and best practices for flexible, versioned package management.
+title: Architecture de référence globale des packages distincts
+description: Optimisez Adobe Commerce avec des packages GRA distincts. Découvrez la configuration, les avantages et les bonnes pratiques pour une gestion des packages flexible et versionnée.
 jira: KT-16727
 doc-type: tutorial
 duration: 594
@@ -37,38 +37,38 @@ ht-degree: 0%
 
 ---
 
-# The Separate Packages global reference architecture pattern
+# Modèle d’architecture de référence globale des packages distincts
 
 {{only-for-on-prem-commerce-cloud}}
 
-This guide explains how to set up Adobe Commerce with the Separate Packages Global Reference Architecture (GRA) Pattern.
+Ce guide explique comment configurer Adobe Commerce avec le modèle GRA (Global Reference Architecture) de packages distincts.
 
-The Separate Packages GRA pattern involves one Git repository for each common package and a Git repository for each Adobe Commerce instance. Common packages are exposed through Composer with a private composer repository.
+Le modèle GRA pour les packages distincts implique un référentiel Git pour chaque package commun et un référentiel Git pour chaque instance Adobe Commerce. Les packages courants sont exposés via le compositeur avec un référentiel de compositeur privé.
 
-This global reference architecture pattern is completely Composer based and it is designed to get the maximum benefit from all Composer features.
+Ce modèle d’architecture de référence globale est entièrement basé sur le compositeur et est conçu pour tirer le meilleur parti de toutes les fonctionnalités du compositeur.
 
-![A diagram showing where code is stored in a Separate Packages GRA pattern](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
+![Diagramme indiquant où le code est stocké dans un modèle GRA de packages distinct](/help/assets/global-reference-architecture/separate-packages-gra-pattern-diagram.png){align="center"}
 
 ## Avantages et inconvénients de ce modèle
 
 Avantages :
 
-* Code reuse through a shared code repositories
-* Complete flexibility in package installation, each GRA package can be upgraded, downgraded or backported individually
-* Full support for semantic versioning
+* Réutilisation du code dans des référentiels de code partagés
+* Flexibilité totale dans l&#39;installation des packages, chaque package GRA peut être mis à niveau, rétrogradé ou rétroporté individuellement
+* Prise en charge complète du contrôle de version sémantique
 * Aucun outil spécial, infrastructure complexe ou stratégie de branchement spéciale requis
-* Support for all package types that Composer supports
+* Prise en charge de tous les types de packages pris en charge par le compositeur
 
 Inconvénients :
 
-* Development within this GRA pattern is slightly more difficult at the start, there is a small learning curve
-* Possible to deploy combinations of packages that were not developed in the same configuration, need for strict test procedures
+* Le développement au sein de ce schéma GRA est un peu plus difficile au début, il y a une petite courbe d&#39;apprentissage
+* Possibilité de déployer des combinaisons de packages qui n&#39;ont pas été développés dans la même configuration, nécessité de procédures de test strictes
 
-## Set up Adobe Commerce with the Separate Packages GRA pattern
+## Configuration d’Adobe Commerce avec le modèle GRA de packages distincts
 
 ### La structure du répertoire
 
-The final directory structure of a full Adobe Commerce installation with the Separate Packages GRA pattern looks like this:
+La structure de répertoires finale d’une installation Adobe Commerce complète avec le modèle GRA Packages distinct ressemble à ceci :
 
 ```text
 .
@@ -187,31 +187,31 @@ Avec cette commande, les packages de l’espace de noms antonevers ont été ext
 
 ### Inclure des modules tiers dans GRA Foundation
 
-Add third-party packages to the GRA metapackage. If third-party code is not available to be installed from a Composer repository, then create a package for it. Create a Git repo, add the packages contents (everything that would be in app/code/Vendor/Package) and make sure that there is a valid composer.json file at the root of the repository. You can now install this package through Composer.
+Ajoutez des packages tiers au métapaquet GRA. Si du code tiers n’est pas disponible pour être installé à partir d’un référentiel de compositeur, créez un package pour celui-ci. Créez un référentiel Git, ajoutez le contenu des packages (tout ce qui se trouverait dans app/code/Vendor/Package) et assurez-vous qu’il existe un fichier composer.json valide à la racine du référentiel. Vous pouvez désormais installer ce package via le compositeur.
 
-## Set up a private Composer repository
+## Configuration d’un référentiel Composer privé
 
-A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduces repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored in your private repository. No more sensitive credentials bundled with the code or on developers&#39; machines.
+Un référentiel privé n’est pas obligatoire dans l’architecture de référence globale. Cela accélère les déploiements et l’installation, réduit la configuration du référentiel dans composer.json et augmente la sécurité. Les informations d’identification d’autres référentiels Composer et d’Adobe Commerce Marketplace sont stockées dans votre référentiel privé. Plus d’informations d’identification sensibles incluses avec le code ou sur les ordinateurs des développeurs.
 
-Additionally, some private repositories offer extra functionalities such as email notifications when one of your stores contains a security vulnerability in one of its dependencies.
+En outre, certains référentiels privés offrent des fonctionnalités supplémentaires, telles que des notifications par e-mail lorsque l’un de vos magasins contient une vulnérabilité de sécurité dans l’une de ses dépendances.
 
-The slowness issue is what occurs when you have multiple VCS repositories in composer.json. Each Composer repository needs to be read when doing upgrades and having 50 repositories for 50 packages has at least 50 times the overhead of just a single Composer repository.
+Le problème de lenteur se produit lorsque vous disposez de plusieurs référentiels VCS dans composer.json. Chaque référentiel de compositeur doit être lu lors des mises à niveau. En outre, disposer de 50 référentiels pour 50 packages représente au moins 50 fois la surcharge d’un seul référentiel de compositeur.
 
-![A diagram showing where slowness occurs when a composer repository is missing](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
+![Diagramme indiquant où la lenteur se produit lorsqu’un référentiel de compositeur est manquant](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
-Include a Composer mirror in the form of a private Composer repository. The mirror contains a copy of all packages from other Composer repositories as well as all Git hosted packages. With a private Composer repository, you additionally get fine grained access control.
+Incluez un miroir du compositeur sous la forme d’un référentiel de compositeur privé. Le miroir contient une copie de tous les packages des autres référentiels du compositeur, ainsi que de tous les packages hébergés par Git. Avec un référentiel de compositeur privé, vous bénéficiez en outre d’un contrôle d’accès détaillé.
 
-With Git synchronization, a private Composer repository automatically detects new packages in your Git repositories as well as new versions of existing packages.
+Grâce à la synchronisation Git, un référentiel Composer privé détecte automatiquement les nouveaux packages dans vos référentiels Git, ainsi que les nouvelles versions des packages existants.
 
-You can host your own private repository with Satis: <https://composer.github.io/satis/>. See an example public repository at <https://antonevers.github.io/gra-composer-repository/>. This repo is used as the composer repository in the code examples. Additional measures are necessary to make a Satis repository private.
+Vous pouvez héberger votre propre référentiel privé avec Satis : <https://composer.github.io/satis/>. Consultez un exemple de référentiel public à l’adresse <https://antonevers.github.io/gra-composer-repository/>. Ce référentiel est utilisé comme référentiel du compositeur dans les exemples de code. Des mesures supplémentaires sont nécessaires pour rendre un référentiel Satis privé.
 
-There are solutions that you can configure and forget about: Private Packagist <https://packagist.com/>, which is made by the same people that wrote Composer or JFrog Artifactory <https://jfrog.com/artifactory/>.
+Il existe des solutions que vous pouvez configurer et oublier : Private Packagist <https://packagist.com/>, qui est créé par les mêmes personnes qui ont écrit Composer ou JFrog Artifactory <https://jfrog.com/artifactory/>.
 
-## Deliver code
+## Code de diffusion
 
-With metapackages, there are 3 steps to deliver code.
+Avec les métapaquets, il existe 3 étapes pour diffuser le code.
 
-1. Merge changes into packages and version the changed packages.
+1. Fusionner les modifications dans des packages et créer une version des packages modifiés.
 2. (Facultatif, uniquement si de nouveaux packages sont ajoutés) Demandez les nouveaux packages dans des métapaquets et gérez la version des métapaquets.
 3. (Facultatif, uniquement si de nouveaux packages sont ajoutés) Demandez les nouveaux métapaquets dans Adobe Commerce et déployez-les.
 
@@ -259,7 +259,7 @@ Cet exemple illustre une définition lâche des dépendances. Avec `~1.0`, toute
 Dès que vous publiez une nouvelle version de l’un des packages mentionnés, elle est automatiquement installée avec la mise à jour du compositeur.
 
 Appliquez le contrôle de version sémantique. Vous pouvez tout savoir sur le contrôle de version sémantique à l’adresse <https://semver.org/>. En particulier, la FAQ est une lecture incontournable. Avec le contrôle de version sémantique, les nombres dans « 1.0.0 » sont appelés MAJEUR.MINEUR.PATCH. Les versions mineures et de correctif d’un package doivent pouvoir être introduites en toute sécurité sans interrompre l’application.
-You can automatically include patches and manually choose minor upgrades. Be aware that doing so costs you extra overhead by picking each minor change manually:
+Vous pouvez inclure automatiquement des correctifs et choisir manuellement des mises à niveau mineures. Gardez à l’esprit que cela entraîne des frais généraux supplémentaires en sélectionnant manuellement chaque modification mineure :
 
 ```json
 {
@@ -273,25 +273,25 @@ You can automatically include patches and manually choose minor upgrades. Be awa
 }
 ```
 
-Of course, all this only works if you apply semantic versioning consistently, always. And not only in metapackages, but the requirements of your regular packages should define dependencies loosely too. If you have one strict dependency in your system, that package is limited to the strict definition.
+Bien sûr, tout cela ne fonctionne que si vous appliquez le contrôle de version sémantique de manière cohérente et permanente. Et pas seulement dans les métapaquets, mais les exigences de vos packages standard doivent également définir les dépendances de manière approximative. Si votre système comporte une dépendance stricte, ce package est limité à la définition stricte.
 
-Find these strict dependencies by typing composer depends \&lt;package name\>. See <https://getcomposer.org/doc/03-cli.md#depends-why> for more information.
+Recherchez ces dépendances strictes en saisissant composer dependencies \&lt;nom du package\>. Voir <https://getcomposer.org/doc/03-cli.md#depends-why> pour plus d’informations.
 
-## Branching strategy
+## Stratégie d’embranchement
 
-You can use various branching strategies to support this global reference strategy pattern, provided that the main branch is the only branch where you version your packages. If you version across several branches, it introduces the risk of randomly losing functionality between versions. Only create stable versions on the main branch.
+Vous pouvez utiliser différentes stratégies d’embranchement pour prendre en charge ce modèle de stratégie de référence globale, à condition que la branche principale soit la seule branche dans laquelle vous créez des versions pour vos packages. Si vous gérez les versions sur plusieurs branches, cela introduit le risque de perdre aléatoirement des fonctionnalités entre les versions. Créez uniquement des versions stables sur la branche principale.
 
-Only create feature branches in your package repositories. Not on your store installation repositories. Remain able to introduce any change to your store just by using Composer. Avoid the necessity of Git merges on the deployment repository.
+Créez uniquement des branches de fonctionnalités dans vos référentiels de packages. Pas dans les référentiels d’installation de votre boutique. N’hésitez pas à apporter des modifications à votre boutique en utilisant simplement le compositeur. Évitez d’avoir à effectuer des fusions Git sur le référentiel de déploiement.
 
-Branch types that are common in branching strategies and repositories they should exist in:
+Les types de branches courants dans les stratégies d’embranchement et les référentiels doivent exister dans :
 
-**Feature branches**: exist in your package repositories, nowhere else.
+**Branches de fonctionnalités** : existent dans vos référentiels de packages, nulle part ailleurs.
 
-**Release branches**: are created in any repository: packages, metapackages, store installation repositories. When you plan a release, group changes in release branches of packages before versioning them. Suppose you are preparing a release with the code name &quot;Unicorn&quot;. You can create a release-unicorn branch in packages with changes. Merge anything in there and then require &quot;dev-release-unicorn as 1.4.0&quot; in your metapackage. Learn more about aliases to see what is happening there: <https://getcomposer.org/doc/articles/aliases.md>.
+**branches de version** : elles sont créées dans n’importe quel référentiel : packages, métapaquets, magasins et référentiels d’installation. Lorsque vous planifiez une version, regroupez les modifications dans les branches de version des packages avant de créer des versions pour eux. Supposons que vous prépariez une version portant le nom de code « Licorne ». Vous pouvez créer une branche release-unicorn dans les packages avec des modifications. Fusionnez n’importe quel élément à l’intérieur de celui-ci, puis exigez « dev-release-unicorn as 1.4.0 » dans votre métapaquet. En savoir plus sur les alias pour voir ce qui se passe : <https://getcomposer.org/doc/articles/aliases.md>.
 
-**QA/Dev branches**: similar to release branches.
+**branches QA/Dev** : similaire aux branches de version.
 
-**Main branch**: must exist in every repository and should always be the branch that represents production or a production-ready state. La branche principale est l’emplacement où vous balisez le code vers les versions de publication.
+**Branche principale** : doit exister dans chaque référentiel et doit toujours être la branche qui représente la production ou un état prêt pour la production. La branche principale est l’emplacement où vous balisez le code vers les versions de publication.
 Veillez à choisir une stratégie d’embranchement avec peu de frais de maintenance. Par exemple, la fusion de la branche principale en branches AQ, UAT, version ou développement après une publication de correctif est une tâche de maintenance planifiée. Plus il y a de packages, plus il y a de référentiels et plus les tâches répétitives sont lourdes.
 
 Utilisez un outil tel que mixu/gr pour effectuer des opérations de routine sur plusieurs référentiels Git dans un lot : <https://github.com/mixu/gr>
@@ -311,7 +311,7 @@ Les exemples de code de cet article de blog ont été combinés dans un ensemble
 * Exemple de magasin de production : <https://github.com/AntonEvers/gra-separate-brand-x>
 * Exemple de module de base : <https://github.com/AntonEvers/module-example-gra>
 * Exemple de module tiers : <https://github.com/AntonEvers/module-example-3rdparty>
-* An example local module: <https://github.com/AntonEvers/module-example-local>
-* An example foundation metapackage: <https://github.com/AntonEvers/gra-meta-foundation>
-* An example local metapackage (optional): <https://github.com/AntonEvers/gra-meta-brand-x>
-* An example Composer repository: <https://github.com/AntonEvers/gra-composer-repository>
+* Exemple de module local : <https://github.com/AntonEvers/module-example-local>
+* Exemple de métapaquet de base : <https://github.com/AntonEvers/gra-meta-foundation>
+* Exemple de métapaquet local (facultatif) : <https://github.com/AntonEvers/gra-meta-brand-x>
+* Exemple de référentiel Composer : <https://github.com/AntonEvers/gra-composer-repository>

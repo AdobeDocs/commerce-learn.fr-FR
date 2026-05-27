@@ -1,6 +1,6 @@
 ---
-title: Data Sharing and personalized shopping experiences
-description: Boost customer loyalty and sales with Adobe Commerce's native data sharing, enabling personalized shopping experiences and seamless data integration.
+title: Partage de données et expériences d’achat personnalisées
+description: Fidélisez davantage vos clients et stimulez leurs ventes grâce au partage de données natives Adobe Commerce, qui offre des expériences d’achat personnalisées et une intégration transparente des données.
 feature: Marketing Tools, Site Management, Storefront
 topic: Architecture, Commerce, Performance
 role: Admin, User
@@ -38,20 +38,20 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce Data Sharing
+# Partage de données Adobe Commerce
 
-Discover the power of Adobe Commerce&#39;s native data sharing capabilities to enhance customer loyalty and drive sales.
-Seamlessly integrate with Adobe Experience Cloud products to create personalized shopping journeys, leveraging real-time customer profiles and behavioral data. From targeted email campaigns to dynamic on-site content, Adobe Commerce enables a unified view of your customers, ensuring relevant and engaging experiences that boost conversions and average order value. Experience the future of e-commerce personalization with Adobe Commerce.
+Découvrez la puissance des fonctionnalités de partage de données natives d’Adobe Commerce pour fidéliser davantage la clientèle et stimuler les ventes.
+Intégrez-la de manière transparente aux produits Adobe Experience Cloud afin de créer des parcours d’achat personnalisés, en exploitant les profils clients en temps réel et les données comportementales. Des campagnes par e-mail ciblées au contenu dynamique sur site, Adobe Commerce offre une vue d’ensemble de vos clients, offrant des expériences pertinentes et attrayantes qui stimulent les conversions et la valeur moyenne des commandes. Découvrez l’avenir de la personnalisation du commerce électronique avec Adobe Commerce.
 
 ## À qui s’adresse cette vidéo ?
 
-* Businesses and e-commerce companies looking to enhance customer loyalty
-* Retailers, telecommunications companies, and brands aiming to integrate their data seamlessly across Adobe Experience Cloud
+* Entreprises et commerces en ligne cherchant à fidéliser leurs clients
+* Détaillants, sociétés de télécommunications et marques qui cherchent à intégrer leurs données de manière transparente dans Adobe Experience Cloud
 
 ## Contenu vidéo
 
-* Enhanced personalization through the Adobe Commerce&#39;s native data sharing capabilities
-* Increased Customer Engagement and Loyalty
-* Seamless Integration and Unified Customer View
+* Personnalisation améliorée grâce aux fonctionnalités de partage de données natives d’Adobe Commerce
+* Fidélisation et engagement accrus des clients
+* Intégration transparente et vue unifiée du client
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433571?captions=fre_fr&learn=on)
