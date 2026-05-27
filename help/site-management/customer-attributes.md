@@ -1,6 +1,6 @@
 ---
 title: Créer des attributs de client
-description: Learn how to add custom attributes to the Account Information, Address Book, and Billing Information sections of a customer's account.
+description: Découvrez comment ajouter des attributs personnalisés aux sections Informations du compte, Carnet d’adresses et Informations de facturation du compte d’un client.
 kt: 10547
 doc-type: feature video
 duration: 117
@@ -13,21 +13,11 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
 TQID: https://experienceleague.adobe.com/qTfhGEqQBLAn6E7kRLLFaIgSLer4toyskNEyIXfACdk
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: d1e21356-0064-4f48-9089-16e3f0dbd2a6id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 129
@@ -37,7 +27,7 @@ ht-degree: 0%
 
 # Créer des attributs de client
 
-Customer attributes provide the information that is required to support the order, fulfillment, and customer management processes. Because your business is unique, you might need fields in addition to the default fields provided by the system. You can add custom attributes to the Account Information, Address Book, and Billing Information sections of the customer&#39;s account.
+Les attributs du client fournissent les informations requises pour prendre en charge les processus de commande, d’exécution et de gestion des clients. Votre entreprise étant unique, vous aurez peut-être besoin de champs en plus des champs par défaut fournis par le système. Vous pouvez ajouter des attributs personnalisés aux sections Informations du compte, Carnet d’adresses et Informations de facturation du compte du client.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -46,9 +36,9 @@ Customer attributes provide the information that is required to support the orde
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410184?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343661?learn=on)
 
 ## Ressources supplémentaires
 
-* [Customer attribute properties - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=fr)
-* [Create an Individual Customer Account - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=fr)
+* [Propriétés des attributs du client - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+* [Créer un compte client individuel - [!DNL Commerce] Guide de gestion client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

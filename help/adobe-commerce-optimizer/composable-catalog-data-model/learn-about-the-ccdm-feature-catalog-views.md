@@ -30,9 +30,9 @@ Les vues catalogue vous permettent de diffuser chaque audience différemment d�
 * Comment un storefront utilise une vue de catalogue pour filtrer les produits et les prix (par exemple, Celport)
 * Identifiants uniques d’affichage du catalogue et valeur commerciale d’une source unique de vérité
 
->[!VIDEO](https://video.tv.adobe.com/v/3491264?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## Contenu connexe
 
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}

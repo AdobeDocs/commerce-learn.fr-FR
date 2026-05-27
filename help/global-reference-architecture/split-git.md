@@ -14,21 +14,11 @@ role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
 TQID: https://experienceleague.adobe.com/dtuD15AYh-zU8In3X-Z2nHLKVKWGKgyrI9pwpVJsvvs
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 1555
@@ -170,7 +160,7 @@ Adobe Commerce est une application de compositeur. La méthode d’installation 
 
 En résumé :
 
-* **Adobe Commerce** : stocké dans un référentiel de compositeur.
+* **** : stocké dans un référentiel de compositeur.
 * **Modules tiers** : stockés dans un référentiel Composer.
 * **Option de secours des modules tiers** : stocké dans le référentiel Git gra-split-3rdparty.
 * **code de base GRA** : stocké dans le référentiel Git gra-split-gra.
@@ -369,7 +359,7 @@ git push origin main
 
 ### Diffusion du code vers les instances
 
-Fusionnez les référentiels GRA et tiers avec le référentiel gra-split-brand-x pour diffuser le code vers une instance Adobe Commerce. Run `composer require`, `bin/magento module:enable` and commit the result.
+Fusionnez les référentiels GRA et tiers avec le référentiel gra-split-brand-x pour diffuser le code vers une instance Adobe Commerce. Exécutez `composer require`, `bin/magento module:enable` et validez le résultat.
 
 ```bash
 cd gra-split-brand-x
@@ -382,21 +372,21 @@ git commit -m 'install GRA and third-party modules'
 git push origin main
 ```
 
-## Branching strategy
+## Stratégie d’embranchement
 
-This GRA pattern works with all branching strategies, if you mirror the branching strategy of the store repositories in your third-party and GRA repositories. For releases, create a release branch with the same name in all three repositories. Merge the release branches together on the store repository during release preparation.
+Ce modèle GRA fonctionne avec toutes les stratégies d’embranchement, si vous reflétez la stratégie d’embranchement des référentiels de magasin dans vos référentiels tiers et GRA. Pour les versions , créez une branche de version portant le même nom dans les trois référentiels. Fusionnez les branches de version sur le référentiel de magasin pendant la préparation de la version.
 
-Sometimes you have a ticket branch that requires both local code and third-party code or GRA code to be altered. In this case, the ticket branches need to be created in all related repositories.
+Parfois, vous disposez d’une branche de ticket qui nécessite la modification du code local et du code tiers ou du code GRA. Dans ce cas, les branches de ticket doivent être créées dans tous les référentiels associés.
 
-Never merge third-party and GRA commits into the brand repository inside ticket branches. Instead, check out the right branches in your development environment for each code pool. Merging into the brand repository is only done when composing the release, or when composing a QA branch.
+Ne fusionnez jamais les validations tierces et GRA dans le référentiel de marque au sein des branches de ticket. Au lieu de cela, consultez les branches appropriées dans votre environnement de développement pour chaque pool de code. La fusion dans le référentiel de marque n’est effectuée que lors de la composition de la version ou de la composition d’une branche d’assurance qualité.
 
 ## Exemples de code
 
-The code examples of this article are available as a set of Git repositories, which you can use to test the proof of concept.
+Les exemples de code de cet article sont disponibles sous la forme d’un ensemble de référentiels Git, que vous pouvez utiliser pour tester la validation de principe.
 
 * Exemple de magasin de production : <https://github.com/AntonEvers/gra-split-brand-x>
-* The third-party code repository: <https://github.com/AntonEvers/gra-split-3rdparty>
-* The GRA code repository: <https://github.com/AntonEvers/gra-split-gra>
-* An example local module: <https://github.com/AntonEvers/module-example-local>
-* An example GRA module: <https://github.com/AntonEvers/module-example-gra>
+* Référentiel de code tiers : <https://github.com/AntonEvers/gra-split-3rdparty>
+* Le référentiel de code GRA : <https://github.com/AntonEvers/gra-split-gra>
+* Exemple de module local : <https://github.com/AntonEvers/module-example-local>
+* Exemple de module GRA : <https://github.com/AntonEvers/module-example-gra>
 * Exemple de module tiers : <https://github.com/AntonEvers/module-example-3rdparty>
