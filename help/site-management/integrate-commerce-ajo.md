@@ -55,7 +55,7 @@ Découvrez comment utiliser la [connexion aux données](https://experienceleague
 * Dans Adobe Journey Optimizer, créez et activez facilement des parcours client 1:1 à l’aide d’événements d’usine disponibles avec Data Connection
 * Interagissez avec les acheteurs sur tous les canaux en temps réel à l’aide des fonctionnalités de messagerie native de Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452464?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
