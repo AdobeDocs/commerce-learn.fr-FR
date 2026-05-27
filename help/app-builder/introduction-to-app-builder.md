@@ -92,16 +92,16 @@ Pour vous aider à prendre en main App Builder, Adobe a créé la documentation 
 App Builder fournit des vidéos et de la documentation à l’intention des développeurs, y compris des guides et une documentation de référence pour vous aider à développer vos propres applications personnalisées :
 
 * [Documentation App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [App Builder videos](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
+* [Vidéos App Builder](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
-## Try Out One of the Sample Applications {#appbuilder-codesamples}
+## Essayez l’un des exemples d’applications {#appbuilder-codesamples}
 
-Ready to start developing? The following link contains sample applications to help get you started:
+Prêt à développer ? Le lien suivant contient des exemples d’applications pour vous aider à commencer :
 
-* [App Builder Code Labs on Adobe Developer Website](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+* [App Builder Code Labs sur le site web d’Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Support technique {#support}
 
-For developer support requests, use the [Experience League forum](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=fr){target="_blank"} for assistance.
+Pour les demandes d’assistance aux développeurs, utilisez le [forum &#x200B;](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=fr){target="_blank"} pour obtenir de l’aide.
 
 {{$include /help/_includes/app-builder-related-links.md}}

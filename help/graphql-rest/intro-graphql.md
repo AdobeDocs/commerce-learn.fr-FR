@@ -1,7 +1,7 @@
 ---
 title: Présentation de GraphQL
-description: Découvrez comment utiliser GraphQL sur Adobe Commerce et  [!DNL Magento Open Source]. Utilisez le GET GraphQL et les appels POST pour Adobe Commerce et  [!DNL Magento Open Source].
-short-description: Découvrez comment utiliser GraphQL GET et les appels POST pour Adobe Commerce et  [!DNL Magento Open Source].
+description: Découvrez comment utiliser GraphQL sur Adobe Commerce et  [!DNL Magento Open Source]. Utilisez les appels GraphQL GET et POST pour Adobe Commerce et  [!DNL Magento Open Source].
+short-description: Découvrez comment utiliser les appels GET et POST de GraphQL pour Adobe Commerce et  [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 duration: 286
@@ -15,7 +15,7 @@ level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ GraphQL permet à un client de décrire de manière expresse _exactement_ les do
 Le runtime qui implémente la spécification GraphQL peut être créé dans n’importe quelle langue. Adobe Commerce et [!DNL Magento Open Source] utilisent
 Implémentation PHP [graphql-php](https://webonyx.github.io/graphql-php/){target="_blank"} et construit ses propres calques dessus.
 
-[Consultez la documentation complète de GraphQL](https://graphql.org/learn){target="_blank"}
+[Consulter l’ensemble de la documentation de GraphQL](https://graphql.org/learn){target="_blank"}
 
 ## Utilisation d’un client GraphQL
 

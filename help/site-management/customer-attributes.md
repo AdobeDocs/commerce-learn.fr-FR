@@ -1,6 +1,6 @@
 ---
 title: Créer des attributs de client
-description: Learn how to add custom attributes to the Account Information, Address Book, and Billing Information sections of a customer's account.
+description: Découvrez comment ajouter des attributs personnalisés aux sections Informations du compte, Carnet d’adresses et Informations de facturation du compte d’un client.
 kt: 10547
 doc-type: feature video
 duration: 117
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 # Créer des attributs de client
 
-Customer attributes provide the information that is required to support the order, fulfillment, and customer management processes. Because your business is unique, you might need fields in addition to the default fields provided by the system. You can add custom attributes to the Account Information, Address Book, and Billing Information sections of the customer&#39;s account.
+Les attributs du client fournissent les informations requises pour prendre en charge les processus de commande, d’exécution et de gestion des clients. Votre entreprise étant unique, vous aurez peut-être besoin de champs en plus des champs par défaut fournis par le système. Vous pouvez ajouter des attributs personnalisés aux sections Informations du compte, Carnet d’adresses et Informations de facturation du compte du client.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -50,5 +50,5 @@ Customer attributes provide the information that is required to support the orde
 
 ## Ressources supplémentaires
 
-* [Customer attribute properties - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=fr)
-* [Create an Individual Customer Account - [!DNL Commerce] Customer Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=fr)
+* [Propriétés des attributs du client - [!DNL Commerce] Guide de gestion du client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html?lang=fr)
+* [Créer un compte client individuel - [!DNL Commerce] Guide de gestion client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=fr)
