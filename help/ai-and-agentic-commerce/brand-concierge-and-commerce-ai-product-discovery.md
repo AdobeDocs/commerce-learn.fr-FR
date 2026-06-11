@@ -36,4 +36,4 @@ Même les catalogues de produits les plus riches n’ont qu’une visibilité pa
 
 ## Ressources supplémentaires
 
-[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/home){target="_blank"}
