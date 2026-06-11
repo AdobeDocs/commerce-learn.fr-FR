@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
 # Recherche Sémantique
+
+[!BADGE ]{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
 
 La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les acheteurs connaissent rarement les bons. La recherche sémantique dans Adobe Commerce utilise l’IA pour comprendre l’intention derrière une requête, en faisant correspondre les acheteurs aux produits en fonction du sens plutôt que du texte littéral. Cela améliore la découverte de produits, accroît l’engagement et entraîne une conversion plus élevée en renvoyant des résultats qui reflètent les attentes des acheteurs.
 
@@ -35,4 +37,4 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 
 ## Ressources supplémentaires
 
-[Vue d’ensemble des [!DNL Live Search]](https://experienceleague.adobe.com/fr/docs/commerce/live-search/overview){target="_blank"}
+[Vue d’ensemble des [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
