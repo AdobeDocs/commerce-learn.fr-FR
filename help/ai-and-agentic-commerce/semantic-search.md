@@ -37,4 +37,4 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 
 ## Ressources supplémentaires
 
-[Vue d’ensemble des [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[Vue d’ensemble des [!DNL Live Search]](https://experienceleague.adobe.com/fr/docs/commerce/live-search/overview){target="_blank"}
