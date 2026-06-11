@@ -7,14 +7,16 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: cb1adeac1e57f4a0d43827a72f8762fff17bc727
+source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Création d’agent
+
+{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
 
 Experience Workspace est l’environnement de création d’agent intégré au storefront Adobe Commerce. Il offre aux marketeurs et aux développeurs une surface unifiée (structure de fichiers, contenu de page, métadonnées et aperçu en direct), le tout à un seul endroit. Son assistant de création d’IA s’exécute sur MCP. Il se connecte directement à votre catalogue de produits et au contenu de votre marque afin que vous puissiez décrire ce que vous souhaitez créer et le voir apparaître, sans changer d’onglet, ni procéder à un copier-coller ou classer des tickets.
 
