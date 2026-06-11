@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Recherche Sémantique
 
-[!BADGE ]{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
+{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
 
 La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les acheteurs connaissent rarement les bons. La recherche sémantique dans Adobe Commerce utilise l’IA pour comprendre l’intention derrière une requête, en faisant correspondre les acheteurs aux produits en fonction du sens plutôt que du texte littéral. Cela améliore la découverte de produits, accroît l’engagement et entraîne une conversion plus élevée en renvoyant des résultats qui reflètent les attentes des acheteurs.
 

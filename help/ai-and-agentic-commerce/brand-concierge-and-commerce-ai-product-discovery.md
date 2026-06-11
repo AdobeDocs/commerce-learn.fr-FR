@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Découverte des produits Brand Concierge et Commerce AI
 
-[!BADGE ]{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
+{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
 
 Même les catalogues de produits les plus riches n’ont qu’une visibilité partielle sur les grands modèles de langage (LLM). Les attributs riches tels que les variantes de produit, le type de mouture, les notes de saveur et l’emballage sont souvent masqués derrière des panneaux réductibles et des pop-ups que les robots d&#39;exploration d’IA ne peuvent pas lire. L’agent de catalogue Brand Concierge identifie automatiquement ces écarts de visibilité et les résout, sans modifier la vitrine orientée client.
 

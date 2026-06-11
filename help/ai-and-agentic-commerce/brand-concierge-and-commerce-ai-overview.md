@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Présentation de l’IA dédiée à Brand Concierge et Commerce
 
-[!BADGE ]{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
+{type=Informative tooltip="Cette fonctionnalité est actuellement en version bêta et peut faire l’objet de modifications."}
 
 La porte d’entrée du commerce n’est plus une page d’accueil, c’est une conversation. Brand Concierge, intégré à Adobe Commerce, remplace les filtres, les barres de recherche et les pages de catégories par un assistant d’IA qui détecte le but de l’acheteur, interroge le catalogue et gère le panier en une seule conversation. Les acheteurs référencés par l’IA convertissent 31 % de plus, génèrent 254 % de revenus supplémentaires par visite et passent 45 % de temps supplémentaire sur site (Adobe Digital Insights, janvier 2026).
 
