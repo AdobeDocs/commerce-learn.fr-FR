@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Bientôt Disponible]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
 
-Même les catalogues de produits les plus riches n’ont qu’une visibilité partielle sur les grands modèles de langage (LLM). Les attributs riches tels que les variantes de produit, le type de mouture, les notes de saveur et l’emballage sont souvent masqués derrière des panneaux réductibles et des pop-ups que les robots d&#39;exploration d’IA ne peuvent pas lire. L’agent de catalogue Brand Concierge identifie automatiquement ces écarts de visibilité et les résout, sans modifier la vitrine orientée client.
+Même les catalogues de produits les plus riches n’ont qu’une visibilité partielle sur les grands modèles de langage (LLM). Les attributs riches tels que les variantes de produit, le type de mouture, les notes de saveur et l’emballage sont souvent masqués derrière des panneaux réductibles et des pop-ups que les robots d&#39;exploration d’IA ne peuvent pas lire. L’agent de catalogue de commerce identifie automatiquement ces écarts de visibilité et les résout, sans modifier la vitrine destinée aux acheteurs.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -38,4 +38,4 @@ Même les catalogues de produits les plus riches n’ont qu’une visibilité pa
 
 ## Ressources supplémentaires
 
-[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/home){target="_blank"}
+[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
