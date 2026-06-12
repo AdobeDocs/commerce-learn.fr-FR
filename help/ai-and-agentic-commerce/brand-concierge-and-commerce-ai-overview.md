@@ -38,4 +38,4 @@ Brand Concierge apporte le shopping conversationnel à Adobe Commerce, en permet
 
 ## Ressources supplémentaires
 
-[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/home){target="_blank"}
