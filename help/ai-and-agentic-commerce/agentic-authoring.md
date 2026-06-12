@@ -34,7 +34,7 @@ Experience Workspace est l’environnement de création d’agent qui fournit au
 * Le langage naturel vous invite à interroger le catalogue et à générer des pages de campagne complètes
 * Modification au niveau du bloc et aperçu généré en direct avant publication
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492298?captions=fre_fr)
 
 <!-- ## Additional resources -->
 

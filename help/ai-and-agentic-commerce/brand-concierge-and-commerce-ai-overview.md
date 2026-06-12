@@ -34,7 +34,7 @@ Brand Concierge apporte le shopping conversationnel à Adobe Commerce, en permet
 * Passage en caisse terminé dans la conversation, sans quitter
 * Conseils contextuels post-achat spécifiques au produit acheté
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492316?captions=fre_fr)
 
 ## Ressources supplémentaires
 
