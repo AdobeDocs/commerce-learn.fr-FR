@@ -33,7 +33,7 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 * Indexation de catalogue automatique transformant des données de produit en signaux sémantiques
 * Amélioration des résultats, seuils de similarité et configuration de recherche floue
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492307?captions=fre_fr)
 
 ## Ressources supplémentaires
 
