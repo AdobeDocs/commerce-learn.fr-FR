@@ -34,7 +34,7 @@ La création de personnalisations commerciales a toujours nécessité plusieurs 
 * Validation et optimisation simultanées dans la vue système complète
 * Flux de déploiement continu sans transfert ni perte de contexte
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492289?captions=fre_fr)
 
 <!-- ## Additional resources -->
 
