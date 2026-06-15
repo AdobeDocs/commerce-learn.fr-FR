@@ -1,25 +1,22 @@
 ---
 title: Comment interroger des données
-description: Découvrez comment interroger des données pour une instance Adobe Commerce Optimizer.
+description: Découvrez comment interroger les données de produit Adobe Commerce Optimizer à l’aide de GraphQL, notamment comment formater des réponses JSON avec des variables de requête json et structurer.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 243
-last-substantial-update: 2025-08-13T00:00:00.000Z
+duration: 204
+last-substantial-update: 2025-08-13
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
 TQID: https://experienceleague.adobe.com/IxrS6rwleWgU0-jtwu4hUavQuZesbQ6h5z7zVZR2xCo
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 114
+source-wordcount: 127
 ht-degree: 0%
 
 ---
@@ -37,7 +34,7 @@ Découvrez comment interroger des données à l’aide de GraphQL sur une instan
 * Interroger des données à l’aide de GraphQL
 * Utilisation de json pour faciliter la lecture du fichier json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470802?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
 
 ## Exemples de code
 
@@ -63,5 +60,5 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 
 ## Contenu connexe
 
-* [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

@@ -1,6 +1,6 @@
 ---
 title: Kit de démarrage App Builder pour Salesforce Commerce Cloud
-description: Découvrez le kit de démarrage Adobe App Builder pour Salesforce Commerce Cloud avec Adobe Commerce Optimizer.
+description: Découvrez comment configurer et déployer le kit de démarrage App Builder pour Salesforce Commerce Cloud avec Adobe Commerce Optimizer, de la configuration de la console de développement au déploiement.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Découvrez comment configurer et déployer le kit de démarrage App Builder pour
 * Clonez le kit de démarrage App Builder et configurez les fichiers d’environnement à l’aide de l’interface de ligne de commande Adobe IO.
 * Déployez l’application et confirmez la réussite de l’enregistrement des actions et des événements dans votre espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476084?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

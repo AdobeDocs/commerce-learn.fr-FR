@@ -1,29 +1,23 @@
 ---
 title: Présentation de Adobe Commerce Optimizer
-description: Découvrez comment Adobe Commerce Optimizer peut améliorer votre storefront avec des performances élevées, un trafic accru et une intégration transparente.
+description: Découvrez comment Adobe Commerce Optimizer améliore les performances du storefront, augmente le trafic organique et s’intègre de manière transparente aux systèmes ERP, CRM et OMS existants.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
-doc-type: Feature Video
+doc-type: Technical Video
 duration: 242
-last-substantial-update: 2025-03-06T00:00:00.000Z
+last-substantial-update: 2025-03-06
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
 TQID: https://experienceleague.adobe.com/ZroynB-ry1AKa3-CXN6x-596dmIbZqTWDz-q0WK55Ag
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: 163
 ht-degree: 0%
 
 ---
@@ -44,8 +38,8 @@ Adobe Commerce Optimizer améliore les plateformes commerciales existantes en fo
 * Intégration transparente avec les systèmes ERP, CRM, OMS et autres existants sans avoir à reconfigurer les plateformes.
 * Mise à l’échelle des opérations numériques
 
->[!VIDEO](https://video.tv.adobe.com/v/3450465?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## Ressources supplémentaires
 
-[Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+[Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

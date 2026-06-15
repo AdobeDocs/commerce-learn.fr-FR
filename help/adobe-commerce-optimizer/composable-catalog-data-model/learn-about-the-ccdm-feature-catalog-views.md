@@ -6,10 +6,10 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 297
+duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e0d9101a875d7f3181af0c945461b40d119b784d
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Les vues catalogue vous permettent de diffuser chaque audience différemment d�
 * Comment un storefront utilise une vue de catalogue pour filtrer les produits et les prix (par exemple, Celport)
 * Identifiants uniques d’affichage du catalogue et valeur commerciale d’une source unique de vérité
 
->[!VIDEO](https://video.tv.adobe.com/v/3491264?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## Contenu connexe
 
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
-* [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

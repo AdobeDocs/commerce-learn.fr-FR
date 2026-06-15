@@ -1,17 +1,17 @@
 ---
 title: En savoir plus sur les politiques CCDM dans le modèle de données de catalogue composite
-description: Découvrez comment les politiques du modèle de données de catalogue composable Adobe filtrent les produits avec des règles STATIQUES et des en-têtes TRIGGER sur chaque vue de catalogue.
+description: Découvrez comment les politiques STATIC et TRIGGER dans le modèle de données de catalogue composable Adobe contrôlent la visibilité du produit sur toutes les vues du catalogue sans recréer le catalogue.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voie
 * Politiques TRIGGER activées par les en-têtes de requête API (par exemple, `AC-Policy-Brand`)
 * Mise à jour des politiques dans les opérations quotidiennes sans reconstruction de catalogue
 
->[!VIDEO](https://video.tv.adobe.com/v/3491426?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Une **politique** est un **filtre d’accès aux données**. Il inspecte les attributs de produit et applique des règles qui déterminent les produits qu’une vue de catalogue peut exposer. Les politiques se trouvent au-dessus du catalogue composable partagé et ne dupliquent pas les données du catalogue.
 
@@ -79,6 +79,6 @@ Les politiques sont des filtres légers sur un **catalogue partagé**, et non de
 
 * [Explication du modèle de données de catalogue composable](./why-ccdm-exists.md)
 * [En savoir plus sur les vues de catalogue](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
-* [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
