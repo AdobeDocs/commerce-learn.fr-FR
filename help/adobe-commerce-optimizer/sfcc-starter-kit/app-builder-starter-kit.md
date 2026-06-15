@@ -33,4 +33,4 @@ Découvrez comment configurer et déployer le kit de démarrage App Builder pour
 * Clonez le kit de démarrage App Builder et configurez les fichiers d’environnement à l’aide de l’interface de ligne de commande Adobe IO.
 * Déployez l’application et confirmez la réussite de l’enregistrement des actions et des événements dans votre espace de travail.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476084?captions=fre_fr&learn=on)
