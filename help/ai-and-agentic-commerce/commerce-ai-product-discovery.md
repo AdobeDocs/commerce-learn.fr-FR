@@ -1,20 +1,20 @@
 ---
-title: Découverte des produits Brand Concierge et Commerce AI
-description: Découvrez comment Brand Concierge utilise un agent de catalogue pour combler les lacunes de visibilité de l’IA, enrichissant ainsi les données de produit Commerce afin que les gestionnaires de sites web puissent découvrir et recommander vos produits.
+title: Découverte de produits Commerce AI
+description: Découvrez comment l’agent de catalogue Commerce comble les lacunes de visibilité de l’IA, enrichissant les données de produit Commerce afin que les gestionnaires de sites web puissent découvrir et recommander vos produits.
 role: User
 level: Beginner
 doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: 3475138b5a0dd2eaa30ee7da0e3f7b2699428d59
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
-# Découverte des produits Brand Concierge et Commerce AI
+# Découverte de produits Commerce AI
 
 [!BADGE Bientôt Disponible]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
 
@@ -35,8 +35,4 @@ Même les catalogues de produits les plus riches n’ont qu’une visibilité pa
 * Validation des améliorations à l’aide du vérificateur de Visibilités du contenu de l’IA
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492325?captions=fre_fr)
-
-## Ressources supplémentaires
-
-[Documentation [!DNL Brand Concierge]](https://experienceleague.adobe.com/fr/docs/brand-concierge/content/home){target="_blank"}
 
