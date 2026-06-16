@@ -34,7 +34,7 @@ Brand Concierge intégré à Adobe Commerce transforme les conversations en conv
 * Passage en caisse terminé dans la conversation, sans quitter
 * Conseils contextuels post-achat spécifiques au produit acheté
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492316?captions=fre_fr)
 
 ## Ressources supplémentaires
 
