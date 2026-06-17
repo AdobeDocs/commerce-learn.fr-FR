@@ -34,4 +34,4 @@ Le MCP Commerce pour Adobe Commerce permet aux développeurs de créer des expé
 * Passage en caisse terminé dans la conversation, sans quitter
 * Conseils contextuels post-achat spécifiques au produit acheté
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492316?captions=fre_fr)
