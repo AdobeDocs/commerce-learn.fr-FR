@@ -1,7 +1,7 @@
 ---
-title: The actions folder
-description: Learn about the types of files in the actions folder for this sample application.
-jira: KT-12422
+title: Le dossier d’actions
+description: Découvrez les fichiers et les dossiers JavaScript du dossier Actions d’App Builder, y compris l’authentification OAuth et les modèles de connexion Commerce pour votre exemple d’application.
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,40 +11,35 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 TQID: https://experienceleague.adobe.com/v3hBL3cNfFO-xM8Dat2Be21-ihyORvvSrvZYZ-6wzf0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: 199
 ht-degree: 0%
 
 ---
 
-# Learn about the actions folder {#actions-folder}
+# En savoir plus sur le dossier Actions {#actions-folder}
 
-The `actions` folder for this sample app contains a few JavaScript files and one folder called `commerce`. The JavaScript shown is an excellent example file that can be reused if it is relevant to your work. This folder can save you time in development efforts when connecting to the Adobe Commerce application using OAuth and REST.
+Le dossier `actions` de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le JavaScript illustré est un exemple de fichier utile qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps dans les efforts de développement lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
 
-The actual names of folders in this example are arbitrary, but knowing their names can help you interpret the sample code. By using a meaningful naming convention, you can avoid confusion if the application grows more complex.
+Les noms réels des dossiers dans cet exemple sont arbitraires, mais connaître leurs noms peut vous aider à interpréter l’exemple de code. En utilisant une convention de nommage significative, vous pouvez éviter toute confusion si l’application se complexifie.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the actions folder in the sample application.
+* Développeurs peu familiers avec Adobe Commerce et peu familiarisés avec Adobe App Builder, qui découvrent le dossier d’actions dans l’exemple d’application.
 
 ## Contenu vidéo
 
-* Introduction to App Builder and the sample module focusing on the `actions` folder
-* How to use the &quot;actions&quot; folder
-* The purpose of the JavaScript file found in the `actions` and `commerce` folders
-* A quick overview of the OAuth authentication files
+* Présentation d’App Builder et de l’exemple de module consacré au dossier `actions`
+* Utilisation du dossier « actions »
+* L’objectif du fichier JavaScript qui se trouve dans les dossiers `actions` et `commerce`
+* Aperçu rapide des fichiers d’authentification OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421079?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Exemples de code
 

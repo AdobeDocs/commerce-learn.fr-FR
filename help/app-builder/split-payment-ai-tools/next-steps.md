@@ -1,15 +1,15 @@
 ---
-title: 'PdC de paiement partagé : les étapes suivantes après la preuve de concept'
+title: PdC de paiement fractionné — prochaines étapes après la preuve de concept
 description: Découvrez comment déplacer le PDC de paiement partagé vers la production. Interface utilisateur d’Experience Cloud, hooks ERP, maillage API, portée PHP, workflows App Builder et liste de contrôle de déploiement.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Le tableau de bord de démonstration et le script de simulation que vous avez cr
 
 L’action web `demo-dashboard` diffuse HTML à partir d’une chaîne dans une fonction Node.js. Cela fonctionne, mais ce n&#39;est pas le modèle de production.
 
-Le remplacement approprié est l’extension `commerce-backend-ui-1` dans l’`commerce-checkout-starter-kit` : une application React incorporée dans Commerce Admin Shell via l’interface utilisateur d’administration d’Adobe SDK. Consultez [Invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud : paiement partagé](./experience-cloud-ui-prompt.md) pour l’invite de génération.
+Le remplacement approprié est l’extension `commerce-backend-ui-1` dans l’`commerce-checkout-starter-kit` : une application React incorporée dans Commerce Admin Shell via l’interface utilisateur d’administration d’Adobe SDK. Consultez [Invite d’IA de l’extension de l’interface utilisateur de l’interface utilisateur d’Experience Cloud](./experience-cloud-ui-prompt.md) pour l’invite de génération.
 
 **Changements :**
 * Les opérateurs se connectent via Commerce Admin Shell (authentification IMS au lieu d’un secret partagé).
@@ -117,7 +117,7 @@ aio app deploy
 ```
 
 **Liste de contrôle pour la préparation à la production :**
-* [ ] `DEMO_UI_SECRET` défini (ou tableau de bord de démonstration remplacé par l’interface utilisateur Experience Cloud)
+* [ ] `DEMO_UI_SECRET` défini (ou tableau de bord de démonstration remplacé par l’interface utilisateur d’Experience Cloud)
 * [ ] `LOG_LEVEL=warn` ou `error` en production (non `debug`)
 * [ ] `PAYMENT_THRESHOLD` correspond à la configuration de production de Commerce
 * [ ] informations d’identification de l’intégration Commerce dans `.env` concernent une intégration de production dédiée (et non l’évaluation)

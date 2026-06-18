@@ -1,6 +1,6 @@
 ---
-title: The app.config.yaml file
-description: Learn about the types of files in the app.config.yaml file for this sample application.
+title: Le fichier app.config.yaml
+description: Découvrez comment le fichier app.config.yaml détermine la configuration de l’application et comment ses définitions sont liées aux fichiers JavaScript dans votre exemple d’application Adobe Developer App Builder.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -11,38 +11,33 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
 TQID: https://experienceleague.adobe.com/iK4PPaI2-vxQK32DMfkMRZMgNYpLExMbNge2lXIJzLg
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# Description and usage of the app.config.yaml file {#app-config-yaml}
+# Description et utilisation du fichier app.config.yaml {#app-config-yaml}
 
-This file determines the configuration for the application.
+Ce fichier détermine la configuration de l’application.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the `app.config.yaml` in the sample application.
+* Développeurs peu familiers avec Adobe Commerce et peu familiarisés avec Adobe App Builder, qui découvrent les `app.config.yaml` de l’exemple d’application.
 
 ## Contenu vidéo
 
-* The `app.config.yaml` file discussed
-* How are definitions link to other `.js` files
+* Le fichier `app.config.yaml` discuté
+* Comment les définitions sont-elles liées à d’autres fichiers `.js` ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3430846?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
-## Code Sample
+## Exemple de code
 
 ```bash
 # Specify your secrets here
@@ -62,7 +57,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-You can see these static values being used in the sample module in file `actions/commerce.index.js`
+Ces valeurs statiques sont utilisées dans l’exemple de module du fichier `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

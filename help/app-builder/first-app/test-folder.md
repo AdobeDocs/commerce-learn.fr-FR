@@ -1,7 +1,7 @@
 ---
 title: Le dossier de test
-description: Découvrez les types de fichiers dans le dossier de test pour cet exemple d’application.
-jira: KT-12424
+description: Découvrez le fichier de test unitaire JavaScript dans le dossier de test App Builder et comment il peut être développé pour un test complet de votre exemple d’application Adobe Commerce.
+jira: KT-21682
 doc-type: Tutorial
 duration: 233
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,16 +11,12 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
 TQID: https://experienceleague.adobe.com/84OKfd7Xbb1q-EoEPOVt9l2bISkQJVqfXdIJFr4jCis
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 111
+source-wordcount: 122
 ht-degree: 0%
 
 ---
@@ -29,11 +25,11 @@ ht-degree: 0%
 
 Le dossier `test` de cet exemple d’application contient un seul fichier JavaScript, qui est utilisé lors de l’exécution de tests unitaires sur l’application.
 
-Il s’agit d’un exemple simple qui peut être étendu pour créer des tests complets pour vos applications spécifiques.
+Ce point de départ peut être développé afin de créer des tests complets pour vos applications spécifiques.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Développeurs peu familiers avec Adobe Commerce et peu expérimentés avec Adobe App Builder qui souhaitent en savoir plus sur le dossier `test`.
+* Développeurs peu familiers avec Adobe Commerce et utilisant Adobe App Builder, qui souhaitent en savoir plus sur le dossier `test`.
 
 ## Contenu vidéo
 
@@ -41,7 +37,7 @@ Il s’agit d’un exemple simple qui peut être étendu pour créer des tests c
 * Brève explication du fichier de test unitaire et de ses composants
 * Présentation des tests de bout en bout
 
->[!VIDEO](https://video.tv.adobe.com/v/3421061?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416662?learn=on)
 
 ## Exemples de code
 

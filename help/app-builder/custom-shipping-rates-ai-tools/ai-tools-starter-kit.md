@@ -1,18 +1,18 @@
 ---
 title: Créer la fonctionnalité pour les taux d’expédition personnalisés avec des outils d’IA
-description: Découvrez comment utiliser les outils d’IA d’Adobe pour créer des frais d’expédition personnalisés et étendre les fonctionnalités de passage en caisse avec une API simulée et des configurations sécurisées.
+description: Découvrez comment utiliser les outils d’IA d’Adobe pour créer des frais d’expédition personnalisés, étendre les fonctionnalités de passage en caisse avec une API simulée et configurer des points d’entrée de service sécurisés.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 341
+duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -32,8 +32,8 @@ Découvrez comment utiliser les outils optimisés par l’IA d’Adobe pour rati
 * Un agent d’IA analyse le contexte et utilise des compétences basées sur les rôles pour guider le développement.
 * Le kit de démarrage fournit une structure et des modèles d’échantillon pour une création d’extension plus rapide.
 * Les outils MCP exposent les commandes et les données utilisées par l’agent pour planifier et générer du code.
-* L’IA automatise les exigences, l’architecture et la décision d’implémentation.
+* L’IA automatise les exigences, l’architecture et les décisions d’implémentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481346?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

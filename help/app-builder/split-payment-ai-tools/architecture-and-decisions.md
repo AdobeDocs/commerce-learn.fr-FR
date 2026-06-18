@@ -1,15 +1,15 @@
 ---
-title: 'Paiement fractionné POC : décisions d''architecture et de conception'
+title: Paiement fractionné POC — décisions d'architecture et de conception
 description: Découvrez comment la PDC de paiement partagé mappe le passage en caisse de synchronisation à Commerce et les étapes pilotées par les E/S à App Builder, avec des attributs d’extension, REST et cinq cas de périphérie de plug-in.
 feature: App Builder, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%

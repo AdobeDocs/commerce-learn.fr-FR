@@ -1,7 +1,7 @@
 ---
 title: Le dossier web-src
-description: Découvrez les types de fichiers du dossier web-src et les fichiers et dossiers imbriqués pour cet exemple d’application.
-jira: KT-12425
+description: Découvrez la structure de dossiers web-src, ses fichiers JavaScript et dossiers imbriqués, et comment ce dossier prend en charge l’interface utilisateur dans votre exemple d’application App Builder.
+jira: KT-21683
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,25 +11,20 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 TQID: https://experienceleague.adobe.com/SavAwkQQnKIE64PlRHPKPU9RBT37dWsLm8W7FXYm9Mc
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 179
 ht-degree: 0%
 
 ---
 
 # Découvrez l’objectif du dossier web-src {#web-src-folder}
 
-Le dossier web-src de cet exemple d’application contient de nombreux fichiers et dossiers JavaScript. Ce dossier est utilisé pour les applications dotées d&#39;une interface utilisateur. Toutes les applications n’utilisent pas cette fonctionnalité. Par exemple, une intégration de Commerce à un système de gestion des stocks externe peut ne pas nécessiter d’interface frontale et de code.
+Le dossier web-src de cet exemple d’application contient de nombreux fichiers et dossiers JavaScript. Ce dossier est utilisé pour les applications dotées d&#39;une interface utilisateur. Toutes les applications n’utilisent pas cette fonctionnalité. Par exemple, une intégration de Commerce à un système de gestion des stocks externe ne nécessite pas d’interface frontale ni de code.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -41,7 +36,7 @@ Le dossier web-src de cet exemple d’application contient de nombreux fichiers 
 * Fichiers et dossiers généralement inclus
 * Utilisation du dossier `web-src` et de son contenu dans l’exemple d’application
 
->[!VIDEO](https://video.tv.adobe.com/v/3421039?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416665?learn=on)
 
 ## Exemples de code
 

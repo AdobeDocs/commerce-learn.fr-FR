@@ -1,7 +1,7 @@
 ---
-title: Create your first App Builder app
-description: Learn about Adobe Developer App Builder using Adobe Commerce and create your first app.
-jira: KT-12421
+title: Création de votre première application App Builder
+description: Découvrez Adobe Developer App Builder avec Adobe Commerce, notamment les conditions préalables, les attentes et les modèles réutilisables pour créer votre première application hors processus.
+jira: KT-21679
 doc-type: Tutorial
 duration: 197
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,56 +11,50 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 TQID: https://experienceleague.adobe.com/vaWPlxMkONIlEhq4-WEjw8wKWBaBb1iYmeOPSjsnnjk
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 323
+source-wordcount: 332
 ht-degree: 0%
 
 ---
 
 # Vue d’ensemble {#overview}
 
-This tutorial has the following prerequisites:
+Les prérequis de ce tutoriel sont les suivants :
 
-* Adobe Developer Console access is complete
-* Full access or trial access to App Builder has been granted
-* [The Adobe Developer App Builder application has been created](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [The Adobe Developer App Builder project has been created](https://developer.adobe.com/console){target="_blank"}
-* [The Adobe Developer App Builder workspaces have been created - Step 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [The AIO CLI commands to initialize the project and run have been executed](https://developer.adobe.com/runtime){target="_blank"}
+* Accès à Adobe Developer Console terminé
+* Un accès complet ou d’évaluation à App Builder a été accordé
+* [L’application Adobe Developer App Builder a été créée.](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}
+* [Le projet Adobe Developer App Builder a été créé](https://developer.adobe.com/console){target="_blank"}
+* [Les espaces de travail Adobe Developer App Builder ont été créés - Étape 2.6](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [Les commandes de l’interface de ligne de commande AIO pour initialiser le projet et exécuter ont été exécutées](https://developer.adobe.com/runtime){target="_blank"}
 
-For more information on building your first App Builder application, you can view the following blog post to help with this initial setup and configuration [How App Builder helps drive business agility for your commerce platform](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Pour plus d’informations sur la création de votre première application App Builder, consultez l’article de blog suivant afin de faciliter cette configuration initiale [Comment App Builder contribue à l’agilité commerciale de votre plateforme commerciale](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
-## What to expect from reading this tutorial
+## À quoi vous attendre en lisant ce tutoriel
 
-When you are complete this tutorial, you should have a simple single-page application that communicates with Adobe Commerce to pull order history and products. These topics cover App Builder functionality with code samples and instructions. Hopefully, after watching these videos this saves you some development time and inspires other ideas and encourages the adoption of out-of-process development.
+Une fois ce tutoriel terminé, vous devriez disposer d’une application d’une seule page qui communique avec Adobe Commerce pour extraire l’historique des commandes et les produits. Ces rubriques présentent les fonctionnalités d’App Builder avec des exemples de code et des instructions. Regardez ces vidéos pour gagner du temps de développement, inspirer d’autres idées et encourager l’adoption du développement hors processus.
 
-## How should I follow this tutorial
+## Suivre ce tutoriel
 
-This tutorial was designed for you to follow the order of pages in the left navigation. However, this is not a requirement. Each page can be viewed individually since they discuss the general concept of building an initial Adobe Developer App Builder app.
+Ce tutoriel a été conçu pour vous permettre de suivre l’ordre des pages dans le volet de navigation de gauche. Toutefois, cet ordre n&#39;est pas obligatoire. Chaque page peut être consultée individuellement puisqu’elle présente le concept général de création d’une application Adobe Developer App Builder initiale.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Developers new to Adobe Commerce with limited experience using Adobe App Builder.
+* Développeurs peu familiers avec Adobe Commerce et peu expérimentés avec Adobe App Builder.
 
 ## Contenu vidéo
 
 * Présentation d’App Builder et de l’exemple de module
 * Conditions préalables
 * Attentes relatives à l’utilisation de l’exemple de module
-* Parties réutilisables de dans l’exemple de module
+* Parties réutilisables de l’exemple de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3421024?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416740?learn=on)
 
 {{avoid-400-error}}
 

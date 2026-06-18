@@ -1,15 +1,15 @@
 ---
-title: 'PDC de paiement fractionné : référence des variables d’environnement'
+title: Référence des variables d’environnement de paiement fractionné PDC
 description: Découvrez comment mapper Commerce OAuth, l’URL de base, le seuil de paiement et les paramètres de démonstration facultatifs à l’orchestrateur, à l’extension d’interface utilisateur et aux fichiers d’environnement de simulation.
 feature: App Builder, Configuration, Extensibility, Paas, REST, Security
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

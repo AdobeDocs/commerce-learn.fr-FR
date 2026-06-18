@@ -1,15 +1,15 @@
 ---
-title: 'PdC de paiement fractionné : prérequis et configuration de l''environnement'
+title: PdC de paiement fractionné — prérequis et configuration de l'environnement
 description: Découvrez comment configurer Commerce, Admin pour le COD et le crédit de magasin, l’intégration OAuth, les événements I/O, App Builder et l’interface de ligne de commande aio avant les invites de création de paiement partagé.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, Payments, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -95,7 +95,7 @@ Stockez ces valeurs en toute sécurité. Vous en avez besoin dans chaque fichier
 * Un **projet** (nouveau ou réutilisé)
 * Un espace de travail configuré ; les invites supposent **[!UICONTROL Stage]**
 * **[!UICONTROL Adobe I/O Events]** ajouté en tant que service à l’espace de travail
-* **&#x200B;**&#x200B;connecté en tant que fournisseur d&#39;événements pour l&#39;espace de travail
+* **** connecté en tant que fournisseur d&#39;événements pour l&#39;espace de travail
 
 Le code d’événement utilisé dans la preuve de concept est le suivant : `com.adobe.commerce.observer.sales_order_place_before`
 
