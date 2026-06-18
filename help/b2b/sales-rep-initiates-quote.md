@@ -45,6 +45,6 @@ Découvrez comment le commercial peut lancer le devis à partir du panneau d’a
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430587?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
