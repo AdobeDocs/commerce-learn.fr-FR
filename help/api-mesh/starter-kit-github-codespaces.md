@@ -48,4 +48,4 @@ Cette session présente le kit de démarrage du maillage API Adobe Commerce. Il 
 
 * [Référentiel GitHub du kit de démarrage du maillage API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [documentation Adobe Developer graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/fr/playlists/commerce-get-started-app-builder-and-api-mesh)
