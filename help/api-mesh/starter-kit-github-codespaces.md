@@ -42,7 +42,7 @@ Cette session présente le kit de démarrage du maillage API Adobe Commerce. Il 
 * Outils de test intégrés : comprend un serveur GraphQL préconfiguré (Yoga) et des redémarrages automatiques du serveur pour un développement transparent.
 * Apprentissage pratique : clonez le kit de démarrage, configurez des points d’entrée et testez les réponses de l’API directement dans le navigateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464019?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 
