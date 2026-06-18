@@ -59,5 +59,5 @@ Avec les autorisations requises pour leur rôle, les clients B2B peuvent configu
 
 ## Ressources supplémentaires
 
-* [Commandes fournisseur pour les entreprises](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
-* [Règles d&#39;approbation de commande fournisseur](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
+* [Commandes fournisseur pour les entreprises](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [Règles d&#39;approbation de commande fournisseur](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
