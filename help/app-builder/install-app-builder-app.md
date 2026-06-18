@@ -42,4 +42,4 @@ Découvrez comment rechercher, installer et valider des applications Adobe Comme
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471526?captions=fre_fr&learn=on)

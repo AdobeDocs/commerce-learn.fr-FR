@@ -24,7 +24,7 @@ Un acheteur paie en partie en espèces et en partie en **[!UICONTROL Store Credi
 
 ## Vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484101?captions=fre_fr&learn=on)
 
 ## À qui s&#39;adresse cette vidéo ?
 

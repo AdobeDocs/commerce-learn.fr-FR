@@ -21,7 +21,7 @@ Il s’agit du premier d’une série de tutoriels qui vous présentent l’util
 
 ## Vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483935?captions=fre_fr&learn=on)
 
 ## Détails importants
 
