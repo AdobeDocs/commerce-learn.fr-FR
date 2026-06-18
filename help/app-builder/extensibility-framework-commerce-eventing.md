@@ -1,14 +1,14 @@
 ---
 title: Framework d’extensibilité et événements commerciaux
-description: Découvrez Unified Extensibility Framework et les événements commerciaux
+description: Découvrez le framework d’extensibilité d’Adobe Developer App Builder, ses fonctionnalités essentielles et comment les événements de commerce permettent des intégrations en temps réel à Adobe Commerce.
 jira: KT-11740
 doc-type: Tutorial
-duration: 298
+duration: 228
 last-substantial-update: 2023-02-16T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
 TQID: https://experienceleague.adobe.com/5WrzAFRFNv4RBAQUL7WhsGw2Z4qoV-3Ft1EgjXdNxO0
 product_v2:
@@ -26,16 +26,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 51
+source-wordcount: 65
 ht-degree: 0%
 
 ---
 
 # Framework d’extensibilité pour App Builder
 
-Cette démonstration fonctionnelle décrit App Builder et ses cas d’utilisation potentiels pour Adobe Commerce. Cette vidéo présente le framework d’extensibilité, les principaux avantages pour les clients et les fonctionnalités.
+Cette démonstration fonctionnelle décrit App Builder et ses applications potentielles pour Adobe Commerce. Cette vidéo présente le framework d’extensibilité, les principaux avantages pour les clients et les fonctionnalités.
 
 ## App Builder pour Adobe Commerce {#app-builder-extensibility}
 

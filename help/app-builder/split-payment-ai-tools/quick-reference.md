@@ -1,15 +1,15 @@
 ---
-title: 'Split Payment POC : tutoriel de référence rapide'
+title: Split Payment POC — Tutoriel de référence rapide
 description: Découvrez le mappage des fichiers POC de paiement partagé. La page Experience League qui correspond à chaque invite d’IA, ordre de section suggéré et notes de création pour l’extraction Luma.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -120,10 +120,10 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel** section « Créer l’application App Builder ». Accompagnement de l’invite du module Commerce.
 
 
-### [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](./experience-cloud-ui-prompt.md)
+### [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur Experience Cloud](./experience-cloud-ui-prompt.md)
 
 
-**Objectif :** invite de l’IA pour générer l’extension facultative SDK de l’interface utilisateur d’administration Experience Cloud.
+**Objectif :** invite de l’IA pour générer l’extension SDK facultative de l’interface utilisateur d’administration Experience Cloud.
 
 **Pourquoi est-ce nécessaire :** le tableau de bord de démonstration dans l’invite de l’orchestrateur est volontairement approximatif ; il s’agit d’une preuve de concept, et non d’une production. Cette section présente l’étape suivante aux développeurs : incorporer le tableau de bord du paiement fractionné dans Commerce Admin Shell à l’aide de l’interface utilisateur d’administration SDK. Il était complètement absent des invites d&#39;origine.
 
@@ -165,7 +165,7 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 
 **Objectif :** feuille de route pour faire évoluer la preuve de concept en modèles prêts pour la production.
 
-**Pourquoi est-ce nécessaire :** Un tutoriel de preuve de concept risque de laisser les développeurs avec un « quoi maintenant ? » sentiment. Ce document mappe les progressions naturelles de la démonstration à la production : remplacement du tableau de bord de démonstration par une extension Experience Cloud, connexion d’un véritable ERP, ajout d’un maillage API, développement du workflow App Builder et liste de contrôle du déploiement en production.
+**Pourquoi est-ce nécessaire :** Un tutoriel de preuve de concept risque de laisser les développeurs avec un « quoi maintenant ? » sentiment. Ce document mappe les progressions naturelles de la démonstration à la production : remplacement du tableau de bord de démonstration par une extension Experience Cloud, connexion d’un véritable ERP, ajout du maillage API, développement du workflow App Builder et liste de contrôle du déploiement en production.
 
 **Contenu clé :**
 
@@ -192,7 +192,7 @@ Sur la base de ces fichiers, une structure type pour les lecteurs est la suivant
 | Étape 1 : création du module Commerce | [PDC de paiement partagé : invite d’IA du module Commerce](./commerce-module-prompt.md) |
 | Étape 2 : création de l’orchestrateur App Builder | [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](./orchestrator-prompt.md) |
 | Étape 3 : tester le flux de bout en bout | [Paiement fractionné POC : guide de test et de vérification](./testing-and-verification.md) |
-| Étape 4 (facultatif) : extension de l’interface utilisateur d’administration | [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](./experience-cloud-ui-prompt.md) |
+| Étape 4 (facultatif) : extension de l’interface utilisateur d’administration | [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur Experience Cloud](./experience-cloud-ui-prompt.md) |
 | Étapes suivantes et chemin d’accès en production | [Paiement fractionné POC : prochaines étapes après la preuve de concept](./next-steps.md) |
 
 

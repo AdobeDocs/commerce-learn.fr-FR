@@ -1,6 +1,6 @@
 ---
 title: Installation des applications App Builder à partir d’Adobe Exchange
-description: Découvrez comment installer et valider des applications Adobe Commerce App Builder à l’aide d’Adobe Exchange.
+description: Découvrez comment rechercher, installer et valider des applications Adobe Commerce App Builder à partir d’Adobe Exchange, notamment le filtrage, l’approbation, la configuration de l’environnement et la vérification de l’installation.
 feature: App Builder
 topic: Commerce
 role: Developer, User
@@ -22,16 +22,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 120
 ht-degree: 0%
 
 ---
 
 # Installation d’applications App Builder à partir d’Adobe Exchange
 
-Découvrez comment rechercher, installer et valider des applications Adobe Commerce App Builder à l’aide d’Adobe Exchange. Vous êtes guidé dans le filtrage des applications pertinentes, leur acquisition et leur approbation, la configuration d’environnements de déploiement et la vérification d’une installation réussie, le tout à l’aide d’un exemple concret avec l’application Feed Generator. Que vous débutiez avec App Builder ou que vous souhaitiez rationaliser votre workflow, ce tutoriel vous offre un aperçu pratique et détaillé pour commencer.
+Découvrez comment rechercher, installer et valider des applications Adobe Commerce App Builder à l’aide d’Adobe Exchange. Vous êtes guidé dans le filtrage des applications pertinentes, leur acquisition et leur approbation, la configuration d’environnements de déploiement et la vérification d’une installation réussie, le tout à l’aide d’un exemple avec l’application Feed Generator. Que vous débutiez avec App Builder ou que vous souhaitiez rationaliser votre workflow, ce tutoriel vous offre un aperçu pratique et détaillé pour commencer.
 
 
 ## À qui s&#39;adresse cette vidéo ?

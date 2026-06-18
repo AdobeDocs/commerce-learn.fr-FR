@@ -1,15 +1,15 @@
 ---
-title: 'PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud'
-description: 'Découvrez comment utiliser cette invite facultative pour intégrer le paiement fractionné dans Commerce Admin : SDK de l’interface utilisateur d’administration, IMS, OAuth, accepter et refuser, ainsi que le script de simulation.'
+title: PDC de paiement partagé - invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud
+description: Découvrez comment utiliser cette invite facultative pour intégrer le paiement fractionné dans Commerce Admin — SDK de l’interface utilisateur d’administration, IMS, OAuth, accepter et refuser, ainsi que le script de simulation.
 feature: App Builder, Admin Workspace, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
