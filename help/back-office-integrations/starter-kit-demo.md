@@ -1,17 +1,14 @@
 ---
-title: Learn about the Adobe Commerce starter kit for back office integrations
-description: Learn about the Adobe Commerce Starter kit for back office integrations. This video demonstration shows the power and ease of connecting to back office integrations using this approach.
-landing-page-description: Learn about the Adobe Commerce starter kit for back office integrations
-kt: 15341
-doc-type: video
+title: Kit de démarrage Adobe Commerce pour les intégrations back-office
+description: Découvrez le kit de démarrage Adobe Commerce pour les intégrations back-office et comment il simplifie la connexion de Commerce aux systèmes back-end externes.
+doc-type: Technical Video
 duration: 502
-audience: all
-last-substantial-update: 2024-4-19
+last-substantial-update: 2024-04-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15341
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
 TQID: https://experienceleague.adobe.com/R4Xg35sZ3GKOCckxXx1Zax-bVCGVjp4Usfng5-uieis
 product_v2:
@@ -26,30 +23,30 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 138
+source-wordcount: 119
 ht-degree: 0%
 
 ---
 
-# Starter kit demo for back office integrations
+# Démonstration du kit de démarrage pour les intégrations back-office
 
-Learn about the Adobe Commerce back office integration starter kit. This video tutorial shows the entire process for this sample integration.
+Découvrez le kit de démarrage de l’intégration back-office d’Adobe Commerce. Ce tutoriel vidéo présente l’ensemble du processus de cet exemple d’intégration.
 
 ## Audience
 
 * Toute personne ayant besoin de comprendre ce concept.
-* Commerce applications that have a requirement to integrate their Adobe Commerce application with a back-end system
+* les applications Commerce qui nécessitent l’intégration de leur application Adobe Commerce à un système back-end.
 
 ## Contenu vidéo
 
-* Set up a project in the Adobe Developer Console
-* Different workspaces
-* Adding an API
-* Types of authentication
-* Adobe I/O Runtime service
-* Configure I/O events
-* Connecting to a third party to sync data
+* Configuration d’un projet dans Adobe Developer Console
+* Différents espaces de travail
+* Ajout d’une API
+* Types d’authentification
+* Service Adobe I/O Runtime
+* Configuration des événements I/O
+* Connexion à un tiers pour synchroniser les données
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452016?captions=fre_fr&learn=on)

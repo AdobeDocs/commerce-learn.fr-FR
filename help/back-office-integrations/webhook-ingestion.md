@@ -1,17 +1,14 @@
 ---
 title: Configuration, déploiement et personnalisation d’un Webhook d’ingestion
-description: Découvrez comment configurer et personnaliser un webhook d’ingestion pour faciliter la communication entre Commerce et un système back-office tiers.
-landing-page-description: Découvrez comment utiliser le kit de démarrage de l’intégration Commerce pour intégrer Commerce à un système back-office tiers à l’aide d’un webhook d’ingestion.
-kt: 15870
-doc-type: video
+description: Découvrez comment configurer, déployer et personnaliser un webhook d’ingestion pour connecter Adobe Commerce à un système back-office tiers et gérer la traduction d’événements.
+doc-type: Technical Video
 duration: 697
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15870
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
 TQID: https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY
 product_v2:
@@ -27,9 +24,9 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 432
+source-wordcount: 412
 ht-degree: 0%
 
 ---
