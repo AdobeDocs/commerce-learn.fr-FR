@@ -1,14 +1,14 @@
 ---
 title: Gestion des comptes d’entreprise
-description: Découvrez comment gérer vos comptes d’entreprise B2B, y compris les demandes d’approbation en attente.
-doc-type: Feature Video
+description: 'Découvrez comment gérer les comptes d’entreprise B2B dans Adobe Commerce : passer en revue les approbations en attente, filtrer la liste des comptes, ajuster la disposition des colonnes et exporter les données.'
+doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: User
+level: Beginner
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 TQID: https://experienceleague.adobe.com/f1P1dTAZPjXJzVsKD5NE8HLgCnGChCPwLbEHXDIbKKg
 product_v2:
@@ -27,16 +27,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 124
 ht-degree: 0%
 
 ---
 
 # Gestion des comptes d’entreprise
 
-Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici et toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
+Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici. Toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
 
 {{b2b-feature}}
 
@@ -52,5 +52,5 @@ Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie t
 
 ## Ressources supplémentaires
 
-* [Comptes d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html?lang=fr){target="_blank"}
-* [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html?lang=fr){target="_blank"}
+* [Comptes d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

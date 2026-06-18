@@ -1,14 +1,14 @@
 ---
 title: Le représentant commercial lance le devis
-description: Découvrez comment le commercial peut lancer le devis auprès de l’administrateur Adobe Commerce
-doc-type: Feature Video
-duration: 283
+description: Découvrez comment les représentants commerciaux peuvent lancer des devis B2B à partir du panneau d’administration d’Adobe Commerce, filtrer par utilisateur et site web, créer des brouillons et contrôler la visibilité des devis.
+doc-type: Technical Video
+duration: 264
 jira: KT-13794
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
 TQID: https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4
 product_v2:
@@ -25,16 +25,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 61
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
-# Le représentant commercial lance le devis
+# Le vendeur lance le devis
 
-Découvrez comment le commercial peut lancer le devis à partir du panneau d’administration, filtrer par utilisateur et site web, brouillon de devis, visibilité du devis et bien d’autres fonctionnalités.
+Découvrez comment le commercial peut lancer le devis à partir du panneau d’administration, filtrer par utilisateur et site web, brouillon de devis, visibilité du devis et de nombreuses autres fonctionnalités.
 
 {{b2b-feature}}
 

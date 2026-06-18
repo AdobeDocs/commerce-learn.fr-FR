@@ -1,14 +1,14 @@
 ---
 title: Utilisation de GraphQL pour afficher une remise ligne
-description: Découvrez le devis d’une remise ligne d’offres de commande B2B à l’aide de GraphQL
-doc-type: Feature Video
-duration: 117
+description: Découvrez comment utiliser GraphQL pour appliquer des remises sur ligne à un devis de vente B2B dans Adobe Commerce et récupérer les valeurs de remise résultantes dans les réponses à la requête.
+doc-type: Technical Video
+duration: 99
 jira: KT-13800
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
-role: Admin, User
-level: Beginner, Intermediate
+role: Developer, User
+level: Beginner
 exl-id: c30457dc-0eca-4f94-bb7c-b493d173ebab
 TQID: https://experienceleague.adobe.com/9z3JbEtLShByucwPm4eHYriFz6A-VWk87tEaib-BqSw
 product_v2:
@@ -23,16 +23,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 51
+source-wordcount: 65
 ht-degree: 0%
 
 ---
 
 # Remise article de ligne de devis B2B à l’aide de GraphQL
 
-Découvrez comment utiliser la remise sur ligne et afficher les valeurs à l’aide de GraphQL
+Découvrez comment utiliser la remise sur ligne et afficher les valeurs avec GraphQL
 
 {{b2b-feature}}
 
