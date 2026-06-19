@@ -35,5 +35,5 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 
 ## Ressources supplémentaires
 
-- Pour les déploiements sur Adobe Commerce on Cloud, on Prem et Adobe Commerce as a Cloud Service, voir [[!DNL Live Search] recherche sémantique](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} dans le _guide de Live Search_.
-- Pour les déploiements à l’aide de Adobe Commerce Optimizer, consultez [Paramètres - Recherche avancée](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} dans le guide _Commerce Optimizer_.
+&#x200B;- Pour les déploiements sur Adobe Commerce on Cloud, on Prem et Adobe Commerce as a Cloud Service, voir [[!DNL Live Search] recherche sémantique](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} dans le _guide de Live Search_.
+&#x200B;- Pour les déploiements à l’aide de Adobe Commerce Optimizer, consultez [Paramètres - Recherche avancée](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} dans le guide _Commerce Optimizer_.
