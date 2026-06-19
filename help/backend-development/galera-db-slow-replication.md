@@ -44,7 +44,7 @@ Pour aider les bases de données de réplication à rester synchronisées avec l
 * Les exécutions en bloc ne se produisent que sur l’instance principale. Les réplications se produisent 1 par
 * Pour que la réplication suive le rythme de l’instance principale, effectuez par lots vos validations volumineuses.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423539?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 
