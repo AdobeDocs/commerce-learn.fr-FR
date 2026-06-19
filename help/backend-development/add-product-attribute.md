@@ -1,15 +1,14 @@
 ---
 title: Création d’un attribut de produit
-description: Créez une page qui renvoie un fichier json avec un paramètre.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: Découvrez comment créer un attribut de produit par programmation dans Adobe Commerce, y compris des attributs de type liste déroulante avec des modèles personnalisés d’arrière-plan, frontaux et sources.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
 product_v2:
@@ -23,16 +22,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # Création d’un attribut de produit
 
-L’ajout d’un attribut de produit est l’une des opérations les plus populaires dans [!DNL Commerce]. Les attributs sont un moyen puissant de résoudre de nombreuses tâches pratiques liées à un produit. Il existe un processus simple pour ajouter un attribut de type liste déroulante à un produit.
+L’ajout d’un attribut de produit est l’une des opérations les plus populaires dans [!DNL Commerce]. Les attributs sont un moyen efficace d’effectuer de nombreuses tâches pratiques liées à un produit. Il existe un processus simple pour ajouter un attribut de type liste déroulante à un produit.
 
 Dans cette vidéo :
 
@@ -43,7 +42,7 @@ Dans cette vidéo :
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Développeurs peu familiers avec le commerce qui doivent apprendre à créer un attribut de produit par programmation
+* Développeurs peu familiers avec [!DNL Commerce] qui doivent apprendre à créer un attribut de produit par programmation
 
 ## Contenu vidéo
 
@@ -77,14 +76,14 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->If your module is using Declarative Schema, and most have since 2.3.0 you should omit setup_version. However if you have some legacy projects you may see this method used.  See [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} for more information.\
->PLEASE NOTE: for this example code to work, you do need to include the setup_version otherwise the InstallData.php does not execute.
+>Si votre module utilise un schéma déclaratif, et que la plupart l’ont fait depuis la version 2.3.0, vous devez omettre setup_version. Toutefois, si vous disposez de projets hérités, il se peut que cette méthode soit utilisée.  Voir [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} pour plus d’informations.\
+>REMARQUE : pour que cet exemple de code fonctionne, vous devez inclure setup_version, sinon InstallData.php ne s&#39;exécute pas.
 
 
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
@@ -94,7 +93,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Be sure to use the attribute set ID that is in your project, in this example it is the number 9.
+>Veillez à utiliser l’identifiant de jeu d’attributs qui se trouve dans votre projet. Dans cet exemple, il s’agit du chiffre 9.
 
 ```php
 <?php
@@ -248,4 +247,4 @@ class InstallData implements InstallDataInterface
 
 ## Ressources utiles
 
-[Add a custom text field attribute](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Ajout d’un attribut de champ de texte personnalisé](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
