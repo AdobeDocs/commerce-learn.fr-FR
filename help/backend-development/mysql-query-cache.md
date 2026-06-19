@@ -47,5 +47,5 @@ Découvrez ce qu’est le cache de requête MySQL et les principes de base de so
 
 ## Ressources utiles
 
-* [Directives générales concernant MySQL](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [Réplication des galeries et requêtes lentes](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
+* [Directives générales concernant MySQL](https://experienceleague.adobe.com/fr/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
+* [Réplication des galeries et requêtes lentes](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
