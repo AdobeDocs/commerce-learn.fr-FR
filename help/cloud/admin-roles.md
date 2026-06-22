@@ -1,6 +1,6 @@
 ---
-title: Admin roles for back office users
-description: Lean how business users log into Adobe Commerce Admin Portal and how store admins create and manage role-based access to the Admin portal.
+title: Rôles d’administrateur pour les utilisateurs back-office
+description: Découvrez comment les utilisateurs professionnels se connectent au portail d’administration Adobe Commerce et comment les administrateurs de magasin créent, gèrent et attribuent des autorisations d’accès en fonction du rôle aux utilisateurs.
 feature: Admin Workspace, Roles/Permissions, Security
 topic: Administration, Commerce, Security
 role: Admin, User
@@ -11,40 +11,32 @@ last-substantial-update: 2024-10-09T00:00:00.000Z
 jira: KT-16186
 exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
 TQID: https://experienceleague.adobe.com/emyoykUc8mJE8X4HtksnPJrYJ6QeoTVyTvOY-yqmL80
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
-  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: e17ffe0eba640671baacbc7e8aef3a97c7785307
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: 192
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce admin roles
+# Rôles d’administration Adobe Commerce
 
-Learn the process of logging into the Adobe Commerce Admin Portal using Adobe ID or Federated ID and details how store admins can create and manage role-based access. Understand the steps to create a new role with specific permissions, such as a &quot;Seller&quot; role responsible for managing customer quotes and templates. Understand how to assign users to these roles, ensuring they have the appropriate access levels, and includes a demonstration of assigning a user to a newly created role and verifying the assignment.
+Découvrez le processus de connexion à Adobe Commerce Admin Portal à l’aide d’Adobe ID ou de Federated ID et expliquez en détail comment les administrateurs de boutique peuvent créer et gérer l’accès en fonction du rôle. Découvrez les étapes de création d’un rôle avec des autorisations spécifiques, telles qu’un rôle « Vendeur » responsable de la gestion des devis et des modèles client. Découvrez comment affecter des utilisateurs et utilisatrices à ces rôles, en vous assurant qu’ils disposent des niveaux d’accès appropriés, et incluez une démonstration de l’affectation d’un utilisateur ou d’une utilisatrice à un rôle nouvellement créé et de la vérification de l’affectation.
 
 ## À qui s’adresse cette vidéo ?
 
-* Store administrators and business users responsible for managing access and permissions.
-* New store owners who need instructions on creating roles with specific permissions and assigning users to these roles
-* Adobe Commerce projects interested in ensuring secure and efficient management of administrative tasks performed in the Adobe Commerce admin.
+* Les administrateurs de magasin et les utilisateurs professionnels responsables de la gestion des accès et des autorisations.
+* Les nouveaux propriétaires de magasin qui ont besoin d’instructions sur la création de rôles avec des autorisations spécifiques et l’affectation d’utilisateurs à ces rôles
+* Projets Adobe Commerce visant à assurer une gestion sécurisée et efficace des tâches administratives effectuées dans l’administration Adobe Commerce.
 
 ## Contenu vidéo
 
-* Learn the latest login methods.
-* Get a good understanding of the role creation and management
-* Understand the user assignment and access levels. &#x200B;
+* Découvrez les dernières méthodes de connexion.
+* Comprendre la création et la gestion des rôles
+* Comprenez l’affectation des utilisateurs et les niveaux d’accès. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433515?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
