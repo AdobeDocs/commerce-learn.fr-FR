@@ -4,7 +4,7 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
+source-git-commit: f5b1e429dc7c3732d0c9e7be4b2ac972d259143e
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 3%
@@ -54,7 +54,7 @@ ht-degree: 3%
       + Présentation du produit{#product-overview}
          + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-         + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
          + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
          + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
          + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -98,7 +98,7 @@ ht-degree: 3%
 
 + Extensibilité {#extensibility}
    + Développement back-end {#backend-development}
-      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+      + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Création d’un module](../backend-development/create-module.md)
       + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
       + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -185,7 +185,7 @@ ht-degree: 3%
          + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
          + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
          + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-         + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
+         + [Développement de modules ](../io-events/commerce-module-development.md)
          + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
    + Maillage API {#api-mesh}
       + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
@@ -289,4 +289,3 @@ ht-degree: 3%
    + [Report Builder de cohorte](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Préparer l’avenir](../business-intelligence/prepare-for-future.md)
-
