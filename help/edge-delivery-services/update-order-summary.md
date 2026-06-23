@@ -52,4 +52,4 @@ Découvrez comment utiliser le menu déroulant du panier Adobe Commerce et ajust
 
 ## Documentation supplémentaire
 
-* [Récapitulatif des commandes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Récapitulatif des commandes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=fr)

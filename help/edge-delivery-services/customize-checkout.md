@@ -50,4 +50,4 @@ Découvrez comment personnaliser l’expérience de dépôt de panier Edge Deliv
 
 ## Documentation supplémentaire
 
-* [Extraction à plusieurs étapes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Extraction à plusieurs étapes](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=fr)

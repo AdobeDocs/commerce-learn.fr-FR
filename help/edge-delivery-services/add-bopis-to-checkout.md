@@ -51,4 +51,4 @@ Découvrez comment utiliser le panier Adobe Commerce de Edge Delivery Services p
 
 ## Documentation supplémentaire
 
-* [Acheter en ligne Pickup en magasin](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Acheter en ligne Pickup en magasin](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=fr)

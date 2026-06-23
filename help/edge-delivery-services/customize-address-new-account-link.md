@@ -58,4 +58,4 @@ Les rôles qui bénéficient de la lecture de cette transcription sont les suiva
 
 ## Documentation supplémentaire
 
-* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)
+* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=fr)
