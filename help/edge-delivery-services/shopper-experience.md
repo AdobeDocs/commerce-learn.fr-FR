@@ -58,4 +58,4 @@ Vous apprendrez à naviguer dans le storefront d’Adobe Commerce sur Edge Deliv
 * Utiliser le panier et les commandes : ajoutez des articles, extrayez en tant qu’invité, annulez des commandes, réorganisez des articles et traitez les retours.
 * Mettez à jour les informations de compte, fusionnez les paniers d’invités et de clients et conservez la cohérence du passage en caisse.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446764?captions=fre_fr&learn=on)

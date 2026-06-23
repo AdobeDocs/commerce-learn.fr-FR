@@ -48,7 +48,7 @@ Découvrez comment utiliser le menu déroulant du panier Adobe Commerce et ajust
 * Découvrez comment inclure un montant total enregistré pour le résumé du panier.
 * Découvrez comment fusionner des lignes du résumé du panier en une seule section réductible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441187?captions=fre_fr&learn=on)
 
 ## Documentation supplémentaire
 

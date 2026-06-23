@@ -46,7 +46,7 @@ Découvrez comment personnaliser l’expérience de dépôt de panier Edge Deliv
 * Implémentation d’un passage en caisse à plusieurs étapes
 * Réutilisation du code existant et bonnes pratiques
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442652?captions=fre_fr&learn=on)
 
 ## Documentation supplémentaire
 
