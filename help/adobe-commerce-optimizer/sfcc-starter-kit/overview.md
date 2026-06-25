@@ -10,7 +10,7 @@ duration: 230
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
 exl-id: 042f6a15-0cbb-412e-96e0-383bd4058c0f
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -32,4 +32,5 @@ Découvrez Commerce Optimizer Salesforce Commerce Cloud Connector, un outil con�
 * découvrez l’objectif du kit de démarrage de l’intégration Salesforce Commerce Cloud.
 * Comprendre où installer le kit de démarrage
 
->[!VIDEO](https://video.tv.adobe.com/v/3473980?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
+

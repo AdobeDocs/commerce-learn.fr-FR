@@ -10,7 +10,7 @@ duration: 180
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,6 +33,7 @@ Découvrez comment configurer des outils d’IA pour créer des frais de livrais
 * Décrit la configuration de l’environnement de développement, y compris le clonage du référentiel, la révision de la structure du kit de démarrage et l’installation des outils requis.
 * Prépare le système pour le développement assisté par l’IA en se connectant, en configurant l’accès et en s’assurant que toutes les dépendances et conditions préalables sont en place.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481330?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+

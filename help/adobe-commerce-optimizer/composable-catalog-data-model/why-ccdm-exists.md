@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Les équipes commerciales modernes vendent souvent entre **marques**, **régions
 * comment les vues de catalogue agissent comme la « lentille » entre un catalogue de base partagé et un storefront ou une audience spécifique ;
 * la manière dont les API Merchandising Services utilisent ces vues afin que les expériences découplées restent alignées sur le catalogue configuré ;
 
->[!VIDEO](https://video.tv.adobe.com/v/3491287?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
 
 ## Le défi des catalogues compartimentés
 
@@ -53,14 +53,15 @@ Cette séparation (**d’où proviennent les données** (source du catalogue) pa
 
 ## Vues catalogue comme objectif storefront
 
-Comme décrit dans [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, une vue de catalogue se comporte comme une **lentille** : les acheteurs ne voient que les produits, les prix et les règles que la vue autorise, tandis que le **catalogue de base** reste le système d’enregistrement partagé. Ce modèle s’associe directement aux **services de marchandisage** afin que les clients API transmettent la vue correcte (et les en-têtes associés) et reçoivent une réponse cohérente et axée sur les politiques pour chaque expérience.
+Comme décrit dans [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, une vue de catalogue se comporte comme une **lentille** : les acheteurs ne voient que les produits, les prix et les règles que la vue autorise, tandis que le **catalogue de base** reste le système d’enregistrement partagé. Ce modèle s’associe directement aux **services de marchandisage** afin que les clients API transmettent la vue correcte (et les en-têtes associés) et reçoivent une réponse cohérente et axée sur les politiques pour chaque expérience.
 
 Pour une présentation plus approfondie de la manière dont ces éléments s’adaptent à un flux de bout en bout, consultez la présentation destinée aux développeurs [Créer un catalogue composable pour votre storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Contenu connexe
 
 * [En savoir plus sur les vues de catalogue](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Créer un catalogue composable pour votre storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

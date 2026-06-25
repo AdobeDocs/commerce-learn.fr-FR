@@ -10,7 +10,7 @@ duration: 371
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -33,6 +33,7 @@ L’agent AI finalise l’implémentation, nettoie le code inutilisé et prépar
 Les informations d’identification et l’environnement sont configurés pour déployer et enregistrer la nouvelle extension d’expédition.
 Les tests de storefront confirment que les frais d’expédition externes apparaissent et fonctionnent comme prévu.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481359?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
