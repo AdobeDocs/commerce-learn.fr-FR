@@ -31,7 +31,7 @@ Les équipes commerciales modernes vendent souvent entre **marques**, **régions
 * comment les vues de catalogue agissent comme la « lentille » entre un catalogue de base partagé et un storefront ou une audience spécifique ;
 * la manière dont les API Merchandising Services utilisent ces vues afin que les expériences découplées restent alignées sur le catalogue configuré ;
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491287?captions=fre_fr&learn=on)
 
 ## Le défi des catalogues compartimentés
 

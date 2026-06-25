@@ -32,7 +32,7 @@ Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voie
 * Politiques TRIGGER activées par les en-têtes de requête API (par exemple, `AC-Policy-Brand`)
 * Mise à jour des politiques dans les opérations quotidiennes sans reconstruction de catalogue
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491426?captions=fre_fr&learn=on)
 
 Une **politique** est un **filtre d’accès aux données**. Il inspecte les attributs de produit et applique des règles qui déterminent les produits qu’une vue de catalogue peut exposer. Les politiques se trouvent au-dessus du catalogue composable partagé et ne dupliquent pas les données du catalogue.
 
