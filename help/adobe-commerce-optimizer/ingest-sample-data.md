@@ -18,7 +18,7 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 153
 ht-degree: 0%
@@ -49,3 +49,4 @@ Découvrez comment ingérer les exemples de données pour votre instance Adobe C
 * [Cas d’utilisation administrateur](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
 * [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/get-started){target="_blank"}
 * [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+

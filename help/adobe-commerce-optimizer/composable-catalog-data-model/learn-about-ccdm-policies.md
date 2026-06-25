@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -82,3 +82,4 @@ Les politiques sont des filtres légers sur un **catalogue partagé**, et non de
 * [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+
