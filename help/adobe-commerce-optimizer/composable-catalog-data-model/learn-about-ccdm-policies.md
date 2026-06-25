@@ -79,7 +79,7 @@ Les politiques sont des filtres légers sur un **catalogue partagé**, et non de
 
 * [Explication du modèle de données de catalogue composable](./why-ccdm-exists.md)
 * [En savoir plus sur les vues de catalogue](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 
