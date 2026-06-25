@@ -1,16 +1,13 @@
 ---
 title: Page Builder pour les développeurs - Introduction
-description: Présentation de Page Builder, présentation des fonctionnalités de Page Builder
-landing-page-description: Regardez cette série de vidéos pour en savoir plus sur Page Builder et sur la manière dont vous pouvez l’optimiser pour créer des expériences  [!DNL Commerce]  storefront optimales.
-short-description: Regardez cette série de vidéos pour en savoir plus sur Page Builder et sur la manière dont vous pouvez l’optimiser pour créer des expériences  [!DNL Commerce]  storefront optimales.
-kt: 5650
-doc-type: video
+description: Découvrez les fonctionnalités de Page Builder et comment il permet aux développeurs et aux créateurs de contenu de créer des expériences de storefront Adobe Commerce riches et personnalisables.
+jira: KT-5650
+doc-type: Technical Video
 duration: 391
-activity: use
 feature: Page Content, Native Luma Frontend Development
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader, User
+level: Beginner
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
 badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
 TQID: https://experienceleague.adobe.com/tdGN8O7QLLq8NkcXY6by--1k1-7gXUJB7HlWlNd1zdA
@@ -26,9 +23,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: 139
 ht-degree: 0%
 
 ---
@@ -51,7 +48,7 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [&#x200B; Notes de mise à jour de Page Builder &#x200B;](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=fr).
+>Ce contenu reflète la version 1.0.0 de Page Builder pour Adobe Commerce 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [&#x200B; Notes de mise à jour de Page Builder &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430889?captions=fre_fr&learn=on)
 
@@ -59,4 +56,4 @@ Dans cette vidéo :
 
 [Documentation destinée aux développeurs de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guide de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=fr)
+[Guide de Page Builder](https://experienceleague.adobe.com/fr/docs/commerce-admin/page-builder/introduction)

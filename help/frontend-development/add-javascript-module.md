@@ -1,10 +1,9 @@
 ---
 title: Ajout d’un module JavaScript
-description: Learn how to build a simple JavaScript module in Adobe Commerce that displays a Hello World greeting, using RequireJS, a layout update, and a template.
+description: Découvrez comment créer un module JavaScript simple dans Adobe Commerce qui affiche un message d’accueil Hello World à l’aide d’RequireJS, d’une mise à jour de disposition et d’un modèle.
 jira: KT-5612
 doc-type: Technical Video
-duration: 260
-activity: use
+duration: 267
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
 role: Developer
@@ -22,9 +21,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 136
+source-wordcount: 135
 ht-degree: 0%
 
 ---
@@ -33,29 +32,29 @@ ht-degree: 0%
 
 {{only-for-on-prem-commerce-cloud}}
 
-Learn how to develop a simple JavaScript module that shows the greeting &quot;Hello World&quot; on the storefront.
+Découvrez comment développer un module JavaScript simple qui affiche la salutation « Hello World » sur le storefront.
 
 ## À qui s&#39;adresse cette vidéo ?
 
 * Développeur
 
-## Steps
+## Étapes
 
-1. Create a module.
-2. Add `requirejs-config.js` and a JavaScript module file.
-3. Create a layout update that loads a template for the module.
-4. Create the template file.
-5. Register the module and test it on the storefront.
+1. Créez un module .
+2. Ajoutez `requirejs-config.js` et un fichier de module JavaScript.
+3. Créez une mise à jour de disposition qui charge un modèle pour le module .
+4. Créez le fichier modèle.
+5. Enregistrez le module et testez-le sur le storefront.
 
 ## Contenu vidéo
 
-* Set up the module and RequireJS configuration.
-* Wire the script through a layout update and template.
-* Verify the greeting on the page.
+* Configurez le module et la configuration RequireJS .
+* Câbler le script par le biais d’une mise à jour de disposition et d’un modèle.
+* Vérifiez la salutation sur la page.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
 
 ## Ressources utiles
 
-* [JavaScript developer guide](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Calling and initializing JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Guide du développeur de JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Appeler et initialiser JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
