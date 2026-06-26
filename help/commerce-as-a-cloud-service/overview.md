@@ -1,14 +1,13 @@
 ---
 title: Présentation d’Adobe Commerce as a Cloud Service
 description: En savoir plus sur Adobe Commerce as a Cloud Service. Une solution flexible, évolutive et efficace pour des opérations numériques dynamiques avec une architecture composable.
-kt: 17219
+jira: KT-17219
 doc-type: Technical Video
-duration: 232
-audience: all
-last-substantial-update: 2025-2-3
+duration: 231
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
-role: Admin, Leader, User
+role: Developer
 level: Beginner
 exl-id: ba6cd559-812f-4985-881f-45a9324095f3
 TQID: https://experienceleague.adobe.com/5qPs-Bkz-AgLjlQfgdHMh7nXyew33l3kz58HBGiqse8
@@ -25,7 +24,7 @@ role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
 source-wordcount: 267
 ht-degree: 0%
@@ -34,7 +33,7 @@ ht-degree: 0%
 
 # Présentation d’Adobe Commerce as a Cloud Service
 
-Adobe Commerce as a Cloud Service offre une solution flexible, évolutive et efficace pour les entreprises, avec des fonctionnalités natives dans le cloud, telles que la mise à l’échelle automatique élastique et les mises à jour automatiques. Il simplifie l’intégration avec la mise en service en libre-service et dispose d’une architecture composable pour un déploiement de services indépendants et une extensibilité API-first. Les services préconfigurés et la diffusion continue de nouvelles fonctionnalités garantissent des performances optimales et une facilité d&#39;utilisation, ce qui en fait un outil idéal pour les entreprises dynamiques et en croissance
+Adobe Commerce as a Cloud Service offre une solution flexible, évolutive et efficace pour les entreprises, avec des fonctionnalités natives dans le cloud, telles que la mise à l’échelle automatique élastique et les mises à jour automatiques. Il simplifie l’intégration avec la mise en service en libre-service et dispose d’une architecture composable pour le déploiement de services indépendants et l’extensibilité API-first. Les services préconfigurés et la diffusion continue de nouvelles fonctionnalités garantissent des performances optimales et une facilité d&#39;utilisation, ce qui en fait un outil idéal pour les entreprises dynamiques et en croissance
 
 ## Ce que vous apprendrez
 

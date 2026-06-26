@@ -1,13 +1,13 @@
 ---
-title: Simplify Catalog Management & Merchandising
-description: Manage product data, pricing, and merchandising rules from a single admin panel with Adobe Commerce for faster, smarter updates.
+title: Simplifier la gestion des catalogues et le marchandisage
+description: Gérez les données de produit, les prix et les règles de marchandisage à partir d’un seul panneau d’administration avec Adobe Commerce pour des mises à jour plus rapides et plus intelligentes.
 feature: Catalog Management, Attributes, Recommendations
 topic: Commerce, Personalization
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 326
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20088
 exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038
 TQID: https://experienceleague.adobe.com/BN6-F6iL9ydAQWk8g3fKLNpMbocpxqdevUq1MsT3qJA
@@ -24,26 +24,26 @@ level_v2:
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 105
 ht-degree: 0%
 
 ---
 
-# Simplify catalog management &amp; merchandising
+# Simplifier la gestion des catalogues et le marchandisage
 
-Discover how Adobe Commerce as a Cloud Service streamlines catalog management and merchandising. Learn how to update product data, pricing, and visibility rules in near real time, and use intelligent recommendations to personalize shopping experiences.
+Découvrez comment Adobe Commerce as a Cloud Service rationalise la gestion des catalogues et le marchandisage. Découvrez comment mettre à jour les règles de données, de tarification et de visibilité des produits en temps quasi réel et comment utiliser des recommandations intelligentes pour personnaliser les expériences d’achat.
 
 ## À qui s&#39;adresse cette vidéo ?
 
 * Marchandiseur e-commerce
-* Product Manager
+* Gestionnaire de produit
 * Spécialiste du marketing numérique
 
 ## Contenu vidéo
 
-* Learn how to manage product data, attributes, and pricing from a centralized admin panel.
-* Discover how merchandising services personalize storefronts using dynamic recommendations and visibility rules.
+* Découvrez comment gérer les données, les attributs et les prix des produits à partir d’un panneau d’administration centralisé.
+* Découvrez comment les services de marchandisage personnalisent les vitrines à l’aide de recommandations dynamiques et de règles de visibilité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3478794?learn=on)

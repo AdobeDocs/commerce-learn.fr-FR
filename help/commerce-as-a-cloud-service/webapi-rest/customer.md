@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: 507
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 
 ## Exemples de code
 
-Avant de commencer, rassemblez toutes les valeurs requises à partir de [&#128279;](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
+Avant de commencer, rassemblez toutes les valeurs requises à partir d’[Experience Cloud](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
 
 >[!NOTE]
 >
@@ -62,7 +62,7 @@ Avant de commencer, rassemblez toutes les valeurs requises à partir de [&#12827
 
 Les détails de l’instance contiennent des éléments tels que votre ID d’instance, les points d’entrée GraphQL, les informations d’identification.
 
-### Détails du développeur - https://developer.adobe.com/console/
+### Détails du développeur - [&#128279;](https://developer.adobe.com/console/)
 
 C’est dans le Developer Console que vous gérez vos informations d’identification API, y compris les identifiants client, les secrets client et les jetons d’accès. Vous pouvez également créer de nouveaux types d’informations d’identification, tels que l’authentification de serveur à serveur ou l’authentification Native App.
 
@@ -74,7 +74,6 @@ C’est dans le Developer Console que vous gérez vos informations d’identific
 | Point d’entrée REST | `<rest_endpoint>` | experience.adobe.com |
 | Identifiant client | `<client_id>` | developer.adobe.com/console |
 | Secret client | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Étape 1 : obtenir le jeton d’accès (authentification de serveur à serveur)
 

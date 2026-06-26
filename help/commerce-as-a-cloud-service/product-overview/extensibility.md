@@ -1,5 +1,5 @@
 ---
-title: Étendre Adobe Commerce avec App Builder et le maillage API
+title: Extension d’Adobe Commerce avec App Builder et le maillage API
 description: Découvrez comment le framework d’extensibilité d’Adobe Commerce permet d’exécuter des applications, des intégrations et des workflows personnalisés à l’aide d’App Builder et du maillage API.
 feature: App Builder, API Mesh, Extensibility
 topic: Development, Architecture
@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 200
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20093
 exl-id: c30da63a-f161-4195-a3b4-bc16930bc147
 TQID: https://experienceleague.adobe.com/KilUWtLwWqQx47q6TCzbng7ChQZdFOG4gi47-i-aa6w
@@ -21,14 +21,14 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: 110
 ht-degree: 0%
 
 ---
 
-# Étendre Adobe Commerce avec App Builder et le maillage API
+# Extension d’Adobe Commerce avec App Builder et le maillage API
 
 Découvrez comment Adobe Commerce as a Cloud Service prend en charge l’extensibilité via App Builder et le maillage API. Découvrez comment intégrer des systèmes principaux, automatiser les workflows et créer des applications personnalisées sans perturber l’expérience storefront.
 
