@@ -7,28 +7,19 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2:
-  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: 507
 ht-degree: 0%
 
 ---
@@ -48,11 +39,11 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 * Utiliser le format de point d’entrée de l’API REST approprié pour Commerce as a Cloud Service
 * Créez et mettez à jour des comptes clients par programmation à l’aide de requêtes POST et PUT avec des payloads JSON appropriées
 
->[!VIDEO](https://video.tv.adobe.com/v/3479364?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Exemples de code
 
-Avant de commencer, rassemblez toutes les valeurs requises à partir de [&#128279;](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
+Avant de commencer, rassemblez toutes les valeurs requises à partir d’[Experience Cloud](https://experience.adobe.com) et du [Adobe Developer Console](https://developer.adobe.com/console). La préparation de ces valeurs garantit un processus de configuration fluide.
 
 >[!NOTE]
 >
@@ -62,7 +53,7 @@ Avant de commencer, rassemblez toutes les valeurs requises à partir de [&#12827
 
 Les détails de l’instance contiennent des éléments tels que votre ID d’instance, les points d’entrée GraphQL, les informations d’identification.
 
-### Détails du développeur - https://developer.adobe.com/console/
+### Détails du développeur - [](https://developer.adobe.com/console/)
 
 C’est dans le Developer Console que vous gérez vos informations d’identification API, y compris les identifiants client, les secrets client et les jetons d’accès. Vous pouvez également créer de nouveaux types d’informations d’identification, tels que l’authentification de serveur à serveur ou l’authentification Native App.
 
@@ -74,7 +65,6 @@ C’est dans le Developer Console que vous gérez vos informations d’identific
 | Point d’entrée REST | `<rest_endpoint>` | experience.adobe.com |
 | Identifiant client | `<client_id>` | developer.adobe.com/console |
 | Secret client | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Étape 1 : obtenir le jeton d’accès (authentification de serveur à serveur)
 
@@ -260,6 +250,6 @@ curl -s -X PUT \
 
 ## Références
 
-* [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/release-notes)
+* [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Référence de l’API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guide d’authentification de l’utilisateur](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
