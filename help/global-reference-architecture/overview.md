@@ -1,38 +1,25 @@
 ---
 title: Optimisation de la réutilisation du code avec Adobe Commerce
 description: Découvrez comment optimiser la réutilisation du code dans Adobe Commerce avec des modèles d’architecture de référence globale, ce qui améliore les performances et la conformité sur plusieurs instances.
-kt: 15773
-doc-type: tutorial
-duration: 287
-audience: all
-last-substantial-update: 2025-1-6
+jira: KT-15773
+doc-type: Tutorial
+duration: 284
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
+badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contribution Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 TQID: https://experienceleague.adobe.com/1-cE8TS4syjsMuX3VmhQu5zhFX-z3yxV-GlwxVl7eqM
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: 1116
 ht-degree: 0%
 
 ---
@@ -45,13 +32,13 @@ Il existe plusieurs façons d’optimiser la réutilisation du code avec Adobe C
 
 ## Quand utiliser l’architecture de référence globale
 
-L’architecture de référence globale peut s’avérer utile, selon le nombre d’instances que vous possédez. Une instance est une installation autonome d’Adobe Commerce utilisant sa propre base de données. Comptez le nombre de bases de données de production pour connaître le nombre d’instances que vous possédez. Si vous conservez plusieurs instances ou si vous envisagez ce scénario à l’avenir, vous pouvez bénéficier d’une architecture de référence globale. Plus les instances partagent de fonctionnalités, plus une architecture de référence globale ajoute de valeur.
+L’architecture de référence globale peut s’avérer utile, selon le nombre d’instances que vous possédez. Une instance est une installation autonome d’Adobe Commerce utilisant sa propre base de données. Pour connaître le nombre d’instances que vous possédez, comptez le nombre de bases de données de production. Si vous conservez plusieurs instances ou si vous envisagez ce scénario à l’avenir, vous pouvez bénéficier d’une architecture de référence globale. Plus les instances partagent de fonctionnalités, plus une architecture de référence globale ajoute de valeur.
 
 Dans l’un de ces scénarios, il est conseillé d’explorer l’utilisation de plusieurs instances d’Adobe Commerce.
 
-1. **Différents propriétaires de boutique** : si vous conservez du code pour plusieurs propriétaires de boutique, chacun ayant sa propre boutique, des instances distinctes peuvent être nécessaires pour gérer efficacement leurs besoins individuels.
+1. **Différents opérateurs de boutique** : si vous conservez le code de plusieurs opérateurs de boutique, chacun ayant sa propre boutique, des instances distinctes sont nécessaires pour gérer efficacement leurs besoins individuels.
 2. **Conformité aux réglementations nationales** : certaines réglementations exigent que les données clients soient stockées dans des régions spécifiques. Dans de tels cas, des instances distinctes sont essentielles pour assurer le respect de ces règlements.
-3. **Variances opérationnelles entre les régions géographiques** : l&#39;exploitation dans plusieurs régions peut entraîner des calendriers et des exigences de maintenance différents. L’utilisation d’instances distinctes offre une certaine souplesse dans la gestion efficace de ces variations.
+3. **Variances opérationnelles entre les régions géographiques** : l&#39;exploitation dans plusieurs régions signifie des calendriers et des exigences de maintenance différents. L’utilisation d’instances distinctes offre une certaine souplesse dans la gestion efficace de ces variations.
 4. **Ventes Flash haute intensité** : les magasins qui réalisent des ventes flash à grande échelle nécessitent souvent des performances de serveur optimisées. Une infrastructure dédiée fournie par des instances distinctes garantit des performances optimales pendant ces périodes de forte demande.
 5. **Différences significatives entre les marques ou les pays** : lorsque la différence entre les marques ou les pays est importante, l’utilisation d’une seule instance entraîne l’utilisation d’un code uniquement pour certaines marques ou certains pays. Des instances distinctes peuvent améliorer les performances et la stabilité en éliminant le code inutile pour les marques et les pays qui n’en ont pas besoin.
 
@@ -73,7 +60,7 @@ Lorsqu’aucun modèle GRA n’est utilisé, chaque instance Adobe Commerce est 
 
 ![Icône représentant le modèle GRA « partagé »](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
-Ce modèle se compose de référentiels Git pour le développement et d’un référentiel Git par instance. Chaque fichier de l’instance est conservé dans l’un des référentiels de développement. Ils se rassemblent en une tresse formant l&#39;ensemble de la GRA. Chaque ligne de code n’existe que dans un seul référentiel de développement et est installée sur les instances à l’aide de la technique de tressage, ce qui entraîne la réutilisation du code.
+Ce modèle se compose de référentiels Git pour le développement et d’un référentiel Git par instance. Chaque fichier de l’instance est conservé dans un référentiel de développement. Ils sont combinés pour former l’ensemble de la GRA. Chaque ligne de code n’existe que dans un seul référentiel de développement et est installée sur les instances à l’aide de la technique de tressage, ce qui entraîne la réutilisation du code.
 
 ![Diagramme indiquant où le code est stocké dans un modèle de répartition GRA](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"}
 
@@ -103,7 +90,7 @@ Tous les développements ont lieu dans un seul référentiel de code. L’automa
 
 ## Choisir un modèle GRA
 
-Le choix d&#39;un modèle GRA se fait en évaluant la complexité du projet, le besoin de flexibilité et la capacité d&#39;adaptation de l&#39;équipe de développement.
+Évaluez la complexité du projet, le besoin de flexibilité et la capacité de l’équipe de développement à s’adapter pour choisir un modèle GRA.
 
 Il est préférable que les équipes peu expérimentées dans Adobe Commerce commencent simplement. Toutefois, si le projet nécessite un modèle GRA plus complexe en raison de ses caractéristiques, ne faites aucun compromis.
 
@@ -111,9 +98,9 @@ Caractéristiques communes du projet liées à chaque modèle :
 
 1. **Pas de modèle GRA** : instance unique d’Adobe Commerce sans plan d’extension. Plusieurs instances d’Adobe Commerce avec un minimum de points communs.
 
-2. **Modèle Git partagé** : les équipes qui souhaitent éviter le compositeur pour leurs personnalisations, dans la plupart des cas le modèle de packages en bloc est un modèle préféré au modèle Git partagé.
+2. **Modèle de partage de Git GRA** : les équipes qui souhaitent éviter Composer pour leurs personnalisations ; dans la plupart des cas, le modèle de packages en bloc est un modèle préféré au partage de Git.
 
-3. **Modèle GRA de package en masse** : base de code de personnalisation avec une interdépendance élevée. Les instances ont toutes des combinaisons très similaires de packages personnalisés. Aucune promotion ou rétrogradation fréquente des packages individuels. Équipes peu expérimentées dans la gestion de code et ayant besoin de simplicité.
+3. **Modèle GRA de package en masse** : base de code de personnalisation avec une interdépendance élevée. Les instances présentent des combinaisons très similaires de packages personnalisés. Aucune promotion ou rétrogradation fréquente des packages individuels. Équipes peu expérimentées dans la gestion de code et ayant besoin de simplicité.
 
 4. **Modèle GRA de packages distinct** : une gestion flexible de la portée de publication est nécessaire. 50 packages personnalisés ou moins sont prévus dans les 5 prochaines années. Éventuellement, couches mondiales et régionales de code commun. Aucun plan de migration vers un modèle Monorepo. L’équipe est techniquement compétente et respecte strictement les processus.
 
