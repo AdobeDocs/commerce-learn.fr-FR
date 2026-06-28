@@ -1,15 +1,13 @@
 ---
-title: Configuration d’Adobe Commerce avec l’architecture de référence globale Git partagée
-description: Découvrez comment configurer Adobe Commerce à l’aide de l’architecture de référence globale Split Git pour une gestion du code efficace et un déploiement rationalisé. ​
-kt: 16725
-doc-type: tutorial
-duration: 515
-audience: all
-last-substantial-update: 2025-1-6
+title: Architecture De Référence Globale Git Partagée
+description: Découvrez comment configurer Adobe Commerce à l’aide de l’architecture de référence globale Split Git pour une gestion du code efficace et un déploiement rationalisé.
+jira: KT-16725
+doc-type: Tutorial
+duration: 330
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribution Tony Evers"
+badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contribution Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
@@ -29,9 +27,9 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1555
+source-wordcount: 1529
 ht-degree: 0%
 
 ---
@@ -52,7 +50,7 @@ Avantages :
 
 * Réutilisation du code via un référentiel de code partagé
 * Modèle GRA simple, adapté même aux équipes ayant des connaissances limitées en compositeur
-* Outre les modules Adobe Commerce, les thèmes et les modules linguistiques, il est possible d’installer n’importe quel type de package Composer via ce modèle, y compris composer-plugin, compositeur-metapackage, magento2-component et patchs
+* Vous pouvez installer n’importe quel package du compositeur via ce modèle, y compris les modules, les thèmes, les modules linguistiques, le module compositeur-plugin, le package compositeur-metapack, le composant magento2 et les correctifs
 * Publication possible par phases, en planifiant des versions pour les régions dans leurs propres fenêtres de maintenance.
 * Prise en charge des balises Git à des fins d’administration et non de contrôle du déploiement
 * Garantir que la combinaison de packages dans un déploiement en production est développée et testée dans cette configuration exacte
@@ -61,7 +59,7 @@ Inconvénients :
 
 * Aucune flexibilité supplémentaire par rapport aux autres modèles GRA
 * Impossible de mettre à niveau ou de rétrograder des modules individuels par instance. Mettez toujours à niveau ou rétrogradez la GRA dans son ensemble.
-* Dans la plupart des cas, le modèle des emballages en vrac est mieux adapté car il est tout aussi simple, mais plus conventionnel
+* Dans la plupart des cas, le modèle de colis en vrac est une meilleure alternative car il est tout aussi simple, mais plus conventionnel
 
 ## Configuration d’Adobe Commerce avec le modèle de graphique Git partagé
 
@@ -153,7 +151,7 @@ git commit -m 'initialize GRA package storage'
 git push origin main
 ```
 
-Ces deux référentiels stockent les packages tiers et les packages GRA. Il peut y avoir un code exclusif à chaque instance d’Adobe Commerce. Créez un emplacement pour stocker ces packages locaux dans le référentiel gra-split-brand-x.
+Ces deux référentiels stockent les packages tiers et les packages GRA. Un certain code est exclusif à chaque instance d’Adobe Commerce. Créez un emplacement pour stocker ces packages locaux dans le référentiel gra-split-brand-x.
 
 ```bash
 cd ../gra-split-brand-x
@@ -166,7 +164,7 @@ git push origin main
 
 ### Où stocker différents types de code
 
-Adobe Commerce est une application de compositeur. La méthode d’installation préférée consiste toujours à utiliser les référentiels du compositeur. Vous pouvez stocker des modules tiers dans le référentiel tiers uniquement si un fournisseur de modules ne propose pas d’installation par le biais d’un référentiel de compositeur. L’emplacement idéal pour le code personnalisé est le référentiel GRA. Lorsqu’un module n’est utilisé que par une seule instance spécifique, il devient du code local.
+Adobe Commerce est une application de compositeur. La méthode d’installation préférée consiste toujours à utiliser les référentiels du compositeur. Vous pouvez stocker des modules tiers dans le référentiel tiers uniquement si un fournisseur de modules ne propose pas d’installation par le biais d’un référentiel de compositeur. L’emplacement idéal pour le code personnalisé est le référentiel GRA. Lorsqu’une instance spécifique utilise un module, celui-ci devient du code local.
 
 En résumé :
 
@@ -189,7 +187,7 @@ Le compositeur peut traiter le répertoire des packages comme un référentiel d
 ]
 ```
 
-Le compositeur recherche les fichiers composer.json à deux niveaux de profondeur dans les trois répertoires de stockage. Créez des sous-répertoires à l’intérieur des trois répertoires de stockage de code, exactement comme ils apparaîtraient dans le répertoire `vendor/`.
+Le compositeur recherche les fichiers composer.json à deux niveaux de profondeur dans les trois répertoires de stockage. Créez des sous-répertoires à l’intérieur des trois répertoires de stockage de code, exactement comme ils apparaissent dans le répertoire `vendor/`.
 
 Par exemple : si un package est normalement installé dans `vendor/example-corp/module-example/`, vous pouvez le stocker dans `packages/3rdparty/example-corp/module-example/`. Le compositeur associe symboliquement le package au `vendor/example-corp/module-example/` lorsque vous en avez besoin.
 
@@ -223,11 +221,11 @@ Adobe Commerce ne reconnaît pas automatiquement les nouveaux modules. L’exéc
 
 ### Installer des exemples de modules
 
-Pour valider le concept, installez des exemples de modules pour voir comment fonctionne le modèle GRA.
+Pour découvrir comment fonctionne le modèle GRA, installez des exemples de modules comme preuve de concept.
 
 Exécutez `composer install` et `bin/magento install` avant de passer à autre chose.
 
-Il existe 3 modules de test pour sur GitHub :
+Il existe 3 modules de test sur GitHub :
 
 1. [module-example-local](https://github.com/AntonEvers/module-example-local)
 2. [module-example-gra](https://github.com/AntonEvers/module-example-gra)
@@ -253,7 +251,7 @@ bin/magento module:enable AntonEvers_Local
 bin/magento test:local
 ```
 
-Cette dernière commande doit générer la sortie suivante pour prouver que le module est installé et fonctionne :
+Cette dernière commande génère la sortie suivante pour prouver que le module est installé et fonctionne :
 
 ```bash
 Local module is installed successfully and working!
@@ -308,7 +306,7 @@ Il en résulte la structure de répertoires suivante :
 
 Exécutez `composer install` et `bin/magento install` dans le répertoire gra-development.
 
-Il est désormais possible de valider les modifications directement à partir des répertoires `packages/3rdparty`, `packages/gra` et `package/local`. Git valide les modifications apportées au référentiel Git vers lequel les répertoires sont liés. Il est important que la commande de validation Git soit émise dans le répertoire `packages/3rdparty`, `packages/gra` ou `package/local`. N’exécutez pas la validation Git à la racine du projet.
+Il est désormais possible de valider les modifications directement à partir des répertoires `packages/3rdparty`, `packages/gra` et `packages/local`. Git valide les modifications apportées au référentiel Git vers lequel les répertoires sont liés. Il est important que la commande de validation Git soit émise dans le répertoire `packages/3rdparty`, `packages/gra` ou `packages/local`. N’exécutez pas la validation Git à la racine du projet.
 
 ### Installer des exemples de modules
 
@@ -340,14 +338,14 @@ bin/magento test:gra
 bin/magento test:3rdparty
 ```
 
-Cette dernière commande doit générer la sortie suivante pour prouver que le module est installé et fonctionne :
+Cette dernière commande génère la sortie suivante pour prouver que le module est installé et fonctionne :
 
 ```bash
 GRA module is installed successfully and working!
 3rd party module is installed successfully and working!
 ```
 
-Si la sortie ci-dessus s’affiche, vous pouvez la valider en toute sécurité dans le référentiel de marque. Exécutez `git remote -v` pour vérifier que vous vous engagez sur la bonne télécommande.
+Si la sortie ci-dessus s’affiche, vous pouvez la valider en toute sécurité dans le référentiel de marque. Pour vérifier que vous vous engagez sur la bonne télécommande, exécutez `git remote -v`.
 
 ```bash
 cd packages/gra
@@ -369,7 +367,7 @@ git push origin main
 
 ### Diffusion du code vers les instances
 
-Fusionnez les référentiels GRA et tiers avec le référentiel gra-split-brand-x pour diffuser le code vers une instance Adobe Commerce. Exécutez `composer require`, `bin/magento module:enable` et validez le résultat.
+Pour diffuser le code vers une instance Adobe Commerce, fusionnez les référentiels GRA et tiers avec le référentiel gra-split-brand-x. Exécutez `composer require`, `bin/magento module:enable` et validez le résultat.
 
 ```bash
 cd gra-split-brand-x

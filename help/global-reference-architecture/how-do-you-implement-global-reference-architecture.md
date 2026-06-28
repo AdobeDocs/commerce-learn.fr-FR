@@ -1,17 +1,14 @@
 ---
 title: Comment mettre en œuvre l’architecture de référence globale
 description: Découvrez comment mettre en œuvre une architecture de référence globale. Découvrez des idées pour distribuer vos sites web, les clés de la réussite et les rôles nécessaires pour vous assurer que votre projet d’architecture de référence mondiale commence sur la bonne voie.
-landing-page-description: Découvrez comment mettre en œuvre une architecture de référence globale avec Adobe Commerce
-kt: 14042
-doc-type: video
-duration: 2289
-audience: all
-last-substantial-update: 2023-10-6
+jira: KT-14042
+doc-type: Value Video
+duration: 2273
+last-substantial-update: 2023-10-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
 TQID: https://experienceleague.adobe.com/gvluu4w1CEQOC6Ar77DspSSx9ED682P41DSEqG44cok
 product_v2:
@@ -29,16 +26,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: 157
 ht-degree: 0%
 
 ---
 
 # Mise en œuvre de l’architecture de référence globale
 
-Découvrez comment mettre en œuvre l’architecture de référence globale (GRA). Découvrez les premières décisions qui permettent de configurer une GRA performante. Obtenez des idées sur la manière de séparer vos sites web, les clés du succès et certains concepts pour développer des fonctionnalités de manière organisée.
+Découvrez comment mettre en œuvre l’architecture de référence globale (GRA). Découvrez les premières décisions qui permettent de mettre en place une GRA performante. Obtenez des idées sur la manière de séparer vos sites web, les clés du succès et certains concepts pour développer des fonctionnalités de manière organisée.
 
 ## Audience
 
