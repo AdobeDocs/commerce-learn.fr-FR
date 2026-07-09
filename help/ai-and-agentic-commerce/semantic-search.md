@@ -33,7 +33,7 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 * Exemples réels d’intention d’achat et pertinence améliorée de la recherche
 * Avantages clés : pertinence améliorée, moins de recherches sans résultat et de meilleures expériences client
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492307?captions=fre_fr)
 
 ## Ressources supplémentaires
 
