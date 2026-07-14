@@ -38,7 +38,7 @@ Découvrez comment rechercher, réviser, commenter et escalader un ticket d’as
 * Découvrez comment ajouter un commentaire à un ticket d’assistance ouvert
 * Découvrez comment et quelques raisons de réaffecter un ticket d’assistance
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445313?captions=fre_fr&learn=on)
 
 ## Guide du Centre d’aide d’Adobe de la base de connaissances Commerce
 
