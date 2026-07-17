@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 
 ## Référence fichier par fichier
 
-### [Créer un PDC de paiement partagé : outils App Builder et d’IA](./overview.md)
+### Création d’un PDC de paiement partagé : App Builder et outils d’IA
+
+[Création d’un PDC de paiement partagé : App Builder et outils d’IA](./overview.md)
 
 **Objectif :** introduction et orientation du tutoriel.
 
@@ -32,8 +34,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** ouverture de la section. Définit le contexte avant toute étape technique.
 
 
-### [Paiement fractionné POC : décisions d&#39;architecture et de conception](./architecture-and-decisions.md)
+### Paiement fractionné POC : décisions d&#39;architecture et de conception
 
+[Paiement fractionné POC : décisions d&#39;architecture et de conception](./architecture-and-decisions.md)
 
 **Objectif :** explication approfondie de chaque décision architecturale dans la preuve de concept.
 
@@ -50,8 +53,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section « Architecture » ou « Fonctionnement ». Peut être ignoré par les développeurs et développeuses Commerce expérimentés, mais est essentiel pour les nouveaux venus sur App Builder.
 
 
-### [Validation de principe de paiement fractionné : conditions préalables et configuration de l’environnement](./prerequisites-and-setup.md)
+### PdC de paiement fractionné : prérequis et configuration de l&#39;environnement
 
+[PdC de paiement fractionné : prérequis et configuration de l&#39;environnement](./prerequisites-and-setup.md)
 
 **Objectif :** remplir la liste de vérification avant vol avant que le code soit écrit ou que des invites soient exécutées.
 
@@ -66,8 +70,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section « Conditions préalables » ou « Prise en main ». Doit être complété de manière interactive, pas seulement lu.
 
 
-### [PDC de paiement fractionné : référence des variables d’environnement](./env-reference.md)
+### PDC de paiement fractionné : référence des variables d’environnement
 
+[PDC de paiement fractionné : référence des variables d’environnement](./env-reference.md)
 
 **Objectif :** toutes les variables d’environnement pour les trois composants sont regroupées au même endroit.
 
@@ -82,8 +87,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** barre latérale de référence ou section « Configuration ». Également utilisé comme complément aux invites de build.
 
 
-### [PDC de paiement partagé : invite d’IA du module Commerce](./commerce-module-prompt.md)
+### PdC de paiement partagé : invite d’IA du module Commerce
 
+[PdC de paiement partagé : invite d’IA du module Commerce](./commerce-module-prompt.md)
 
 **Objectif :** invite complète et autonome d’IA pour générer l’ensemble du module PHP `Client_SplitPayment`.
 
@@ -101,8 +107,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel** section « Créer le module Commerce ». L’invite elle-même est l’artefact : les développeurs la copient dans leur outil d’IA et l’exécutent.
 
 
-### [PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](./orchestrator-prompt.md)
+### PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder
 
+[PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder](./orchestrator-prompt.md)
 
 **Objectif :** invite d’IA complète et autonome permettant de générer l’application App Builder `split-payment-orchestrator`.
 
@@ -120,8 +127,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel** section « Créer l’application App Builder ». Accompagnement de l’invite du module Commerce.
 
 
-### [PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur Experience Cloud](./experience-cloud-ui-prompt.md)
+### PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud
 
+[PDC de paiement partagé : invite d’IA de l’extension de l’interface utilisateur d’Experience Cloud](./experience-cloud-ui-prompt.md)
 
 **Objectif :** invite de l’IA pour générer l’extension SDK facultative de l’interface utilisateur d’administration Experience Cloud.
 
@@ -137,8 +145,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section facultative « Aller plus loin » ou « Chemin de production ». Peut être ignoré si le tutoriel se concentre uniquement sur la preuve de concept.
 
 
-### [Paiement fractionné POC : guide de test et de vérification](./testing-and-verification.md)
+### PdC de paiement partagé : guide de test et de vérification
 
+[PdC de paiement partagé : guide de test et de vérification](./testing-and-verification.md)
 
 **Objectif :** guide de test détaillé couvrant chaque composant dans l’ordre de vérification approprié.
 
@@ -160,8 +169,9 @@ Cette page résume l’organisation de la série de tutoriels de validation de p
 **Utilisation du tutoriel :** section « Test » ou « Vérification ». Également utile comme référence de dépannage.
 
 
-### [Paiement fractionné POC : prochaines étapes après la preuve de concept](./next-steps.md)
+### PdC de paiement partagé : les étapes suivantes après la preuve de concept
 
+[PdC de paiement partagé : les étapes suivantes après la preuve de concept](./next-steps.md)
 
 **Objectif :** feuille de route pour faire évoluer la preuve de concept en modèles prêts pour la production.
 

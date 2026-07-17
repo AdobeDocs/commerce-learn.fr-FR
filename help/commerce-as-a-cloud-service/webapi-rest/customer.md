@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -62,7 +62,9 @@ Avant de commencer, rassemblez toutes les valeurs requises à partir d’[Experi
 
 Les détails de l’instance contiennent des éléments tels que votre ID d’instance, les points d’entrée GraphQL, les informations d’identification.
 
-### Détails du développeur - [&#128279;](https://developer.adobe.com/console/)
+### Détails du développeur - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 C’est dans le Developer Console que vous gérez vos informations d’identification API, y compris les identifiants client, les secrets client et les jetons d’accès. Vous pouvez également créer de nouveaux types d’informations d’identification, tels que l’authentification de serveur à serveur ou l’authentification Native App.
 
