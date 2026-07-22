@@ -33,4 +33,4 @@ Définissez les URL de l’instance cible, les informations d’identification A
 * Récupérez l’identifiant client et le secret client Adobe IMS depuis **Project** > **OAuth de serveur à serveur** dans Adobe Developer Console.
 * Copiez l’ID d’organisation cible et configurez les paramètres de l’hôte, du port et du serveur local du système de gestion de contenu de documents pour qu’ils correspondent à votre environnement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496169?captions=fre_fr&learn=on)
