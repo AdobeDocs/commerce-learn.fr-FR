@@ -1,17 +1,13 @@
 ---
 title: Découvrez comment installer des événements IO pour Adobe Commerce 2.4.5
 description: Découvrez comment installer les modules nécessaires aux événements IO dans Adobe Commerce 2.4.5 pour les utiliser dans Adobe Developer App Builder
-landing-page-description: Découvrez comment installer plusieurs modules nécessaires à Adobe Commerce 2.4.5 à l’aide du compositeur.
-short-description: Découvrez comment installer plusieurs modules nécessaires à Adobe Commerce 2.4.5 à l’aide du compositeur.
-kt: 11886
-doc-type: tutorial
-duration: 214
-audience: all
-last-substantial-update: 2023-02-22T00:00:00.000Z
+jira: KT-11886
+doc-type: Tutorial
+duration: 179
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
@@ -26,16 +22,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 190
+source-wordcount: 164
 ht-degree: 0%
 
 ---
 
 # Installation d’Adobe Commerce 2.4.5
 
-Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.5. Cela permet de configurer les modules nécessaires à l’utilisation de l’application Adobe Commerce. Consultez la documentation supplémentaire disponible dans [Installation de Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.5. Cela permet de configurer les modules nécessaires à l’utilisation de l’application Adobe Commerce. Consultez la documentation supplémentaire disponible dans [Installation de Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -50,9 +46,9 @@ Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419827?captions=fre_fr&learn=on)
 
-## Commandes utiles {#useful-commands}
+## Commandes disponibles {#useful-commands}
 
-Plusieurs commandes sont légèrement différentes selon que vous utilisez un environnement auto-hébergé ou Adobe Commerce Cloud.
+Plusieurs commandes sont légèrement différentes, selon que vous utilisez un environnement auto-hébergé ou Adobe Commerce Cloud.
 
 ### Hébergement On-Premise {#on-premise}
 
@@ -87,4 +83,5 @@ stage:
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 
