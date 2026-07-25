@@ -33,4 +33,4 @@ Préparez Docker et accédez à l’outil de migration de données en bloc pour 
 * Extrayez le package d’outils et définissez les autorisations de dossier appropriées.
 * Consultez le fichier `.env.example` configuré dans les vidéos suivantes de cette série.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496124?captions=fre_fr&learn=on)

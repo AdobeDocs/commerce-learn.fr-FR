@@ -33,4 +33,4 @@ Définissez l’URL de l’instance source et les informations d’authentificat
 * Pour générer les quatre jetons requis, activez l’intégration.
 * Récupérez le jeton de l’interface de ligne de commande Magento à partir de account.magento.cloud si votre source est Adobe Commerce as a Cloud Service (PaaS).
 
->[!VIDEO](https://video.tv.adobe.com/v/3496142?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496144?captions=fre_fr&learn=on)

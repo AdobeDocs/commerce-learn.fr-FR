@@ -33,4 +33,4 @@ Configurez la connexion à la base de données source dans votre fichier `.my.cn
 * Utilisez les commandes du tunnel de l’interface de ligne de commande de Magento Cloud pour obtenir les valeurs de l’hôte, de l’utilisateur, du mot de passe, du port et de la base de données.
 * Vérifiez la connectivité de l’hôte et du port avant d’exécuter l’outil si votre source est locale.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496159?captions=fre_fr&learn=on)
