@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: b3c029f7c1080550900cbc5838478cd7a4137a20
+source-git-commit: 838387ffddbd8bee3ef3ec22694818eb2de5fe2d
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '972'
 ht-degree: 3%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 3%
       + [Informations d’identification Source](../commerce-as-a-cloud-service/bulk-data-migration-tool/source-credentials.md)
       + [Informations d’identification de la base de données](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
       + [Informations d’identification de Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
+      + [Migration monophasée](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
   + Migration vers Adobe Commerce{#migrating-to-adobe-commerce}
     + [Vue d’ensemble](../migrating-to-adobe-commerce/overview.md)
     + Préparation{#preparation}
