@@ -34,4 +34,4 @@ Exécutez une migration en une seule phase lorsque votre environnement source pe
 * Vérifiez le rapport de synthèse de la migration : l’étape 8 (vérification de l’intégrité des données) consigne les échecs sans arrêter le pipeline, de sorte qu’une exécution terminée ne garantit pas une vérification correcte.
 * Cette commande monophasée est un pipeline complet et autonome. N’utilisez pas cette commande comme étape dans le workflow du mode de maintenance (migration par phases), qui possède ses propres commandes dédiées.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496318?captions=fre_fr&learn=on)
