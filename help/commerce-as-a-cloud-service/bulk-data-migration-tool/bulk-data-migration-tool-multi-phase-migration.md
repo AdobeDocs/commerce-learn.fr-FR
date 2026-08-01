@@ -32,4 +32,4 @@ Exécutez une migration en plusieurs phases lorsque votre environnement source d
 * La première phase s’exécute alors que la source est toujours active ; `bin console migration:before-maintenance` vérifie la configuration, initialise l’environnement, se connecte au système de gestion de contenu par composant, enregistre la migration, exécute des tests fonctionnels et crée des données de test synthétiques. N’activez pas le mode de maintenance avant la fin de cette phase.
 * La troisième phase consiste à extraire les données d&#39;un environnement figé : `bin/console migration:during-maintenance` rouvre les tunnels PaaS si nécessaire, extrait les données de la source, nettoie les vues d&#39;évaluation, charge la cible ACCS, exécute la vérification et nettoie les données de test sur la cible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496415?captions=fre_fr&learn=on)
