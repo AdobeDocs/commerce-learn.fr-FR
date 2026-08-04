@@ -1,7 +1,7 @@
 ---
 title: Pages liées à l’intégration technique d’Adobe Commerce Cloud
 description: Liens vers les pages associées dans l’intégration technique d’Adobe Commerce Cloud
-source-git-commit: 14d37ba34791af87b09f2c6727adf1a3fa632ef5
+source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ## Tutoriels connexes supplémentaires
 
-* [Bonnes pratiques en matière d’infrastructure et de développement](../cloud/infrastructure-development-best-practices.md)
-* [Rapide](../cloud/fastly.md)
-* [Configuration et débogage](../cloud/configuration-and-debugging.md)
-* [Déploiements, tests, surveillance et sécurité](../cloud/deployments-testing-monitoring-security.md)
-* [Offres Saas, assistance et autres communications, et étapes suivantes](../cloud/saas-offerings-support-communications-next-steps.md)
+* [Bonnes pratiques en matière d’infrastructure et de développement](/help/cloud/infrastructure-development-best-practices.md)
+* [Rapide](/help/cloud/fastly.md)
+* [Configuration et débogage](/help/cloud/configuration-and-debugging.md)
+* [Déploiements, tests, surveillance et sécurité](/help/cloud/deployments-testing-monitoring-security.md)
+* [Offres Saas, assistance et autres communications, et étapes suivantes](/help/cloud/saas-offerings-support-communications-next-steps.md)

@@ -1,7 +1,7 @@
 ---
 title: Pages liées aux taux d’expédition des outils d’IA
 description: Liens vers les pages associées dans les outils d’IA
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ## Tutoriels connexes
 
-* [Présentation et configuration](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-* [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-* [Implémentation et tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-* [Feedback](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+* [Présentation et configuration](/help/app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [Outils d’IA et kit de démarrage Adobe](/help/app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+* [Implémentation et tests](/help/app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+* [Feedback](/help/app-builder/custom-shipping-rates-ai-tools/feedback.md)
