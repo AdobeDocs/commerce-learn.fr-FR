@@ -34,7 +34,7 @@ Ce tutoriel aborde la création d’un projet et d’un espace de travail pour c
 * Modification de l’organisation, du projet ou de l’espace de travail sélectionné dans l’interface de ligne de commande
 * Test des commandes de maillage API simples
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419726?captions=fre_fr&learn=on)
 
 ## En savoir plus sur Adobe Developer Console
 
