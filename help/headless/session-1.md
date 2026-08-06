@@ -3,12 +3,12 @@ title: Session 1 sur l’architecture découplée
 description: Découvrez l’architecture découplée, le commerce composable et les expériences personnalisées avec Adobe Commerce, et explorez les avantages d’une vitrine découplée.
 jira: KT-13144
 doc-type: Value Video
-duration: 1952
-last-substantial-update: 2023-04-25T00:00:00.000Z
+duration: 1951
+last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-role: Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer
+level: Beginner
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
 TQID: https://experienceleague.adobe.com/f-pR5V-DQaw-dn5KrcD1jrtb5kZq2EHKNgsnHwdzUaE
 product_v2:
@@ -30,7 +30,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 58b3a0c27f74abac23412518e4a5747bbe4cf240
+source-git-commit: 1306693fd0e2277c671adb2d609de2533a2a13ae
 workflow-type: tm+mt
 source-wordcount: 141
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
 
 # Architecture découplée Adobe Commerce
 
-Présentation générale de l’histoire d’Adobe Commerce et de la manière dont les choses ont évolué pour prendre entièrement en charge le découplage. Les avantages de l’architecture découplée incluent la parité entre les points de contact, la séparation des activités de développement, une évolutivité améliorée et des avantages supplémentaires.
+Présentation de haut niveau de l’historique d’Adobe Commerce et de la manière dont la plateforme a évolué pour prendre entièrement en charge le découplage. Les avantages de l’architecture découplée incluent la parité entre les points de contact, la séparation des activités de développement, une évolutivité améliorée et des avantages supplémentaires.
 
 ## Ce que vous apprendrez
 
