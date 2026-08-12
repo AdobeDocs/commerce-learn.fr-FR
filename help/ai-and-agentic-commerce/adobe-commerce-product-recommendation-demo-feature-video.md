@@ -3,7 +3,9 @@ title: Démonstration de la recommandation de produit Adobe Commerce - Vidéo su
 description: Découvrez comment ajouter des recommandations de produit Adobe Sensei à une page de détails de produit Adobe Commerce, y compris les règles d’exclusion de plage de prix et de rupture de stock.
 feature: Recommendations
 topic: Commerce
-role: AdminUser
+role:
+  - Admin
+  - User
 level: Beginner
 doc-type: Feature Video
 duration: 235
