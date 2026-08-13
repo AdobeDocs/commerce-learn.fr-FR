@@ -34,7 +34,7 @@ Découvrez comment utiliser les outils optimisés par l’IA d’Adobe pour rati
 * Les outils MCP exposent les commandes et les données utilisées par l’agent pour planifier et générer du code.
 * L’IA automatise les exigences, l’architecture et les décisions d’implémentation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481346?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
 
