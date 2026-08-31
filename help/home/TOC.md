@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
+source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '999'
 ht-degree: 3%
 
 ---
@@ -104,6 +104,15 @@ ht-degree: 3%
     + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
 
 + Extensibilité {#extensibility}
+  + Agent de développement Commerce {#commerce-developer-agent}
+    + [Vue d’ensemble](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
+    + [Plans directeurs et étapes de développement](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
+    + [Intégrations Connect](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
+    + [Déployer, associer, installer](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
+    + [Configuration et test](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
+    + [Migrer le code existant](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
+    + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
+    + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
     + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
     + [Création d’un module](../backend-development/create-module.md)
