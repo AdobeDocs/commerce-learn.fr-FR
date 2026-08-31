@@ -114,7 +114,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
