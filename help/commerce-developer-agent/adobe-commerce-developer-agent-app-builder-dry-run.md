@@ -8,9 +8,9 @@ level: Intermediate
 doc-type: Tutorial
 duration: 438
 last-substantial-update: 2026-08-28T00:00:00Z
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
-source-wordcount: '1646'
+source-wordcount: '1700'
 ht-degree: 0%
 
 ---
@@ -434,6 +434,9 @@ Téléchargez plutôt le fichier ZIP du projet à partir de l’étape Développ
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## Ressources supplémentaires
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Présentation de l’agent de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Prise en main de l’agent de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/getting-started)
+* [Conseils sur l’invite de l’agent de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/prompting)
+* [Prise en charge et commentaires de l’agent de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/support)

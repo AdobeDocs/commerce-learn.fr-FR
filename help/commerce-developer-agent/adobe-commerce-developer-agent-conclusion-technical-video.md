@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 39
 last-substantial-update: 2026-08-28T00:00:00Z
 jira: KT-22479
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,7 @@ Ce bref résumé résume le parcours de l’agent de développement Adobe Commer
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## Ressources supplémentaires
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Présentation de l’agent de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Prise en charge et commentaires de l’agent de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/support)
