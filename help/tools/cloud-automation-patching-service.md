@@ -47,4 +47,4 @@ L&#39;automatisation des correctifs d&#39;Adobe Commerce est une fonctionnalité
 
 ## Documentation connexe
 
-* [Documentation sur l&#39;automatisation des correctifs](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentation sur l&#39;automatisation des correctifs](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/caps-tool/intro)
