@@ -43,7 +43,7 @@ L&#39;automatisation des correctifs d&#39;Adobe Commerce est une fonctionnalité
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476249?captions=fre_fr&learn=on)
 
 ## Documentation connexe
 
