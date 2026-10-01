@@ -67,4 +67,4 @@ Intégrez facilement les produits Adobe Experience Cloud pour créer des parcour
 * Fidélisation et engagement accrus des clients
 * Intégration transparente et vue unifiée du client
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433571?captions=fre_fr&learn=on)
