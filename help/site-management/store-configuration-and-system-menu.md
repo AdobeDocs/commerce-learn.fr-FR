@@ -49,6 +49,6 @@ Le menu [!UICONTROL Stores] permet d’accéder aux paramètres du magasin. La v
 
 * [Filtres de grille d’administration](admin-grids-and-filters.md)
 * [Afficher et définir les configurations d’administration à l’aide de la ligne de commande](view-update-store-configuration-cli.md)
-* [Outils et espace de travail d’administration](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Contrôles de grille d&#39;administration](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Site, magasin et portée d’affichage](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Outils et espace de travail d’administration](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Contrôles de grille d&#39;administration](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site, magasin et portée d’affichage](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/setup/websites-stores-views)
