@@ -4,13 +4,11 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Vidéos et tutoriels Adobe Commerce {#tutorials}
 
@@ -54,7 +52,7 @@ ht-degree: 3%
     + Présentation du produit{#product-overview}
       + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
       + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+      + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
       + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
       + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
       + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -114,7 +112,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -201,7 +199,7 @@ ht-degree: 3%
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
+      + [Développement de modules ](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
   + Maillage API {#api-mesh}
     + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [Modes d’expédition et de livraison](../site-management/shipping-delivery.md)
   + [Grilles et filtres d’administration](../site-management/admin-grids-and-filters.md)
   + [interface de ligne de commande Commerce](../site-management/view-update-store-configuration-cli.md)
+  + [Parcourez la configuration du magasin et le menu Système .](../site-management/store-configuration-and-system-menu.md)
   + Services Adobe Commerce {#adobe-commerce-services}
     + [Configuration du connecteur de services Commerce](../site-management/configure-adobe-commerce-services-connector.md)
     + [Configuration des services de paiement](../site-management/configure-adobe-payment-services.md)
