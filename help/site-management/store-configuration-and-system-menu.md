@@ -35,7 +35,7 @@ Explorez l’espace de travail d’administration Adobe Commerce, du filtrage de
 * Basculer entre les vues par défaut et enregistrées, et mettre à jour une vue existante.
 * Accédez à la configuration du magasin et explorez les paramètres généraux, de catalogue, de sécurité, client et de vente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473173?captions=fre_fr&learn=on)
 
 ## Vues de grille enregistrées
 
