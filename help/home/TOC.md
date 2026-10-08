@@ -4,13 +4,11 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Vidéos et tutoriels Adobe Commerce {#tutorials}
 
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [Modes d’expédition et de livraison](../site-management/shipping-delivery.md)
   + [Grilles et filtres d’administration](../site-management/admin-grids-and-filters.md)
   + [interface de ligne de commande Commerce](../site-management/view-update-store-configuration-cli.md)
+  + [Parcourez la configuration du magasin et le menu Système .](../site-management/store-configuration-and-system-menu.md)
   + Services Adobe Commerce {#adobe-commerce-services}
     + [Configuration du connecteur de services Commerce](../site-management/configure-adobe-commerce-services-connector.md)
     + [Configuration des services de paiement](../site-management/configure-adobe-payment-services.md)
