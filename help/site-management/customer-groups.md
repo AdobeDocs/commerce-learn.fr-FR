@@ -62,7 +62,7 @@ Les groupes de clients d’Adobe Commerce vous permettent de proposer des promot
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473320?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
