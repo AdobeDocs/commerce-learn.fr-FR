@@ -13,29 +13,44 @@ level: Beginner, Intermediate
 KT: 15599
 duration: 125
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-TQID: https://experienceleague.adobe.com/LXRcogaGf8aCmcEMdjCiLkulSXT16vsb22OuaI-I31w
+TQID: 'https://experienceleague.adobe.com/LXRcogaGf8aCmcEMdjCiLkulSXT16vsb22OuaI-I31w'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 159
+source-wordcount: '159'
 ht-degree: 0%
-
 ---
-
 # Tableau de bord de l’outil d’analyse à l’échelle du site
 
 L’outil d’analyse à l’échelle du site est un outil en libre-service proactif et un référentiel central qui inclut des informations détaillées sur le système et des recommandations pour assurer la sécurité et l’opérabilité de votre installation Adobe Commerce. Il fournit une surveillance du rendement en temps réel 24 heures sur 24, 7 jours sur 7, des rapports et des conseils pour cerner les problèmes potentiels. Utilisez cet outil pour obtenir une meilleure visibilité sur l’intégrité, la sécurité et les configurations d’application du site, réduire le temps de résolution et améliorer la stabilité et les performances du site.
@@ -47,9 +62,9 @@ L’outil d’analyse à l’échelle du site est un outil en libre-service proa
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410777?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Ressources supplémentaires
 
-* [Outil d’analyse à l’échelle du site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=fr)
-* [Affichage et gestion des journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=fr)
+* [Outil d’analyse à l’échelle du site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [Affichage et gestion des journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

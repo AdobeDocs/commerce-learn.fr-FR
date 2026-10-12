@@ -1,6 +1,6 @@
 ---
 title: Tronquer les logs
-description: Learn how to triage a failed deployment because of a full hard drive by truncating large log files.
+description: Découvrez comment trier un déploiement ayant échoué en raison d’un disque dur saturé en tronquant les fichiers journaux volumineux.
 feature: Cloud, Site Management
 topic: Commerce, Development
 old-role: Architect, Developer
@@ -11,48 +11,56 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Troubleshooting
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 200
+source-wordcount: '200'
 ht-degree: 0%
-
 ---
-
 # Tronquer les logs
 
-Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your Adobe Commerce Cloud environment.
+Découvrez comment effectuer un triage et un déploiement ayant échoué en raison d’un disque dur saturé. Découvrez comment rechercher et quelles commandes peuvent être exécutées pour libérer de l’espace dans votre environnement Adobe Commerce Cloud.
 
-If you think you might need these log files, you can `rsync` them or use other methods to get a copy available off the server before you truncate them.
+Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou utiliser d’autres méthodes pour obtenir une copie disponible sur le serveur avant de les tronquer.
 
 ## À qui s’adresse cette vidéo ?
 
-* Developers and IT Professionals
+* Développeurs et professionnels de l’informatique
 * Administrateurs système
 
 ## Contenu vidéo
 
-* Diagnose and Resolve a failed deployment
-* Where some common large log files are found
-* Quick method to truncate a log file
+* Diagnostiquer et résoudre un déploiement ayant échoué
+* Emplacement de certains grands fichiers journaux courants
+* Méthode rapide pour tronquer un fichier journal
 
->[!VIDEO](https://video.tv.adobe.com/v/3454585?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
-## Commands used in the video
+## Commandes utilisées dans la vidéo
 
-To check hard drive space `df -h`. Pay attention to the line dev/mapper/xxxx
+Pour vérifier l&#39;espace disque `df -h`. Faites attention à la ligne dev/mapper/xxxx
 
 ```SHELL
 df -h
@@ -72,7 +80,7 @@ tmpfs                                   5.0M     0  5.0M   0% /run/lock
 ```
 
 
-Display the files and their sizes in human readable format such as kb, mb and gb using the command `ls -lah`
+Affichez les fichiers et leur taille dans un format lisible par l’utilisateur, tel que ko, mo et go à l’aide de la `ls -lah` de commande
 
 ```SHELL
 ls -lah
@@ -92,9 +100,9 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 -rw-rw-r-- 1 web web  516 Dec  6  2023 system.log
 ```
 
-## Examples for truncate log
+## Exemples de journal tronqué
 
-After you ssh into the right project and environment, change into the `var/log` directory. Then you can truncate a file with something similar to `> some-log-file.log`
+Après avoir envoyé le fichier dans le projet et l’environnement appropriés, accédez au répertoire `var/log` . Vous pouvez ensuite tronquer un fichier avec un élément similaire à `> some-log-file.log`
 
 ```BASH
 > support_report.log 
@@ -103,4 +111,4 @@ After you ssh into the right project and environment, change into the `var/log` 
 
 ## Documentation connexe
 
-* [Health notifications](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notifications d’intégrité](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

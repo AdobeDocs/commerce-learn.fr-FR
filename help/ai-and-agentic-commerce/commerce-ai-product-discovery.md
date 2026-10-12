@@ -4,16 +4,23 @@ description: Découvrez comment l’agent de catalogue Commerce comble les lacun
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21572
 duration: 451
-source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Découverte de produits Commerce AI
 
 [!BADGE Bientôt Disponible]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
@@ -32,7 +39,7 @@ Même les catalogues de produits les plus riches n’ont qu’une visibilité pa
 * Panneau Opportunités d’optimisation affichant des recommandations d’enrichissement à fort impact
 * Enrichissement de la page des détails du produit pour exposer les attributs masqués aux robots d&#39;exploration LLM
 * Enrichissement du catalogue générant des noms et des descriptions de produits optimisés pour l’IA
-* Validation des améliorations à l’aide du vérificateur de Visibilités du contenu de l’IA
+* Validation des améliorations à l’aide d’AI Content Visibility Checker
 
->[!VIDEO](https://video.tv.adobe.com/v/3492325?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 

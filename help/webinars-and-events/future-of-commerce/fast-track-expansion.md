@@ -10,26 +10,35 @@ duration: 887
 last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
-TQID: https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q
+TQID: 'https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b23e006f-0a29-4f1d-8fd0-77aa56f3d12b
+    internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 178
+source-wordcount: '178'
 ht-degree: 0%
-
 ---
-
 # Expansion rapide
 
 Découvrez comment Adobe Commerce permet aux entreprises d’accélérer leur expansion numérique grâce à de nouvelles fonctionnalités puissantes de gestion de catalogues, de commerce B2B et d’évolutivité multicanal. Cette session met en évidence la modélisation flexible des données qui prend en charge jusqu’à 250 millions de SKU, la tarification dynamique entre les régions et l’intégration transparente des assortiments propriétaires et tiers. Grâce à des fonctionnalités B2B améliorées telles que les structures de compte parent-enfant, les modèles de devis et le changement de contexte storefront, Adobe Commerce permet des stratégies de mise sur le marché plus rapides et des expériences client personnalisées, tout en réduisant la complexité et les coûts opérationnels.

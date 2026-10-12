@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00Z
+last-substantial-update: 2026-05-15T00:00:00.000Z
 jira: KT-18624
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
-
 ---
-
 # Explication du modèle de données de catalogue composable
 
 Les équipes commerciales modernes vendent souvent entre **marques**, **régions**, **concessionnaires** et **canaux numériques**. Lorsque chaque canal conserve sa propre copie de catalogue, les équipes passent plus de temps à réconcilier les SKU, les prix et la disponibilité qu’à améliorer l’expérience de l’acheteur. Le **modèle de données de catalogue composable Adobe (CCDM)** derrière **Adobe Commerce Optimizer** est conçu pour inverser ce modèle : **un catalogue unifié** dans une couche SaaS, avec **vues de catalogue** et **politiques** qui façonne ce que chaque storefront ou intégration est autorisé à voir.
@@ -31,7 +43,7 @@ Les équipes commerciales modernes vendent souvent entre **marques**, **régions
 * comment les vues de catalogue agissent comme la « lentille » entre un catalogue de base partagé et un storefront ou une audience spécifique ;
 * la manière dont les API Merchandising Services utilisent ces vues afin que les expériences découplées restent alignées sur le catalogue configuré ;
 
->[!VIDEO](https://video.tv.adobe.com/v/3491287?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
 
 ## Le défi des catalogues compartimentés
 
@@ -53,15 +65,15 @@ Cette séparation (**d’où proviennent les données** (source du catalogue) pa
 
 ## Vues catalogue comme objectif storefront
 
-Comme décrit dans [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, une vue de catalogue se comporte comme une **lentille** : les acheteurs ne voient que les produits, les prix et les règles que la vue autorise, tandis que le **catalogue de base** reste le système d’enregistrement partagé. Ce modèle s’associe directement aux **services de marchandisage** afin que les clients API transmettent la vue correcte (et les en-têtes associés) et reçoivent une réponse cohérente et axée sur les politiques pour chaque expérience.
+Comme décrit dans [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, une vue de catalogue se comporte comme une **lentille** : les acheteurs ne voient que les produits, les prix et les règles que la vue autorise, tandis que le **catalogue de base** reste le système d’enregistrement partagé. Ce modèle s’associe directement aux **services de marchandisage** afin que les clients API transmettent la vue correcte (et les en-têtes associés) et reçoivent une réponse cohérente et axée sur les politiques pour chaque expérience.
 
 Pour une présentation plus approfondie de la manière dont ces éléments s’adaptent à un flux de bout en bout, consultez la présentation destinée aux développeurs [Créer un catalogue composable pour votre storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Contenu connexe
 
 * [En savoir plus sur les vues de catalogue](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Créer un catalogue composable pour votre storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

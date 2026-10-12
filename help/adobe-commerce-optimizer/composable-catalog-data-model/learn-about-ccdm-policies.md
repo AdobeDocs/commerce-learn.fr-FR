@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2026-05-21T00:00:00Z
+last-substantial-update: 2026-05-21T00:00:00.000Z
 jira: KT-21258
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
-
 ---
-
 # Politiques dans le modèle de données de catalogue composable Adobe
 
 Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voient à partir d’un catalogue de base unifié, les **politiques** sont ce dont cet objectif est composé. Ce tutoriel explique ce qu’est une politique, comment les politiques **STATIC** et **TRIGGER** fonctionnent ensemble dans le scénario de démonstration **Carvelo Automobiles** et pourquoi la mise à jour d’une politique prend effet immédiatement, sans devoir reconstruire le catalogue.
@@ -32,7 +44,7 @@ Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voie
 * Politiques TRIGGER activées par les en-têtes de requête API (par exemple, `AC-Policy-Brand`)
 * Mise à jour des politiques dans les opérations quotidiennes sans reconstruction de catalogue
 
->[!VIDEO](https://video.tv.adobe.com/v/3491426?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Une **politique** est un **filtre d’accès aux données**. Il inspecte les attributs de produit et applique des règles qui déterminent les produits qu’une vue de catalogue peut exposer. Les politiques se trouvent au-dessus du catalogue composable partagé et ne dupliquent pas les données du catalogue.
 
@@ -79,7 +91,7 @@ Les politiques sont des filtres légers sur un **catalogue partagé**, et non de
 
 * [Explication du modèle de données de catalogue composable](./why-ccdm-exists.md)
 * [En savoir plus sur les vues de catalogue](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
+* [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

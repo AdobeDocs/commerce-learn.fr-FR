@@ -6,15 +6,22 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00Z
+last-substantial-update: 2026-07-27T00:00:00.000Z
 jira: KT-22157
-source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 601e4abe-d9bf-58de-a779-32ed6794dcbe
+    internal-label: Data Import/Export
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
-
 ---
-
 
 # Exécution d’une migration multiphase avec l’outil de migration de données en bloc
 
@@ -32,4 +39,4 @@ Exécutez une migration en plusieurs phases lorsque votre environnement source d
 * La première phase s’exécute alors que la source est toujours active ; `bin console migration:before-maintenance` vérifie la configuration, initialise l’environnement, se connecte au système de gestion de contenu par composant, enregistre la migration, exécute des tests fonctionnels et crée des données de test synthétiques. N’activez pas le mode de maintenance avant la fin de cette phase.
 * La troisième phase consiste à extraire les données d&#39;un environnement figé : `bin/console migration:during-maintenance` rouvre les tunnels PaaS si nécessaire, extrait les données de la source, nettoie les vues d&#39;évaluation, charge la cible ACCS, exécute la vérification et nettoie les données de test sur la cible.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496415?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)
