@@ -7,15 +7,27 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00Z
+last-substantial-update: 2026-05-15T00:00:00.000Z
 jira: KT-18624
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
-
 ---
-
 # Explication du modèle de données de catalogue composable
 
 Les équipes commerciales modernes vendent souvent entre **marques**, **régions**, **concessionnaires** et **canaux numériques**. Lorsque chaque canal conserve sa propre copie de catalogue, les équipes passent plus de temps à réconcilier les SKU, les prix et la disponibilité qu’à améliorer l’expérience de l’acheteur. Le **modèle de données de catalogue composable Adobe (CCDM)** derrière **Adobe Commerce Optimizer** est conçu pour inverser ce modèle : **un catalogue unifié** dans une couche SaaS, avec **vues de catalogue** et **politiques** qui façonne ce que chaque storefront ou intégration est autorisé à voir.

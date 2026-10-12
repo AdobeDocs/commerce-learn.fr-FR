@@ -7,16 +7,31 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 288
-last-substantial-update: 2025-10-20T00:00:00Z
+last-substantial-update: 2025-10-20T00:00:00.000Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: cc250cf1-34eb-4863-80d0-d170d45ea067
+    internal-label: Developer tools
+subfeature_v2:
+  - id: a743e5dc-8f37-4b5d-a848-03c32ca30598
+    internal-label: App Builder
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
-
 ---
-
 # Architecture du kit de démarrage Salesforce Commerce Cloud
 
 Découvrez l’architecture et les fonctionnalités du kit de démarrage du connecteur Commerce Optimizer, qui intègre Salesforce Commerce Cloud (SFCC) et Adobe App Builder. Le kit de démarrage est utilisé par Adobe Commerce Optimizer pour rationaliser la synchronisation des catalogues pour les storefronts Edge Delivery. Il explique comment une cartouche personnalisée dans SFCC détecte les modifications de catalogue par le biais de fichiers d’exportation delta et les expose par le biais d’API personnalisées. Ces modifications sont utilisées par les actions d’exécution d’App Builder (synchrones et asynchrones) pour effectuer des synchronisations complètes et delta, des mises à jour de métadonnées et des synchronisations spécifiques au produit. Le système comprend également des outils de validation pour assurer la précision du storefront et utilise la gestion de l’état d’App Builder pour suivre l’état de synchronisation et prévenir les conflits.

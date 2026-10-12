@@ -4,37 +4,50 @@ description: Optimisez Adobe Commerce avec des packages GRA distincts. Découvre
 jira: KT-16727
 doc-type: Tutorial
 duration: 340
-last-substantial-update: 2025-01-06
+last-substantial-update: 2025-01-06T00:00:00.000Z
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Contribution de Tony Evers, architecte technique principal, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contribution Tony Evers"
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+TQID: 'https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
+    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2099
+source-wordcount: '2099'
 ht-degree: 0%
-
 ---
-
 # Modèle d’architecture de référence globale des packages distincts
 
 {{only-for-on-prem-commerce-cloud}}
@@ -219,7 +232,8 @@ Pour créer une nouvelle version, exécutez la mise à jour du compositeur dans 
 
 ## Contrôle de version
 
-Le contrôle de version dans des packages distincts GRA est un synonyme des modules de balisage dans Git. Les balises Git créent des versions numérotées de vos packages que le compositeur installe.La bonne approche de contrôle de version permet à vos packages de s’exécuter automatiquement, tout en restant sûrs.
+Le contrôle de version dans des packages distincts GRA est un synonyme des modules de balisage dans Git. Les balises Git créent des versions numérotées de vos packages que le compositeur installe.
+La bonne approche de contrôle de version permet à vos packages de s’exécuter automatiquement, tout en restant sûrs.
 
 Deux exemples :
 
@@ -255,7 +269,8 @@ Cet exemple illustre une définition lâche des dépendances. Avec `~1.0`, toute
 
 Dès que vous publiez une nouvelle version de l’un des packages mentionnés, elle est automatiquement installée avec la mise à jour du compositeur.
 
-Appliquez le contrôle de version sémantique. Vous pouvez tout savoir sur le contrôle de version sémantique à l’adresse <https://semver.org/>. En particulier, la FAQ est une lecture recommandée. Avec le contrôle de version sémantique, les nombres dans « 1.0.0 » sont appelés MAJEUR.MINEUR.PATCH. Les versions mineures et de correctif d’un package peuvent être introduites en toute sécurité sans interrompre l’application.Vous pouvez inclure automatiquement des correctifs et choisir manuellement des mises à niveau mineures. Gardez à l’esprit que cela entraîne des frais généraux supplémentaires en sélectionnant manuellement chaque modification mineure :
+Appliquez le contrôle de version sémantique. Vous pouvez tout savoir sur le contrôle de version sémantique à l’adresse <https://semver.org/>. En particulier, la FAQ est une lecture recommandée. Avec le contrôle de version sémantique, les nombres dans « 1.0.0 » sont appelés MAJEUR.MINEUR.PATCH. Les versions mineures et de correctif d’un package peuvent être introduites en toute sécurité sans interrompre l’application.
+Vous pouvez inclure automatiquement des correctifs et choisir manuellement des mises à niveau mineures. Gardez à l’esprit que cela entraîne des frais généraux supplémentaires en sélectionnant manuellement chaque modification mineure :
 
 ```json
 {
@@ -287,7 +302,8 @@ Types de branches courants dans les stratégies d’embranchement et référenti
 
 **branches QA/Dev** : similaire aux branches de version.
 
-**Branche principale** : existe dans chaque référentiel et est toujours la branche qui représente la production ou un état prêt pour la production. La branche principale est l’emplacement où vous balisez le code vers les versions de publication.Veillez à choisir une stratégie d’embranchement avec peu de frais de maintenance. Par exemple, la fusion de la branche principale en branches AQ, UAT, version ou développement après une publication de correctif est une tâche de maintenance planifiée. Plus il y a de packages, plus il y a de référentiels et plus les tâches répétitives sont lourdes.
+**Branche principale** : existe dans chaque référentiel et est toujours la branche qui représente la production ou un état prêt pour la production. La branche principale est l’emplacement où vous balisez le code vers les versions de publication.
+Veillez à choisir une stratégie d’embranchement avec peu de frais de maintenance. Par exemple, la fusion de la branche principale en branches AQ, UAT, version ou développement après une publication de correctif est une tâche de maintenance planifiée. Plus il y a de packages, plus il y a de référentiels et plus les tâches répétitives sont lourdes.
 
 Utilisez un outil tel que mixu/gr pour effectuer des opérations de routine sur plusieurs référentiels Git dans un lot : <https://github.com/mixu/gr>
 

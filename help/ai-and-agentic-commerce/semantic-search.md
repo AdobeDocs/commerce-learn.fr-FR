@@ -4,16 +4,23 @@ description: Découvrez comment la recherche sémantique Adobe Commerce interpr�
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21573
 duration: 192
-source-git-commit: 676b83020173983f2045c715e3b3ee28f7bb1c6b
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
-
 ---
-
 # Recherche Sémantique
 
 La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les acheteurs connaissent rarement les bons. La recherche sémantique dans Adobe Commerce utilise l’IA pour comprendre l’intention derrière une requête, en faisant correspondre les acheteurs aux produits en fonction du sens plutôt que du texte littéral. Cela améliore la découverte de produits, accroît l’engagement et entraîne une conversion plus élevée en renvoyant des résultats qui reflètent les attentes des acheteurs.
@@ -37,5 +44,5 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 
 ## Ressources supplémentaires
 
-&#x200B;- Pour les déploiements sur Adobe Commerce on Cloud, on-prem et Adobe Commerce as a Cloud Service, voir [[!DNL Live Search] recherche sémantique](https://experienceleague.adobe.com/fr/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} dans le _guide Live Search_.
-&#x200B;- Pour les déploiements à l’aide de Adobe Commerce Optimizer, consultez [Recherche sémantique](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/semantic-search){target="_blank"} dans le _Guide de Commerce Optimizer_.
+- Pour les déploiements sur Adobe Commerce on Cloud, on-prem et Adobe Commerce as a Cloud Service, voir [[!DNL Live Search] recherche sémantique](https://experienceleague.adobe.com/fr/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} dans le _guide Live Search_.
+- Pour les déploiements à l’aide de Adobe Commerce Optimizer, consultez [Recherche sémantique](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/semantic-search){target="_blank"} dans le _Guide de Commerce Optimizer_.

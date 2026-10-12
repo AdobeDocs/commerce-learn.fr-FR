@@ -3,29 +3,37 @@ title: Utilisation de la fonctionnalité native d’un mécanisme de reprise
 description: Découvrez comment utiliser le mécanisme de reprise de Adobe I/O Events pour créer des applications résilientes, couvrant les conditions de reprise, les stratégies d’interruption et les indicateurs visuels.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31
+last-substantial-update: 2024-07-31T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
+TQID: 'https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Intermediate
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 382
+source-wordcount: '382'
 ht-degree: 0%
-
 ---
-
 # Utilisation du mécanisme de reprise de Adobe I/O Events pour la résilience des applications
 
 La vidéo présente un guide complet sur l’utilisation du mécanisme de reprise intégré de Adobe I/O Events pour améliorer la résilience des applications. Découvrez comment des codes d’état de réponse HTTP spécifiques déclenchent des reprises d’événement. Adobe I/O Events utilise des stratégies d’interruption exponentielles et fixes pour les reprises, avec des intervalles allant d’une minute à 15 minutes. La documentation décrit également comment les indicateurs de reprise apparaissent dans Developer Console, avec des repères visuels tels que des icônes d’avertissement et des flèches circulaires indiquant respectivement les événements ayant échoué et ceux ayant fait l’objet d’une nouvelle tentative.
