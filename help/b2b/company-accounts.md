@@ -54,7 +54,7 @@ ht-degree: 0%
 ---
 # Gestion des comptes d’entreprise
 
-Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici. Toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
+Pour les commerçants B2B, la page _[!UICONTROL Companies]_répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici. Toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
 
 {{b2b-feature}}
 
@@ -66,9 +66,9 @@ Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie t
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410771?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Ressources supplémentaires
 
-* [Comptes d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Comptes d’entreprise](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

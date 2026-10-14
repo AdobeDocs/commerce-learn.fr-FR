@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # PDC de paiement partagé : invite de l’IA de l’orchestrateur App Builder
 
 Utilisez cette page pour copier l’invite complète qui génère le projet **split-pay-orchestrator** : le **pay-orchestrator** consommateur d’événement d’E/S, **pay-accept** et **pay-deny** actions web, le **demo-dashboard** et le client REST Commerce.
@@ -217,8 +215,8 @@ Les événements d’Adobe Commerce I/O peuvent diffuser la payload sous plusieu
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * Fractionner les montants de `value.extension_attributes` (cochez à la fois `extension_attributes` et `extensionAttributes`) :
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **Flux:**
 1. Extraire la valeur ; si la `orderId` est manquante, consigner l’erreur et renvoyer la `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`

@@ -51,9 +51,9 @@ Lorsqu&#39;un client passe une commande, une commande client est créée comme e
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410797?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
 
 ## Ressources supplémentaires
 
-* [Traitement d’une commande - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=fr#process-an-order)
-* [Statut de la commande -  [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=fr)
+* [Traitement d’une commande - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+* [Statut de la commande -  [!DNL Commerce] Guide de l’expérience d’achat et des magasins](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

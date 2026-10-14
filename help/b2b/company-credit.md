@@ -51,7 +51,7 @@ ht-degree: 0%
 ---
 # Gérer le crédit d’entreprise
 
-Les entreprises qui ont activé _[!UICONTROL Payment on Account]_&#x200B;et qui disposent d&#39;un crédit d&#39;entreprise peuvent effectuer des achats sur leur compte jusqu&#39;à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
+Les entreprises qui ont activé _[!UICONTROL Payment on Account]_et qui disposent d&#39;un crédit d&#39;entreprise peuvent effectuer des achats sur leur compte jusqu&#39;à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
 
 Vous pouvez définir les paramètres de crédit suivants pour chaque profil de société :
 
@@ -70,9 +70,9 @@ Vous pouvez définir les paramètres de crédit suivants pour chaque profil de s
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410759?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Ressources supplémentaires
 
-* [Configurer le paiement en compte](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/credit-company)
+* [Configurer le paiement en compte](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
