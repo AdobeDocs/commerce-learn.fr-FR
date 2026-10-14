@@ -51,7 +51,7 @@ ht-degree: 0%
 ---
 # Gérer le crédit d’entreprise
 
-Les entreprises qui ont activé _[!UICONTROL Payment on Account]_et qui disposent d&#39;un crédit d&#39;entreprise peuvent effectuer des achats sur leur compte jusqu&#39;à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
+Les entreprises qui ont activé _[!UICONTROL Payment on Account]_&#x200B;et qui disposent d&#39;un crédit d&#39;entreprise peuvent effectuer des achats sur leur compte jusqu&#39;à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
 
 Vous pouvez définir les paramètres de crédit suivants pour chaque profil de société :
 
