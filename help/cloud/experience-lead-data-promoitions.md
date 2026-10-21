@@ -81,7 +81,7 @@ Découvrez les puissants outils de gestion de catalogues d’Adobe Commerce con�
 * Intégration et personnalisation avancées.
 * Expérience d’achat améliorée.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434066?captions=fre_fr&learn=on)
 
 ## Recherche en direct
 
@@ -93,7 +93,7 @@ Découvrez les fonctionnalités de recherche avancée d’Adobe Commerce Live Se
 * Expérience de recherche personnalisable : des fonctionnalités telles que les règles de recherche avancées, les synonymes et les facettes permettent d’offrir une expérience de recherche personnalisée et optimisée aux clientes et clients.
 * Intégration B2B : Live Search prend en charge les modèles B2B avec des catalogues partagés et des tarifs spécifiques, améliorant sa polyvalence pour divers besoins commerciaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434044?captions=fre_fr&learn=on)
 
 ## Promotions  
 
@@ -105,5 +105,5 @@ Adobe Commerce permet aux responsables de magasin de créer et de gérer facilem
 * Stratégies de promotion avancées.
 * Intégration transparente à des systèmes tiers, améliorant la flexibilité et l’automatisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434055?captions=fre_fr&learn=on)
 >

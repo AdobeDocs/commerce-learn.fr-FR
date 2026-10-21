@@ -57,7 +57,7 @@ Découvrez comment créer un produit simple à l’aide de l’API REST et de l�
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443904?captions=fre_fr&learn=on)
 
 ## Créer un produit à l’aide de la commande curl
 
