@@ -58,7 +58,7 @@ Dans cette vidéo :
 * Comment cela peut vous aider à identifier rapidement les erreurs et les correctifs requis pour effectuer une mise à niveau vers une version plus récente d’Adobe Commerce
 * Pour visualiser les modules par gravité et nombre d’incompatibilités, accédez aux résultats d’HTML
 
-Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Pour en savoir plus sur l’exécution et la simplification de vos mises à niveau, consultez le [ Guide de mise à niveau ](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview).
+Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Pour en savoir plus sur l’exécution et la simplification de vos mises à niveau, consultez le [&#x200B; Guide de mise à niveau &#x200B;](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview).
 
 ## À qui s&#39;adresse cette vidéo ?
 
