@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Découvrez comment utiliser le panier Adobe Commerce de Edge Delivery Services p
 * Basculer entre la diffusion et le retrait en magasin
 * Récupération des emplacements de retrait
 
->[!VIDEO](https://video.tv.adobe.com/v/3441702?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
 
 ## Documentation supplémentaire
 
-* [Acheter en ligne Pickup en magasin](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=fr)
+* [Acheter en ligne Pickup en magasin](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)

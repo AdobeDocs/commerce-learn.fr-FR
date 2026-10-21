@@ -37,14 +37,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 ---
 # Utilisation des projets et des espaces de travail
 
-Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [&#128279;](https://developer.adobe.com/console){target="_blank"}.
+Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [](https://developer.adobe.com/console){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -59,7 +59,7 @@ Ce tutoriel aborde la création d’un projet et d’un espace de travail pour c
 * Modification de l’organisation, du projet ou de l’espace de travail sélectionné dans l’interface de ligne de commande
 * Test des commandes de maillage API simples
 
->[!VIDEO](https://video.tv.adobe.com/v/3419726?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## En savoir plus sur Adobe Developer Console
 

@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Découvrez comment ajouter et supprimer des observateurs, ainsi que fermer et ro
 * Découvrez comment fermer un ticket d’assistance
 * Découvrez comment rouvrir un ticket d’assistance
 
->[!VIDEO](https://video.tv.adobe.com/v/3441352?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Guide du Centre d’aide d’Adobe de la base de connaissances Commerce
 
-[Soumettre un dossier de support](https://experienceleague.adobe.com/fr/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Soumettre un dossier de support](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

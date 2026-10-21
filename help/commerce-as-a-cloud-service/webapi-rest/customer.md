@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 * Utiliser le format de point d’entrée de l’API REST approprié pour Commerce as a Cloud Service
 * Créez et mettez à jour des comptes clients par programmation à l’aide de requêtes POST et PUT avec des payloads JSON appropriées
 
->[!VIDEO](https://video.tv.adobe.com/v/3479364?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Exemples de code
 
@@ -276,6 +276,6 @@ curl -s -X PUT \
 
 ## Références
 
-* [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/release-notes)
+* [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Référence de l’API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guide d’authentification de l’utilisateur](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

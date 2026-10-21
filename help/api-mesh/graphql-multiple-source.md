@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 * Comment résoudre les erreurs telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre maillage avec une configuration modifiée
 
->[!VIDEO](https://video.tv.adobe.com/v/3419787?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Créer le fichier de configuration JSON
 

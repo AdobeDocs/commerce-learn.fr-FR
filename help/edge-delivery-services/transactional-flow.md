@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Flexibilité des tests A/B. Activation des configurations via SharePoint, ce qui permet aux spécialistes marketing de contrôler et de tester ces fonctionnalités.
 * Contrôle marketing amélioré. Gérez et testez facilement les configurations, améliorant l’expérience utilisateur et l’efficacité marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442353?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
 ## Documentation supplémentaire
 
-* [Configurer le résumé du panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=fr)
+* [Configurer le résumé du panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)

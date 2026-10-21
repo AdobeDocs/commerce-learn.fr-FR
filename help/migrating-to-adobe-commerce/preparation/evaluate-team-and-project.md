@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -69,8 +69,8 @@ Sur le front-end, l’expérience avec les implémentations découplées peut si
 * Découvrez quelques considérations sur le front-end et le back-end.
 * Planifiez une migration fluide en évaluant les modules existants, en mettant à niveau les applications principales et en intégrant d’autres solutions Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447445?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## Documentation connexe
 
-[En quoi consiste Adobe Commerce ?](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/about)
+[En quoi consiste Adobe Commerce ?](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

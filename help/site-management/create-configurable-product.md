@@ -42,7 +42,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '998'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Dans ce tutoriel, découvrez comment créer un produit configurable à l’aide 
 
 Utilisez l’API REST pour créer un produit configurable :
 
-1. Obtenez les attributs d’un [jeu d’attributs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=fr) afin d’utiliser les numéros d’ID pour les appels d’API suivants.
+1. Obtenez les attributs d’un [jeu d’attributs](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) afin d’utiliser les numéros d’ID pour les appels d’API suivants.
 1. Créez des produits simples à utiliser dans le produit configurable.
 1. Créez un produit configurable vide et associez les produits simples.
 1. Définissez les attributs de produit pour le produit configurable.
@@ -78,7 +78,7 @@ Lors de la création de produits configurables à partir de l’administration A
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3455037?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426381?learn=on)
 
 ## Obtention des attributs de couleur à l’aide de cURL
 
@@ -377,6 +377,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Ressources supplémentaires
 
 * [Tutoriel sur la création d’un produit configurable](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [Produit configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=fr){target="_blank"}
+* [Produit configurable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Tutoriels REST Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

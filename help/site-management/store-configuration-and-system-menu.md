@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Explorez l’espace de travail d’administration Adobe Commerce, du filtrage de
 * Basculer entre les vues par défaut et enregistrées, et mettre à jour une vue existante.
 * Accédez à la configuration du magasin et explorez les paramètres généraux, de catalogue, de sécurité, client et de vente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473173?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## Vues de grille enregistrées
 
@@ -70,6 +70,6 @@ Le menu [!UICONTROL Stores] permet d’accéder aux paramètres du magasin. La v
 
 * [Filtres de grille d’administration](admin-grids-and-filters.md)
 * [Afficher et définir les configurations d’administration à l’aide de la ligne de commande](view-update-store-configuration-cli.md)
-* [Outils et espace de travail d’administration](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Contrôles de grille d&#39;administration](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Site, magasin et portée d’affichage](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/setup/websites-stores-views)
+* [Outils et espace de travail d’administration](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Contrôles de grille d&#39;administration](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site, magasin et portée d’affichage](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)

@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,9 +67,9 @@ Découvrez comment utiliser la fonctionnalité de dépôt de panier d’Adobe Co
 * Réduction de coupon affichée à l’aide des règles de panier et des emplacements de pied de page pour afficher efficacement ces informations.
 * Utilisation des attributs de produit et des emplacements pour étendre et personnaliser la fonctionnalité du panier, en veillant à ce que toutes les exigences du projet soient satisfaites.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441118?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## Documentation supplémentaire
 
-* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=fr)
+* [Ajouter des lignes de produits au panier](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

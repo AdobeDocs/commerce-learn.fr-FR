@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -78,7 +78,7 @@ L’outil de correctifs de qualité est un utilitaire de ligne de commande pour 
 
 Ces correctifs sont développés à partir de la communauté Adobe Developers et Magento Open Source pour améliorer la stabilité et les performances. Gardez à l&#39;esprit qu&#39;il n&#39;est pas recommandé d&#39;appliquer un grand nombre de correctifs, car cela peut compliquer les futures mises à niveau.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454069?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Pourquoi utiliser l’outil de correctif de qualité ?
 
@@ -110,8 +110,8 @@ Avant d’appliquer des correctifs, il est essentiel de les tester dans un envir
 
 ## Articles et vidéos connexes
 
-* [Recherche dans les outils de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=fr)
-* [Notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Recherche dans les outils de correctifs de qualité](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Notes de mise à jour](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github pour les correctifs](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Utilisation de l’outil de correctifs de la qualité](https://experienceleague.adobe.com/fr/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vidéo technique sur QPT](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Utilisation de l’outil de correctifs de la qualité](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vidéo technique sur QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

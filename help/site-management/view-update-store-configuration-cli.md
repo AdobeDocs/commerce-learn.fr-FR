@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Une démonstration expliquant comment afficher, définir et rechercher des valeu
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3439972?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## Certaines commandes utilisées dans le tutoriel
 
@@ -87,5 +87,5 @@ Pour afficher une page dans le terminal et afficher les numéros de ligne `cat -
 
 ## Ressources supplémentaires
 
-* [Outil de ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=fr){target="_blank"}
-* [Configuration de la sécurité de l’administrateur](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=fr){target="_blank"}
+* [Outil de ligne de commande](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configuration de la sécurité de l’administrateur](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

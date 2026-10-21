@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -62,10 +62,10 @@ Découvrez les workflows GitHub inclus dans le kit de démarrage du maillage API
 * Workflow deployMesh qui déploie ou met à jour automatiquement un maillage
 * Test de charge avec le workflow de test de charge K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464526?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## Documentation connexe
 
 * [Référentiel GitHub du kit de démarrage du maillage API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guide de mise en œuvre serveur à serveur OAuth d’Adobe Developer](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/fr/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

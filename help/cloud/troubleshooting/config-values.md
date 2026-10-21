@@ -34,7 +34,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -58,10 +58,10 @@ Ce guide fournit un aperçu complet de la localisation, de la validation et de l
 
 ## Documentation Experience League connexe
 
-* [Exporter la configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
-* [Remplacer les paramètres de configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/paths/override-config-settings)
-* [Définir les valeurs de configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
-* [Configuration de référence config.php](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
-* [Détails techniques du guide de configuration](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/deployment/technical-details)
-* [&#x200B; Valeurs de configuration verrouillées &#x200B;](https://experienceleague.adobe.com/fr/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
-* [Valeurs enregistrées sur env.php](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
+* [Exporter la configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+* [Remplacer les paramètres de configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+* [Définir les valeurs de configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+* [Configuration de référence config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+* [Détails techniques du guide de configuration](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+* [ Valeurs de configuration verrouillées ](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+* [Valeurs enregistrées sur env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)

@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 Il s’agit de la partie 4 de la série pour GraphQL et Adobe Commerce. Les requêtes et les mutations utilisées reposent sur un graphique de données spécifique implémenté sur le serveur, que l’exécution de GraphQL consomme et utilise pour résoudre la requête. La spécification GraphQL définit un langage agnostique pour exprimer les types et les relations de votre graphique de données.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446612?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
 
 ## Vidéos et tutoriels connexes sur GraphQL dans cette série
 

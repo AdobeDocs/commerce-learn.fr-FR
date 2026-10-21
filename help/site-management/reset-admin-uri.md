@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 Découvrez comment réinitialiser l’URI d’administration à l’aide de la commande de l’interface de ligne de commande Adobe Commerce Cloud. Cela s’avère utile si l’URL d’administration a été modifiée à partir de l’administration, mais qu’une erreur a été commise et que vous ne pouvez plus accéder à l’administration.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439694?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
 
 ## Certaines commandes utilisées dans le tutoriel
 

@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -63,4 +63,4 @@ Adobe Commerce facilite la croissance des entreprises en les aidant à migrer ve
 * L’extensibilité d’App Builder permet de découpler la logique personnalisée en fonctions sans serveur pour une maintenance plus facile.
 * Les améliorations apportées à Storefront améliorent les performances et la création de contenu avec des composants de dépôt et une diffusion Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475750?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

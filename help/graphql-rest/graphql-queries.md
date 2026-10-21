@@ -31,7 +31,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 Il s’agit de la partie 2 de la série pour GraphQL et Adobe Commerce. Dans ce tutoriel et cette vidéo, découvrez les requêtes GraphQL et comment les exécuter par rapport à Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450060?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Vidéos et tutoriels connexes sur GraphQL dans cette série
 

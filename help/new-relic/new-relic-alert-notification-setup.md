@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -61,4 +61,4 @@ Découvrez comment rechercher des alertes, des politiques, des workflows et des 
 * Découvrez les notifications d’alerte, les politiques et les workflows.
 * L’enregistrement de la destination et la validation du nouvel e-mail ont été ajoutés à une politique
 
->[!VIDEO](https://video.tv.adobe.com/v/3441200?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
