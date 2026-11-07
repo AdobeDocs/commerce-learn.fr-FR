@@ -58,7 +58,7 @@ Découvrez comment Adobe Commerce permet aux entreprises d’accélérer leur ex
 * Intégration transparente d’assortiments de produits propriétaires et tiers
 * Développement de storefront accéléré avec des listes déroulantes et des thèmes
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505302?captions=fre_fr&learn=on)
 
 ## Autres vidéos de cette série
 

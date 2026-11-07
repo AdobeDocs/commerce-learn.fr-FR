@@ -63,4 +63,4 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35720?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507532?captions=fre_fr&learn=on)

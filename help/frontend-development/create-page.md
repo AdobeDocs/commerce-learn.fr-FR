@@ -70,7 +70,7 @@ Créez une page qui renvoie un objet JSON avec un paramètre.
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/35816?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507763?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

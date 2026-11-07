@@ -58,7 +58,7 @@ Pour empêcher tout accès non autorisé à vos données, tous les utilisateurs 
 >
 >Le contenu de la vidéo reflète la version 2.4.0. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/339104?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507681?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
