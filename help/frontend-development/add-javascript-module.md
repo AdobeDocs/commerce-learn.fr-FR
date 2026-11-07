@@ -66,7 +66,7 @@ Découvrez comment développer un module JavaScript simple qui affiche la saluta
 * Câbler le script par le biais d’une mise à jour de disposition et d’un modèle.
 * Vérifiez la salutation sur la page.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507645?captions=fre_fr&learn=on)
 
 ## Ressources utiles
 

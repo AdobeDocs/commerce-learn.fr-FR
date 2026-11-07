@@ -54,7 +54,7 @@ Ce guide fournit un aperçu complet de la localisation, de la validation et de l
 * Découvrez comment modifier et remplacer les valeurs de configuration par le biais du panneau d’administration, du référentiel de code et des fichiers spécifiques à l’environnement.
 * Découvrez les bonnes pratiques de gestion des paramètres de configuration cohérents dans différents environnements à l’aide d’outils tels que app:config:dump et l’interface utilisateur d’administration d’Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505785?captions=fre_fr&learn=on)
 
 ## Documentation Experience League connexe
 

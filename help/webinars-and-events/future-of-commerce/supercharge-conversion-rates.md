@@ -52,7 +52,7 @@ Découvrez comment Adobe Commerce transforme les vitrines numériques grâce à 
 * Composants prêts pour les développeurs et SDK
 * Outils d&#39;édition visuelle intégrés
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505706?captions=fre_fr&learn=on)
 
 ## Autres vidéos de cette série
 
