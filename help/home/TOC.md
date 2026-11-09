@@ -201,7 +201,7 @@ ht-degree: 3%
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules ](../io-events/commerce-module-development.md)
+      + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
   + Maillage API {#api-mesh}
     + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
