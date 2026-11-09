@@ -1,16 +1,16 @@
 ---
-title: Rechercher, examiner, commenter et escalader un ticket d’assistance
-description: Découvrez comment rechercher, réviser, commenter et escalader un ticket d’assistance dans Adobe Experience League pour Adobe Commerce, y compris les raisons de la réaffectation d’un cas.
+title: Ajouter ou supprimer des observateurs, fermer ou rouvrir un ticket
+description: Découvrez comment ajouter et supprimer des observateurs, fermer un ticket d’assistance et rouvrir un ticket fermé dans les 14 jours dans Adobe Experience League pour Adobe Commerce.
 feature: Customer Service, Support
 topic: Commerce
 role: Admin
 level: Beginner
 doc-type: Tutorial
-duration: 209
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00.000Z
-jira: KT-16049
-exl-id: 15b560bd-29f7-4866-86a4-ef548a5ac953
-TQID: 'https://experienceleague.adobe.com/-ATvMO7lsgqxCIZpBJTYLFeDrWYKRKgZPaZMk-aSsoQ'
+jira: KT-16050
+exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
+TQID: 'https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe7S54'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -30,14 +30,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
 ---
-# Rechercher, vérifier, commenter et escalader un ticket d’assistance
+# Gérer les observateurs, fermer et rouvrir les tickets
 
-Découvrez comment rechercher, réviser, commenter et escalader un ticket d’assistance dans Adobe Experience League pour Adobe Commerce.
+Découvrez comment ajouter et supprimer des observateurs, ainsi que fermer et rouvrir un ticket d’assistance dans Adobe Experience League pour Adobe Commerce.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -45,11 +45,11 @@ Découvrez comment rechercher, réviser, commenter et escalader un ticket d’as
 
 ## Contenu vidéo {#video-content}
 
-* Découvrez comment rechercher un ticket
-* Découvrez comment ajouter un commentaire à un ticket d’assistance ouvert
-* Découvrez comment et quelques raisons de réaffecter un ticket d’assistance
+* Découvrez comment ajouter et supprimer des observateurs pour un ticket
+* Découvrez comment fermer un ticket d’assistance
+* Découvrez comment rouvrir un ticket d’assistance
 
->[!VIDEO](https://video.tv.adobe.com/v/3445313?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441352?captions=fre_fr&learn=on)
 
 ## Guide du Centre d’aide d’Adobe de la base de connaissances Commerce
 
