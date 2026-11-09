@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1007'
 ht-degree: 3%
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 3%
     + Présentation du produit{#product-overview}
       + [Introduction](../commerce-as-a-cloud-service/product-overview/introduction.md)
       + [Configurer l’expérience](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
-      + [&#x200B; Création de contenu &#x200B;](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+      + [ Création de contenu ](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
       + [Localisation et planification du contenu](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
       + [Création de contenu optimisé par GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
       + [Gestion des catalogues et services de marchandisage](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -199,7 +199,7 @@ ht-degree: 3%
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
+      + [Développement de modules ](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
   + Maillage API {#api-mesh}
     + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
@@ -210,18 +210,22 @@ ht-degree: 3%
     + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
     + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 
-+ Observability {#observability}
-  + [Présentation de l’observabilité](../observability/overview.md)
-  + [Télémétrie ouverte](../observability/open-telemetry.md)
-  + [Paramétrage et configuration de la démonstration](../observability/demo-setup-configuration.md)
-  + [Démo](../observability/demo.md)
 + Architecture de référence globale {#global-reference-architecture-implementation-techniques}
   + [Vue d’ensemble](../global-reference-architecture/overview.md)
   + [Fractionner Git](../global-reference-architecture/split-git.md)
   + [Packages en bloc](../global-reference-architecture/bulk-packages.md)
   + [Packages distincts](../global-reference-architecture/separate-packages.md)
   + [Monorepo](../global-reference-architecture/monorepo.md)
-+ [Surveillance, analyse et assistance](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
++ Surveillance, analyse et assistance {#monitoring-analytics-support}
+  + Observability {#observability}
+    + [Présentation de l’observabilité](../monitoring-analytics-support/observability/overview.md)
+    + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [Paramétrage et configuration de la démonstration](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [Démonstration](../monitoring-analytics-support/observability/demo.md)
+  + Aide et support {#help-and-support}
+    + [Créer un ticket d’assistance](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + Administration de la boutique {#admin}
   + [Gérer les rôles utilisateur et les autorisations](../site-management/users-roles-permissions.md)
