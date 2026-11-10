@@ -57,7 +57,7 @@ L’évaluation de contenu permet à votre équipe commerciale de créer, de pr�
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343784?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410854?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
