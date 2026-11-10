@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + Bonnes pratiques {#commerce-cloud-best-practices}
       + [Demande d’assistance](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [Liste de contrôle de prélancement](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + Outils d’exploitation {#tools}
+      + [Tableau de bord de l’outil d’analyse à l’échelle du site](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Service d’application de correctifs de Cloud Automation](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Observation pour Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Présentation de l’outil Correctif de qualité](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Outil de correctifs de qualité](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [Localisation d&#39;une adresse IP malveillante](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [Configuration des notifications d’alerte](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [Alertes personnalisées](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Connexion aux données](../capabilities/data-connection.md)
     + [Démonstration complète de Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
-    + [Outil Correctif de qualité](../capabilities/quality-patch-tool.md)
   + Créer des produits {#create-products}
     + [Produit simple](../site-management/create-simple-product.md)
     + [Produit virtuel](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -148,7 +157,7 @@ ht-degree: 3%
         + [Expérience client](../edge-delivery-services/shopper-experience.md)
     + Architecture découplée {#headless-architecture}
       + Présentation du mode découplé {#introduction-to-headless}
-        + [Architecture découplée - Session 1](../headless/session-1.md)
+        + [Architecture Découplée - Session 1](../headless/session-1.md)
       + Présentation de PWA Studio {#introduction}
         + [Vue d’ensemble](../pwa/introduction/1-overview.md)
         + [Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
@@ -202,7 +211,7 @@ ht-degree: 3%
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
+      + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
   + Maillage API {#api-mesh}
     + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [Notes d&#39;élément de ligne de devis](../b2b/quote-line-item-notes.md)
     + [GraphQL de remise sur ligne de devis](../b2b/quote-graphql-line-item-discount.md)
     + [API REST de remise sur ligne de devis](../b2b/quote-rest-api-line-item-notes.md)
-+ Outils et services externes {#tools}
-  + [Tableau de bord de l’outil d’analyse à l’échelle du site](../tools/site-wide-analysis-tool.md)
-  + [Service d’application de correctifs de Cloud Automation](../tools/cloud-automation-patching-service.md)
-  + [Observation pour Adobe Commerce](../tools/observation-tool.md)
-  + [Outil de correctifs de qualité](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [Localisation d&#39;une adresse IP malveillante](../new-relic/malicious-ip.md)
-    + [Configuration des notifications d’alerte](../new-relic/new-relic-alert-notification-setup.md)
-    + [Alertes personnalisées](../new-relic/custom-alerts.md)
