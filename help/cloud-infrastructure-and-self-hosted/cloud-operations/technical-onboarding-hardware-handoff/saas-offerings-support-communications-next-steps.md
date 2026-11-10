@@ -1,0 +1,129 @@
+---
+title: Offres SaaS Cloud, assistance et étapes suivantes
+description: Découvrez les offres SaaS d’Adobe Commerce Cloud, l’assistance, d’autres communications et quelques étapes suivantes.
+feature: Cloud
+topic: Commerce, Architecture, Development
+old-role: Architect, Developer
+role: Developer
+level: Intermediate
+doc-type: Technical Video
+duration: 1349
+last-substantial-update: 2024-03-14T00:00:00.000Z
+jira: KT-15022
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+TQID: 'https://experienceleague.adobe.com/DMnfxBNDgGc50xHZtATfXxweMOfgs3zlxKsFmdbMTOs'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+  - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
+  - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
+source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+workflow-type: tm+mt
+source-wordcount: '441'
+ht-degree: 0%
+---
+# Intégration technique - Offres SaaS
+
+Découvrez les offres SaaS d’Adobe Commerce Cloud, l’assistance, d’autres communications et quelques étapes suivantes.
+
+## À qui s&#39;adresse cette vidéo ?
+
+* Gestionnaires de site web
+* Architectes Commerce
+* Propriétaires du site e-commerce
+
+## Contenu vidéo
+
+>[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+
+## Acronymes
+
++++Dictionnaire d’acronymes
+
+* Gestionnaire de compte de solution SAM
+* Conseiller technique client CTA
+* Plateforme PaaS en tant que service
+* Infrastructure IaaS en tant que service
+* unité centrale de CPU
+* Interface utilisateur
+* Interface de ligne de commande de l’interface de ligne de commande
+* Protocole de transfert de fichiers sécurisé SFTP
+* Réseau de diffusion de contenu CDN
+* Optimisateur d’images Fastly IO
+* Langage de configuration de vernis VCL
+* Pare-feu d’application web WAF
+* Secteur des cartes de paiement PCI
+* Service de couche de transport TLS
+* Liste de contrôle d’accès ACL
+* Protocole Internet IP
+* Protocole de transfert hypertexte HTTP(S)
+* Couche de socket sécurisé SSL
+* Service de noms de domaine DNS
+* adresse e-mail identifiée avec clé de domaine DKIM
+* Structure de la stratégie de l&#39;expéditeur SPF
+* Interface de programmation d&#39;application API
+* Localisateur de ressource uniforme d’URL
+* Intelligence artificielle IA
+* Entreprise B2B à entreprise
+* Entreprise B2C vers consommateur
+* Application web progressive PWA
+* PHP : préprocesseur hypertexte
+* Outil de correction de la qualité QPT
+* Déploiement du contenu statique SCD
+* Outil d’analyse à l’échelle du site SWAT
+* Surveillance des performances des applications APM
+
++++
+
+## Documentation Experience League mentionnée dans la vidéo
+
+* [Ouvrir la recherche](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
+* [Recherche en direct](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Recommandations de produit](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [Service Live Search and Catalog](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
+* [Indexation des prix du service de catalogue](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
+* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/introduction-to-app-builder)
+* [Responsabilité partagée](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
+* [Accès aux données client et confidentialité](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
+* [Certifications Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+* [Commerce learning courses](https://learning.adobe.com/catalog.html?products=Commerce)
+* [Forum de la communauté Commerce](https://community.magento.com/)
+* [Configuration rapide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
+* [Tests de performance](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
+* [Outil d’analyse à l’échelle du site - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html ?)
+* [Observation de new Relic pour Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [Correctifs de sécurité](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
+* [Lancer la liste de contrôle](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+
+{{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
