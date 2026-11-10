@@ -59,7 +59,7 @@ Si d’autres membres de votre équipe ou fournisseurs de services ont besoin d�
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343654?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443509?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
