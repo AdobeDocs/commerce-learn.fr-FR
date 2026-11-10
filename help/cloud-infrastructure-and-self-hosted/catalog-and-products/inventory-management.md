@@ -58,5 +58,5 @@ Les commerçants disposant d&#39;un magasin unique pour plusieurs entrepôts, ma
 
 ## Ressources supplémentaires
 
-* [Guide d’Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Guide d’Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=fr)
 * [Inventory management - Documentation REST pour les développeurs](https://developer.adobe.com/commerce/webapi/rest/inventory/)

@@ -60,5 +60,5 @@ Dans cette vidéo, découvrez comment gérer les attributs de produit lorsque vo
 
 ## Ressources supplémentaires
 
-* [Attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+* [Attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)
 * [PWA Studio - Documentation destinée aux développeurs](https://developer.adobe.com/commerce/pwa-studio/)
