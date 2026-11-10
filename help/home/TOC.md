@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,21 +77,63 @@ ht-degree: 3%
     + Bonnes pratiques {#commerce-cloud-best-practices}
       + [Demande d’assistance](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [Liste de contrôle de prélancement](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + Outils d’exploitation {#tools}
+      + [Tableau de bord de l’outil d’analyse à l’échelle du site](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Service d’application de correctifs de Cloud Automation](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Observation pour Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Présentation de l’outil Correctif de qualité](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Outil de correctifs de qualité](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [Localisation d&#39;une adresse IP malveillante](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [Configuration des notifications d’alerte](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [Alertes personnalisées](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
+  + Administration du magasin {#store-administration}
+    + [Gérer les rôles utilisateur et les autorisations](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md)
+    + [Authentification À Deux Facteurs](../cloud-infrastructure-and-self-hosted/store-administration/two-factor-authentication.md)
+    + [Gérer les règles de devise et de taxe](../cloud-infrastructure-and-self-hosted/store-administration/currency-tax-rules.md)
+    + [Ajout de sites web, de magasins et d’affichages de magasin](../cloud-infrastructure-and-self-hosted/store-administration/add-websites-stores-views.md)
+    + [Modification de l’URL d’une boutique](../cloud-infrastructure-and-self-hosted/store-administration/change-store-url.md)
+    + [Réinitialiser l’URI d’administration](../cloud-infrastructure-and-self-hosted/store-administration/reset-admin-uri.md)
+    + [Modes d’expédition et de livraison](../cloud-infrastructure-and-self-hosted/store-administration/shipping-delivery.md)
+    + [Grilles et filtres d’administration](../cloud-infrastructure-and-self-hosted/store-administration/admin-grids-and-filters.md)
+    + [interface de ligne de commande Commerce](../cloud-infrastructure-and-self-hosted/store-administration/view-update-store-configuration-cli.md)
+    + [Parcourez la configuration du magasin et le menu Système .](../cloud-infrastructure-and-self-hosted/store-administration/store-configuration-and-system-menu.md)
+    + Configuration des services Commerce {#adobe-commerce-services}
+      + [Configuration du connecteur de services Commerce](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-commerce-services-connector.md)
+      + [Configuration des services de paiement](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/configure-adobe-payment-services.md)
+      + [Utilisation des services de paiement](../cloud-infrastructure-and-self-hosted/store-administration/adobe-commerce-services/payment-services.md)
+    + Clients {#customers}
+      + [Créer des segments clients](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-segments.md)
+      + [Créer des groupes de clients](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-groups.md)
+      + [Créer des attributs de client](../cloud-infrastructure-and-self-hosted/store-administration/customers/customer-attributes.md)
+      + [Achats Assistés Par Le Vendeur](../cloud-infrastructure-and-self-hosted/store-administration/customers/seller-assisted-shopping.md)
+    + Commandes et exécution {#orders}
+      + [Gérer le statut de la commande](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
+      + [Vérification du statut du stock](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+  + Catalogue et produits {#catalog-and-products}
+    + Créer des produits {#create-products}
+      + [Produit simple](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+      + [Produit virtuel](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+      + [Produit téléchargeable](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+      + [Produit groupé](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+      + [Produit configurable](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+      + [Produit groupé](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+      + [Produit de carte cadeau](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+    + [Créer une catégorie](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+    + [Gestion des produits dans une catégorie](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+    + [Inventory management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+    + [Créer des attributs de produit](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+    + [Utilisation des attributs de produit avec PWA Studio](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+    + [Gestion des métadonnées d’optimisation du moteur de recherche](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+    + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+    + [Visionneuse AR](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+    + [Importation et mise à jour de catalogues](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Connexion aux données](../capabilities/data-connection.md)
     + [Démonstration complète de Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
-    + [Outil Correctif de qualité](../capabilities/quality-patch-tool.md)
-  + Créer des produits {#create-products}
-    + [Produit simple](../site-management/create-simple-product.md)
-    + [Produit virtuel](../site-management/create-virtual-product.md)
-    + [Produit téléchargeable](../site-management/create-downloadable-product.md)
-    + [Produit groupé](../site-management/create-grouped-product.md)
-    + [Produit configurable](../site-management/create-configurable-product.md)
-    + [Produit groupé](../site-management/create-bundle-product.md)
-    + [Produit de carte cadeau](../site-management/create-gift-card-product.md)
   + Kit de démarrage de l’intégration back-office {#back-office-integration-starter-kit}
     + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
     + [Intégrations](../back-office-integrations/integrations.md)
@@ -148,7 +190,7 @@ ht-degree: 3%
         + [Expérience client](../edge-delivery-services/shopper-experience.md)
     + Architecture découplée {#headless-architecture}
       + Présentation du mode découplé {#introduction-to-headless}
-        + [Architecture découplée - Session 1](../headless/session-1.md)
+        + [Architecture Découplée - Session 1](../headless/session-1.md)
       + Présentation de PWA Studio {#introduction}
         + [Vue d’ensemble](../pwa/introduction/1-overview.md)
         + [Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
@@ -202,7 +244,7 @@ ht-degree: 3%
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
+      + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
   + Maillage API {#api-mesh}
     + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
@@ -238,36 +280,6 @@ ht-degree: 3%
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Administration de la boutique {#admin}
-  + [Gérer les rôles utilisateur et les autorisations](../site-management/users-roles-permissions.md)
-  + [Authentification À Deux Facteurs](../site-management/two-factor-authentication.md)
-  + [Gérer les règles de devise et de taxe](../site-management/currency-tax-rules.md)
-  + [Ajout de sites web, de magasins et d’affichages de magasin](../site-management/add-websites-stores-views.md)
-  + [Modification de l’URL d’une boutique](../site-management/change-store-url.md)
-  + [Réinitialiser l’URI d’administration](../site-management/reset-admin-uri.md)
-  + [Modes d’expédition et de livraison](../site-management/shipping-delivery.md)
-  + [Grilles et filtres d’administration](../site-management/admin-grids-and-filters.md)
-  + [interface de ligne de commande Commerce](../site-management/view-update-store-configuration-cli.md)
-  + [Parcourez la configuration du magasin et le menu Système .](../site-management/store-configuration-and-system-menu.md)
-  + Services Adobe Commerce {#adobe-commerce-services}
-    + [Configuration du connecteur de services Commerce](../site-management/configure-adobe-commerce-services-connector.md)
-    + [Configuration des services de paiement](../site-management/configure-adobe-payment-services.md)
-    + [Utilisation des services de paiement](../site-management/payment-services.md)
-+ Gestion des clients {#customers}
-  + [Créer des segments clients](../site-management/customer-segments.md)
-  + [Créer des groupes de clients](../site-management/customer-groups.md)
-  + [Créer des attributs de client](../site-management/customer-attributes.md)
-  + [Achats Assistés Par Le Vendeur](../site-management/seller-assisted-shopping.md)
-+ Gestion des catalogues {#catalog}
-  + [Créer une catégorie](../site-management/category-create.md)
-  + [Gestion des produits dans une catégorie](../site-management/category-products.md)
-  + [Inventory management](../site-management/inventory-management.md)
-  + [Créer des attributs de produit](../site-management/product-attributes-create.md)
-  + [Utilisation des attributs de produit avec PWA Studio](../site-management/product-attributes-pwa.md)
-  + [Gestion des métadonnées d’optimisation du moteur de recherche](../site-management/seo-metadata.md)
-  + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../site-management/seo-url-rewrites.md)
-  + [Visionneuse AR](../site-management/augmented-reality.md)
-  + [Importation et mise à jour de catalogues](../site-management/catalog-import.md)
 + Gestion de contenu {#content}
   + [Présentation de Page Builder](../site-management/page-builder-overview.md)
   + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
@@ -283,9 +295,6 @@ ht-degree: 3%
   + [Présentation de Live Search](../site-management/live-search.md)
   + [Live Search de recommandations](../site-management/live-search-recommendations.md)
   + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
-+ Commandes et exécution {#orders}
-  + [Gérer le statut de la commande](../orders-and-fulfillment/order-status.md)
-  + [Vérification du statut du stock](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B pour Adobe Commerce {#b2b}
   + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
   + [Gérer les catalogues partagés](../b2b/shared-catalogs.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [Notes d&#39;élément de ligne de devis](../b2b/quote-line-item-notes.md)
     + [GraphQL de remise sur ligne de devis](../b2b/quote-graphql-line-item-discount.md)
     + [API REST de remise sur ligne de devis](../b2b/quote-rest-api-line-item-notes.md)
-+ Outils et services externes {#tools}
-  + [Tableau de bord de l’outil d’analyse à l’échelle du site](../tools/site-wide-analysis-tool.md)
-  + [Service d’application de correctifs de Cloud Automation](../tools/cloud-automation-patching-service.md)
-  + [Observation pour Adobe Commerce](../tools/observation-tool.md)
-  + [Outil de correctifs de qualité](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [Localisation d&#39;une adresse IP malveillante](../new-relic/malicious-ip.md)
-    + [Configuration des notifications d’alerte](../new-relic/new-relic-alert-notification-setup.md)
-    + [Alertes personnalisées](../new-relic/custom-alerts.md)
