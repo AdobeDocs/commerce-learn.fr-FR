@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
 workflow-type: tm+mt
-source-wordcount: '1018'
+source-wordcount: '1024'
 ht-degree: 3%
 ---
 
@@ -37,6 +37,26 @@ ht-degree: 3%
     + [Informations d’identification de Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [Migration monophasée](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [Migration multiphase](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
++ Infrastructure cloud et auto-hébergement {#cloud-infrastructure-and-self-hosted}
+  + Plateforme et migration {#platform-and-migration}
+    + [Marketing](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [Modèle de diffusion global](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [Rôles d’administrateur](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [Flux marketing](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [Options de storefront](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [Partage de données](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [Plusieurs sites web](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [Données et promotions des leads d’expérience](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [Migration à partir d’une solution auto-hébergée](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + Migration vers Adobe Commerce {#migrating-to-adobe-commerce}
+      + [Vue d’ensemble](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + Préparation {#preparation}
+        + [Évaluer l&#39;équipe et le projet](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + Personnalisations {#customizations}
+        + [Normes de code en cours de traitement](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [Gel du code](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
   + Dépannage {#troubleshooting}
     + [SSL non valide](../cloud/troubleshooting/invalid-ssl.md)
@@ -47,16 +67,6 @@ ht-degree: 3%
   + [Évolutivité d’Adobe Commerce Cloud](../cloud/how-adobe-commerce-cloud-scales.md)
   + [Hébergement conforme à la norme HIPAA](../cloud/hippa-ready-hosting.md)
   + [Détecter l’adresse IP](../cloud/detect-ip-address.md)
-  + [Marketing](../cloud/marketecture.md)
-  + [Modèle de diffusion global](../cloud/global-delivery-model.md)
-  + [Rôles d’administrateur](../cloud/admin-roles.md)
-  + [Flux marketing](../cloud/marketing-flows.md)
-  + [Options de storefront](../cloud/storefront-options.md)
-  + [Partage de données](../cloud/data-sharing.md)
-  + [Plusieurs sites web](../cloud/multiple-websites.md)
-  + [Données et promotions des leads d’expérience](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [Migration depuis une solution auto-hébergée](../cloud/overview.md)
   + [Limiter l’accès à l’aide de Fast](../cloud/limit-website-access-using-fastly.md)
   + Intégration technique et remise du matériel {#technical-onboarding-hardware-handoff}
     + [Bonnes pratiques en matière d’infrastructure et de développement](../cloud/infrastructure-development-best-practices.md)
@@ -68,15 +78,6 @@ ht-degree: 3%
     + [Demande d’assistance](../cloud/best-practices/support-request.md)
     + [Liste de contrôle de prélancement](../cloud/best-practices/pre-launch-checklist.md)
 + Prise en main {#getting-started}
-  + Migration vers Adobe Commerce{#migrating-to-adobe-commerce}
-    + [Vue d’ensemble](../migrating-to-adobe-commerce/overview.md)
-    + Préparation{#preparation}
-      + [Évaluer l&#39;équipe et le projet](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + Personnalisations{#customizations}
-      + [Normes de code en cours de traitement](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [Gel du code](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Connexion aux données](../capabilities/data-connection.md)
@@ -114,7 +115,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -201,7 +202,7 @@ ht-degree: 3%
       + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
       + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules &#x200B;](../io-events/commerce-module-development.md)
+      + [Développement de modules ](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
   + Maillage API {#api-mesh}
     + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
