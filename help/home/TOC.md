@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -110,20 +110,30 @@ ht-degree: 3%
     + Commandes et exécution {#orders}
       + [Gérer le statut de la commande](../cloud-infrastructure-and-self-hosted/store-administration/orders/order-status.md)
       + [Vérification du statut du stock](../cloud-infrastructure-and-self-hosted/store-administration/orders/checking-inventory-status.md)
+  + Catalogue et produits {#catalog-and-products}
+    + Créer des produits {#create-products}
+      + [Produit simple](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-simple-product.md)
+      + [Produit virtuel](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-virtual-product.md)
+      + [Produit téléchargeable](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-downloadable-product.md)
+      + [Produit groupé](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-grouped-product.md)
+      + [Produit configurable](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-configurable-product.md)
+      + [Produit groupé](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-bundle-product.md)
+      + [Produit de carte cadeau](../cloud-infrastructure-and-self-hosted/catalog-and-products/create-products/create-gift-card-product.md)
+    + [Créer une catégorie](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-create.md)
+    + [Gestion des produits dans une catégorie](../cloud-infrastructure-and-self-hosted/catalog-and-products/category-products.md)
+    + [Inventory management](../cloud-infrastructure-and-self-hosted/catalog-and-products/inventory-management.md)
+    + [Créer des attributs de produit](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-create.md)
+    + [Utilisation des attributs de produit avec PWA Studio](../cloud-infrastructure-and-self-hosted/catalog-and-products/product-attributes-pwa.md)
+    + [Gestion des métadonnées d’optimisation du moteur de recherche](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-metadata.md)
+    + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
+    + [Visionneuse AR](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
+    + [Importation et mise à jour de catalogues](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Connexion aux données](../capabilities/data-connection.md)
     + [Démonstration complète de Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
-  + Créer des produits {#create-products}
-    + [Produit simple](../site-management/create-simple-product.md)
-    + [Produit virtuel](../site-management/create-virtual-product.md)
-    + [Produit téléchargeable](../site-management/create-downloadable-product.md)
-    + [Produit groupé](../site-management/create-grouped-product.md)
-    + [Produit configurable](../site-management/create-configurable-product.md)
-    + [Produit groupé](../site-management/create-bundle-product.md)
-    + [Produit de carte cadeau](../site-management/create-gift-card-product.md)
   + Kit de démarrage de l’intégration back-office {#back-office-integration-starter-kit}
     + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
     + [Intégrations](../back-office-integrations/integrations.md)
@@ -147,7 +157,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -270,16 +280,6 @@ ht-degree: 3%
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Gestion des catalogues {#catalog}
-  + [Créer une catégorie](../site-management/category-create.md)
-  + [Gestion des produits dans une catégorie](../site-management/category-products.md)
-  + [Inventory management](../site-management/inventory-management.md)
-  + [Créer des attributs de produit](../site-management/product-attributes-create.md)
-  + [Utilisation des attributs de produit avec PWA Studio](../site-management/product-attributes-pwa.md)
-  + [Gestion des métadonnées d’optimisation du moteur de recherche](../site-management/seo-metadata.md)
-  + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../site-management/seo-url-rewrites.md)
-  + [Visionneuse AR](../site-management/augmented-reality.md)
-  + [Importation et mise à jour de catalogues](../site-management/catalog-import.md)
 + Gestion de contenu {#content}
   + [Présentation de Page Builder](../site-management/page-builder-overview.md)
   + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
