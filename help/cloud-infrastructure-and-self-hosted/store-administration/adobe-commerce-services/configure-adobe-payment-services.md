@@ -12,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
 TQID: 'https://experienceleague.adobe.com/vMIy5Eo6UlUoqbF25L38zoRjEJYX6qTtifIfd8R44RU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -55,6 +55,6 @@ Pour utiliser les services de paiement pour Adobe Commerce et Magento Open Sourc
 
 ## Ressources supplémentaires
 
-* [Services de paiement intégrés](https://experienceleague.adobe.com/en/docs/commerce/payment-services/get-started/onboard){target="_blank"}
-* [Guide des services de paiement](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
-* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Services de paiement intégrés](https://experienceleague.adobe.com/fr/docs/commerce/payment-services/get-started/onboard){target="_blank"}
+* [Guide des services de paiement](https://experienceleague.adobe.com/fr/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/fr/docs/commerce/user-guides/integration-services/saas){target="_blank"}
