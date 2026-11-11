@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,16 @@ ht-degree: 3%
     + [Live Search de recommandations](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [Démonstration complète de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [Intégration de Commerce à AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + B2B pour Adobe Commerce {#b2b}
+    + [Gestion des comptes d’entreprise](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [Gérer les catalogues partagés](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [Gérer le crédit d’entreprise](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [Commandes et approbations d&#39;achat](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + Citations {#quotes}
+      + [Le représentant commercial lance le devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [Validation du devis par l’administrateur](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +170,10 @@ ht-degree: 3%
 + API et intégration {#apis-and-integration}
   + Exemples pratiques REST et GraphQL {#examples}
     + [Clients avec REST](../apis-and-integration/examples/customer.md)
+    + Devis B2B {#b2b-quotes}
+      + [Le représentant commercial lance l’API REST de devis](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [GraphQL de remise sur ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [API REST de notes d’élément de ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Extensibilité {#extensibility}
   + Agent de développement Commerce {#commerce-developer-agent}
@@ -172,7 +186,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -294,17 +308,3 @@ ht-degree: 3%
     + [Créer un ticket d’assistance](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ B2B pour Adobe Commerce {#b2b}
-  + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
-  + [Gérer les catalogues partagés](../b2b/shared-catalogs.md)
-  + [Gérer le crédit d’entreprise](../b2b/company-credit.md)
-  + [Commandes et approbations d&#39;achat](../b2b/purchase-orders.md)
-  + Citation {#b2b-quote}
-    + [Le représentant commercial lance le devis](../b2b/sales-rep-initiates-quote.md)
-    + [Validation du devis par l’administrateur](../b2b/quote-validation-admin-panel.md)
-    + [Le représentant commercial lance l’API REST de devis](../b2b/sales-rep-initiates-quote-api.md)
-    + [Remises ligne devis](../b2b/quote-line-item-discount.md)
-    + [Notes d&#39;élément de ligne de devis](../b2b/quote-line-item-notes.md)
-    + [GraphQL de remise sur ligne de devis](../b2b/quote-graphql-line-item-discount.md)
-    + [API REST de remise sur ligne de devis](../b2b/quote-rest-api-line-item-notes.md)
