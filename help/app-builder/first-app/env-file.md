@@ -53,7 +53,7 @@ ht-degree: 0%
 * Pour ajouter de nouveaux secrets, ajoutez le fichier .
 * Évitez de valider ce fichier, car il contient des informations sensibles
 
->[!VIDEO](https://video.tv.adobe.com/v/3416593?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421067?captions=fre_fr&learn=on)
 
 ## Exemple de code
 
