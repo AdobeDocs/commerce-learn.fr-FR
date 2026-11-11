@@ -64,6 +64,6 @@ Pour le workflow de l’API, consultez [Le représentant commercial lance un dev
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430587?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

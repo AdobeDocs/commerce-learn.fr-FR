@@ -63,6 +63,6 @@ Pour le workflow de l’API, consultez [Devis de notes d’élément de ligne av
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423691?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
