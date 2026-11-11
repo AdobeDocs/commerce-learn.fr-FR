@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1023'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,19 @@ ht-degree: 3%
     + [Utiliser des modèles de contenu](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [Évaluation du contenu](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [Gestion de la galerie de médias](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + Marketing et marchandisage {#marketing-and-merchandising}
+    + [Créer des règles de prix de catalogue](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [Créer des règles de prix de panier](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [Gestion des règles de produits associés](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [Configurer des recommandations de produits](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Présentation de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [Live Search de recommandations](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [Démonstration complète de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [Intégration de Commerce à AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Connexion aux données](../capabilities/data-connection.md)
-    + [Démonstration complète de Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
   + Kit de démarrage de l’intégration back-office {#back-office-integration-starter-kit}
     + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
@@ -164,7 +172,7 @@ ht-degree: 3%
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../backend-development/create-module.md)
     + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
@@ -287,14 +295,6 @@ ht-degree: 3%
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Outils marketing {#marketing}
-  + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
-  + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
-  + [Gestion des règles de produits associés](../site-management/related-product-rules.md)
-  + [Configurer des recommandations de produits](../site-management/product-recommendations.md)
-  + [Présentation de Live Search](../site-management/live-search.md)
-  + [Live Search de recommandations](../site-management/live-search-recommendations.md)
-  + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
 + B2B pour Adobe Commerce {#b2b}
   + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
   + [Gérer les catalogues partagés](../b2b/shared-catalogs.md)
