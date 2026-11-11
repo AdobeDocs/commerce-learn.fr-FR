@@ -1,6 +1,6 @@
 ---
 title: Test local
-description: Découvrez comment tester votre application Adobe Developer App Builder localement, en couvrant les tests unitaires, les tests de bout en bout et les approches de test manuel pour les développeurs Commerce.
+description: Découvrez comment tester localement votre application Adobe Developer App Builder à l’aide de tests unitaires, de tests de bout en bout et d’approches de test manuel pour Commerce.
 jira: KT-21685
 doc-type: Tutorial
 duration: 85
@@ -26,13 +26,11 @@ feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
     internal-label: Order Management System
 autotag-review: '2026-08-11T19:18:29.253Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: '80'
 ht-degree: 0%
-
 ---
-
 # Test local {#testing-locally}
 
 Découvrez comment tester localement votre nouvelle application Adobe Developer App Builder.

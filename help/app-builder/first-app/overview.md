@@ -1,6 +1,6 @@
 ---
 title: Création de votre première application App Builder
-description: Découvrez Adobe Developer App Builder avec Adobe Commerce, notamment les conditions préalables, les attentes et les modèles réutilisables pour créer votre première application hors processus.
+description: Créez votre première application Adobe Developer App Builder pour Adobe Commerce, en couvrant les conditions préalables, les attentes et les modèles hors processus réutilisables.
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:23.176Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 332
+source-wordcount: '329'
 ht-degree: 0%
-
 ---
-
 # Vue d’ensemble {#overview}
 
 Les prérequis de ce tutoriel sont les suivants :
@@ -46,7 +44,7 @@ Les prérequis de ce tutoriel sont les suivants :
 * [Les espaces de travail Adobe Developer App Builder ont été créés - Étape 2](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [Les commandes de l’interface de ligne de commande AIO pour initialiser le projet et exécuter ont été exécutées](https://developer.adobe.com/runtime){target="_blank"}
 
-Pour plus d’informations sur la création de votre première application App Builder, consultez l’article de blog suivant afin de faciliter cette configuration initiale [Comment App Builder contribue à l’agilité commerciale de votre plateforme commerciale](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Pour plus d’informations sur la création de votre première application App Builder, consultez l’article de blog suivant afin de faciliter cette configuration initiale. [Comment App Builder contribue à l’agilité commerciale de votre plateforme commerciale](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
 ## À quoi vous attendre en lisant ce tutoriel
 

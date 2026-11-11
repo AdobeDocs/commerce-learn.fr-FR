@@ -48,9 +48,9 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '417'
 ht-degree: 0%
 ---
 # Intégration technique - Offres SaaS
@@ -113,9 +113,8 @@ Découvrez les offres SaaS d’Adobe Commerce Cloud, l’assistance, d’autres 
 * [Recommandations de produit](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=fr)
 * [Service Live Search and Catalog](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=fr)
 * [Indexation des prix du service de catalogue](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=fr)
-* [App Builder](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/introduction-to-app-builder)
+* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 * [Responsabilité partagée](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=fr)
-* [Accès aux données client et confidentialité](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
 * [Certifications Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=fr)
 * [Commerce learning courses](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Forum de la communauté Commerce](https://community.magento.com/)

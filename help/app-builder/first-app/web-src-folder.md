@@ -1,6 +1,6 @@
 ---
 title: Le dossier web-src
-description: Découvrez la structure de dossiers web-src, ses fichiers JavaScript et dossiers imbriqués, et comment ce dossier prend en charge l’interface utilisateur dans votre exemple d’application App Builder.
+description: Découvrez le dossier web-src d’App Builder, ses fichiers JavaScript et dossiers imbriqués, et comment ils prennent en charge l’interface utilisateur dans l’exemple d’application.
 jira: KT-21683
 doc-type: Tutorial
 duration: 285
@@ -29,13 +29,11 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-08-11T19:18:31.875Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 179
+source-wordcount: '176'
 ht-degree: 0%
-
 ---
-
 # Découvrez l’objectif du dossier web-src {#web-src-folder}
 
 Le dossier web-src de cet exemple d’application contient de nombreux fichiers et dossiers JavaScript. Ce dossier est utilisé pour les applications dotées d&#39;une interface utilisateur. Toutes les applications n’utilisent pas cette fonctionnalité. Par exemple, une intégration de Commerce à un système de gestion des stocks externe ne nécessite pas d’interface frontale ni de code.
@@ -46,7 +44,7 @@ Le dossier web-src de cet exemple d’application contient de nombreux fichiers 
 
 ## Contenu vidéo
 
-* Quel est l’objectif principal du dossier `web-src` ?
+* Quel est l&#39;objectif principal du dossier `web-src` ?
 * Fichiers et dossiers généralement inclus
 * Utilisation du dossier `web-src` et de son contenu dans l’exemple d’application
 
@@ -146,7 +144,7 @@ web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-Dans l’exemple ci-dessous, l’exemple de code limite `not` la requête. Pour éviter une erreur 400, réduisez la taille de la réponse à l’aide de `searchCriteria`.
+Dans l’exemple ci-dessous, l’exemple de code `not` limite la requête. Pour éviter une erreur 400, réduisez la taille de la réponse en utilisant `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

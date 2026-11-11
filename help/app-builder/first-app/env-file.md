@@ -1,6 +1,6 @@
 ---
 title: Le fichier .env
-description: Découvrez comment générer et configurer le fichier .env pour votre application Adobe Developer App Builder, y compris la gestion des secrets et la prévention des validations accidentelles dans le contrôle de code source.
+description: Découvrez comment générer et configurer le fichier .env pour votre application App Builder, gérer les secrets et empêcher les validations accidentelles dans le contrôle de code source.
 jira: KT-21681
 doc-type: Tutorial
 duration: 177
@@ -33,16 +33,14 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:20.957Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: '143'
 ht-degree: 0%
-
 ---
-
 # Générer et configurer le fichier .env {#env-file}
 
-Le `.env` est un fichier spécial qui ne fait pas partie de l’exemple de module, mais qui est important pour une utilisation dans votre application Adobe Developer App Builder. Ce fichier contient des secrets et d’autres informations. Évitez de valider ce fichier dans un référentiel de code.
+`.env` est un fichier spécial qui ne fait pas partie de l’exemple de module, mais qui est important pour une utilisation dans votre application Adobe Developer App Builder. Ce fichier contient des secrets et d’autres informations. Évitez de valider ce fichier dans un référentiel de code.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -77,7 +75,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Vous pouvez voir ces valeurs statiques utilisées dans l’exemple de module dans le fichier `actions/commerce.index.js`.
+Ces valeurs statiques sont utilisées dans l&#39;exemple de module du fichier `actions/commerce.index.js`.
 
 ```javascript
         const oauth = getCommerceOauthClient(

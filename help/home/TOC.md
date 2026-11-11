@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,65 @@ ht-degree: 3%
     + [Utiliser des modèles de contenu](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [Évaluation du contenu](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [Gestion de la galerie de médias](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + Marketing et marchandisage {#marketing-and-merchandising}
+    + [Créer des règles de prix de catalogue](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [Créer des règles de prix de panier](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [Gestion des règles de produits associés](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [Configurer des recommandations de produits](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Présentation de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [Live Search de recommandations](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [Démonstration complète de Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [Intégration de Commerce à AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + B2B pour Adobe Commerce {#b2b}
+    + [Gestion des comptes d’entreprise](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [Gérer les catalogues partagés](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [Gérer le crédit d’entreprise](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [Commandes et approbations d&#39;achat](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + Citations {#quotes}
+      + [Le représentant commercial lance le devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [Validation du devis par l’administrateur](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + Développement et mises à niveau des applications {#application-development-and-upgrades}
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Création d’un module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [Ajout d’un attribut de produit](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [Exemple d’injection de dépendance](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Réplication lente du cluster Galera](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [Cache de requête MySQL](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [Résumé de requête PT](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [Connexion et exécution de requêtes sur la base de données Adobe Commerce](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Mises à niveau de Commerce {#upgrades}
+      + [Atelier de mise à niveau vers Adobe Commerce 2.4](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [Présentation de l’outil de compatibilité de mise à niveau](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [Utilisation de l’outil de compatibilité de mise à niveau dans PhpStorm](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + Techniques de mise en œuvre de l’architecture de référence globale {#global-reference-architecture-implementation-techniques}
+      + [Vue d’ensemble](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [Fractionner Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [Packages en bloc](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [Packages distincts](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + Fondations {#foundations}
+    + [Présentation d’App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+    + [Framework d’extensibilité et événements Commerce](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [Installation d’applications App Builder à partir d’Adobe Exchange](../app-builder/foundations/install-app-builder-app.md)
+  + Création de votre première application {#first-app}
+    + [Vue d’ensemble](../app-builder/first-app/overview.md)
+    + [Générer et configurer le fichier .env](../app-builder/first-app/env-file.md)
+    + [Description et utilisation du fichier app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+    + [En savoir plus sur le dossier Actions](../app-builder/first-app/actions-folder.md)
+    + [En savoir plus sur le dossier test](../app-builder/first-app/test-folder.md)
+    + [Découvrez l’objectif du dossier web-src](../app-builder/first-app/web-src-folder.md)
+    + [Test local](../app-builder/first-app/testing-locally.md)
+    + [Test à l’aide de l’URL d’App Builder](../app-builder/first-app/testing-app-builder-url.md)
+    + [Conclusion](../app-builder/first-app/conclusion.md)
+    + [Exemple de code source de module](https://github.com/magento/app-builder-samples){target="_blank"}
+
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
     + [Connexion aux données](../capabilities/data-connection.md)
-    + [Démonstration complète de Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
   + Kit de démarrage de l’intégration back-office {#back-office-integration-starter-kit}
     + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
@@ -152,6 +206,10 @@ ht-degree: 3%
 + API et intégration {#apis-and-integration}
   + Exemples pratiques REST et GraphQL {#examples}
     + [Clients avec REST](../apis-and-integration/examples/customer.md)
+    + Devis B2B {#b2b-quotes}
+      + [Le représentant commercial lance l’API REST de devis](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [GraphQL de remise sur ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [API REST de notes d’élément de ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Extensibilité {#extensibility}
   + Agent de développement Commerce {#commerce-developer-agent}
@@ -163,19 +221,6 @@ ht-degree: 3%
     + [Migrer le code existant](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Développement back-end {#backend-development}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
-    + [Création d’un module](../backend-development/create-module.md)
-    + [Ajout d’un attribut de produit](../backend-development/add-product-attribute.md)
-    + [Exemple d’injection de dépendance](../backend-development/dependency-injection.md)
-    + [Réplication lente du cluster Galera](../backend-development/galera-db-slow-replication.md)
-    + [Cache de requête MySQL](../backend-development/mysql-query-cache.md)
-    + [Résumé de requête PT](../backend-development/pt-query-digest.md)
-    + [Connexion et exécution de requêtes sur la base de données Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
-    + Mises à niveau de Commerce {#upgrade}
-      + [Atelier de mise à niveau vers Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
-      + [Présentation de l’outil de compatibilité de mise à niveau](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [Utilisation de l’outil de compatibilité de mise à niveau dans PhpStorm](../upgrade/uct-phpstorm.md)
   + Développement front-end de Luma {#frontend-development}
     + Créateur de page PaaS/SaaS pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -212,10 +257,7 @@ ht-degree: 3%
     + [Requêtes](../graphql-rest/graphql-queries.md)
     + [Mutations](../graphql-rest/graphql-mutations.md)
     + [Schéma](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [Installation d’applications à partir d’Adobe Exchange](../app-builder/install-app-builder-app.md)
-    + [Présentation d’App Builder](../app-builder/introduction-to-app-builder.md)
-    + [Framework d’extensibilité pour App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+  + Plus de tutoriels App Builder et d’événements I/O {#adobe-developer-app-builder}
     + Utiliser les outils d’IA pour créer un PDC de paiement fractionné {#create-a-split-payment-poc}
       + [App Builder et les outils d’IA](../app-builder/split-payment-ai-tools/overview.md)
       + [Démonstration complète](../app-builder/split-payment-ai-tools/full-demo.md)
@@ -234,17 +276,6 @@ ht-degree: 3%
       + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
       + [Implémentation et tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
       + [Fournir des commentaires à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + Créer votre première application App Builder {#first-app}
-      + [Vue d’ensemble](../app-builder/first-app/overview.md)
-      + [Générer et configurer le fichier .env](../app-builder/first-app/env-file.md)
-      + [Description et utilisation du fichier app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [En savoir plus sur le dossier Actions](../app-builder/first-app/actions-folder.md)
-      + [En savoir plus sur le dossier test](../app-builder/first-app/test-folder.md)
-      + [Découvrez l’objectif du dossier web-src](../app-builder/first-app/web-src-folder.md)
-      + [Test local](../app-builder/first-app/testing-locally.md)
-      + [Test à l’aide de l’URL d’App Builder](../app-builder/first-app/testing-app-builder-url.md)
-      + [Conclusion](../app-builder/first-app/conclusion.md)
-      + [Exemple de code source de module](https://github.com/magento/app-builder-samples){target="_blank"}
     + Événements d’E/S pour Adobe Commerce {#io-events}
       + [Prise en main des événements IO](../io-events/getting-started-io-events.md)
       + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -262,12 +293,6 @@ ht-degree: 3%
     + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
     + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 
-+ Architecture de référence globale {#global-reference-architecture-implementation-techniques}
-  + [Vue d’ensemble](../global-reference-architecture/overview.md)
-  + [Fractionner Git](../global-reference-architecture/split-git.md)
-  + [Packages en bloc](../global-reference-architecture/bulk-packages.md)
-  + [Packages distincts](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)
 + Surveillance, analyse et assistance {#monitoring-analytics-support}
   + Observability {#observability}
     + [Présentation de l’observabilité](../monitoring-analytics-support/observability/overview.md)
@@ -286,25 +311,3 @@ ht-degree: 3%
     + [Créer un ticket d’assistance](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ Outils marketing {#marketing}
-  + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
-  + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
-  + [Gestion des règles de produits associés](../site-management/related-product-rules.md)
-  + [Configurer des recommandations de produits](../site-management/product-recommendations.md)
-  + [Présentation de Live Search](../site-management/live-search.md)
-  + [Live Search de recommandations](../site-management/live-search-recommendations.md)
-  + [Intégration de Commerce à AJO](../site-management/integrate-commerce-ajo.md)
-+ B2B pour Adobe Commerce {#b2b}
-  + [Gestion des comptes d’entreprise](../b2b/company-accounts.md)
-  + [Gérer les catalogues partagés](../b2b/shared-catalogs.md)
-  + [Gérer le crédit d’entreprise](../b2b/company-credit.md)
-  + [Commandes et approbations d&#39;achat](../b2b/purchase-orders.md)
-  + Citation {#b2b-quote}
-    + [Le représentant commercial lance le devis](../b2b/sales-rep-initiates-quote.md)
-    + [Validation du devis par l’administrateur](../b2b/quote-validation-admin-panel.md)
-    + [Le représentant commercial lance l’API REST de devis](../b2b/sales-rep-initiates-quote-api.md)
-    + [Remises ligne devis](../b2b/quote-line-item-discount.md)
-    + [Notes d&#39;élément de ligne de devis](../b2b/quote-line-item-notes.md)
-    + [GraphQL de remise sur ligne de devis](../b2b/quote-graphql-line-item-discount.md)
-    + [API REST de remise sur ligne de devis](../b2b/quote-rest-api-line-item-notes.md)

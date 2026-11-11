@@ -1,6 +1,6 @@
 ---
 title: Le fichier app.config.yaml
-description: Découvrez comment le fichier app.config.yaml détermine la configuration de l’application et comment ses définitions sont liées aux fichiers JavaScript dans votre exemple d’application Adobe Developer App Builder.
+description: Découvrez comment app.config.yaml définit votre application Adobe Developer App Builder et comment sa configuration se connecte aux fichiers JavaScript dans l’exemple d’application.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -26,25 +26,23 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:16.146Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 96
+source-wordcount: '94'
 ht-degree: 0%
-
 ---
-
 # Description et utilisation du fichier app.config.yaml {#app-config-yaml}
 
 Ce fichier détermine la configuration de l’application.
 
 ## À qui s&#39;adresse cette vidéo ?
 
-* Développeurs peu familiers avec Adobe Commerce et peu familiarisés avec Adobe App Builder, qui découvrent les `app.config.yaml` de l’exemple d’application.
+* Développeurs peu familiers avec Adobe Commerce et ayant une expérience limitée d’Adobe App Builder, qui découvrent `app.config.yaml` dans l’exemple d’application.
 
 ## Contenu vidéo
 
 * Le fichier `app.config.yaml` discuté
-* Comment les définitions sont-elles liées à d’autres fichiers `.js` ?
+* Comment les définitions sont-elles liées à d&#39;autres fichiers `.js` ?
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430846?captions=fre_fr&learn=on)
 
@@ -68,7 +66,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Ces valeurs statiques sont utilisées dans l’exemple de module du fichier `actions/commerce.index.js`
+Ces valeurs statiques sont utilisées dans l&#39;exemple de module du fichier `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(
