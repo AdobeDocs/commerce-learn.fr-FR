@@ -1,6 +1,6 @@
 ---
 title: Le dossier d’actions
-description: Découvrez les fichiers et les dossiers JavaScript du dossier Actions d’App Builder, y compris l’authentification OAuth et les modèles de connexion Commerce pour votre exemple d’application.
+description: Explorez le dossier d’actions App Builder et ses fichiers JavaScript, y compris l’authentification OAuth et les modèles de connexion Commerce dans l’exemple d’application.
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # En savoir plus sur le dossier Actions {#actions-folder}
 
 Le dossier `actions` de cet exemple d’application contient quelques fichiers JavaScript et un dossier appelé `commerce`. Le JavaScript illustré est un exemple de fichier utile qui peut être réutilisé s’il est pertinent pour votre travail. Ce dossier peut vous faire gagner du temps dans les efforts de développement lors de la connexion à l’application Adobe Commerce à l’aide d’OAuth et de REST.
@@ -49,10 +47,10 @@ Les noms réels des dossiers dans cet exemple sont arbitraires, mais connaître 
 
 * Présentation d’App Builder et de l’exemple de module consacré au dossier `actions`
 * Utilisation du dossier « actions »
-* L’objectif du fichier JavaScript qui se trouve dans les dossiers `actions` et `commerce`
+* Objectif du fichier JavaScript présent dans les dossiers `actions` et `commerce`
 * Aperçu rapide des fichiers d’authentification OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3421079?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Exemples de code
 

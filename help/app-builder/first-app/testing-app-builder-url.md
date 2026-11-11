@@ -1,6 +1,6 @@
 ---
 title: Test à l’aide de l’URL d’Adobe Developer App Builder
-description: Découvrez comment déployer et tester votre première application Adobe Developer App Builder à l’aide de l’URL du projet, y compris où trouver l’URL après un déploiement réussi.
+description: Découvrez comment déployer et tester votre application Adobe Developer App Builder à l’aide de l’URL de son projet, y compris où trouver l’URL après le déploiement.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # Test à l’aide de l’URL d’App Builder {#testing-app-builder-url}
 
 Découvrez comment tester votre nouvelle application Adobe Developer App Builder à l’aide de l’URL de votre projet.
@@ -43,7 +41,7 @@ Découvrez comment tester votre nouvelle application Adobe Developer App Builder
 * Déploiement de l’application
 * Où trouver l’URL après le déploiement
 
->[!VIDEO](https://video.tv.adobe.com/v/3421045?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416664?learn=on)
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
 

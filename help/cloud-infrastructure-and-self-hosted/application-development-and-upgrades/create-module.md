@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Ces tutoriels couvrent le développement et les mises à niveau en cours pour Adobe Commerce sur les infrastructures cloud et les déploiements auto-hébergés. Pour le développement de nouvelles fonctionnalités ou une migration de personnalisation appropriée, commencez par [Présentation d’App Builder](../../app-builder/introduction-to-app-builder.md).
+>Ces tutoriels couvrent le développement et les mises à niveau en cours pour Adobe Commerce sur les infrastructures cloud et les déploiements auto-hébergés. Pour le développement de nouvelles fonctionnalités ou une migration de personnalisation appropriée, commencez par [Présentation d’App Builder](../../app-builder/foundations/introduction-to-app-builder.md).
 
 Un module est un élément structurel de [!DNL Commerce]. Les modules constituent la base du système. En règle générale, vous commencez une personnalisation en créant un module.
 
@@ -53,7 +53,7 @@ Un module est un élément structurel de [!DNL Commerce]. Les modules constituen
 4. Pour enregistrer et installer le module, exécutez `bin/magento setup:upgrade`.
 5. Vérifiez que le module fonctionne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412452?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
 ### Le fichier module.xml
 
