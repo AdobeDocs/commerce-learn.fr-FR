@@ -1,7 +1,8 @@
 ---
 title: Gestion de la galerie de médias
 description: Découvrez comment utiliser la nouvelle Galerie de médias améliorée pour organiser et gérer les fichiers multimédias sur le serveur.
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10644
 duration: 196
 audience: all
 activity: use
@@ -37,7 +38,7 @@ topic_v2:
     internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -57,5 +58,5 @@ Avec Adobe Commerce ou Magento Open Source 2.4, les commerçants peuvent utilise
 
 ## Ressources supplémentaires
 
-* [Galerie de médias -  [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-* [Stockage sur médias alternatifs -  [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+* [Galerie de médias - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+* [Guide de stockage sur médias alternatifs - [!DNL Commerce] Contenu et conception](https://experienceleague.adobe.com/fr/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

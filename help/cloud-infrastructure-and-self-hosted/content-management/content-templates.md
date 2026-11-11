@@ -1,19 +1,19 @@
 ---
-title: Création de blocs statiques et dynamiques
-description: Découvrez comment créer des blocs statiques et dynamiques pour les pages CMS de votre boutique.
-doc-type: feature video
+title: Créer des modèles de contenu
+description: Découvrez comment les modèles peuvent vous faire gagner du temps et économiser des efforts lors de la création de contenu ou du remplacement de contenu ancien.
+doc-type: Feature Video
+jira: KT-10642
+duration: 182
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00.000Z
-feature: Configuration, System, Personalization, Native Luma Frontend Development, Page Content
+feature: Configuration, System, Personalization, Native Luma Frontend Development
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-jira: KT-17150
-duration: 302
-exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
+exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
-TQID: 'https://experienceleague.adobe.com/D7zN1UEk8ua0lOpt3oQtdWO5ndbH2cf6Gom1P8NbN0U'
+TQID: 'https://experienceleague.adobe.com/w1JoLrqVMp3QDCRX-XwgIMG1i3OHBMorbhLFf9a4lDM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -26,8 +26,6 @@ feature_v2:
     internal-label: System
   - id: f37757d8-3174-5335-b977-1161792f965d
     internal-label: Personalization
-  - id: 17d326fa-534a-55a5-b46f-8ae1de1e2f75
-    internal-label: Page Content
   - id: cc250cf1-34eb-4863-80d0-d170d45ea067
     internal-label: Developer tools
 subfeature_v2:
@@ -48,14 +46,14 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '136'
 ht-degree: 0%
 ---
-# Création de blocs statiques et dynamiques
+# Créer des modèles de contenu
 
-Un bloc est une unité modulaire de contenu qui peut être positionnée presque n’importe où sur la page. Les blocs de contenu sont parfois appelés blocs statiques ou blocs CMS. Ils peuvent être utilisés pour afficher des informations fixes telles que du texte, des images et de la vidéo incorporée, ainsi que des informations dynamiques fournies par un widget ou provenant d’une base de données ou d’une autre source. La plupart des éléments de la page d’accueil sont des blocs qui peuvent être facilement gérés. Dans cette vidéo, découvrez comment créer des blocs statiques et dynamiques.
+L’utilisation de modèles vous permet de gagner du temps et vous évite des efforts lors de la création de contenu (ou du remplacement de contenu ancien). Par exemple, vous pouvez enregistrer votre contenu Page Builder existant en tant que modèle, puis appliquer ce modèle (avec l’ensemble de son contenu et de ses mises en page) à une autre zone pour créer rapidement du contenu Page Builder.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -64,9 +62,9 @@ Un bloc est une unité modulaire de contenu qui peut être positionnée presque 
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411068?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410842?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
-* [Blocs - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=fr)
-* [Blocs dynamiques - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=fr)
+* [[!DNL Page Builder] Modèles - [!DNL Page Builder] Guide De L’Utilisateur](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=fr)
+* [Ajouter des modèles - [!DNL Page Builder] Guide du développeur](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates)

@@ -1,11 +1,11 @@
 ---
 title: Évaluation du contenu
 description: Découvrez comment créer, prévisualiser et planifier un large éventail de mises à jour de contenu pour votre boutique directement depuis l’administration.
-doc-type: feature video
+doc-type: Feature Video
 duration: 309
 audience: all
 activity: use
-kt: 13907
+jira: KT-13907
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System, Staging
 topic: Commerce, Administration
@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -61,5 +61,5 @@ L’évaluation de contenu permet à votre équipe commerciale de créer, de pr�
 
 ## Ressources supplémentaires
 
-* [Évaluation du contenu - [!DNL Commerce] Guide de contenu et de conception](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=fr){target="_blank"}
-* [Aperçu d’une campagne -  [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=fr){target="_blank"}
+* [Évaluation du contenu - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html?lang=fr){target="_blank"}
+* [Aperçu d&#39;une campagne - [!DNL Commerce] Guide de conception et de contenu](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html?lang=fr){target="_blank"}

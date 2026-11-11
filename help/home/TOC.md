@@ -4,7 +4,7 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
 workflow-type: tm+mt
 source-wordcount: '1022'
 ht-degree: 3%
@@ -128,6 +128,13 @@ ht-degree: 3%
     + [Gestion des réécritures d’URL pour l’optimisation du moteur de recherche](../cloud-infrastructure-and-self-hosted/catalog-and-products/seo-url-rewrites.md)
     + [Visionneuse AR](../cloud-infrastructure-and-self-hosted/catalog-and-products/augmented-reality.md)
     + [Importation et mise à jour de catalogues](../cloud-infrastructure-and-self-hosted/catalog-and-products/catalog-import.md)
+  + Gestion de contenu {#content-management}
+    + [Présentation de Page Builder](../cloud-infrastructure-and-self-hosted/content-management/page-builder-overview.md)
+    + [Création de blocs statiques et dynamiques](../cloud-infrastructure-and-self-hosted/content-management/static-dynamic-blocks.md)
+    + [Création de widgets](../cloud-infrastructure-and-self-hosted/content-management/widgets.md)
+    + [Utiliser des modèles de contenu](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
+    + [Évaluation du contenu](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
+    + [Gestion de la galerie de médias](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
@@ -280,13 +287,6 @@ ht-degree: 3%
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ Gestion de contenu {#content}
-  + [Présentation de Page Builder](../site-management/page-builder-overview.md)
-  + [Création de blocs statiques et dynamiques](../site-management/static-dynamic-blocks.md)
-  + [Création de widgets](../site-management/widgets.md)
-  + [Utiliser des modèles de contenu](../site-management/content-templates.md)
-  + [Évaluation du contenu](../site-management/content-staging.md)
-  + [Gestion de la galerie de médias](../site-management/media-gallery.md)
 + Outils marketing {#marketing}
   + [Créer des règles de prix de catalogue](../site-management/catalog-price-rules.md)
   + [Créer des règles de prix de panier](../site-management/cart-price-rules.md)
