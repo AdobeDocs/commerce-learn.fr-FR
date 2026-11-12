@@ -1,13 +1,11 @@
 ---
 title: Partage des pages liées aux outils d’IA de PDC de paiement
-description: Liens vers les pages associées dans Extensibilité - Adobe Developer App Builder - Utiliser les outils d’IA pour créer des POC de paiement fractionné
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: Liens vers les tutoriels de validation de principe sur le paiement fractionné App Builder et les ressources de référence.
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # Partage des liens liés à la validation de principe du paiement
 
 ## Toutes les ressources de cette série
