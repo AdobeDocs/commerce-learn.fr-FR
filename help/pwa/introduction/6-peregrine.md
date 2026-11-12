@@ -1,8 +1,8 @@
 ---
 title: PWA Studio pour les développeurs - Peregrine
 description: Découvrez Peregrine, notamment la bibliothèque Peregrine. Comprenez la motivation derrière Peregrine​ les différences entre les crochets Peregrine et les serres.
-kt: 5649
-doc-type: video
+jira: KT-5649
+doc-type: Technical Video
 duration: 243
 activity: use
 last-substantial-update: 2023-5-28
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -63,4 +63,4 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3507532?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35720?learn=on)

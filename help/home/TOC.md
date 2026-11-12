@@ -4,10 +4,10 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Vidéos et tutoriels Adobe Commerce {#tutorials}
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Développement et mises à niveau des applications {#application-development-and-upgrades}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Ajout d’un attribut de produit](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -268,8 +268,19 @@ ht-degree: 3%
     + [Migrer le code existant](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusion](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [Exécution d’essai App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Développement front-end de Luma {#frontend-development}
-    + Créateur de page PaaS/SaaS pour les développeurs {#page-builder}
+
++ Développement de storefront {#storefront-development}
+  + Commerce storefront sous Edge Delivery Services {#edge-delivery-services}
+    + Prise en main {#getting-started}
+      + [Modifier le flux transactionnel](../edge-delivery-services/transactional-flow.md)
+      + [Utilisation des attributs de produit pour les articles du panier](../edge-delivery-services/product-attributes-cart-items.md)
+      + [Mettre à jour la synthèse des commandes lors du passage en caisse](../edge-delivery-services/update-order-summary.md)
+      + [Ajout de BOPIS au passage en caisse](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Personnaliser le passage en caisse](../edge-delivery-services/customize-checkout.md)
+      + [Personnalisation de la disposition d’une adresse](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Expérience client](../edge-delivery-services/shopper-experience.md)
+  + Développement de storefront basé sur Luma et PHP {#frontend-development}
+    + Page Builder pour les développeurs {#page-builder}
       + [1 - Introduction](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuration et contenu](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - Thèmes](../frontend-development/page-builder/3-themes.md)
@@ -278,27 +289,18 @@ ht-degree: 3%
       + [6 - Types de contenu personnalisés](../frontend-development/page-builder/6-custom-content-types.md)
     + [Ajout d’un module JavaScript](../frontend-development/add-javascript-module.md)
     + [Création d’une page](../frontend-development/create-page.md)
-    + Edge Delivery Services {#edge-delivery-services}
-      + Prise en main {#getting-started}
-        + [Modifier le flux transactionnel](../edge-delivery-services/transactional-flow.md)
-        + [Utilisation des attributs de produit pour les articles du panier](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Mettre à jour la synthèse des commandes lors du passage en caisse](../edge-delivery-services/update-order-summary.md)
-        + [Ajout de BOPIS au passage en caisse](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [Personnaliser le passage en caisse](../edge-delivery-services/customize-checkout.md)
-        + [Personnalisation de la disposition d’une adresse](../edge-delivery-services/customize-address-new-account-link.md)
-        + [Expérience client](../edge-delivery-services/shopper-experience.md)
-    + Architecture découplée {#headless-architecture}
-      + Présentation du mode découplé {#introduction-to-headless}
-        + [Architecture Découplée - Session 1](../headless/session-1.md)
-      + Présentation de PWA Studio {#introduction}
-        + [Vue d’ensemble](../pwa/introduction/1-overview.md)
-        + [Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Launch](../pwa/introduction/3-launch.md)
-        + [VERS LE HAUT](../pwa/introduction/4-upward.md)
-        + [Prise en main](../pwa/introduction/5-getting-started.md)
-        + [Peregrine](../pwa/introduction/6-peregrine.md)
-      + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
-      + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
+  + Architecture découplée et PWA Studio {#headless-architecture}
+    + Présentation du mode découplé {#introduction-to-headless}
+      + [Architecture découplée - Session 1](../headless/session-1.md)
+    + Présentation de PWA Studio {#introduction}
+      + [Vue d’ensemble](../pwa/introduction/1-overview.md)
+      + [Outils PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Launch](../pwa/introduction/3-launch.md)
+      + [VERS LE HAUT](../pwa/introduction/4-upward.md)
+      + [Prise en main](../pwa/introduction/5-getting-started.md)
+      + [Peregrine](../pwa/introduction/6-peregrine.md)
+    + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
+    + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
 
 + Surveillance, analyse et assistance {#monitoring-analytics-support}
   + Observability {#observability}

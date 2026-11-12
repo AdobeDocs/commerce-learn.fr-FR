@@ -1,8 +1,8 @@
 ---
 title: PWA Studio pour les développeurs - Configuration du projet
 description: Commencez avec un nouveau projet PWA Studio, y compris la génération d’un certificat SSL local et les commandes de l’interface de ligne de commande du pack de création.
-kt: 5648
-doc-type: video
+jira: KT-5648
+doc-type: Technical Video
 duration: 968
 activity: use
 last-substantial-update: 2023-5-28
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '60'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Dans cette vidéo :
 * Prise en main de PWA Studio
 * Configuration initiale du projet
 * Générer un certificat SSL local
-* Commandes de l’interface de ligne de commande [!DNL Buildpack]
+* [!DNL Buildpack] commandes d’interface de ligne de commande
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -63,4 +63,4 @@ Dans cette vidéo :
 
 ## Contenu vidéo :
 
->[!VIDEO](https://video.tv.adobe.com/v/3507658?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35719?learn=on)
