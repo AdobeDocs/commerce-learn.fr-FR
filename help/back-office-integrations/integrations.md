@@ -3,7 +3,7 @@ title: Bonnes pratiques relatives au kit de démarrage de l’intégration Comme
 description: Découvrez les bonnes pratiques relatives aux intégrations Adobe Commerce à l’aide du kit de démarrage, depuis la configuration et l’intégration GitHub jusqu’au déploiement, à la validation et à la mise en ligne.
 doc-type: Technical Video
 duration: 602
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Découvrez comment intégrer Adobe Commerce à des systèmes externes, en offran
 * Pour créer et configurer des fournisseurs d’événements et des abonnements, exécutez des scripts.
 * Mise à jour des événements dans Commerce et App Builder pour la synchronisation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452771?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

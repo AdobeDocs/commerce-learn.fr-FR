@@ -1,9 +1,9 @@
 ---
 title: Organisation du code Source dans le kit de démarrage Commerce
-description: Découvrez l’organisation du code source dans le kit de démarrage de l’intégration Commerce, y compris les dossiers clés tels que les actions et les scripts, les scripts d’automatisation et la gestion des événements.
+description: Découvrez l’organisation du code source dans le kit de démarrage de l’intégration de Commerce, y compris les dossiers d’actions et de scripts, les scripts d’automatisation et la gestion des événements.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -34,28 +34,28 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 ---
 # Organisation du code Source pour le kit de démarrage Adobe
 
-Découvrez l’organisation du code source dans le kit de démarrage de l’intégration d’&#x200B; explorez la structure du projet, en mettant en évidence les dossiers clés tels que `actions` et `scripts`, ainsi que leur contenu respectif. &#x200B; Le dossier « actions » contient des sous-dossiers tels que `ingestion` et `webhook` qui contiennent le code essentiel pour la gestion et le suivi des événements. Vous découvrirez également les dossiers `starter-kit-info` et `scripts`. Le dossier `scripts` se concentre sur les scripts d’automatisation tels que les `commerce-event-subscribe` et les `onboarding` qui rationalisent la configuration des événements et des fournisseurs dans le projet.
+Découvrez l’organisation du code source dans le kit de démarrage de l’intégration d’Adobe Commerce&#x200B; explorez la structure du projet, en mettant en évidence les dossiers clés tels que `actions` et `scripts`, ainsi que leur contenu respectif. &#x200B; Le dossier « actions » contient des sous-dossiers tels que `ingestion` et `webhook` qui contiennent le code essentiel pour la gestion et le suivi des événements. Vous découvrirez également les dossiers `starter-kit-info` et `scripts`. Le dossier `scripts` se concentre sur les scripts d’automatisation tels que `commerce-event-subscribe` et `onboarding` qui rationalisent la configuration des événements et des fournisseurs dans le projet.
 &#x200B;
-Explorez la logique derrière la structure du code source, en détaillant la manière dont les dossiers `commerce` et `external` sous chaque dossier d’entité gèrent les événements provenant de différents systèmes. La vidéo explique le rôle du dossier `consumer` dans la distribution des événements à l’action d’exécution de gestionnaire d’événements appropriée, assurant ainsi un traitement transparent. La vidéo couvre également le mécanisme de reprise implémenté dans les actions d’exécution pour gérer efficacement les événements en échec. &#x200B;Découvrez l’organisation et les fonctionnalités du code source dans le kit de démarrage de l’intégration Adobe Commerce, offrant des informations précieuses sur la gestion des événements, les scripts d’automatisation et les configurations.
+Explorez la logique derrière la structure du code source, en détaillant comment les dossiers `commerce` et `external` de chaque dossier d’entité gèrent les événements provenant de différents systèmes. La vidéo explique le rôle du dossier `consumer` dans la distribution des événements à l’action d’exécution de gestionnaire d’événements appropriée, assurant ainsi un traitement transparent. La vidéo couvre également le mécanisme de reprise implémenté dans les actions d’exécution pour gérer efficacement les événements en échec. &#x200B;Découvrez l’organisation et les fonctionnalités du code source dans le kit de démarrage de l’intégration Adobe Commerce, offrant des informations précieuses sur la gestion des événements, les scripts d’automatisation et les configurations.
 
 ## Audience
 
 * Les développeurs qui souhaitent comprendre comment le code source est organisé en dossiers clés tels que `actions` et `scripts`.
-* Découvrez que le dossier `actions` contient des sous-dossiers tels que `ingestion` et ` webhook` qui contiennent le code essentiel pour la gestion des événements et le suivi des déploiements.
-* Les développeurs et développeuses qui souhaitent en savoir plus sur le dossier `actions` qui comprend des dossiers pour des entités telles que `customer`, `order`, `product` et `stock`.
+* Découvrez que le dossier `actions` contient des sous-dossiers tels que `ingestion` et ` webhook` qui contiennent du code essentiel pour la gestion des événements et le suivi des déploiements.
+* Les développeurs qui souhaitent en savoir plus sur le dossier `actions` qui comprend des dossiers pour des entités telles que `customer`, `order`, `product` et `stock`.
 
 ## Contenu vidéo
 
-* Gardez à l’esprit que les quatre dossiers principaux : `actions`, `scripts`, `test` et `utils`, avec un focus sur les dossiers `actions` et `scripts` au cours de la session. &#x200B;
+* Gardez à l’esprit que les quatre dossiers principaux : `actions`, `scripts`, `test` et `utils`, avec un focus sur les dossiers `actions` et `scripts` pendant la session. &#x200B;
 * Découvrez le dossier `actions` et comment il contient des sous-dossiers essentiels tels que `ingestion` et `webhook`.
-* Découvrez le dossier `actions` et pourquoi il existe des dossiers spécifiques pour des entités telles que `customer`, `order`, `product` et `stock`, chacun contenant des actions d’exécution structurées en dossiers `commerce` et `external` pour gérer efficacement les événements de Commerce et de systèmes tiers. &#x200B;
+* Explorez le dossier `actions` et pourquoi il existe des dossiers spécifiques pour des entités telles que `customer`, `order`, `product` et `stock`, chacun contenant des actions d’exécution structurées en `commerce` et `external` dossiers pour gérer efficacement les événements provenant de Commerce et de systèmes tiers. &#x200B;
 * Découvrez l’importance de ne pas modifier le code dans le dossier `starter-kit-info`, qui contient une action d’exécution utilisée par Adobe pour effectuer le suivi des déploiements de projet en fonction du kit de démarrage. &#x200B;
 * Découvrez le dossier `scripts` qui contient des scripts d’automatisation tels que `commerce-event-subscribe` et `onboarding`, qui automatisent la configuration des événements, la configuration des fournisseurs et la configuration du module Adobe I/O Events dans Commerce. &#x200B;
 
