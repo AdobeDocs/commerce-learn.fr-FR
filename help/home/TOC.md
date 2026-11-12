@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
+source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
 workflow-type: tm+mt
-source-wordcount: '1029'
+source-wordcount: '1031'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Développement et mises à niveau des applications {#application-development-and-upgrades}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Ajout d’un attribut de produit](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -213,7 +213,6 @@ ht-degree: 3%
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
-    + [Connexion aux données](../capabilities/data-connection.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
 
 + API et intégration {#apis-and-integration}
@@ -255,6 +254,9 @@ ht-degree: 3%
     + [Intégration du dernier kilomètre](../back-office-integrations/last-mile-integration.md)
     + [Ingestion du Webhook](../back-office-integrations/webhook-ingestion.md)
     + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
+
+  + Intégrations de données {#data-integrations}
+    + [Connexion aux données](../capabilities/data-connection.md)
 
 + Extensibilité {#extensibility}
   + Agent de développement Commerce {#commerce-developer-agent}
