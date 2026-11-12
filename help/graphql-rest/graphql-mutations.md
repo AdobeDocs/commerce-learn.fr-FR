@@ -3,11 +3,11 @@ title: Réalisation d’une mutation à l’aide de GraphQL
 description: Découvrez comment effectuer une mutation à l’aide de GraphQL sur Adobe Commerce et [!DNL Magento Open Source]. Effectuez votre première mutation à l’aide d’appels POST.
 landing-page-description: Découvrez comment effectuer une mutation à l’aide de GraphQL sur Adobe Commerce et [!DNL Magento Open Source]. Effectuez votre première mutation à l’aide d’appels POST.
 short-description: Découvrez comment effectuer une mutation à l’aide de GraphQL sur Adobe Commerce et [!DNL Magento Open Source]. Effectuez votre première mutation à l’aide d’appels POST.
-kt: 13938
-doc-type: video
+jira: KT-13938
+doc-type: Tutorial
 duration: 268
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -34,7 +34,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 0%
@@ -50,18 +50,18 @@ Il s’agit de la partie 3 de la série pour GraphQL et Adobe Commerce. Les muta
 
 * [Partie 1 - GraphQL - Introduction](../graphql-rest/intro-graphql.md)
 * [Partie 2 - GraphQL - Requêtes](../graphql-rest/graphql-queries.md)
-* [Partie 4 - GraphQL - Schéma](../graphql-rest/graphql-schema.md)
+* [Partie 4 GraphQL - Schéma](../graphql-rest/graphql-schema.md)
 
 ## Exemple de mutation
 
 Toute spécification d’API complète doit offrir la possibilité non seulement d’interroger les données, mais également de les créer et de les mettre à jour.
 
 REST fait la distinction entre les requêtes qui modifient des données et celles qui ne le font pas avec le type de requête ou le « verbe » (GET par rapport à POST ou PUT).
-Lors de l’utilisation de GraphQL, les requêtes de modification des données sont distinguées par le mot-clé `mutation` qui correspond à un autre
+Lors de l’utilisation de GraphQL, les requêtes de modification des données sont distinguées par le mot-clé `mutation` qui correspond à un différent
 Type racine dans le schéma défini sur le serveur.
 
 Examinez cet exemple de mutation pour ajouter un produit au panier d’un utilisateur. (Nécessite un ID de panier qui a été généré
-pour la session du client connecté ou à l’aide de la mutation `createEmptyCart`.)
+pour la session du client connecté ou en utilisant la mutation `createEmptyCart`.)
 
 ```graphql
 mutation doAddToCart(
@@ -120,9 +120,9 @@ Enfin, vous pouvez recevoir une réponse de ce type :
 L’élément principal à noter à propos de l’exemple ci-dessus est que, outre l’utilisation du mot-clé `mutation` au lieu de `query`,
 la syntaxe est identique à celle d’une requête. Comme les requêtes, la mutation inclut :
 
-* Nom d’opération arbitraire (`doAddToCart`)
+* Nom d&#39;opération arbitraire (`doAddToCart`)
 * Une liste de variables (par exemple, `$cartId`)
-* Champ initial (`addProductsToCart`) avec des arguments (par exemple, `cartId`, défini sur la valeur de `$cartId`) entre parenthèses
+* Un champ initial (`addProductsToCart`) avec des arguments (par exemple, `cartId`, défini sur la valeur de `$cartId`) entre parenthèses
 * Sous-sélection de champs entre accolades
 
 La sous-sélection de champs vous permet de définir de manière flexible les champs que vous souhaitez renvoyer (à partir du type affecté comme
@@ -135,7 +135,7 @@ sur ce type racine.
 Quelques autres remarques sur l’exemple ci-dessus :
 
 * Le suffixe de caractère `!` `String` et `CartItemInput` indique que la variable est requise.
-* Les crochets (`[]`) autour du type de `CartItemInput` spécifié pour `$cartItems` une liste
+* Les crochets (`[]`) autour du type `CartItemInput` spécifié pour `$cartItems` indiquent une liste
 de ce type plutôt qu’une valeur unique.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

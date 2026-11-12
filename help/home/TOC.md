@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1031'
 ht-degree: 3%
 ---
 
@@ -213,8 +213,40 @@ ht-degree: 3%
 + Prise en main {#getting-started}
   + Fonctionnalités de Commerce {#capabilities}
     + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
-    + [Connexion aux données](../capabilities/data-connection.md)
     + [Commerce composable](../capabilities/what-is-composable-commerce.md)
+
++ API et intégration {#apis-and-integration}
+  + Fondements de GraphQL {#graphql-rest}
+    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
+    + [Requêtes](../graphql-rest/graphql-queries.md)
+    + [Mutations](../graphql-rest/graphql-mutations.md)
+    + [Schéma](../graphql-rest/graphql-schema.md)
+  + Exemples pratiques REST et GraphQL {#examples}
+    + [Clients avec REST](../apis-and-integration/examples/customer.md)
+    + Devis B2B {#b2b-quotes}
+      + [Le représentant commercial lance l’API REST de devis](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [GraphQL de remise sur ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [API REST de notes d’élément de ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + Maillage API {#api-mesh}
+    + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
+    + [Workflows du kit de démarrage du maillage API](../api-mesh/starter-kit-workflows.md)
+    + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
+    + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
+    + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
+    + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
+    + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
+
+  + Événements et webhooks {#events-and-webhooks}
+    + Événements d’E/S pour Adobe Commerce {#io-events}
+      + [Prise en main des événements IO](../io-events/getting-started-io-events.md)
+      + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
+      + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
+      + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
+
   + Kit de démarrage de l’intégration back-office {#back-office-integration-starter-kit}
     + [Démonstration du kit de démarrage](../back-office-integrations/starter-kit-demo.md)
     + [Intégrations](../back-office-integrations/integrations.md)
@@ -223,13 +255,8 @@ ht-degree: 3%
     + [Ingestion du Webhook](../back-office-integrations/webhook-ingestion.md)
     + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
 
-+ API et intégration {#apis-and-integration}
-  + Exemples pratiques REST et GraphQL {#examples}
-    + [Clients avec REST](../apis-and-integration/examples/customer.md)
-    + Devis B2B {#b2b-quotes}
-      + [Le représentant commercial lance l’API REST de devis](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
-      + [GraphQL de remise sur ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
-      + [API REST de notes d’élément de ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+  + Intégrations de données {#data-integrations}
+    + [Connexion aux données](../capabilities/data-connection.md)
 
 + Extensibilité {#extensibility}
   + Agent de développement Commerce {#commerce-developer-agent}
@@ -272,28 +299,6 @@ ht-degree: 3%
         + [Peregrine](../pwa/introduction/6-peregrine.md)
       + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
       + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
-  + GraphQL et REST {#graphql-rest}
-    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
-    + [Requêtes](../graphql-rest/graphql-queries.md)
-    + [Mutations](../graphql-rest/graphql-mutations.md)
-    + [Schéma](../graphql-rest/graphql-schema.md)
-  + Plus de tutoriels App Builder et d’événements I/O {#adobe-developer-app-builder}
-    + Événements d’E/S pour Adobe Commerce {#io-events}
-      + [Prise en main des événements IO](../io-events/getting-started-io-events.md)
-      + [Installation d’Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
-      + [Installation d’Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Créer un projet App Builder](../io-events/create-app-builder-project.md)
-      + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
-      + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
-      + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
-  + Maillage API {#api-mesh}
-    + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
-    + [Workflows du kit de démarrage du maillage API](../api-mesh/starter-kit-workflows.md)
-    + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
-    + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
-    + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
-    + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
-    + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 
 + Surveillance, analyse et assistance {#monitoring-analytics-support}
   + Observability {#observability}

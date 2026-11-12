@@ -3,11 +3,11 @@ title: Langage de schéma avec GraphQL
 description: Découvrez le schéma associé à GraphQL. Lisez une description du schéma, ainsi que quelques modèles et méthodes intéressants pour lire le schéma.
 landing-page-description: Ceci est une introduction à GraphQL. Comprendre le schéma et comment interpréter certains des éléments
 short-description: Ceci est une introduction à GraphQL. Comprendre le schéma et comment interpréter certains des éléments
-kt: 13939
-doc-type: video
+jira: KT-13939
+doc-type: Tutorial
 duration: 363
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -128,14 +128,14 @@ type Mutation {
 }
 ```
 
-Plongez-vous dans [la documentation de GraphQL](https://graphql.org/learn/schema/){target="_blank"} pour en savoir plus sur les détails du système de type, y compris la syntaxe de certains concepts qui ne sont pas représentés ici. L’exemple ci-dessus s’explique par lui-même. (Notez également à quel point la syntaxe est similaire à la syntaxe de requête.) La définition d’un schéma GraphQL consiste simplement à exprimer les arguments et champs disponibles d’un type donné, ainsi que les types de ces champs. Chaque type de champ complexe doit lui-même avoir une définition, etc., dans l’arborescence, jusqu’à ce que vous obteniez des types scalaires simples comme `String`.
+Vous pouvez consulter [la documentation de GraphQL](https://graphql.org/learn/schema/){target="_blank"} pour en savoir plus sur les détails du système de type, y compris la syntaxe de certains concepts qui ne sont pas représentés ici. L’exemple ci-dessus s’explique par lui-même. (Notez également à quel point la syntaxe est similaire à la syntaxe de requête.) La définition d’un schéma GraphQL consiste simplement à exprimer les arguments et champs disponibles d’un type donné, ainsi que les types de ces champs. Chaque type de champ complexe doit lui-même avoir une définition, etc., dans l’arborescence, jusqu’à ce que vous obteniez des types scalaires simples tels que `String`.
 
-La déclaration `input` est à tous égards semblable à un `type`, mais elle définit un type qui peut être utilisé comme entrée pour un argument. Notez également la déclaration `interface`. Cela sert une fonction plus ou moins identique aux interfaces en PHP. D’autres types héritent de cette interface.
+La déclaration `input` est à tous égards semblable à un `type`, mais définit un type qui peut être utilisé comme entrée pour un argument. Notez également la déclaration `interface`. Cela sert une fonction plus ou moins identique aux interfaces en PHP. D’autres types héritent de cette interface.
 
-La syntaxe `[CartItemInput!]!` semble délicate, mais est assez intuitive à la fin. Le `!` _within_ le crochet déclare que chaque valeur du tableau doit être non nulle, tandis que celui _external_ déclare que la valeur du tableau elle-même doit être non nulle (par exemple, un tableau vide).
+La syntaxe `[CartItemInput!]!` a l&#39;air délicate, mais est assez intuitive à la fin. Le `!` _within_ le crochet déclare que chaque valeur du tableau doit être non nulle, tandis que celui _external_ déclare que la valeur du tableau elle-même doit être non nulle (par exemple, un tableau vide).
 
 >[!NOTE]
 >
->La logique de récupération et de formatage des données en fonction d’un schéma, ainsi que la manière dont une telle logique est mappée à des types particuliers, dépendent de l’implémentation du runtime GraphQL. Toutefois, les implémentations doivent suivre un flux conceptuel logique à la lumière d’une compréhension des champs imbriqués : une opération de résolution associée au `Query` racine ou au type de `Mutation` est effectuée, qui examine chaque champ spécifié dans la requête. Pour chaque champ qui correspond à un type complexe, une résolution similaire est effectuée pour ce type, et ainsi de suite, jusqu’à ce que tout soit résolu en valeurs scalaires.
+>La logique de récupération et de formatage des données en fonction d’un schéma, ainsi que la manière dont une telle logique est mappée à des types particuliers, dépendent de l’implémentation du runtime GraphQL. Les implémentations doivent toutefois suivre un flux conceptuel logique à la lumière d’une compréhension des champs imbriqués : une opération de résolution associée au type racine `Query` ou `Mutation` est effectuée, qui examine chaque champ spécifié dans la requête. Pour chaque champ qui correspond à un type complexe, une résolution similaire est effectuée pour ce type, et ainsi de suite, jusqu’à ce que tout soit résolu en valeurs scalaires.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

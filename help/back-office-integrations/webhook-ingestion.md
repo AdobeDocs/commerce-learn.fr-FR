@@ -3,7 +3,7 @@ title: Configuration, déploiement et personnalisation d’un Webhook d’ingest
 description: Découvrez comment configurer, déployer et personnaliser un webhook d’ingestion pour connecter Adobe Commerce à un système back-office tiers et gérer la traduction d’événements.
 doc-type: Technical Video
 duration: 697
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 Découvrez la configuration et la personnalisation d’un webhook d’ingestion pour intégrer Commerce à un système back-office tiers. &#x200B; Cette vidéo explique comment le webhook peut résoudre les problèmes de communication d’événement entre les systèmes en fournissant un point d’entrée accessible au public pour adapter les messages du système tiers à l’API d’événement d’Adobe IO. Le processus implique de configurer le webhook dans le fichier `actions.config.yaml`, de l’activer dans le fichier `app.config.yaml` et de le déployer pour garantir son bon fonctionnement.
 
-La vidéo décrit les étapes à suivre pour modifier le code webhook afin de traduire les événements tiers en formats compatibles avec les types d’événements abonnés à l’intégration. Elle aborde l’ajout d’un fichier `event-mapping.json` pour faciliter cette traduction et souligne l’importance de redéployer l’action d’exécution après avoir apporté des modifications. &#x200B; La vidéo souligne également l’importance de valider et de transformer les payloads d’événement entrant pour s’aligner sur le schéma prévu, afin d’assurer un traitement réussi et une intégration à l’API Commerce pour créer des clients.
+La vidéo décrit les étapes à suivre pour modifier le code webhook afin de traduire les événements tiers en formats compatibles avec les types d’événements abonnés à l’intégration. Elle aborde l’ajout d’un fichier `event-mapping.json` pour faciliter cette traduction et souligne l’importance de redéployer l’action d’exécution après avoir apporté des modifications. &#x200B; La vidéo souligne également l’importance de valider et de transformer les payloads d’événement entrant pour s’aligner sur le schéma attendu, afin d’assurer un traitement réussi et une intégration à l’API Commerce pour créer des clients.
 
 ## Audience
 

@@ -3,11 +3,11 @@ title: Exécuter une requête à l’aide de GraphQL
 description: Découvrez comment effectuer une requête à l’aide de GraphQL sur Adobe Commerce et [!DNL Magento Open Source]. Cette section présente GraphQL à l’aide d’appels GET et POST.
 landing-page-description: Découvrez comment effectuer une requête à l’aide de GraphQL sur Adobe Commerce et [!DNL Magento Open Source]. Cette section présente GraphQL à l’aide d’appels GET et POST.
 short-description: Découvrez comment effectuer une requête à l’aide de GraphQL sur Adobe Commerce et [!DNL Magento Open Source]. Cette section présente GraphQL à l’aide d’appels GET et POST.
-kt: 13937
-doc-type: video
+jira: KT-13937
+doc-type: Tutorial
 duration: 651
 audience: all
-last-substantial-update: 2023-10-12T00:00:00.000Z
+last-substantial-update: 2023-10-12
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
@@ -31,7 +31,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Il s’agit de la partie 2 de la série pour GraphQL et Adobe Commerce. Dans ce 
 
 * [Partie 1 - GraphQL - Introduction](../graphql-rest/intro-graphql.md)
 * [Partie 3 - GraphQL - Mutations](../graphql-rest/graphql-mutations.md)
-* [Partie 4 - GraphQL - Schéma](../graphql-rest/graphql-schema.md)
+* [Partie 4 GraphQL - Schéma](../graphql-rest/graphql-schema.md)
 
 ## Exemple de syntaxe GraphQL
 
@@ -152,12 +152,12 @@ de la même manière que pour la requête elle-même.
 
 `country` et `categories` dans l’exemple représentent deux « requêtes » différentes pour deux types de données différents. Contrairement à un paradigme d’API traditionnel comme REST, qui définirait des points d’entrée distincts et explicites pour chaque type de données. GraphQL vous offre la possibilité d’interroger un seul point d’entrée avec une expression qui peut récupérer plusieurs types de données à la fois.
 
-De même, la requête spécifie exactement les champs souhaités à la fois pour `country` (`id` et `full_name_english`) et `categories` (`items`, qui comporte elle-même une sous-sélection de champs), et les données que vous recevez reflètent cette spécification de champ. Il y a probablement beaucoup plus de champs disponibles pour ces types de données, mais vous ne recevez que ce que vous avez demandé.
+De même, la requête spécifie exactement les champs souhaités pour `country` (`id` et `full_name_english`) et `categories` (`items`, qui comporte elle-même une sous-sélection de champs), et les données que vous recevez reflètent cette spécification de champ. Il y a probablement beaucoup plus de champs disponibles pour ces types de données, mais vous ne recevez que ce que vous avez demandé.
 
 
 >[!NOTE]
 >
->Vous remarquerez peut-être que la valeur renvoyée pour `items` est en fait un _tableau_ valeurs , mais vous sélectionnez néanmoins directement des sous-champs pour celui-ci. Lorsque le type d’un champ est une liste, GraphQL comprend implicitement que des sous-sélections doivent s’appliquer à chaque élément de la liste.
+>Vous remarquerez peut-être que la valeur renvoyée pour `items` est en fait un _tableau_ de valeurs, mais vous sélectionnez néanmoins directement des sous-champs pour celui-ci. Lorsque le type d’un champ est une liste, GraphQL comprend implicitement que des sous-sélections doivent s’appliquer à chaque élément de la liste.
 
 ## Arguments
 
@@ -167,13 +167,13 @@ Vous transmettez un argument `id` à `country`, spécifiant le pays particulier 
 
 ## Champs jusqu’au bas
 
-Bien que vous ayez tendance à considérer `country` et `categories` comme des requêtes ou des entités distinctes, l’arborescence entière exprimée dans votre requête ne se compose en fait que de champs. L&#39;expression de `products` n&#39;est pas syntaxiquement différente de celle de `categories`. Les deux sont des champs, et il n&#39;y a aucune différence entre leur construction.
+Bien que vous ayez tendance à considérer `country` et `categories` comme des requêtes ou des entités distinctes, l’arborescence entière exprimée dans votre requête ne se compose en fait que de champs. L&#39;expression de `products` n&#39;est pas différente syntaxiquement de celle de `categories`. Les deux sont des champs, et il n&#39;y a aucune différence entre leur construction.
 
-Tout graphique de données GraphQL comporte un seul type « racine » (généralement appelé `Query`) pour démarrer l’arborescence. Les types souvent considérés comme des entités sont affectés aux champs de cette racine. L’exemple de requête crée en fait une requête générique pour le type racine et sélectionne les champs `country` et `categories`. Il sélectionne ensuite des sous-champs de ces champs, etc., potentiellement à plusieurs niveaux de profondeur. Lorsque le type de valeur renvoyée d’un champ est un type complexe (par exemple, un champ doté de ses propres champs, plutôt qu’un type scalaire), continuez à sélectionner les champs de votre choix.
+Tout graphique de données GraphQL comporte un seul type « racine » (généralement appelé `Query`) pour démarrer l’arborescence, et les types souvent considérés comme des entités sont affectés aux champs de cette racine. L’exemple de requête crée en fait une requête générique pour le type racine et sélectionne les champs `country` et `categories`. Il sélectionne ensuite des sous-champs de ces champs, etc., potentiellement à plusieurs niveaux de profondeur. Lorsque le type de valeur renvoyée d’un champ est un type complexe (par exemple, un champ doté de ses propres champs, plutôt qu’un type scalaire), continuez à sélectionner les champs de votre choix.
 
-Ce concept de champs imbriqués explique également pourquoi vous pouvez transmettre des arguments pour `products` (`pageSize` et `currentPage`) de la même manière que pour le champ de `categories` de niveau supérieur.
+Ce concept de champs imbriqués explique également pourquoi vous pouvez transmettre des arguments pour `products` (`pageSize` et `currentPage`) de la même manière que pour le champ `categories` de niveau supérieur.
 
-Arborescence de champs de GraphQL ![](../assets/graphql-field-tree.png)
+![Arborescence De Champ GraphQL](../assets/graphql-field-tree.png)
 
 ## Variables
 
