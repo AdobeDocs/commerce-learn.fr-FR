@@ -4,9 +4,9 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1034'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Développement et mises à niveau des applications {#application-development-and-upgrades}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Ajout d’un attribut de produit](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -224,12 +224,26 @@ ht-degree: 3%
     + [Mécanisme de reprise](../back-office-integrations/retry-mechanism.md)
 
 + API et intégration {#apis-and-integration}
+  + Fondements de GraphQL {#graphql-rest}
+    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
+    + [Requêtes](../graphql-rest/graphql-queries.md)
+    + [Mutations](../graphql-rest/graphql-mutations.md)
+    + [Schéma](../graphql-rest/graphql-schema.md)
   + Exemples pratiques REST et GraphQL {#examples}
     + [Clients avec REST](../apis-and-integration/examples/customer.md)
     + Devis B2B {#b2b-quotes}
       + [Le représentant commercial lance l’API REST de devis](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
       + [GraphQL de remise sur ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
       + [API REST de notes d’élément de ligne de devis](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + Maillage API {#api-mesh}
+    + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
+    + [Workflows du kit de démarrage du maillage API](../api-mesh/starter-kit-workflows.md)
+    + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
+    + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
+    + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
+    + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
+    + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 
 + Extensibilité {#extensibility}
   + Agent de développement Commerce {#commerce-developer-agent}
@@ -272,11 +286,6 @@ ht-degree: 3%
         + [Peregrine](../pwa/introduction/6-peregrine.md)
       + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
       + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
-  + GraphQL et REST {#graphql-rest}
-    + [Principes de base de GraphQL](../graphql-rest/intro-graphql.md)
-    + [Requêtes](../graphql-rest/graphql-queries.md)
-    + [Mutations](../graphql-rest/graphql-mutations.md)
-    + [Schéma](../graphql-rest/graphql-schema.md)
   + Plus de tutoriels App Builder et d’événements I/O {#adobe-developer-app-builder}
     + Événements d’E/S pour Adobe Commerce {#io-events}
       + [Prise en main des événements IO](../io-events/getting-started-io-events.md)
@@ -286,14 +295,6 @@ ht-degree: 3%
       + [Configuration d’Adobe Commerce](../io-events/configure-commerce.md)
       + [Développement de modules Adobe Commerce](../io-events/commerce-module-development.md)
       + [Événements conditionnels Adobe Commerce](../io-events/conditional-events.md)
-  + Maillage API {#api-mesh}
-    + [Kit de démarrage du maillage API utilisant GitHub Codesespaces](../api-mesh/starter-kit-github-codespaces.md)
-    + [Workflows du kit de démarrage du maillage API](../api-mesh/starter-kit-workflows.md)
-    + [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
-    + [Installation de l’E/S d’Adobe et du plug-in de maillage](../api-mesh/installing-aio-mesh-plugin.md)
-    + [Utilisation des projets et des espaces de travail](../api-mesh/aio-projects-workspaces.md)
-    + [Créer un maillage API GraphQL à source unique](../api-mesh/graphql-single-source.md)
-    + [Créer plusieurs maillages d’API GraphQL sources](../api-mesh/graphql-multiple-source.md)
 
 + Surveillance, analyse et assistance {#monitoring-analytics-support}
   + Observability {#observability}
