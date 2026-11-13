@@ -64,7 +64,7 @@ Voici une brève présentation de [!DNL Live Search] à partir d’Adobe Commerc
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3418797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452571?captions=fre_fr&learn=on)
 
 
 ## Ressources supplémentaires
