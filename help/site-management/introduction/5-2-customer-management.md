@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] pour les utilisateurs professionnels - Gestion des clients'
-description: Découvrez les autorisations recommandées pour le service client, la création d’un client dans le [!DNL Admin], la gestion des informations client et la création de groupes de clients.
+description: Découvrez les autorisations du service client, la création de clients dans [!DNL Admin], la gestion des informations client et les groupes de clients pour votre boutique Commerce.
 kt: 5779
-doc-type: video
+doc-type: Technical Video
 duration: 308
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -33,9 +33,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 ---
 # [!DNL Commerce] pour les utilisateurs professionnels - Gestion des clients
@@ -43,7 +43,7 @@ ht-degree: 0%
 Dans cette vidéo :
 
 * Autorisations recommandées pour une demande de signature de certificat (représentant du service client)
-* Création d’un client dans le [!DNL Admin]
+* Création d&#39;un client dans le [!DNL Admin]
 * Gestion des informations client
 * Création de groupes de clients
 
@@ -53,10 +53,10 @@ Dans cette vidéo :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/330189?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36189?learn=on)
 
 ## Ressources supplémentaires
 
-[Créer un compte client individuel - [!DNL Commerce] Guide de gestion client](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=fr)
+[Créer un compte client individuel - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
 
-[Groupes de clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=fr)
+[Groupes de clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)

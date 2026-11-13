@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 195
-last-substantial-update: 2025-05-12T00:00:00.000Z
+last-substantial-update: 2025-05-12
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
 TQID: 'https://experienceleague.adobe.com/WU72DxFpsonlMV5EJSs6YK1nY8HeEnBrX-fFumYQib0'
@@ -36,7 +36,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 0%
@@ -61,12 +61,12 @@ Découvrez comment Adobe et les commerçants partagent la responsabilité de la 
 
 ## Documentation supplémentaire
 
-* [Notes de mise à jour du correctif de sécurité](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/security-patches/overview)
-* [Canaux de notification](https://business.adobe.com/fr/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Bulletins de sécurité Adobe](https://helpx.adobe.com/fr/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Sécurisation de votre site et de votre infrastructure commerciaux](https://experienceleague.adobe.com/fr/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Notes de mise à jour du correctif de sécurité](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Canaux de notification](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
+* [Bulletins de sécurité Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Sécurisation de votre site et de votre infrastructure commerciaux](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
 
 ## Tutoriels connexes
 
-* [Infrastructure cloud et auto-hébergement : déploiements, tests, surveillance et sécurité](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
-* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infrastructure cloud et auto-hébergement : déploiements, tests, surveillance et sécurité](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)

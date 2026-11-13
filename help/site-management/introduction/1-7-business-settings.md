@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] pour les utilisateurs professionnels - Paramètres de la boutique'
-description: Découvrez les paramètres régionaux, les informations du magasin, les URL sécurisées et non sécurisées, le titre du site web, le logo, les informations de copyright, les logos des e-mails de communication, les adresses e-mail du magasin, les options de devise et les taux de change.
+description: Découvrez les paramètres régionaux, les informations du magasin, les URL sécurisées/non sécurisées, le titre du site, les logos, les droits d’auteur, les adresses et logos des e-mails, les options de devise et les taux de change.
 kt: 5764
-doc-type: video
+doc-type: Technical Video
 duration: 390
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -31,9 +31,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 # [!DNL Commerce] pour les utilisateurs professionnels - Paramètres de la boutique
@@ -58,10 +58,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330031?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35949?learn=on)
 
 ## Ressources supplémentaires
 
-[Détails de la boutique - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html?lang=fr)
+[Détails de la boutique - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

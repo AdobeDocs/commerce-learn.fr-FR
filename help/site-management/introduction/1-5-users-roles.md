@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] pour les utilisateurs professionnels - Utilisateurs et rôles'
-description: Découvrez les principes de base des comptes utilisateur [!DNL Admin] et des rôles utilisateur qui déterminent les autorisations.
+description: Découvrez les principes de base concernant les comptes utilisateur [!DNL Admin] et les rôles utilisateur qui déterminent les autorisations.
 kt: 5762
-doc-type: video
+doc-type: Technical Video
 duration: 199
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Security, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -35,7 +35,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -44,7 +44,7 @@ ht-degree: 0%
 
 Dans cette vidéo :
 
-* [!DNL Admin] des comptes utilisateur
+* [!DNL Admin] comptes utilisateur
 * Rôles utilisateur et autorisations
 
 ## À qui s&#39;adresse cette vidéo ?
@@ -55,13 +55,13 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330047?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35947?learn=on)
 
 ## Ressources supplémentaires
 
-[Gestion des comptes utilisateur d’administration - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html?lang=fr)
+[Gérer les comptes utilisateur d&#39;administration - [!DNL Commerce] Guide des systèmes d&#39;administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-users-all.html)
 
-[Rôles utilisateur - [!DNL Commerce] Guide des systèmes d’administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=fr)
+[Rôles utilisateur - [!DNL Commerce] Guide des systèmes d&#39;administration](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html)
 

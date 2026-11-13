@@ -1,13 +1,13 @@
 ---
-title: '[!DNL Commerce] pour les utilisateurs professionnels - menus [!DNL Admin]'
-description: Présentation des menus fonctionnels dans la [!DNL Admin] de [!DNL Commerce] v2.3.
+title: '[!DNL Commerce] pour les utilisateurs professionnels - [!DNL Admin] menus'
+description: Présentation des menus fonctionnels dans [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: Regardez cette série de vidéos pour vous familiariser avec les principes de base d’Adobe Commerce et le travail dans l’interface Administration.
 short-description: Regardez cette série de vidéos pour vous familiariser avec les principes de base d’Adobe Commerce et le travail dans l’interface Administration.
 kt: 5758
-doc-type: video
+doc-type: Technical Video
 duration: 52
 activity: use
-last-substantial-update: 2023-5-28
+last-substantial-update: 2023-05-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -33,14 +33,14 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 26%
 ---
-# [!DNL Commerce] pour les utilisateurs professionnels - menus [!DNL Admin]
+# [!DNL Commerce] pour les utilisateurs professionnels - [!DNL Admin] menus
 
-Le [!DNL Commerce Admin] est le back-office protégé par mot de passe où vous pouvez configurer des produits et des promotions, exécuter les commandes des clients et configurer votre boutique [!DNL Commerce] en fonction des besoins de votre entreprise.
+Le [!DNL Commerce Admin] est le back-office protégé par mot de passe où vous pouvez configurer des produits et des promotions, exécuter des commandes de clients et configurer votre boutique [!DNL Commerce] en fonction des besoins de votre entreprise.
 
 Dans cette vidéo :
 
@@ -54,10 +54,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330087?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35942?learn=on)
 
 ## Ressources supplémentaires
 
-[Documentation pour les commerçants [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=fr)
+[[!DNL Commerce] Documentation pour les commerçants](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
