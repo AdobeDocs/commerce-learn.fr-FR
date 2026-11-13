@@ -4,7 +4,7 @@ description: En savoir plus sur Adobe Commerce as a Cloud Service. Une solution 
 jira: KT-17219
 doc-type: Technical Video
 duration: 231
-last-substantial-update: 2025-02-03T00:00:00.000Z
+last-substantial-update: 2025-02-03
 feature: Auto Scaling, Cloud, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Adobe Commerce as a Cloud Service offre aux entreprises une solution flexible, �
 * Intégration et mise en service simplifiées pour une configuration rapide et efficace des instances de sandbox ou de production.
 * Architecture composable pour le déploiement, la mise à l’échelle et la mise à jour indépendants des services avec une extensibilité API-First.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443313?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443311?learn=on)
 
 ## Documentation connexe
 
-* [Guide d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/overview)
+* [Guide d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview)

@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 136
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -59,11 +59,11 @@ Chaque site web d’une installation Adobe Commerce ou Magento Open Source compo
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.1.0. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview).
+>Le contenu de la vidéo reflète la version 2.1.0. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507853?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Ressources supplémentaires
 
-* [URL des magasins - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/fr/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [Utiliser une URL d’administration personnalisée - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/fr/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [URL des magasins - [!DNL Commerce] Guide d’expérience des magasins et des achats](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [Utiliser une URL d’administration personnalisée - [!DNL Commerce] Magasins et guide d’expérience d’achat](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
