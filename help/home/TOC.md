@@ -4,15 +4,20 @@ user-guide-description: Découvrez Adobe Commerce et Magento Open Source par 
 breadcrumb-title: Vidéos et tutoriels
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
+source-git-commit: ed6305c5f9feda262b5985886b1889c6eae55108
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1090'
 ht-degree: 2%
 ---
 
 # Vidéos et tutoriels Adobe Commerce {#tutorials}
 
 + [Tutoriels [!DNL Commerce]](overview.md)
++ Prise en main {#getting-started}
+  + Fonctionnalités de Commerce {#capabilities}
+    + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
+    + [Commerce composable](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
   + [Vue d’ensemble](../commerce-as-a-cloud-service/overview.md)
   + [Architecture](../commerce-as-a-cloud-service/architecture.md)
@@ -155,7 +160,7 @@ ht-degree: 2%
       + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Développement et mises à niveau des applications {#application-development-and-upgrades}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Création d’un module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Ajout d’un attribut de produit](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +178,8 @@ ht-degree: 2%
       + [Packages en bloc](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Packages distincts](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+
 + App Builder {#app-builder}
   + Fondations {#foundations}
     + [Présentation d’App Builder](../app-builder/foundations/introduction-to-app-builder.md)
@@ -209,11 +216,6 @@ ht-degree: 2%
     + [Outils d’IA et kit de démarrage Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
     + [Implémentation et tests](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
     + [Fournir des commentaires à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ Prise en main {#getting-started}
-  + Fonctionnalités de Commerce {#capabilities}
-    + [Options commerciales disponibles](../capabilities/adobes-available-commerce-options.md)
-    + [Commerce composable](../capabilities/what-is-composable-commerce.md)
 
 + API et intégration {#apis-and-integration}
   + Fondements de GraphQL {#graphql-rest}
@@ -295,6 +297,8 @@ ht-degree: 2%
     + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
     + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
 
++ [IA et commerce d’agence](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + Surveillance, analyse et assistance {#monitoring-analytics-support}
   + Observability {#observability}
     + [Présentation de l’observabilité](../monitoring-analytics-support/observability/overview.md)
@@ -313,3 +317,5 @@ ht-degree: 2%
     + [Créer un ticket d’assistance](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [Webinaires et événements](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
