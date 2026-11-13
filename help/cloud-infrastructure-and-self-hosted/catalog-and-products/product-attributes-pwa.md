@@ -6,7 +6,7 @@ duration: 463
 audience: all
 activity: use
 jira: KT-13789
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -60,5 +60,5 @@ Dans cette vidéo, découvrez comment gérer les attributs de produit lorsque vo
 
 ## Ressources supplémentaires
 
-* [Attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=fr)
+* [Attributs de produit - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
 * [PWA Studio - Documentation destinée aux développeurs](https://developer.adobe.com/commerce/pwa-studio/)

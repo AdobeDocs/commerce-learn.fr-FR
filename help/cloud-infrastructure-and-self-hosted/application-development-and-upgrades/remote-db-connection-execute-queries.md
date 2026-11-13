@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 581
-last-substantial-update: 2024-06-25T00:00:00.000Z
+last-substantial-update: 2024-06-25
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 TQID: 'https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc'
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.958Z'
-source-git-commit: 20b453fcf567eee25d70450bdc9b739f16623f68
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Découvrez comment vous connecter à un projet Adobe Commerce sur le cloud, cré
 * Connectez-vous à un projet Adobe Commerce Cloud distant avec un outil de gestion de base de données tel que MySQL Workbench ou TablePlus.
 * Connectez-vous au projet et exécutez SQL à partir de la ligne de commande.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450038?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 Vous pouvez accéder aux données Adobe Commerce à partir de votre projet cloud à l’aide de l’une des méthodes suivantes :
 
@@ -55,7 +55,7 @@ Privilégiez une image mémoire de base de données que vous nettoyez pour suppr
 
 ## Utilisation de l’outil Adobe Commerce Cloud CLI
 
-[L’interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview) doit être installée pour créer une image mémoire de base de données. Sur votre ordinateur local, ouvrez un répertoire et exécutez la commande suivante. Remplacez `your-project-id` par votre ID de projet (similaire à `asasdasd45q`). Remplacez `your-environment-name` par le nom de votre environnement, par exemple `master` ou `staging`.
+[L’interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview) doit être installée pour créer une image mémoire de base de données. Sur votre ordinateur local, ouvrez un répertoire et exécutez la commande suivante. Remplacez `your-project-id` par votre ID de projet (similaire à `asasdasd45q`). Remplacez `your-environment-name` par le nom de votre environnement, par exemple `master` ou `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -291,7 +291,7 @@ Pour accéder directement à la base de données MariaDB, utilisez SSH pour vous
    magento-cloud ssh
    ```
 
-2. Récupérez les informations d’identification de connexion MySQL à partir des propriétés `database` et `type` dans la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships).
+2. Récupérez les informations d’identification de connexion MySQL à partir des propriétés `database` et `type` dans la variable [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/app/properties/properties#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -337,7 +337,7 @@ Une fois la connexion configurée, vous pouvez utiliser une interface utilisateu
 
 ## Connexion directe à la base de données du projet cloud pour exécuter SQL
 
-La méthode suivante utilise l’interface de ligne de commande `magento-cloud` pour se connecter directement à la base de données MySQL et exécuter SQL pour accélérer les requêtes. Si vous avez besoin d&#39;une copie de cette base de données, utilisez l&#39;une des méthodes alternatives pour [créer une image mémoire de la base de données](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
+La méthode suivante utilise l’interface de ligne de commande `magento-cloud` pour se connecter directement à la base de données MySQL et exécuter SQL pour accélérer les requêtes. Si vous avez besoin d&#39;une copie de cette base de données, utilisez l&#39;une des méthodes alternatives pour [créer une image mémoire de la base de données](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud).
 
 ```bash
 magento-cloud db:sql    
@@ -397,7 +397,7 @@ MariaDB [main]>
 
 ## Ressources supplémentaires
 
-* [Interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
-* [Configuration du service MySQL](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/configure/service/mysql)
-* [Configurer une connexion distante à la base de données MySQL](https://experienceleague.adobe.com/fr/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
-* [Créer une image mémoire de base de données sur Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/fr/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)
+* [Interface de ligne de commande Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview)
+* [Configuration du service MySQL](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/configure/service/mysql)
+* [Configurer une connexion distante à la base de données MySQL](https://experienceleague.adobe.com/en/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote)
+* [Créer une image mémoire de base de données sur Adobe Commerce sur l’infrastructure cloud](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud)

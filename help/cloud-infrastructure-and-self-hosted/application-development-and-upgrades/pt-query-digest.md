@@ -3,7 +3,7 @@ title: Analysez les requêtes MySQL avec Percona Toolkit pt-query-digest
 description: Découvrez comment utiliser pt-query-digest pour analyser les requêtes MySQL à partir de fichiers journaux lents, généraux et binaires, ainsi que les données de protocole SHOW PROCESSLIST et MySQL de tcpdump.
 doc-type: Technical Video
 duration: 506
-last-substantial-update: 2023-08-28T00:00:00.000Z
+last-substantial-update: 2023-08-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
 role: Developer
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.956Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Découvrez pourquoi utiliser pt-query-digest et quelques exemples pratiques pour
 * Découvrez les avantages et les inconvénients de cette fonctionnalité Percona Toolkit
 * Découvrez les résultats et les étapes de performances possibles à envisager
 
->[!VIDEO](https://video.tv.adobe.com/v/3452291?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
 
 ## Références de code
 

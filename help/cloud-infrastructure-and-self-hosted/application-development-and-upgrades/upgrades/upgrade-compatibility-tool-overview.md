@@ -4,7 +4,7 @@ description: Découvrez comment l’outil de compatibilité de mise à niveau an
 jira: KT-9983
 doc-type: Technical Video
 duration: 398
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer, Admin
@@ -36,7 +36,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.962Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -53,7 +53,7 @@ Dans cette vidéo :
 * Comment cela peut vous aider à identifier rapidement les erreurs et les correctifs requis pour effectuer une mise à niveau vers une version plus récente d’Adobe Commerce
 * Pour visualiser les modules par gravité et nombre d’incompatibilités, accédez aux résultats d’HTML
 
-Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/fr/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Pour en savoir plus sur l&#39;exécution et la simplification de vos mises à niveau, consultez le [Guide de mise à niveau](https://experienceleague.adobe.com/fr/docs/commerce-operations/upgrade-guide/overview).
+Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Pour en savoir plus sur l&#39;exécution et la simplification de vos mises à niveau, consultez le [Guide de mise à niveau](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview).
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -62,11 +62,11 @@ Pour en savoir plus sur l’outil, consultez la [documentation de l’outil de c
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/344383?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
 
 ## Ressources supplémentaires
 
-* [Documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/fr/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
-* [Guide de mise à niveau](https://experienceleague.adobe.com/fr/docs/commerce-operations/upgrade-guide/overview)
-* [Versions publiées](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/versions)
-* [Calendrier des versions](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/planning/schedule)
+* [Documentation de l’outil de compatibilité de mise à niveau](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
+* [Guide de mise à niveau](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)
+* [Versions publiées](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)
+* [Calendrier des versions](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)

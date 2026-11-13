@@ -6,7 +6,7 @@ doc-type: Technical Video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00.000Z
+last-substantial-update: 2023-11-16
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -47,7 +47,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 8d29942509b7ec6ad6411889789a9661c9c8fb91
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 4%
@@ -64,7 +64,7 @@ Découvrez comment créer un produit téléchargeable à l’aide de l’API RES
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453944?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
 
 ## Domaines téléchargeables autorisés
 
@@ -88,7 +88,7 @@ Une fois cette opération terminée, le `env.php` est modifié dans le tableau _
 
 Maintenant que le domaine est ajouté à `env.php`, vous pouvez créer un produit téléchargeable dans l’administration Adobe Commerce ou à l’aide de l’API REST.
 
-Voir [Référence de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=fr#downloadable_domains) pour en savoir plus.
+Voir [Référence de configuration](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains) pour en savoir plus.
 
 >[!IMPORTANT]
 >Sur certaines versions d’Adobe Commerce, il se peut que vous receviez l’erreur suivante lorsqu’un produit est modifié dans l’Administrateur Adobe Commerce. Le produit est créé à l’aide de l’API REST, mais le téléchargement lié a un prix `null`.
@@ -270,7 +270,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Ressources supplémentaires
 
-* [Type de produit téléchargeable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=fr){target="_blank"}
-* [Guide de configuration des domaines téléchargeables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=fr#downloadable_domains){target="_blank"}
+* [Type de produit téléchargeable](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html){target="_blank"}
+* [Guide de configuration des domaines téléchargeables](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html#downloadable_domains){target="_blank"}
 * [Tutoriels REST Adobe Developer](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [Adobe Commerce REST ReDoc](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

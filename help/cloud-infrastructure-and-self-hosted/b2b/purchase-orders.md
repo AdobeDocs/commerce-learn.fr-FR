@@ -3,7 +3,7 @@ title: Commandes et approbations d'achat B2B
 description: Découvrez comment activer les commandes fournisseur B2B et les règles d’approbation pour les comptes d’entreprise, y compris les limites de dépenses, les approbateurs désignés et les politiques d’achat.
 doc-type: Feature Video
 duration: 257
-last-substantial-update: 2026-03-25T00:00:00.000Z
+last-substantial-update: 2026-03-25
 feature: Purchase Orders, B2B
 topic: Commerce, Administration
 role: User
@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -71,9 +71,9 @@ Avec les autorisations requises pour leur rôle, les clients B2B peuvent configu
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410765?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
 
 ## Ressources supplémentaires
 
-* [Commandes fournisseur pour les entreprises](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
-* [Règles d&#39;approbation de commande fournisseur](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
+* [Commandes fournisseur pour les entreprises](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [Règles d&#39;approbation de commande fournisseur](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}

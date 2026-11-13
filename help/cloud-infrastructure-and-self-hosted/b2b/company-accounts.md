@@ -4,7 +4,7 @@ description: 'Découvrez comment gérer les comptes d’entreprise B2B dans Adob
 doc-type: Technical Video
 duration: 172
 jira: KT-13909
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
 ---
 # Gestion des comptes d’entreprise
 
-Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici. Toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
+Pour les commerçants B2B, la page _[!UICONTROL Companies]_répertorie tous les comptes d’entreprise actuels et leur statut. Vous pouvez gérer les comptes de votre société ici. Toutes les demandes d’approbation en attente apparaissent en haut de la liste. Les commandes standard du lieu de travail peuvent être utilisées pour filtrer la liste, modifier la disposition des colonnes, enregistrer les vues et exporter les données.
 
 {{b2b-feature}}
 
@@ -63,9 +63,9 @@ Pour les commerçants B2B, la page _[!UICONTROL Companies]_&#x200B;répertorie t
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410771?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Ressources supplémentaires
 
-* [Comptes d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Comptes d’entreprise](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Gestion des comptes d’entreprise](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}

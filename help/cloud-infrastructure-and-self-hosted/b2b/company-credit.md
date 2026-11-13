@@ -4,7 +4,7 @@ description: Découvrez comment les utilisateurs du compte d’entreprise B2B pe
 doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Gérer le crédit d’entreprise
 
-Les sociétés dont le champ _[!UICONTROL Payment on Account]_&#x200B;est activé et dont le crédit d&#39;entreprise est disponible peuvent effectuer des achats sur leur compte jusqu&#39;à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
+Les sociétés dont le champ _[!UICONTROL Payment on Account]_est activé et dont le crédit d&#39;entreprise est disponible peuvent effectuer des achats sur leur compte jusqu&#39;à concurrence de la limite de crédit accordée. Grâce à cette fonctionnalité, les clients peuvent vérifier le statut du crédit de leur entreprise depuis le tableau de bord de leur compte.
 
 Vous pouvez définir les paramètres de crédit suivants pour chaque profil de société :
 
@@ -70,9 +70,9 @@ Vous pouvez définir les paramètres de crédit suivants pour chaque profil de s
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410759?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Ressources supplémentaires
 
-* [Configurer le paiement en compte](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/companies/credit-company)
+* [Configurer le paiement en compte](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gérer le crédit d’entreprise](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

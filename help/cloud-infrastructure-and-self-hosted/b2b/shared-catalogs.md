@@ -4,7 +4,7 @@ description: Découvrez comment utiliser les catalogues partagés B2B dans Adobe
 doc-type: Feature Video
 duration: 456
 jira: KT-10682
-last-substantial-update: 2023-05-10T00:00:00.000Z
+last-substantial-update: 2023-05-10
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
@@ -62,9 +62,9 @@ Si la fonction Catalogue partagé est activée dans la configuration, le catalog
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410753?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
 
 ## Ressources supplémentaires
 
-* [Utilisation de catalogues partagés](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
-* [Création d’un catalogue partagé](https://experienceleague.adobe.com/fr/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
+* [Utilisation de catalogues partagés](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/catalog-shared){target="_blank"}
+* [Création d’un catalogue partagé](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create){target="_blank"}
