@@ -6,13 +6,13 @@ doc-type: Feature Video
 duration: 317
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development, Page Content
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/fr/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
+badgePaas: label="PaaS uniquement" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="S’applique uniquement aux projets Adobe Commerce on Cloud (infrastructure PaaS gérée par Adobe) et aux projets On-premise."
 TQID: https://experienceleague.adobe.com/ydFn1DpgMmq8KVWcSS91-E-0ZUggI-FQPd6-SC-GrYM
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Customer engagement
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 1%
@@ -62,9 +62,9 @@ Dans cette vidéo, découvrez comment :
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3447892?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343781?learn=on)
 
 ## Ressources supplémentaires
 
-* [Guide de l’utilisateur de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html?lang=fr)
+* [Guide de l’utilisateur de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)
 * [Guide du développeur de Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)

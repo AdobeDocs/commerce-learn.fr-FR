@@ -4,7 +4,7 @@ description: Découvrez comment utiliser le tableau de bord de l’outil d’ana
 doc-type: Technical Video
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 old-role: Architect, Developer
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -62,9 +62,9 @@ L’outil d’analyse à l’échelle du site est un outil en libre-service proa
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3410777?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Ressources supplémentaires
 
-* [Outil d’analyse à l’échelle du site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=fr)
-* [Affichage et gestion des journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=fr)
+* [Outil d’analyse à l’échelle du site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [Affichage et gestion des journaux](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

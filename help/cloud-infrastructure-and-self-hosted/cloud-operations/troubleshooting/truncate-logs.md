@@ -8,7 +8,7 @@ role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 302
-last-substantial-update: 2025-3-25
+last-substantial-update: 2025-03-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
 TQID: 'https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ'
@@ -33,7 +33,7 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 Découvrez comment effectuer un triage et un déploiement ayant échoué en raison d’un disque dur saturé. Découvrez comment rechercher et quelles commandes peuvent être exécutées pour libérer de l’espace dans votre environnement Adobe Commerce Cloud.
 
-Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou utiliser d’autres méthodes pour obtenir une copie disponible sur le serveur avant de les tronquer.
+Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou utiliser d&#39;autres méthodes pour obtenir une copie disponible sur le serveur avant de les tronquer.
 
 ## À qui s’adresse cette vidéo ?
 
@@ -55,12 +55,12 @@ Si vous pensez avoir besoin de ces fichiers journaux, vous pouvez les `rsync` ou
 * Emplacement de certains grands fichiers journaux courants
 * Méthode rapide pour tronquer un fichier journal
 
->[!VIDEO](https://video.tv.adobe.com/v/3454585?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Commandes utilisées dans la vidéo
 
-Pour vérifier l&#39;espace disque `df -h`. Faites attention à la ligne dev/mapper/xxxx
+Pour vérifier l&#39;espace du disque dur `df -h`. Faites attention à la ligne dev/mapper/xxxx
 
 ```SHELL
 df -h
@@ -80,7 +80,7 @@ tmpfs                                   5.0M     0  5.0M   0% /run/lock
 ```
 
 
-Affichez les fichiers et leur taille dans un format lisible par l’utilisateur, tel que ko, mo et go à l’aide de la `ls -lah` de commande
+Affichez les fichiers et leur taille dans un format lisible, tel que ko, mo et go, à l&#39;aide de la commande `ls -lah`
 
 ```SHELL
 ls -lah
@@ -102,7 +102,7 @@ drwxr-xr-x 6 web web 4.0K Jan 10  2024 ..
 
 ## Exemples de journal tronqué
 
-Après avoir envoyé le fichier dans le projet et l’environnement appropriés, accédez au répertoire `var/log` . Vous pouvez ensuite tronquer un fichier avec un élément similaire à `> some-log-file.log`
+Après avoir envoyé un fichier ssh dans le projet et l’environnement appropriés, accédez au répertoire `var/log`. Vous pouvez ensuite tronquer un fichier avec un élément similaire à `> some-log-file.log`
 
 ```BASH
 > support_report.log 
@@ -111,4 +111,4 @@ Après avoir envoyé le fichier dans le projet et l’environnement appropriés,
 
 ## Documentation connexe
 
-* [Notifications d’intégrité](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notifications d’intégrité](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

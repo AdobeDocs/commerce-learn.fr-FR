@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -61,11 +61,11 @@ Chaque installation d’Adobe Commerce et de Magento Open Source prend en charge
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.1.0. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/overview).
+>Le contenu de la vidéo reflète la version 2.1.0. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507654?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Ressources supplémentaires
 
-* [Sites web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/fr/docs/commerce-admin/start/setup/websites-stores-views)
-* [Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/fr/docs/commerce-admin/catalog/categories/category-root)
+* [Sites web, magasins et vues - [!DNL Commerce] Guide de prise en main](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Catégorie et hiérarchie racine - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)

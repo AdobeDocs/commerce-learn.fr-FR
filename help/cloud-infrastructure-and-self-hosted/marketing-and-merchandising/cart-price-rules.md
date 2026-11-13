@@ -2,7 +2,7 @@
 title: Créer des règles de prix de panier
 description: Découvrez comment créer des règles de prix de panier qui appliquent des remises dans le panier lorsque les conditions que vous définissez sont remplies.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Les règles de prix de panier appliquent des remises aux articles du panier en f
 * Créez des règles de prix de panier et des codes de coupon facultatifs.
 * Découvrez comment les remises apparaissent dans le panier et pour les promotions.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410804?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Problèmes d’affichage des prix
 
@@ -154,5 +154,5 @@ toutefois, si nous laissons tomber la troisième décimale, cela indiquera que 3
 
 ## Ressources supplémentaires
 
-* [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/fr/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Codes de coupon - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/fr/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Créer une règle de prix de panier - [!DNL Commerce] Guide de marchandisage et de promotions](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Codes de coupon - [!DNL Commerce] Guide de merchandising et de promotion](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
