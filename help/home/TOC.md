@@ -177,7 +177,7 @@ ht-degree: 2%
       + [Remises ligne devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Notes d&#39;élément de ligne de devis](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Développement et mises à niveau des applications {#application-development-and-upgrades}
-    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [Bonnes pratiques relatives à la modification des tables de base de données](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=fr)
     + [Création d’un module](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Ajout d’un attribut de produit](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemple d’injection de dépendance](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -278,7 +278,7 @@ ht-degree: 2%
 
 + Extensibilité {#extensibility}
   + Agent de développement Commerce {#commerce-developer-agent}
-    + [Parcours de formation de l’agent de développement](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [Parcours de formation de l’agent de développement](https://experienceleague.adobe.com/fr/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Développement de storefront {#storefront-development}
   + Commerce storefront sous Edge Delivery Services {#edge-delivery-services}
@@ -313,7 +313,7 @@ ht-degree: 2%
     + [Développement de PWA Docker](../pwa/pwa-docker-development.md)
     + [Configurer Venia pour le développement](../pwa/set-up-venia-for-dev.md)
 
-+ [IA et commerce d’agence](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
++ [IA et commerce d’agence](https://experienceleague.adobe.com/fr/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 
 + Surveillance, analyse et assistance {#monitoring-analytics-support}
   + Observability {#observability}
@@ -334,4 +334,4 @@ ht-degree: 2%
     + [Rechercher, vérifier, commenter et réaffecter des tickets d’assistance](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gérer les points de contrôle et le statut des tickets d’assistance](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ [Webinaires et événements](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
++ [Webinaires et événements](https://experienceleague.adobe.com/fr/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
