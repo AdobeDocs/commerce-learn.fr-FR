@@ -73,7 +73,7 @@ Si un CTA/CSE est affecté(e) au compte, contactez-le ainsi que le gestionnaire 
 1. Consultez la documentation sur le test et la mise en ligne [Documentation sur le lancement du site](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Assurez-vous qu’un _« plan de préparation en ligne »_ complet est entièrement préparé avec votre partenaire ou votre intégrateur système, y compris toutes les mesures à prendre. N’oubliez pas que même si la liste de contrôle de prélancement met l’accent sur les bonnes pratiques d’Adobe, elle _**ne remplace pas**_ le besoin de votre propre plan de préparation à la mise en production.
+   >Assurez-vous qu’un _« plan de préparation en ligne »_ complet est entièrement préparé avec votre partenaire ou votre intégrateur système, y compris toutes les mesures à prendre. N’oubliez pas que même si la liste de contrôle de prélancement met l’accent sur les bonnes pratiques d’Adobe, elle _&#x200B;**ne remplace pas**&#x200B;_ le besoin de votre propre plan de préparation à la mise en production.
 
 2. [!BADGE Bloqueur]{type=caution tooltip="Bloqueur potentiel"} Consultez les recommandations et informations SWAT (Support Insights) ([Guide de l’utilisateur](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. Vérifiez que les utilisateurs finaux et les commerçants ont terminé l’UAT (test d’acceptation utilisateur), y compris les opérations principales.
@@ -98,7 +98,7 @@ Si un CTA/CSE est affecté(e) au compte, contactez-le ainsi que le gestionnaire 
 3. Assurez-vous que l’optimisation des images Fastly est activée ([Voir Optimisation des images Fastly](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-image-optimization){target="_blank"})
 4. Vérifiez que l&#39;emplacement correct du blindage est configuré ([Configurer le cache, les serveurs principaux et le blindage d&#39;origine](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/setup-fastly/fastly-custom-cache-configuration){target="_blank"}).
 5. Vérifiez que le pare-feu d&#39;application web (**WAF**) fonctionne. (Voir [Résolution des problèmes liés aux requêtes bloquées](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/cdn/fastly-waf-service){target="_blank"}, le cas échéant, et aux limitations.)
-6. Mettez à jour la liste [ « Paramètres d’URL ignorés »](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} Fastly dans le panneau d’administration pour améliorer les performances du cache.
+6. Mettez à jour la liste [&#x200B; « Paramètres d’URL ignorés »](https://github.com/iancassidyweb/magento2/commit/68fdecfcd26c957382b8d68b64887e0a83298524){target="_blank"} Fastly dans le panneau d’administration pour améliorer les performances du cache.
 
    >[!NOTE]
    > Dans la configuration Fastly sous _Admin > Magasins > Configurations > Système > Cache de page complet > Configuration Fastly > Configuration avancée > Paramètres d’URL ignorés (globaux)_, vous pouvez trouver une liste de paramètres séparés par des virgules que Fastly doit ignorer lors de la recherche de pages mises en cache. Chargez à nouveau le VCL après avoir modifié cette liste.
