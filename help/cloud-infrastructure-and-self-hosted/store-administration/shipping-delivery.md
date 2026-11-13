@@ -60,6 +60,6 @@ Gérez les méthodes d’expédition et de livraison pour livrer les produits à
 
 ## Ressources supplémentaires
 
-* [Paramètres d&#39;expédition - [!DNL Commerce] Guide des magasins et de l&#39;expérience d&#39;achat](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [Méthodes de livraison de base - [!DNL Commerce] Guide des magasins et de l’expérience d’achat](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [Configuration du transporteur - [!DNL Commerce] Magasins et guide d&#39;expérience d&#39;achat](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [Paramètres d&#39;expédition - [!DNL Commerce] Guide des magasins et de l&#39;expérience d&#39;achat](https://experienceleague.adobe.com/fr/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [Méthodes de livraison de base - [!DNL Commerce] Guide des magasins et de l’expérience d’achat](https://experienceleague.adobe.com/fr/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [Configuration du transporteur - [!DNL Commerce] Magasins et guide d&#39;expérience d&#39;achat](https://experienceleague.adobe.com/fr/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)

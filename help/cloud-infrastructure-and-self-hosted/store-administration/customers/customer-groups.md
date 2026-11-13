@@ -66,4 +66,4 @@ Les groupes de clients d’Adobe Commerce vous permettent de proposer des promot
 
 ## Ressources supplémentaires
 
-* [Groupes de clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)
+* [Groupes de clients - [!DNL Commerce] Guide de gestion des clients](https://experienceleague.adobe.com/fr/docs/commerce-admin/customers/customer-groups)
