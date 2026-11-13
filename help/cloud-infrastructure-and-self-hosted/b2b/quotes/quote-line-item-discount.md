@@ -65,6 +65,6 @@ Pour le workflow de l’API, consultez [Citer des remises pour ligne avec GraphQ
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445587?captions=fre_fr&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
