@@ -62,7 +62,7 @@ Choisissez l’une des options ci-dessous pour en savoir plus.
 
 ## Création manuelle des produits {#manual-import}
 
-Envisagez la création manuelle de produits pour un petit catalogue avec des mises à jour peu fréquentes. La saisie de chaque produit prend du temps et nécessite une formation de base sur Commerce Admin. La gestion manuelle des catalogues s’adapte à des situations spécifiques plutôt qu’à la plupart des magasins. Pour obtenir des instructions, voir [Créer un produit](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Si vous combinez plusieurs méthodes de gestion de catalogue, limitez les modifications manuelles une fois l’automatisation introduite. Les mises à jour automatisées risquent de remplacer les modifications manuelles et de prêter à confusion. Lorsqu’une intégration gère le catalogue par le biais de l’automatisation et des API, restreignez la gestion du catalogue dans l’administration par le biais de [rôles utilisateur et autorisations](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
+Envisagez la création manuelle de produits pour un petit catalogue avec des mises à jour peu fréquentes. La saisie de chaque produit prend du temps et nécessite une formation de base sur Commerce Admin. La gestion manuelle des catalogues s’adapte à des situations spécifiques plutôt qu’à la plupart des magasins. Pour obtenir des instructions, voir [Créer un produit](https://experienceleague.adobe.com/fr/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Si vous combinez plusieurs méthodes de gestion de catalogue, limitez les modifications manuelles une fois l’automatisation introduite. Les mises à jour automatisées risquent de remplacer les modifications manuelles et de prêter à confusion. Lorsqu’une intégration gère le catalogue par le biais de l’automatisation et des API, restreignez la gestion du catalogue dans l’administration par le biais de [rôles utilisateur et autorisations](https://experienceleague.adobe.com/fr/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
 
 ### Quand envisager cette approche ?
 
@@ -77,7 +77,7 @@ Envisagez la création manuelle de produits pour un petit catalogue avec des mis
 ## Outil d’importation CSV d’administration {#admin-csv}
 
 Cet outil permet à un propriétaire de magasin d’importer un catalogue à l’aide d’un fichier CSV directement depuis l’administrateur de Commerce.
-[Importer des données depuis Commerce Admin](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[Importer des données depuis Commerce Admin](https://experienceleague.adobe.com/fr/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 Avantages :
 Le chargement d’un fichier CSV à partir de l’administration est une approche simple de la gestion des catalogues. Il permet des mises à jour de produits de catalogue plus rapides pour un catalogue de taille moyenne.
@@ -171,6 +171,6 @@ Inconvénients :
 ## Ressources supplémentaires
 
 * [Importer des données à l’aide du nouveau fichier CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Documentation principale sur l’importation de données](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Documentation principale sur l’importation de données](https://experienceleague.adobe.com/fr/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 * [Notes de mise à jour de la version 2.4.6 d’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [Utilisateurs, rôles et autorisations](../store-administration/users-roles-permissions.md){target="_blank"}
