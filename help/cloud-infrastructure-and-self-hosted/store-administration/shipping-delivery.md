@@ -56,7 +56,7 @@ Gérez les méthodes d’expédition et de livraison pour livrer les produits à
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410206?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
