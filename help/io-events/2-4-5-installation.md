@@ -4,7 +4,7 @@ description: Découvrez comment installer les modules nécessaires aux événeme
 jira: KT-11886
 doc-type: Tutorial
 duration: 179
-last-substantial-update: 2023-02-22T00:00:00.000Z
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.5
 feature: App Builder, Eventing
 topic: Commerce, Architecture
@@ -35,14 +35,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
 # Installation d’Adobe Commerce 2.4.5
 
-Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.5. Cela permet de configurer les modules nécessaires à l’utilisation de l’application Adobe Commerce. Consultez la documentation supplémentaire disponible dans [Installation de Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
+Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.5. Cela permet de configurer les modules nécessaires à l’utilisation de l’application Adobe Commerce. Documentation supplémentaire trouvée dans [Installer Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -55,7 +55,7 @@ Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l
 * Commandes à exécuter pour Adobe Commerce Cloud
 * Modification requise pour l’yaml Adobe Commerce Cloud
 
->[!VIDEO](https://video.tv.adobe.com/v/3419827?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415794?learn=on)
 
 ## Commandes disponibles {#useful-commands}
 
@@ -85,7 +85,7 @@ composer update
 composer info magento/ece-tools
 ```
 
-`.magento.env.yaml` COMMERCE CLOUD :
+Commerce Cloud `.magento.env.yaml` :
 
 ```yaml
 stage:
