@@ -83,9 +83,9 @@ topic_v2:
     internal-label: Insights
   - id: e6ff21d3-dec6-4298-8590-7c749fffaf78
     internal-label: Content and assets
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '375'
 ht-degree: 0%
 ---
 # Réduction de la table des matières pour les intégrations Adobe Commerce
@@ -112,5 +112,12 @@ Mettez en évidence la disponibilité des connexions de données pour un flux de
 * Explication des défis et des coûts associés à l&#39;intégration de divers systèmes et points de contact dans un environnement de commerce numérique.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428768?learn=on)
+
+## Tutoriels connexes
+
+* [Présentation d’App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Prise en main du maillage API](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Prise en main de Adobe I/O Events](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/events-and-webhooks/io-events/getting-started-io-events)
+* [Connexion aux données](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

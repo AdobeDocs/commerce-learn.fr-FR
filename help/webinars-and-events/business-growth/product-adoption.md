@@ -2,7 +2,7 @@
 title: Simplifier la migration vers Adobe Commerce à l’aide d’outils d’IA
 description: Découvrez comment Adobe Commerce simplifie la migration vers le cloud grâce à des outils d’IA, une adoption modulaire et un développement plus rapide pour une croissance commerciale évolutive.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # Croissance des entreprises en simplifiant l’adoption de nouveaux produits
@@ -63,4 +63,10 @@ Adobe Commerce facilite la croissance des entreprises en les aidant à migrer ve
 * L’extensibilité d’App Builder permet de découpler la logique personnalisée en fonctions sans serveur pour une maintenance plus facile.
 * Les améliorations apportées à Storefront améliorent les performances et la création de contenu avec des composants de dépôt et une diffusion Edge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475750?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
+
+## Tutoriels connexes
+
+* [Migration vers Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Présentation d’App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)

@@ -52,10 +52,10 @@ topic_v2:
     internal-label: Accessibility
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 1%
+source-wordcount: '437'
+ht-degree: 0%
 ---
 # Edge Delivery Services avec Adobe Commerce
 
@@ -82,5 +82,10 @@ En outre, le webinaire présente la flexibilité et l’innovation apportées pa
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429059?learn=on)
+
+## Tutoriels connexes
+
+* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Personnaliser le passage en caisse sur Edge Delivery Services](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

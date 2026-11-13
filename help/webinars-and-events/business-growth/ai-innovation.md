@@ -2,7 +2,7 @@
 title: Croissance des entreprises grâce à l'innovation dans l'IA
 description: 'Explorez la croissance du e-commerce optimisé par l’IA avec Adobe Commerce : stimulez la découvrabilité, optimisez les vitrines et étendez-vous à l’échelle mondiale.'
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -50,9 +50,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '207'
 ht-degree: 0%
 ---
 # Croissance des entreprises grâce à l&#39;innovation dans l&#39;IA
@@ -71,4 +71,10 @@ Découvrez comment Adobe Commerce révolutionne l’e-commerce avec des solution
 * Accélérer l&#39;expansion mondiale grâce à l&#39;innovation catalogue
 * Amélioration De L’Expérience Storefront Grâce À Conversational Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475697?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691?learn=on)
+
+## Tutoriels connexes
+
+* [Présentation de Commerce MCP](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Parcours de formation de l’agent de développement Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+* [Adobe Commerce Optimizer : modèle de données de catalogue composable](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

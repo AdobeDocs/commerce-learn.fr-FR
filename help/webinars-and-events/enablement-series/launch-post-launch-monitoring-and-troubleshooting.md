@@ -1,6 +1,6 @@
 ---
-title: surveillance et dépannage continus après le lancement et le lancement d’Adobe Commerce
-description: Découvrez les bonnes pratiques et des conseils pour préparer et lancer un site web. Découvrez comment choisir le bon environnement d’évaluation, fournir des détails pertinents dans les tickets d’assistance et utiliser le même outil de surveillance que l’équipe d’assistance pour une meilleure communication.
+title: Lancement, surveillance et dépannage d’Adobe Commerce Cloud
+description: Découvrez comment préparer, lancer, surveiller et dépanner Adobe Commerce Cloud à l’aide d’environnements d’évaluation, de tickets d’assistance détaillés et d’outils de surveillance partagés.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 old-role: Architect, Data Architect, Leader
@@ -41,9 +41,9 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '388'
 ht-degree: 0%
 ---
 # Lancement, surveillance et dépannage d’Adobe Commerce Cloud
@@ -66,5 +66,11 @@ Ce webinaire fournit plusieurs bonnes pratiques et conseils pour la préparation
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428990?learn=on)
+
+## Tutoriels connexes
+
+* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infrastructure cloud et auto-hébergement : alertes New Relic](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Créer un ticket d’assistance](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
