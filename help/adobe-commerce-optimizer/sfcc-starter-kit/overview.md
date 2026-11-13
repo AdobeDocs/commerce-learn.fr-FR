@@ -57,4 +57,4 @@ Découvrez Commerce Optimizer Salesforce Commerce Cloud Connector, un outil con�
 3. [Kit de démarrage App Builder](./app-builder-starter-kit.md)
 4. [Démonstration de bout en bout](./end-to-end-demo.md)
 
-Pour connaître les concepts App Builder partagés, consultez [Présentation d’App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
+Pour connaître les concepts App Builder partagés, consultez [Présentation d’App Builder](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
