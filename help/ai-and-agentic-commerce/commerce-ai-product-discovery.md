@@ -41,5 +41,5 @@ Même les catalogues de produits les plus riches n’ont qu’une visibilité pa
 * Enrichissement du catalogue générant des noms et des descriptions de produits optimisés pour l’IA
 * Validation des améliorations à l’aide d’AI Content Visibility Checker
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492325?captions=fre_fr)
 
