@@ -111,4 +111,4 @@ Après avoir envoyé un fichier ssh dans le projet et l’environnement appropri
 
 ## Documentation connexe
 
-* [Notifications d’intégrité](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notifications d’intégrité](https://experienceleague.adobe.com/fr/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
