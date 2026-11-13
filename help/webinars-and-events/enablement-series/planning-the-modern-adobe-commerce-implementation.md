@@ -1,6 +1,6 @@
 ---
 title: Planification de la mise en œuvre moderne d’Adobe Commerce
-description: Ce webinaire porte sur la planification de la mise en œuvre d’un système de commerce moderne, en particulier Adobe Commerce. Il comprend des discussions sur la phase de découverte, les services, l’architecture de référence mondiale, les pratiques de développement front-end et les bonnes pratiques.
+description: Découvrez comment planifier une implémentation d’Adobe Commerce, couvrant la découverte, les services, l’architecture de référence globale, le développement front-end et les bonnes pratiques.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -52,9 +52,9 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '457'
 ht-degree: 0%
 ---
 # Planification de la mise en œuvre moderne d’Adobe Commerce
@@ -83,5 +83,11 @@ Présentation d’Adobe Commerce et de sa série en quatre parties sur la planif
 * Importance d’une planification, d’une organisation et d’une hiérarchisation correctes des tâches, y compris en commençant par les parties les plus difficiles du projet et en envisageant l’utilisation de GRA pour les composants réutilisables.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## Tutoriels connexes
+
+* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Connexion aux données](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Présentation d’App Builder](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '808'
 ht-degree: 0%
 ---
 # Présentation d’App Builder
@@ -106,5 +106,9 @@ App Builder fournit des vidéos et de la documentation à l’intention des dév
 Prêt à développer ? Le lien suivant contient des exemples d’applications pour vous aider à commencer :
 
 * [App Builder Code Labs sur le site web d’Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
+
+## Exemple spécifique à une offre
+
+Pour une intégration de Adobe Commerce Optimizer reposant sur App Builder, suivez le [kit de démarrage Salesforce Commerce Cloud](https://experienceleague.adobe.com/fr/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). La série couvre l’architecture, l’installation de cartouches Salesforce, le kit de démarrage App Builder et une démonstration de bout en bout.
 
 {{$include /help/_includes/app-builder-related-links.md}}

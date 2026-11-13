@@ -2,7 +2,7 @@
 title: Feuille de route de la croissance des entreprises avec Adobe Vision Forward
 description: Découvrez la feuille de route d’Adobe Commerce pour les storefronts B2B, la personnalisation en temps réel, les paiements et les expériences de commerçants et de développeurs optimisées par l’IA.
 feature: App Builder,  B2B, Catalog Management,  Cloud,  Extensibility, Observability, Payments, Personalization, Storefront, Saas
-topic: Administration, Artificial Intelligence,  Commerce,  Development, Headless,  Performance, Personalization, Security
+topic: Administration, Commerce, Development, Headless, Performance, Personalization, Security
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -62,9 +62,9 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '221'
 ht-degree: 0%
 ---
 # Croissance de l’entreprise avec la feuille de route Adobe Vision Forward
@@ -86,3 +86,9 @@ La feuille de route d’Adobe Commerce pour 2026 présente une stratégie compl�
 * Améliorations de l’expérience des développeurs et de l’observabilité
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475708?captions=fre_fr&learn=on)
+
+## Tutoriels connexes
+
+* [Connexion aux données](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Présentation de l’observabilité](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Présentation d’App Builder](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)

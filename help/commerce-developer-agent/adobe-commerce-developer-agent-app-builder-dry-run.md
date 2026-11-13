@@ -7,14 +7,13 @@ role: Developer
 level: Intermediate
 doc-type: Tutorial
 duration: 438
-last-substantial-update: 2026-08-28T00:00:00Z
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+last-substantial-update: 2026-08-28
+jira: KT-23144
+source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
 workflow-type: tm+mt
 source-wordcount: '1700'
 ht-degree: 0%
-
 ---
-
 # Exécution d’essai de l’agent de développement Adobe Commerce App Builder
 
 Une présentation pratique pour créer, déployer et tester des cas d’utilisation d’extensibilité de Commerce avec l’agent de développement Adobe Commerce (CDA). Cette simulation couvre trois cas d’utilisation : un webhook de limite de quantité du panier, un blocage de commande de grande valeur et un archivage piloté par les événements pour les commandes bloquées, du plan directeur aux tests fonctionnels.
@@ -29,7 +28,7 @@ Tout au long de l&#39;essai, vous rencontrez des bords rugueux, ce qui est norma
 >
 > Lors du signalement d’un problème :
 >
-> * Incluez la `projectId` (visible dans l’URL de votre navigateur).
+> * Incluez `projectId` (visible dans l’URL de votre navigateur).
 > * Insérez des captures d’écran chaque fois que cela est pertinent.
 
 ### Conditions préalables
@@ -45,8 +44,8 @@ Tout au long de l&#39;essai, vous rencontrez des bords rugueux, ce qui est norma
 Un storefront Edge Delivery Services (EDS) est requis pour la validation fonctionnelle. Vous aurez besoin de :
 
 * Node.js 22+
-* Interface de ligne de commande Adobe I/O : `npm install -g @adobe/aio-cli`
-* Plug-in Commerce de l’interface de ligne de commande d’AIO : `aio plugins:install https://github.com/adobe-commerce/aio-cli-plugin-commerce`
+* Adobe I/O CLI : `npm install -g @adobe/aio-cli`
+* Plug-in Commerce de l’interface de ligne de commande AIO : `aio plugins:install https://github.com/adobe-commerce/aio-cli-plugin-commerce`
 
 Installez le standard storefront dans un dossier vide, en sélectionnant votre instance ACCS lorsque vous y êtes invité :
 
@@ -63,7 +62,7 @@ npm run start
 
 ## Ouverture de l’agent de développement Commerce
 
-1. Accédez à l’agent de développement Commerce à l’adresse experience.adobe.com, sous **Agent de développement**.
+1. Accédez à l’agent de développement Commerce sur experience.adobe.com, sous **Agent de développement**.
 1. Connectez-vous à l’aide de vos identifiants d’organisation IMS en accès anticipé.
 
 ## Cas d’utilisation 1 : webhook du nombre maximal d’unités du panier
@@ -112,7 +111,7 @@ Instead, manually return an exception operation response whose body includes typ
 > * Un plan directeur (v1) capturant les exigences est créé.
 > * Des tâches pour guider l’implémentation sont créées.
 
-Affinez le plan directeur en saisissant les détails dans la boîte de dialogue ou en cliquant sur l’une des pilules au-dessus de la boîte de dialogue (*Remettre en question les hypothèses*, *Trouver les lacunes de conception*, etc.). Une fois que vous êtes satisfait, cliquez sur **Approuver le plan** pour continuer.
+Affinez le plan directeur en saisissant les détails dans la boîte de dialogue ou en cliquant sur l’une des pilules au-dessus de la boîte de dialogue (*Remettre en question les hypothèses*, *Trouver les lacunes de conception*, etc.). Une fois satisfait, cliquez sur **Approuver le plan** pour continuer.
 
 ### Étape de développement
 
@@ -135,33 +134,33 @@ Une fois configuré, l’agent affiche une liste des tâches d’implémentation
 > Recherchez les éléments suivants :
 >
 > * Le code généré correspond aux exigences.
-> * L’écran `Validate` la diffusion en continu affiche la progression de la validation de l’espace de travail (`aio app build`).
+> * L’écran de diffusion en continu `Validate` affiche la progression de la validation de l’espace de travail (`aio app build`).
 > * L’agent corrige automatiquement le code généré si la validation échoue.
 
 Une fois satisfait du code, cliquez sur l’onglet **Intégrations** pour continuer.
 
 ### Configuration des intégrations
 
-**Connexion ou création d’un espace de travail App Builder**
+**Connecter ou créer un espace de travail App Builder**
 
 Pour créer ou connecter un projet App Builder, suivez les instructions à l’écran.
 
 Si vous vous connectez à un espace de travail existant, assurez-vous qu’il dispose des éléments suivants :
 
-* Ajout du service `Runtime`.
+* Service `Runtime` ajouté.
 * Les API suivantes ont été ajoutées : Adobe Commerce as a Cloud Service, I/O Management API, App Builder Data Services, I/O Events, Adobe I/O Events pour Adobe Commerce.
 
 Si vous créez un espace de travail, ajoutez manuellement l’API **Adobe Commerce as a Cloud Service**.
 
 >[!IMPORTANT]
 >
-> Une fois la connexion à un projet App Builder existant établie, développez **Configuration avancée** et collez le fichier JSON de l’espace de travail, puis cliquez sur **Vérifier le statut** pour confirmer que toutes les API requises sont installées.
+> Une fois la connexion à un projet App Builder existant établie, développez la **Configuration avancée** et collez le fichier JSON de l’espace de travail, puis cliquez sur **Vérifier à nouveau le statut** pour confirmer que toutes les API requises sont installées.
 
 Cliquez sur **Suivant** pour continuer.
 
 **Connexion à Commerce**
 
-Sélectionnez votre instance ACCS dans la liste ou saisissez l’URL dans le champ **URL de base REST** puis cliquez sur **Connecter l’instance Commerce**. Cliquez sur **Suivant** pour continuer.
+Sélectionnez votre instance ACCS dans la liste ou saisissez l’URL dans le champ **URL de base REST Commerce**, puis cliquez sur **Connecter l’instance Commerce**. Cliquez sur **Suivant** pour continuer.
 
 **Connexion à GitHub**
 
@@ -173,7 +172,7 @@ Renseignez toutes les variables d’environnement requises par le projet.
 
 ### Déployer
 
-Cliquez sur **Développer** pour revenir à l’étape de développement, puis demandez à l’agent de se déployer dans le champ d’invite.
+Cliquez sur **Développer** pour revenir à l’étape de développement, puis demandez à l’agent de procéder au déploiement dans le champ d’invite.
 
 >[!NOTE]
 >
@@ -185,7 +184,7 @@ Confirmez le déploiement.
 >
 > Recherchez :
 >
-> * Écran de diffusion en continu `Validate` affichant la progression de la validation avant déploiement.
+> * Écran de diffusion en continu `Validate` affichant la progression de la validation de prédéploiement.
 > * L’agent corrige automatiquement le code si la validation échoue.
 > * Écran de streaming `Deploy` affichant la progression du déploiement (`aio app deploy`).
 > * L’agent corrige automatiquement le code en cas d’échec du déploiement.
@@ -195,7 +194,7 @@ Confirmez le déploiement.
 1. Accédez à l’URL d’administration de votre instance ACCS et connectez-vous.
 1. Sélectionnez **Applications** dans le menu de gauche, puis **Gestion des applications**.
 1. Cliquez sur **+ Associer l’application** (en haut à droite).
-1. Sélectionnez le projet et le Workspace sur lesquels les analyses entre appareils ont été déployées, puis cliquez sur **Associer**.
+1. Sélectionnez le projet et le Workspace sur lesquels CDA a déployé, puis cliquez sur **Associer**.
 
 >[!NOTE]
 >
@@ -203,7 +202,7 @@ Confirmez le déploiement.
 
 ### Installation et configuration dans App Management
 
-1. Sur la ligne correspondant à votre application, cliquez sur **Installer**, puis **Fermer**.
+1. Sur la ligne correspondant à votre application, cliquez sur **Installer**, puis sur **Fermer**.
 1. Sur la même ligne, cliquez sur **Configurer** pour renseigner les valeurs de configuration métier, puis sur **Fermer**.
 
 >[!NOTE]
@@ -212,10 +211,10 @@ Confirmez le déploiement.
 
 ### Tests fonctionnels
 
-1. Dans la configuration de l’application App Management, définissez **Nombre maximal d’unités de panier** sur 3 (valeur faible pour un test rapide).
+1. Dans la configuration de l’application App Management, définissez **Nombre maximal d’unités de panier** sur 3 (une valeur faible pour un test rapide).
 1. Sur le storefront, commencez avec un panier vide.
 1. Ajoutez des produits à partir de la page Détails du produit (PDP) jusqu’à ce que la quantité totale dépasse 3 ; le dernier ajout échoue.
-1. Sur PDP, vous voyez : *« Vous avez atteint la quantité maximale d’éléments »*.
+1. Sur PDP, vous voyez : *« Vous avez atteint le nombre maximal d’éléments. »*
 1. En dessous de la limite, les ajouts réussissent toujours.
 
 >[!NOTE]
@@ -277,7 +276,7 @@ Validate inputs before use:
 > * Les tâches du plan d&#39;origine sont conservées.
 > * De nouvelles tâches correspondant aux nouvelles exigences ont été ajoutées.
 
-Affinez le plan directeur si nécessaire, puis cliquez sur **Approuver le plan** pour continuer.
+Affinez le plan directeur selon vos besoins, puis cliquez sur **Approuver le plan** pour continuer.
 
 ### Développement, déploiement, association et installation
 
@@ -285,15 +284,15 @@ Suivez le même processus que celui utilisé dans le cas d’utilisation 1 pour 
 
 >[!IMPORTANT]
 >
-> Pour apporter des modifications à une application déjà associée, vous devez la **Dissocier** et **Associer** à nouveau dans la gestion des applications.
+> Pour apporter des modifications à une application déjà associée, vous devez la **dissocier** et l&#39;**associer** à nouveau dans la gestion des applications.
 
 ### Tests fonctionnels
 
-1. Dans la configuration de l’application App Management, définissez **seuil de blocage des commandes (USD)** sur 50 (facile à dépasser dans un panier de test).
-1. Vérifiez que l’attribut personnalisé de commande existe (`lab_verification_code` par défaut).
+1. Dans la configuration de l’application App Management, définissez le seuil de blocage des commandes **USD** sur 50 (facile à dépasser dans un panier de test).
+1. Vérifiez que l’attribut personnalisé de commande existe (valeur par défaut : `lab_verification_code`).
 1. Passer une commande dont le total est supérieur à 50 $.
 1. Patientez environ 30 secondes (les événements sont asynchrones ; la diffusion non prioritaire peut prendre jusqu’à environ 59 secondes).
-1. Dans Commerce Admin → Sales → Orders, ouvrez la commande. Le statut est **En attente** (`holded`) ; les attributs personnalisés incluent des `lab_verification_code` avec une valeur aléatoire.
+1. Dans Commerce Admin → Sales → Orders, ouvrez la commande. Le statut est **En attente** (`holded`) ; les attributs personnalisés incluent `lab_verification_code` avec une valeur aléatoire.
 1. Facultatif : passez d&#39;abord une commande inférieure à 50 $ — ce gestionnaire ne la met pas en attente.
 
 ## Cas d’utilisation 3 : archivage piloté par les événements pour les commandes retenues
@@ -347,7 +346,7 @@ Do not use custom IMS credential normalization or `Core.AuthClient.generateAcces
 > * Les tâches du plan d&#39;origine sont conservées.
 > * De nouvelles tâches correspondant aux nouvelles exigences ont été ajoutées.
 
-Affinez le plan directeur si nécessaire, puis cliquez sur **Approuver le plan** pour continuer.
+Affinez le plan directeur selon vos besoins, puis cliquez sur **Approuver le plan** pour continuer.
 
 ### Développement, déploiement, association et installation
 
@@ -355,14 +354,14 @@ Suivez le même processus que celui utilisé dans les cas d’utilisation préc�
 
 >[!IMPORTANT]
 >
-> Pour apporter des modifications à une application déjà associée, vous devez la **Dissocier** et **Associer** à nouveau dans la gestion des applications.
+> Pour apporter des modifications à une application déjà associée, vous devez la **dissocier** et l&#39;**associer** à nouveau dans la gestion des applications.
 
 ### Tests fonctionnels
 
 1. Assurez-vous que le seuil du cas d’utilisation 2 est suffisamment bas pour le test (par exemple, 50 $ dans la configuration de l’application).
 1. Placez une commande au-dessus de ce seuil afin que le cas d’utilisation 2 la mette en attente (~30 secondes).
 1. Dans Adobe Developer Console → votre projet → les événements → d’étape, ouvrez l’enregistrement de l’événement d’archivage des commandes conservées (ajouté ou mis à jour lors de l’installation).
-1. Confirmez qu’un événement a été remis à cet enregistrement après le déplacement de la commande vers la suspension. Utilisez la trace ou la surveillance des événements pour l&#39;événement Commerce lié à `order-archive/archive-held-order`.
+1. Confirmez qu’un événement a été remis à cet enregistrement après le déplacement de la commande vers la suspension. Utiliser la trace d&#39;événement ou la surveillance pour l&#39;événement Commerce lié à `order-archive/archive-held-order`.
 
 >[!NOTE]
 >
@@ -428,7 +427,7 @@ Au lieu de demander directement dans les étapes de plan directeur ou de dévelo
 
 Pour être débloqué et continuer, déplacez l’agent pour générer des tâches.
 
-**Les boutons à activer et à extraire de GitHub ne sont pas fonctionnels**
+**Les boutons vers et à extraire de GitHub ne sont pas fonctionnels**
 
 Téléchargez plutôt le fichier ZIP du projet à partir de l’étape Développer .
 

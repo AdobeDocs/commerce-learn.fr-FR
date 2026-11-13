@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # Taux de conversion des surcharges
@@ -54,8 +54,14 @@ Découvrez comment Adobe Commerce transforme les vitrines numériques grâce à 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3505706?captions=fre_fr&learn=on)
 
+## Tutoriels connexes
+
+* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service : création de contenu IA générative](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service : expérimentation storefront](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+
 ## Autres vidéos de cette série
 
 [Annonces de nouveaux produits](./new-product-announcements.md)
 [Réduction drastique des coûts](./drastically-cut-costs.md)
-[Extension rapide](fast-track-expansion.md)
+[Extension Fast Track](fast-track-expansion.md)

@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # Réduire les coûts de manière drastique
@@ -53,8 +53,14 @@ La plateforme native au cloud d’Adobe Commerce permet aux entreprises de rédu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
 
+## Tutoriels connexes
+
+* [Présentation d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Présentation d’App Builder](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Prise en main du maillage API](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+
 ## Autres vidéos de cette série
 
 [Annonces de nouveaux produits](./new-product-announcements.md)
 [Taux de conversion des surcharges](./supercharge-conversion-rates.md)
-[Extension rapide](fast-track-expansion.md)
+[Extension Fast Track](fast-track-expansion.md)

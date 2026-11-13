@@ -45,9 +45,9 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '323'
 ht-degree: 0%
 ---
 # Personnalisation de la disposition d’une adresse
@@ -76,4 +76,4 @@ Les rôles qui bénéficient de la lecture de cette transcription sont les suiva
 
 ## Documentation supplémentaire
 
-* [Compte utilisateur](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=fr)
+* [Compte utilisateur](https://experienceleague.adobe.com/en/tools/commerce-storefront/dropins/user-account)
