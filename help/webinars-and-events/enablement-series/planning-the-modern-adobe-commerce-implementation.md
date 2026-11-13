@@ -86,8 +86,8 @@ Présentation d’Adobe Commerce et de sa série en quatre parties sur la planif
 
 ## Tutoriels connexes
 
-* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Connexion aux données](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Présentation d’App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Connexion aux données](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Présentation d’App Builder](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

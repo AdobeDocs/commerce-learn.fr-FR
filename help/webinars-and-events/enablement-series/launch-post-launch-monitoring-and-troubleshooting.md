@@ -69,8 +69,8 @@ Ce webinaire fournit plusieurs bonnes pratiques et conseils pour la préparation
 
 ## Tutoriels connexes
 
-* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Infrastructure cloud et auto-hébergement : alertes New Relic](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
-* [Créer un ticket d’assistance](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infrastructure cloud et auto-hébergement : alertes New Relic](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Créer un ticket d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

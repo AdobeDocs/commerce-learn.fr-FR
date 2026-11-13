@@ -85,7 +85,7 @@ En outre, le webinaire présente la flexibilité et l’innovation apportées pa
 
 ## Tutoriels connexes
 
-* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Personnaliser le passage en caisse sur Edge Delivery Services](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
+* [Commerce storefront on Edge Delivery Services : expérience client](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Personnaliser le passage en caisse sur Edge Delivery Services](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
