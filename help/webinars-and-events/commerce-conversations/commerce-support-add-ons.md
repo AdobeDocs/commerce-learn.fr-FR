@@ -54,4 +54,4 @@ Adobe Commerce fournit une assistance clientèle complète par le biais de diver
 * Découvrez les modules complémentaires disponibles.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505273?captions=fre_fr&learn=on)

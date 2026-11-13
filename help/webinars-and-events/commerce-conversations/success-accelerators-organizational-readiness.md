@@ -57,4 +57,4 @@ Découvrez les accélérateurs de succès Adobe pour la préparation organisatio
 * Gestion du changement et stratégies de communication
 * Révision et évaluation comparative numériques
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505732?captions=fre_fr&learn=on)

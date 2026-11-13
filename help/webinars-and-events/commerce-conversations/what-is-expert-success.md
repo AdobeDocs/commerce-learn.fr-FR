@@ -52,4 +52,4 @@ En savoir plus sur le success plan d’expert Adobe Commerce. En savoir plus sur
 * Trois canaux de prise en charge.
 * Cibles de niveau de service.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505669?captions=fre_fr&learn=on)
