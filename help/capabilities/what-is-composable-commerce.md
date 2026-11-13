@@ -1,13 +1,13 @@
 ---
-title: Création de Commerce composables par Adobe
-description: Découvrez le commerce composable, en donnant la priorité à une approche API-first et en implémentant une architecture modulaire et orientée service.
-feature: App Builder, Saas
+title: Commerce Composable Avec Adobe
+description: Découvrez le commerce composable avec les options de la plateforme Adobe, les storefronts Edge Delivery Services, le maillage API, App Builder et les outils de MCP de développement Commerce.
+feature: API Mesh, App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
 role: Admin, Developer, User
-level: Beginner, Intermediate
+level: Intermediate
 doc-type: Tutorial
-duration: 323
-last-substantial-update: 2024-07-06
+duration: 307
+last-substantial-update: 2026-11-13
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
 TQID: 'https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM'
@@ -38,8 +38,6 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
@@ -51,69 +49,134 @@ topic_v2:
     internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
+autotag-review: '2026-11-13T20:04:10.194Z'
+source-git-commit: 3a52f4de8c63f08418f4fa44833a7bf7eb90175b
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1311'
 ht-degree: 0%
 ---
 # Commerce composable
 
-Le commerce composable est une approche architecturale du commerce électronique qui implique le découplage de la couche de présentation front-end de la fonctionnalité commerciale back-end. &#x200B; Il permet aux entreprises de sélectionner et de combiner les meilleurs composants ou modules pour créer une solution personnalisée. Cette approche implique de décomposer la plateforme de commerce électronique monolithique traditionnelle en services indépendants plus petits ou en microservices qui peuvent être composés ensemble. Le commerce composable offre des avantages tels que la flexibilité, l’évolutivité, la personnalisation, l’agilité et la possibilité de s’intégrer plus facilement à d’autres systèmes et technologies.
+Le commerce composable est une approche architecturale qui combine des fonctionnalités commerciales par le biais d’API. Vous pouvez sélectionner et intégrer des composants pour les expériences storefront, la gestion des catalogues, la découverte de produits, le passage en caisse et d’autres besoins de l’entreprise au lieu d’exiger que chaque fonctionnalité vienne d’une application étroitement couplée.
 
-Adobe Commerce offre de nombreuses fonctionnalités et outils pour aider les commerçants à adopter et à mettre en œuvre le commerce composable. Adobe Commerce offre une méthodologie de commerce composable et des expériences front-end hybrides, découplées et non découplées. En gardant à l’esprit l’extensibilité hors processus, Adobe propose un maillage API pour intégrer plusieurs services et Adobe App Builder pour créer des microservices personnalisés.
+Le commerce découplé sépare le calque de présentation du storefront du serveur principal de commerce. Le commerce composable s’appuie sur cette séparation en permettant aux équipes de choisir les fonctionnalités à conserver ensemble et celles à intégrer indépendamment. Un storefront découplé ne rend pas intrinsèquement chaque composant principal remplaçable indépendamment.
 
-## Pourquoi le commerce composable est-il important
+Adobe prend en charge cette approche par le biais des options de la plateforme commerciale, de la technologie storefront et des outils d’intégration et de développement. Les MCP de développement Adobe Commerce as a Cloud Service (ACCS), Adobe Commerce Optimizer (ACO), Edge Delivery Services, API Mesh, App Builder et Commerce ont des objectifs différents. Ce ne sont pas des produits interchangeables ou une pile combinée requise.
 
-Comprendre le commerce composable est important pour les entreprises et les particuliers impliqués dans l&#39;industrie du commerce électronique pour plusieurs raisons. Flexibilité et personnalisation, évolutivité et agilité, fonctionnalités d’intégration, pérennisation et autonomisation des développeurs. Le commerce composable permet aux entreprises d&#39;adapter et de faire évoluer leurs plateformes de commerce électronique, d&#39;accroître leurs activités et de prendre de l&#39;expansion. Parmi les autres avantages impressionnants, citons la possibilité de s’intégrer à d’autres systèmes et technologies, de suivre l’évolution des attentes des clients et de tirer parti de l’expertise des développeurs.
+## Avantages et compromis
 
-Il aide les entreprises à s&#39;orienter dans le paysage du commerce électronique en évolution, à prendre des décisions éclairées et à tirer parti des avantages de la flexibilité, de l&#39;évolutivité, de la personnalisation, de l&#39;agilité et des fonctionnalités d&#39;intégration. En outre, la connaissance du commerce composable est importante pour la croissance de l’entreprise, la personnalisation, l’agilité et l’innovation, la rentabilité, l’intégration et la flexibilité, ainsi que la pérennité. Il permet aux entreprises de s&#39;adapter rapidement aux nouvelles fonctionnalités et de répondre aux conditions changeantes du marché, de créer des solutions hautement personnalisées. Les avantages sont plus nombreux, notamment la capacité d’innover rapidement, de réduire les coûts de développement et de maintenance et de s’intégrer aux services et systèmes tiers.
+Une approche composable peut vous aider à :
 
-Dans l&#39;ensemble, comprendre le commerce composable permet aux entreprises de prendre des décisions éclairées, d&#39;optimiser leur architecture et leur stratégie de commerce électronique et de stimuler la croissance et le succès sur le marché numérique.
+* **Adaptez l&#39;expérience client :** choisissez des composants storefront et intégrez des services qui répondent aux besoins de votre entreprise.
+* **Moderniser de manière incrémentielle :** Remplacer les fonctionnalités sélectionnées tout en conservant les autres systèmes et leurs données.
+* **Mise à l’échelle et évolution indépendante :** conception d’intégrations et d’extensions afin que leurs modifications ne nécessitent pas la publication de l’ensemble de l’application commerciale.
+* **Réutiliser les fonctionnalités commerciales :** utilisez les fonctionnalités de plateforme et les API prises en charge plutôt que de recréer toutes les fonctions commerciales.
 
-## Comment les entreprises peuvent-elles bénéficier du commerce composable ?
+Ces avantages dépendent de la mise en œuvre. Évaluez la maturité technique, les coûts de diffusion, les licences, la sécurité et la confidentialité des données. Définissez la propriété des contrats d’API, de la synchronisation des données, de l’authentification, des performances et des échecs entre les services. Une architecture plus modulaire peut également accroître l’intégration et la complexité opérationnelle.
 
-Les entreprises peuvent tirer parti du commerce composable de plusieurs manières :
+## Options d’architecture d’Adobe Commerce
 
-**Flexibilité et personnalisation :** Le commerce composable permet aux entreprises de sélectionner et de combiner les meilleurs composants ou microservices pour créer une solution de commerce électronique personnalisée qui répond à leurs besoins spécifiques. Il permet aux entreprises d’adapter leur plateforme pour offrir des expériences client uniques, mettre en œuvre des fonctionnalités spécialisées et se différencier sur le marché.
+Commencez par décider si vous avez besoin d’une plateforme de commerce gérée ou si vous souhaitez moderniser les expériences client autour d’un serveur principal transactionnel existant.
 
-**Évolutivité et agilité :** Grâce à une architecture composable, les entreprises peuvent mettre à l’échelle différents composants de leur plateforme d’e-commerce de manière indépendante. Cela signifie qu’elles peuvent allouer des ressources et adapter des fonctionnalités spécifiques en fonction de la demande, pour garantir des performances optimales et une rentabilité optimale. Le commerce composable permet également des pratiques de développement agiles, ce qui permet aux équipes de travailler sur différents composants simultanément et de déployer les modifications indépendamment, ce qui accélère le délai de mise sur le marché.
+Pour une comparaison de vidéos, consultez la section [Adobe - Options commerciales disponibles](./adobes-available-commerce-options.md).
 
-**Fonctionnalités d’intégration :** le commerce composable facilite l’intégration transparente aux systèmes, services et technologies tiers. Les entreprises peuvent facilement connecter leur plateforme de commerce électronique à divers outils tels que des passerelles de paiement, des systèmes ERP, des systèmes CRM, des plateformes d&#39;automatisation du marketing, etc. Cette fonctionnalité d’intégration permet aux entreprises d’exploiter les solutions les plus performantes et de créer un écosystème unifié qui améliore l’efficacité opérationnelle et l’expérience client.
+### Adobe Commerce as a Cloud Service
 
-**Le commerce composable** offre aux entreprises la flexibilité nécessaire pour adapter et faire évoluer leur plateforme de commerce électronique à mesure que les tendances technologiques et du marché changent. Il permet aux entreprises d&#39;ajouter ou de remplacer facilement des composants, d&#39;intégrer de nouvelles technologies et de devancer la concurrence. Cette fonctionnalité à l’épreuve du temps permet aux entreprises d’innover en permanence et de répondre aux attentes changeantes des clients.
+Adobe Commerce as a Cloud Service est une plateforme commerciale gérée en SaaS. Adobe gère l’application principale, l’infrastructure et les mises à jour. Son architecture comprend Commerce Foundation, des fonctionnalités de storefront découplé, des services de marchandisage et des outils de développement.
 
-**Autonomisation des développeurs :** le commerce composable donne aux développeurs la possibilité de travailler avec différentes technologies, langues et structures. Il permet aux développeurs de se concentrer sur des composants ou des microservices spécifiques, permettant la spécialisation et l&#39;expertise. Cette autonomisation permet d’accroître la productivité des développeurs, d’accélérer les cycles de développement et d’exploiter les outils et technologies les plus récents.
+Utilisez cette option lors de l’évaluation d’une base de commerce gérée avec des points d’extension pris en charge. Pour la logique commerciale personnalisée, prévoyez l’extensibilité hors processus prise en charge plutôt que de supposer que les extensions PHP existantes peuvent être déployées inchangées. ACCS ne prend pas en charge les storefronts de Luma. Incluez la migration des storefronts dans votre plan d’implémentation, le cas échéant.
 
-Dans l’ensemble, le commerce composable permet aux entreprises de créer une plateforme d’e-commerce hautement flexible, évolutive et personnalisable qui peut s’adapter à l’évolution des besoins de l’entreprise, offrir des expériences client exceptionnelles et stimuler la croissance et le succès sur le marché numérique.
+Voir la [présentation d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview).
 
-## Quelles sont les fonctionnalités d’Adobe Commerce pour le commerce composable ?
+### Adobe Commerce Optimizer
 
-Adobe Commerce offre plusieurs fonctionnalités pour aider les commerçants à adopter et à mettre en œuvre le commerce composable :
+Adobe Commerce Optimizer prend en charge la gestion de catalogues, la découverte de produits, la recherche, les recommandations et les expériences de storefront tout en vous permettant de conserver un serveur principal de commerce existant. Les données de catalogue peuvent provenir de sources externes et un système tiers peut rester responsable du cycle de vie du panier et du passage en caisse.
 
-**Méthodologie Commerce composable :** Adobe Commerce propose une méthodologie de commerce composable qui guide les commerçants dans la compréhension et la mise en œuvre des principes de l’architecture composable. Cette méthodologie aide les entreprises à tirer parti des avantages de la flexibilité, de l’évolutivité et de la personnalisation tout en tenant compte de facteurs tels que la complexité, la maturité technique et la taille du projet.
+Utilisez cette option lorsque la modernisation face au client est l’objectif et que le remplacement du serveur principal transactionnel n’est pas nécessaire. Planifiez explicitement l’ingestion de catalogue et les intégrations de panier et de passage en caisse. ACCS et ACO sont des options d’architecture distinctes, et non une pile combinée requise. Vérifiez la prise en charge actuelle de l’intégration avant de sélectionner les services pour votre implémentation.
 
-**Fonctionnalités riches en fonctionnalités :** Adobe Commerce fournit un ensemble complet de fonctionnalités accessibles via son GraphQLAPI. Cette fonctionnalité riche en fonctionnalités permet aux commerçants de minimiser le nombre de fournisseurs requis dans leur pile commerciale, ce qui réduit les défis de délai de mise sur le marché. Il permet aux entreprises de se lancer plus rapidement tout en conservant la flexibilité de composer et d’intégrer d’autres services ou fonctionnalités tiers au fur et à mesure de l’évolution de leur pile commerciale.
+Voir la [présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview).
 
-**Expériences front-end hybrides :** Adobe Commerce prend en charge les expériences front-end découplées et non découplées au sein du même écosystème. Cette flexibilité permet aux commerçants de choisir l’approche architecturale la plus appropriée pour chaque cas d’utilisation front-end spécifique. Il permet une transition progressive vers une architecture découplée et composable sans avoir besoin d’une migration simultanée de l’ensemble du système.
+### Déploiements Adobe Commerce existants
 
-**Maillage API :** le maillage API Adobe Commerce simplifie l’intégration de plusieurs microservices, outils tiers et applications dans un point d’entrée API unifié pour les développeurs front-end. Il permet aux développeurs de combiner plusieurs sources de données en un seul point d’entrée GraphQL, ce qui réduit la complexité et rationalise le développement et la maintenance de nouvelles fonctionnalités et expériences.
+Adobe Commerce sur les déploiements d’infrastructure cloud et sur site peut également adopter des storefronts découplés et des intégrations basées sur les API prises en charge de manière incrémentielle. Selon le déploiement, vous pouvez conserver un storefront existant ou adopter un storefront découplé pris en charge. Le fait de conserver les fonctionnalités commerciales existantes ensemble peut réduire le travail d’intégration tout en permettant à certains services d’évoluer séparément.
 
-**Adobe App Builder :** Adobe App Builder est une plateforme d’extensibilité sans serveur qui permet aux commerçants de créer des microservices personnalisés, de créer des expériences personnalisées et d’étendre les solutions Adobe. Avec App Builder, les commerçants peuvent créer des applications sécurisées et évolutives qui étendent les fonctionnalités natives d’Adobe Commerce et s’intègrent à des solutions tierces. Les commerçants n’ont ainsi plus besoin de construire et de gérer leur propre infrastructure pour les personnalisations et les microservices, ce qui réduit la complexité et le coût total de possession.
+La disponibilité des fonctionnalités, la compatibilité des extensions, les licences et les exigences de configuration varient selon l’offre et la version. Comparez les [plateformes et services Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce/information-center/explore-platforms-and-services/platform-and-services) avant de choisir une architecture.
 
-Ces fonctionnalités fournies par Adobe Commerce simplifient l’adoption et la mise en œuvre du commerce composable, ce qui permet aux commerçants de tirer parti des avantages de la flexibilité, de l’évolutivité, de la personnalisation et des fonctionnalités d’intégration tout en réduisant la complexité et les efforts de développement.
+## Commerce Storefront optimisé par Edge Delivery Services
 
-## Réflexions finales
+Le storefront Commerce optimisé par Edge Delivery Services fournit l’expérience storefront et la couche de diffusion de contenu. Son architecture découplée permet aux équipes de développer le front-end indépendamment de la base de commerce. La création basée sur les documents et la modification visuelle prennent en charge les mises à jour de contenu, tandis que les composants de storefront utilisent les API de commerce pour les fonctionnalités d’achat.
 
-Le commerce composable est une approche architecturale du commerce électronique qui implique le découplage de la couche de présentation front-end de la fonctionnalité commerciale back-end. Voici les principaux enseignements tirés du commerce composable :
+Distinguer l’interface du storefront des systèmes responsables des données du catalogue, des prix, des opérations du panier, du passage en caisse et des commandes. Edge Delivery Services ne remplace pas le serveur principal de commerce transactionnel. Identifiez les services pris en charge et le chemin d’intégration pour le serveur principal de votre choix avant de mettre en œuvre le storefront.
 
-**Architecture :** Le commerce composable suit une architecture modulaire et découplée, permettant aux entreprises de sélectionner et de combiner les meilleurs composants ou microservices pour créer une solution personnalisée. Cette architecture offre flexibilité, évolutivité et agilité.
+Consultez la [documentation du storefront Commerce](https://experienceleague.adobe.com/en/tools/commerce-storefront/).
 
-**Avantages :** Le commerce composable offre plusieurs avantages, notamment la flexibilité et la personnalisation, l’évolutivité et l’agilité, les fonctionnalités d’intégration, la pérennisation et l’autonomisation des développeurs. Il permet aux entreprises de s’adapter, de prendre de l’expansion, d’intégrer, d’innover et de tirer parti de l’expertise des développeurs.
+## Intégration et extensibilité
 
-**Considérations :** Lorsque vous envisagez un commerce composable, il convient d&#39;évaluer soigneusement des facteurs tels que la complexité, la maturité technique interne, la taille et la structure du projet, la personnalisation par rapport à la normalisation, le coût total de possession, la sécurité et la confidentialité des données.
+Le maillage API et App Builder permettent de connecter et d’étendre les fonctionnalités commerciales sans qu’il soit nécessaire que chaque personnalisation soit incorporée dans l’application commerciale principale.
 
-**Adobe Commerce :** Adobe Commerce fournit des fonctionnalités et des outils pour aider les commerçants à adopter et à mettre en œuvre le commerce composable. Il s’agit notamment d’une méthodologie de commerce composable, de fonctionnalités riches en fonctionnalités, d’expériences front-end hybrides, d’un maillage API pour l’intégration et d’Adobe App Builder pour les microservices personnalisés.
+### Maillage API
 
-**Impact commercial :** Le commerce composable permet aux entreprises de créer une plateforme d’e-commerce hautement flexible, évolutive et personnalisable. Il leur permet de fournir des expériences client uniques, de s’adapter en fonction de la demande, d’intégrer d’autres systèmes, de pérenniser leurs opérations et de tirer parti de l’expertise des développeurs.
+Le maillage API pour Adobe Developer App Builder combine plusieurs sources d’API Adobe, privées et tierces en un point d’entrée GraphQL interrogeable. Utilisez-les pour composer des données pour les expériences front-end et coordonner l’accès aux services existants.
 
-Comprendre le commerce composable est essentiel pour que les entreprises du secteur du commerce électronique restent compétitives, s&#39;adaptent aux conditions changeantes du marché et offrent des expériences client exceptionnelles. En adoptant le commerce composable, les entreprises peuvent tirer parti des avantages de la flexibilité, de l’évolutivité, de la personnalisation, de l’agilité et des capacités d’intégration, ce qui stimule la croissance et le succès sur le marché numérique.
+La composition de l’API ne supprime pas la nécessité de définir des contrats d’API, une authentification, une gestion des erreurs ou la propriété de la logique commerciale transactionnelle. Veillez à ce que ces responsabilités soient explicites dans la conception de l’intégration.
+
+Consultez la [présentation du maillage API](https://developer.adobe.com/graphql-mesh-gateway/).
+
+### Adobe App Builder
+
+Adobe App Builder fournit une plateforme pour les applications qui étendent les solutions Adobe et s’exécutent sur l’infrastructure Adobe, y compris Adobe I/O Runtime. Vous pouvez l’utiliser pour les personnalisations et les intégrations hors processus avec des systèmes tels que les CRM, les ERP et les PIM.
+
+Choisissez les points d’extension, événements et webhooks pris en charge pour l’offre Commerce que vous utilisez. Concevez et testez l’application séparément du cycle de vie de la version commerciale principale.
+
+Voir la [présentation d’App Builder](https://developer.adobe.com/app-builder/docs/intro_and_overview/).
+
+## Compétences et MCP de développement Commerce
+
+Les MCP et les compétences de développement Commerce prennent en charge le développement assisté par l’IA des applications App Builder et des personnalisations de storefront. Ils peuvent également vous aider à migrer les extensions PHP Adobe Commerce existantes vers les applications App Builder lors du déplacement vers ACCS.
+
+Les serveurs MCP (Model Context Protocol) connectent les clients de codage d’IA compatibles aux outils de développement. Les outils d’Adobe comprennent le serveur Commerce Developer MCP, le serveur App Builder MCP et les outils d’IA Dropins, ainsi que des compétences spécifiques à Commerce.
+
+Les MCP de développement Commerce sont des outils de développement et non des services de diffusion, de panier, de passage en caisse ou de traitement des commandes en storefront. Ils ne rendent pas automatiquement une application compatible avec chaque offre Commerce. Examinez les modifications générées et testez-les par rapport à l’environnement cible.
+
+Voir [MCP et compétences de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/coding-tools).
+
+## Planifier une implémentation composable
+
+1. Définissez les objectifs commerciaux, les expériences client, les exigences en matière de sécurité et les compétences disponibles pour votre équipe.
+2. Choisissez la plateforme commerciale et identifiez les systèmes existants à conserver ou à remplacer.
+3. Sélectionnez un storefront pris en charge et définissez les limites entre la présentation, le marchandisage et les services transactionnels.
+4. Établissez la propriété des données et les contrats d’API pour les informations de catalogue, les prix, l’inventaire, les clients, les paniers, le passage en caisse et les commandes.
+5. Planifiez l’authentification, la synchronisation des données, la mise en cache, la surveillance et la gestion des échecs entre les intégrations.
+6. Implémentez de manière incrémentielle et validez les fonctionnalités, les performances et la sécurité avant chaque version.
+
+Une implémentation composable réussit lorsque ses composants répondent aux besoins de l’entreprise et fonctionnent ensemble de manière fiable. Sélectionnez les fonctionnalités dont vous avez besoin plutôt que d’ajouter des services uniquement pour rendre l’architecture plus modulaire.
+
+## Ressources connexes
+
+Consultez ces tutoriels, vidéos, guides d’implémentation et liste de lecture pour planifier votre architecture et créer des intégrations commerciales.
+
+### Plateformes et storefronts Commerce
+
+* [Architecture d’Adobe Commerce as a Cloud Service](../commerce-as-a-cloud-service/architecture.md)
+* [Vitrines composables et architecture modulaire](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+* [Présentation de Adobe Commerce Optimizer](../adobe-commerce-optimizer/overview.md)
+* [Explication du modèle de données de catalogue composable](../adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists.md)
+* [Expériences client avec Edge Delivery Services](../edge-delivery-services/shopper-experience.md)
+
+### Intégration et développement
+
+* [Extensibilité hors processus avec App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+* [Prise en main du maillage API](../api-mesh/getting-started-api-mesh.md)
+* [Création d’un maillage API avec plusieurs sources](../api-mesh/graphql-multiple-source.md)
+* [Créer des tarifs d’expédition personnalisés avec les outils d’IA et de MCP](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+
+### Documentation sur l’architecture et le développement
+
+* [Migration vers Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/migration/overview)
+* [Intégrations Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/integrations-overview)
+* [Prise en main du développement du storefront de Commerce](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
+* [Bonnes pratiques pour les MCP et les compétences de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
+
+### Playlist
+
+* [Prise en main du maillage API avec Adobe App Builder et Adobe Commerce](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
