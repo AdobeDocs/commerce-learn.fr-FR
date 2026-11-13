@@ -46,6 +46,6 @@ Les vues catalogue vous permettent de diffuser chaque audience différemment d�
 
 ## Contenu connexe
 
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
 * [Prise en main de l’API de marchandisage](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 
