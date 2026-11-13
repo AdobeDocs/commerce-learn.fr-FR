@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 737
-last-substantial-update: 2026-07-24T00:00:00.000Z
+last-substantial-update: 2026-07-24
 jira: KT-22139
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Exécutez une migration en une seule phase lorsque votre environnement source pe
 
 ## Contenu vidéo
 
-* Créer l’image Docker avec `bin console build` — ne la réexécutez que si le fichier Docker est modifié.
+* Générer l’image Docker avec `bin console build` — ne la réexécutez que si le fichier Docker est modifié.
 * Pour lancer le gestionnaire de conteneurs de l’interface de ligne de commande CDMS, exécutez `bin console start`, puis ouvrez un conteneur une fois pour télécharger ses dépendances.
 * Pour exécuter le pipeline complet en dix étapes, exécutez `bin console migration` : vérifiez la configuration, initialisez l’environnement, ouvrez les tunnels PaaS, exécutez des tests d’intégration, enregistrez-vous avec CDMS, analysez le schéma cible, générez des données de test, extrayez les données sources, chargez dans ACCS, vérifiez les sommes de contrôle, nettoyez et résumez.
 * Vérifiez le rapport de synthèse de la migration : l’étape 8 (vérification de l’intégrité des données) consigne les échecs sans arrêter le pipeline, de sorte qu’une exécution terminée ne garantit pas une vérification correcte.

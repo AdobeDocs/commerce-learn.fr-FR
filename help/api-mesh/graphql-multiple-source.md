@@ -4,7 +4,7 @@ description: Découvrez comment utiliser plusieurs sources pour le maillage API 
 jira: KT-21677
 doc-type: Tutorial
 duration: 381
-last-substantial-update: 2023-02-08T00:00:00.000Z
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -46,14 +46,14 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
     internal-label: Metadata
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
 ---
 # Création d’un maillage avec plusieurs sources
 
-Cette vidéo aide les développeurs à comprendre comment créer un maillage avec plusieurs sources dans le maillage API pour Adobe Developer App Builder. Cette vidéo montre comment créer un maillage avec plusieurs sources et identifier les erreurs. Pour plus d’informations et d’exemples de code, consultez [Création d’un maillage](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
+Cette vidéo aide les développeurs à comprendre comment créer un maillage avec plusieurs sources dans le maillage API pour Adobe Developer App Builder. Cette vidéo montre comment créer un maillage avec plusieurs sources et identifier les erreurs. Pour plus d’informations et d’exemples de code, consultez [Créer un maillage](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -62,7 +62,7 @@ Cette vidéo aide les développeurs à comprendre comment créer un maillage ave
 
 ## Contenu vidéo
 
-* Utilisation des [transformations](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/transforms/){target="_blank"} pour modifier le schéma source par défaut
+* Utilisation de [transforms](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/transforms/){target="_blank"} pour modifier le schéma source par défaut
 * Comment résoudre les erreurs telles que les conflits de nom, la disponibilité des schémas et d’autres problèmes de syntaxe de schéma
 * Mise à jour de votre maillage avec une configuration modifiée
 

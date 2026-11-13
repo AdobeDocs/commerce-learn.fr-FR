@@ -2,10 +2,10 @@
 title: '[!DNL Commerce] pour les utilisateurs professionnels - Navigation superposée'
 description: Activez la navigation par couches dans votre boutique [!DNL Commerce] afin que les clients puissent trouver facilement et rapidement des produits.
 kt: 5775
-doc-type: video
+doc-type: Technical Video
 duration: 605
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Native Luma Frontend Development, Site Navigation
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
@@ -38,7 +38,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -57,10 +57,10 @@ Dans cette vidéo :
 
 >[!NOTE]
 >
->Le contenu de la vidéo reflète la version 2.3.1. Pour plus d’informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
+>Le contenu de la vidéo reflète la version 2.3.1. Pour plus d&#39;informations sur les mises à jour des versions ultérieures, consultez les [notes de mise à jour](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=fr).
 
 >[!VIDEO](https://video.tv.adobe.com/v/329951?captions=fre_fr&learn=on)
 
 ## Ressources supplémentaires
 
-[Navigation par couches - Guide  [!DNL Commerce]  gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html?lang=fr)
+[Navigation par couches - [!DNL Commerce] Guide de gestion des catalogues](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-layered.html?lang=fr)

@@ -4,7 +4,7 @@ description: Découvrez comment créer un module Commerce pour utiliser les év�
 jira: KT-11891
 doc-type: Tutorial
 duration: 314
-last-substantial-update: 2023-02-21T00:00:00.000Z
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Developer
@@ -36,14 +36,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
 ---
 # Développement de modules Adobe Commerce
 
-Découvrez comment enregistrer des événements, trouver des événements pris en charge et utiliser un nouveau `io_events.xml` de fichier XML dans le développement de modules personnalisés. La vidéo montre également aux développeurs comment rechercher des événements enregistrés à utiliser et comment supprimer des événements déjà définis. Consultez la documentation supplémentaire disponible dans [Installation de Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
+Découvrez comment enregistrer des événements, trouver des événements pris en charge et utiliser un nouveau fichier XML `io_events.xml` dans le développement de modules personnalisés. La vidéo montre également aux développeurs comment rechercher des événements enregistrés à utiliser et comment supprimer des événements déjà définis. Documentation supplémentaire trouvée dans [Installer Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -54,7 +54,7 @@ Découvrez comment enregistrer des événements, trouver des événements pris e
 * Enregistrement d’événements Commerce pour Adobe Developer App Builder
 * Identifier les événements pouvant être enregistrés
 * Découvrez comment enregistrer des événements dans io_events.xml
-* Découvrez comment enregistrer des événements dans le `app/etc/config.php` des instances Commerce
+* Découvrez comment enregistrer des événements dans les instances Commerce `app/etc/config.php`
 * Découvrez comment vous désabonner d’un événement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419835?captions=fre_fr&learn=on)

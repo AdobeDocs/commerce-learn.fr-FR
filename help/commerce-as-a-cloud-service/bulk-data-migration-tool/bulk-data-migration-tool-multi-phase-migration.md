@@ -6,7 +6,7 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00.000Z
+last-substantial-update: 2026-07-27
 jira: KT-22157
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -17,7 +17,7 @@ feature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -35,8 +35,8 @@ Exécutez une migration en plusieurs phases lorsque votre environnement source d
 
 ## Contenu vidéo
 
-* Une distinction clé avant de commencer : les commandes `bin/console` s’exécutent sur l’outil de migration lui-même ; les commandes `bin/magento maintenance` s’exécutent sur votre serveur Commerce source. L’outil n’active ni ne désactive le mode de maintenance ; il s’agit d’une étape manuelle.
-* La première phase s’exécute alors que la source est toujours active ; `bin console migration:before-maintenance` vérifie la configuration, initialise l’environnement, se connecte au système de gestion de contenu par composant, enregistre la migration, exécute des tests fonctionnels et crée des données de test synthétiques. N’activez pas le mode de maintenance avant la fin de cette phase.
-* La troisième phase consiste à extraire les données d&#39;un environnement figé : `bin/console migration:during-maintenance` rouvre les tunnels PaaS si nécessaire, extrait les données de la source, nettoie les vues d&#39;évaluation, charge la cible ACCS, exécute la vérification et nettoie les données de test sur la cible.
+* Une distinction clé avant de commencer : `bin/console` commandes s’exécutent sur l’outil de migration lui-même ; `bin/magento maintenance` commandes s’exécutent sur votre serveur Commerce source. L’outil n’active ni ne désactive le mode de maintenance ; il s’agit d’une étape manuelle.
+* La première phase s&#39;exécute alors que la source est toujours active : `bin console migration:before-maintenance` vérifie la configuration, initialise l&#39;environnement, se connecte au système de gestion de contenu par composant, enregistre la migration, exécute des tests fonctionnels et crée des données de test synthétiques. N’activez pas le mode de maintenance avant la fin de cette phase.
+* La troisième phase est l&#39;extraction d&#39;un environnement figé — `bin/console migration:during-maintenance` rouvre les tunnels PaaS si nécessaire, extrait de la source, nettoie les vues d&#39;évaluation, charge la cible ACCS, exécute la vérification et nettoie les données de test sur la cible.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496415?captions=fre_fr&learn=on)

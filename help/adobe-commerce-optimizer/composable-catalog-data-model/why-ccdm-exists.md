@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00.000Z
+last-substantial-update: 2026-05-15
 jira: KT-18624
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -23,14 +23,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
 ---
 # Explication du modèle de données de catalogue composable
 
-Les équipes commerciales modernes vendent souvent entre **marques**, **régions**, **concessionnaires** et **canaux numériques**. Lorsque chaque canal conserve sa propre copie de catalogue, les équipes passent plus de temps à réconcilier les SKU, les prix et la disponibilité qu’à améliorer l’expérience de l’acheteur. Le **modèle de données de catalogue composable Adobe (CCDM)** derrière **Adobe Commerce Optimizer** est conçu pour inverser ce modèle : **un catalogue unifié** dans une couche SaaS, avec **vues de catalogue** et **politiques** qui façonne ce que chaque storefront ou intégration est autorisé à voir.
+Les équipes commerciales modernes vendent souvent entre **marques**, **régions**, **concessionnaires** et **canaux numériques**. Lorsque chaque canal conserve sa propre copie de catalogue, les équipes passent plus de temps à réconcilier les SKU, les prix et la disponibilité qu’à améliorer l’expérience de l’acheteur. Le **modèle de données de catalogue composable Adobe (CCDM)** derrière **Adobe Commerce Optimizer** est conçu pour inverser ce modèle : **un catalogue unifié** dans une couche SaaS, avec **vues de catalogue** et **politiques** qui façonnent ce que chaque storefront ou intégration est autorisé à voir.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -47,27 +47,27 @@ Les équipes commerciales modernes vendent souvent entre **marques**, **régions
 
 ## Le défi des catalogues compartimentés
 
-Lorsque chaque site de revendeur, vitrine régionale ou propriété de marque conserve **sa propre base de données de catalogue**, plusieurs problèmes se posent :
+Lorsque chaque site de revendeur, magasin régional ou propriété de marque conserve **sa propre base de données de catalogue**, plusieurs problèmes se posent :
 
-* **Duplication** — Le même SKU, la même description et le même média sont saisis plusieurs fois.
-* **Dérive** — les mises à jour de prix, les nouveaux attributs ou les articles abandonnés arrivent sur un canal, mais pas sur d&#39;autres.
+* **Duplication** : le même SKU, la même description et le même média sont saisis plusieurs fois.
+* **Dérive** : les mises à jour de prix, les nouveaux attributs ou les articles abandonnés se retrouvent sur un canal, mais pas sur d’autres.
 * **Lancements plus lents** — chaque nouveau point de contact répète un travail de données important au lieu de réutiliser un seul enregistrement de produit.
 
-Le CCDM permet aux informations sur les produits de se trouver dans **un seul catalogue composable** enrichi par d&#39;autres systèmes, tandis que les vitrines reçoivent toujours des assortiments et des prix **appropriés**.
+Le CCDM existe de sorte que les informations sur les produits peuvent être conservées dans **un catalogue composable** enrichi par d’autres systèmes, tandis que les vitrines reçoivent toujours des assortiments et des tarifs **appropriés**.
 
 ## Ce que le modèle de données de catalogue composable modifie
 
-Dans Adobe Commerce Optimizer, les données de produit sont **ingérées dans un catalogue de base unifié** à partir d’une ou de plusieurs **sources de catalogue** (par exemple, des paramètres régionaux comme `en-US` ou des systèmes en amont comme un PIM ou un ERP). Cette source fournit les attributs et les valeurs bruts.
+Dans Adobe Commerce Optimizer, les données de produit sont **ingérées dans un catalogue de base unifié** à partir d’une ou de plusieurs **sources de catalogue** (par exemple, des paramètres régionaux tels que `en-US` ou des systèmes en amont tels qu’un PIM ou un ERP). Cette source fournit les attributs et les valeurs bruts.
 
-**Vues catalogue** définissez ensuite comment ces données unifiées sont **organisées et exposées** pour un contexte commercial : quels produits transmettent vos **politiques**, quels **livres de prix** s’appliquent et quelle **source du catalogue** soutient la vue. Les mêmes enregistrements sous-jacents peuvent donc prendre en charge **de nombreuses projections** par exemple des vues distinctes par concessionnaire, région ou marque, sans cloner l’intégralité du catalogue pour chaque site.
+Les **vues de catalogue** définissent ensuite comment ces données unifiées sont **organisées et exposées** pour un contexte commercial : quels produits transmettent vos **politiques**, quels **livres de prix** s’appliquent et quelle **source de catalogue** soutient la vue. Les mêmes enregistrements sous-jacents peuvent donc prendre en charge **de nombreuses projections**, par exemple des vues distinctes par concessionnaire, région ou marque, sans cloner l’intégralité du catalogue pour chaque site.
 
-Cette séparation (**d’où proviennent les données** (source du catalogue) par rapport à **leur présentation** (vue du catalogue)) est la raison principale pour laquelle les équipes adoptent le CCDM au lieu de gérer des catalogues parallèles par canal.
+Cette séparation—**d’où proviennent les données** (source du catalogue) et **comment elles sont présentées** (vue du catalogue)—est la raison principale pour laquelle les équipes adoptent le CCDM au lieu de gérer des catalogues parallèles par canal.
 
 ## Vues catalogue comme objectif storefront
 
-Comme décrit dans [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, une vue de catalogue se comporte comme une **lentille** : les acheteurs ne voient que les produits, les prix et les règles que la vue autorise, tandis que le **catalogue de base** reste le système d’enregistrement partagé. Ce modèle s’associe directement aux **services de marchandisage** afin que les clients API transmettent la vue correcte (et les en-têtes associés) et reçoivent une réponse cohérente et axée sur les politiques pour chaque expérience.
+Comme décrit dans [Vues de catalogue pour les services de marchandisage](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, une vue de catalogue se comporte comme une **lentille** : les acheteurs ne voient que les produits, les prix et les règles que la vue autorise, tandis que le **catalogue de base** reste le système d’enregistrement partagé. Ce modèle s’associe directement aux **services de marchandisage**, de sorte que les clients API transmettent la vue correcte (et les en-têtes associés) et reçoivent une réponse cohérente, pilotée par des politiques, pour chaque expérience.
 
-Pour une présentation plus approfondie de la manière dont ces éléments s’adaptent à un flux de bout en bout, consultez la présentation destinée aux développeurs [Créer un catalogue composable pour votre storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
+Pour une présentation plus détaillée de la façon dont ces éléments s’adaptent à un flux de bout en bout, consultez la présentation destinée aux développeurs [Créer un catalogue composable pour votre storefront](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Contenu connexe
 

@@ -4,7 +4,7 @@ description: Découvrez comment l’agent de catalogue Commerce comble les lacun
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21572
 duration: 451
 product_v2:
@@ -16,14 +16,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
 # Découverte de produits Commerce AI
 
-[!BADGE Bientôt Disponible]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
+[!BADGE Prochainement]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
 
 Même les catalogues de produits les plus riches n’ont qu’une visibilité partielle sur les grands modèles de langage (LLM). Les attributs riches tels que les variantes de produit, le type de mouture, les notes de saveur et l’emballage sont souvent masqués derrière des panneaux réductibles et des pop-ups que les robots d&#39;exploration d’IA ne peuvent pas lire. L’agent de catalogue de commerce identifie automatiquement ces écarts de visibilité et les résout, sans modifier la vitrine destinée aux acheteurs.
 

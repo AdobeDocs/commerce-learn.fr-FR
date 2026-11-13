@@ -4,7 +4,7 @@ description: Découvrez comment utiliser Adobe Developer Console pour travailler
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2026-08-03T00:00:00.000Z
+last-substantial-update: 2026-08-03
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,14 +37,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
 ---
 # Utilisation des projets et des espaces de travail
 
-Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans l’interface utilisateur de la console [&#128279;](https://developer.adobe.com/console){target="_blank"}.
+Ce tutoriel aborde la création d’un projet et d’un espace de travail pour contenir votre maillage. Ce travail se produit principalement dans la [console Adobe Developer](https://developer.adobe.com/console){target="_blank"} interface utilisateur.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -63,7 +63,7 @@ Ce tutoriel aborde la création d’un projet et d’un espace de travail pour c
 
 ## En savoir plus sur Adobe Developer Console
 
-Dans Adobe Developer Console, la hiérarchie suivante décrit l’organisation des API au sein de votre organisation : `Organization > Project > Workspace > [API]`. Pour en savoir plus sur Adobe App Builder, la connexion à la console et le dépannage de base, consultez la page [Création de votre première application App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
+Dans Adobe Developer Console, la hiérarchie suivante décrit l’organisation de vos API au sein de votre organisation : `Organization > Project > Workspace > [API]`. Pour en savoir plus sur Adobe App Builder, la connexion à la console et le dépannage de base, consultez [Création de votre première application App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Présentation des projets dans Adobe Developer Console
 

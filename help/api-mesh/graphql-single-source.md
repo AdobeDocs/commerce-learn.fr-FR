@@ -4,7 +4,7 @@ description: Découvrez comment utiliser le maillage API sur Adobe Commerce et A
 jira: KT-11804
 doc-type: Tutorial
 duration: 485
-last-substantial-update: 2023-02-08T00:00:00.000Z
+last-substantial-update: 2023-02-08
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,14 +37,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
 ---
 # Création d’un maillage avec une seule source
 
-Cette vidéo aide les développeurs à comprendre comment créer un maillage avec une seule source dans le maillage API pour Adobe Developer App Builder. Pour que cet exemple de base fonctionne, vous avez besoin d’une API ou d’un point d’entrée GraphQL accessible au public. La vidéo explique également comment créer un fichier `mesh.json` simple à utiliser avec votre instance Commerce. Pour plus d’informations et d’exemples de code, consultez [Création d’un maillage](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
+Cette vidéo aide les développeurs à comprendre comment créer un maillage avec une seule source dans le maillage API pour Adobe Developer App Builder. Pour que cet exemple de base fonctionne, vous avez besoin d’une API ou d’un point d’entrée GraphQL accessible au public. La vidéo explique également comment créer un fichier `mesh.json` simple à utiliser avec votre instance Commerce. Pour plus d’informations et d’exemples de code, consultez [Créer un maillage](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 

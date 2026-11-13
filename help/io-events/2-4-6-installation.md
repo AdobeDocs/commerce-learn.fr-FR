@@ -4,7 +4,7 @@ description: Découvrez comment installer les modules nécessaires aux événeme
 jira: KT-11887
 doc-type: Tutorial
 duration: 136
-last-substantial-update: 2023-02-22T00:00:00.000Z
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
@@ -35,14 +35,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Installation d’Adobe Commerce 2.4.6
 
-Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.6. Consultez la documentation supplémentaire disponible dans [Installation de Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
+Découvrez comment installer plusieurs nouveaux modules dans Adobe Commerce à l’aide du compositeur pour la version 2.4.6. Documentation supplémentaire trouvée dans [Installer Adobe I/O Events pour Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## Audience prévue
 
@@ -76,7 +76,7 @@ bin/magento setup:upgrade && bin/magento setup:di:compile
 composer info magento/ece-tools
 ```
 
-`.magento.env.yaml` COMMERCE CLOUD :
+Commerce Cloud `.magento.env.yaml` :
 
 ```yaml
 stage:

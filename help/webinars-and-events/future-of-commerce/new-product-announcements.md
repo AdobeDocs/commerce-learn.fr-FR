@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 838
-last-substantial-update: 2025-05-15T00:00:00.000Z
+last-substantial-update: 2025-05-15
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
 TQID: 'https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8'
@@ -28,9 +28,9 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 0%
 ---
 # Annonces de nouveaux produits
@@ -57,7 +57,7 @@ Dans le cadre du premier d’une série de quatre webinaires, Adobe Commerce pr�
 
 * [Comparer les options d’Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
 * [Présentation d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce-learn/adobe-commerce-optimizer/overview)
+* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)
 
 ## Autres vidéos de cette série
 

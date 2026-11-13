@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 349
-last-substantial-update: 2026-05-21T00:00:00.000Z
+last-substantial-update: 2026-05-21
 jira: KT-21258
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -23,14 +23,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
 ---
 # Politiques dans le modèle de données de catalogue composable Adobe
 
-Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voient à partir d’un catalogue de base unifié, les **politiques** sont ce dont cet objectif est composé. Ce tutoriel explique ce qu’est une politique, comment les politiques **STATIC** et **TRIGGER** fonctionnent ensemble dans le scénario de démonstration **Carvelo Automobiles** et pourquoi la mise à jour d’une politique prend effet immédiatement, sans devoir reconstruire le catalogue.
+Si une **vue de catalogue** est l’objectif qui façonne ce que les acheteurs voient à partir d’un catalogue de base unifié, les **politiques** sont l’élément de cet objectif. Ce tutoriel explique ce qu’est une politique, comment les politiques **STATIC** et **TRIGGER** fonctionnent ensemble dans le scénario de démonstration **Carvelo Automobiles** et pourquoi la mise à jour d’une politique prend effet immédiatement, sans devoir reconstruire le catalogue.
 
 ## À qui s&#39;adresse cette vidéo ?
 
@@ -41,7 +41,7 @@ Si une **vue catalogue** est l’objectif qui façonne ce que les acheteurs voie
 * Politiques en tant que filtres d’accès aux données sur les attributs de produit
 * Combinaison de plusieurs politiques dans la vue Catalogue Celport (marques et catégories de pièces)
 * Politiques STATIQUES pour les règles métier permanentes
-* Politiques TRIGGER activées par les en-têtes de requête API (par exemple, `AC-Policy-Brand`)
+* Politiques TRIGGER activées par les en-têtes de requête API (par exemple `AC-Policy-Brand`)
 * Mise à jour des politiques dans les opérations quotidiennes sans reconstruction de catalogue
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491426?captions=fre_fr&learn=on)
@@ -50,18 +50,18 @@ Une **politique** est un **filtre d’accès aux données**. Il inspecte les att
 
 ## Politiques STATIQUES
 
-Une politique **STATIQUE** est **toujours activée**. Il applique des règles métier permanentes, quel que soit le comportement de l’acheteur ou l’état de session.
+Une politique **STATIC** est **toujours activée**. Il applique des règles métier permanentes, quel que soit le comportement de l’acheteur ou l’état de session.
 
 Dans le scénario Celport, les règles STATIC sont les suivantes :
 
 * Celport ne vendra que les marques **Bolt** et **Cruz**.
 * Celport affichera uniquement les pièces **freins** et **suspension**.
 
-Ces règles ne s&#39;éteignent jamais. Les politiques STATIC sont l’endroit où **accords de licence**, **restrictions territoriales** et **autorisations de marque** s’appliquent. Définissez-les une fois et Adobe Commerce Optimizer les applique automatiquement à chaque requête.
+Ces règles ne s&#39;éteignent jamais. Les politiques STATIQUES correspondent aux **contrats de licence**, **restrictions territoriales** et **autorisations de marque**. Définissez-les une fois et Adobe Commerce Optimizer les applique automatiquement à chaque requête.
 
 ## POLITIQUES DE DÉCLENCHEMENT
 
-Les politiques avec une source de valeur **TRIGGER** sont parfois appelées **politiques exclusives**. La vue Catalogue exécute cette politique **uniquement lorsque le déclencheur est spécifié** dans l’en-tête de l’appel API.
+Les politiques dont la source de valeur est **TRIGGER** sont parfois appelées **politiques exclusives**. La vue de catalogue exécute cette politique **uniquement lorsque le déclencheur est spécifié** dans l’en-tête de l’appel API.
 
 Par exemple, un storefront Experience Delivery Services (EDS) peut proposer une liste déroulante avec **Toutes les marques**, **Aurora**, **Bolt** et **Cruz** :
 
@@ -73,19 +73,19 @@ La vue Catalogue applique la politique TRIGGER uniquement lorsque cet en-tête e
 
 ## STATIC et TRIGGER ensemble
 
-Les politiques **STATIQUES** gèrent les règles permanentes. Les politiques **TRIGGER** gèrent les politiques interactives. Utilisés conjointement sur une seule vue de catalogue, ils offrent à la fois **conformité** et **flexibilité** : des limites d’assortiment fixes ainsi qu’un raffinement axé sur l’acheteur.
+Les politiques **STATIC** gèrent les règles permanentes. Les politiques **TRIGGER** gèrent les politiques interactives. Utilisés conjointement sur une seule vue de catalogue, ils offrent à la fois **conformité** et **flexibilité** : des limites d’assortiment fixes ainsi qu’un raffinement axé sur l’acheteur.
 
 ## Mettre à jour les politiques sans recréer le catalogue
 
-Pour les opérations quotidiennes, les changements de politique sont immédiats. Supposons que le contrat de licence de Celport autorise désormais **pneus** ainsi que les freins et la suspension :
+Pour les opérations quotidiennes, les changements de politique sont immédiats. Supposons que le contrat de licence de Celport autorise désormais **les pneus** ainsi que les freins et la suspension :
 
 1. Ouvrez la politique appropriée.
 1. Ajoutez **pneus** à la liste de valeurs.
 1. Enregistrer.
 
-Ce changement est **en ligne immédiatement**. Il n’y a pas de temps de reconstruction, de redéploiement ou d’attente du catalogue. La requête suivante au storefront Celport reflète la mise à jour.
+Cette modification est **active immédiatement**. Il n’y a pas de temps de reconstruction, de redéploiement ou d’attente du catalogue. La requête suivante au storefront Celport reflète la mise à jour.
 
-Les politiques sont des filtres légers sur un **catalogue partagé**, et non des règles intégrées dans des copies de catalogue distinctes. **Modifiez la règle, pas les données.**
+Les politiques sont des filtres légers sur un **catalogue partagé**, et non des règles intégrées dans des copies de catalogue distinctes. **Modifiez la règle, et non les données.**
 
 ## Contenu connexe
 
