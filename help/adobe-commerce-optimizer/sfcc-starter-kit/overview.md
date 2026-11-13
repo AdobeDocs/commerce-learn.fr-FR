@@ -27,9 +27,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '209'
 ht-degree: 0%
 ---
 # En savoir plus sur le kit de démarrage Salesforce Commerce Cloud
@@ -47,5 +47,14 @@ Découvrez Commerce Optimizer Salesforce Commerce Cloud Connector, un outil con�
 * découvrez l’objectif du kit de démarrage de l’intégration Salesforce Commerce Cloud.
 * Comprendre où installer le kit de démarrage
 
->[!VIDEO](https://video.tv.adobe.com/v/3473980?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
 
+
+## Continuer la série starter-kit
+
+1. [Aperçu de l’architecture](./architecture-overview.md)
+2. [Installation de la cartouche SFCC](./installation-sfcc-cartridge.md)
+3. [Kit de démarrage App Builder](./app-builder-starter-kit.md)
+4. [Démonstration de bout en bout](./end-to-end-demo.md)
+
+Pour connaître les concepts App Builder partagés, consultez [Présentation d’App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder).
