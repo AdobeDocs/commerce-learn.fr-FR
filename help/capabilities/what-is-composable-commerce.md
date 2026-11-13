@@ -86,7 +86,7 @@ Adobe Commerce as a Cloud Service est une plateforme commerciale gérée en SaaS
 
 Utilisez cette option lors de l’évaluation d’une base de commerce gérée avec des points d’extension pris en charge. Pour la logique commerciale personnalisée, prévoyez l’extensibilité hors processus prise en charge plutôt que de supposer que les extensions PHP existantes peuvent être déployées inchangées. ACCS ne prend pas en charge les storefronts de Luma. Incluez la migration des storefronts dans votre plan d’implémentation, le cas échéant.
 
-Voir la [présentation d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview).
+Voir la [présentation d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/overview).
 
 ### Adobe Commerce Optimizer
 
@@ -94,13 +94,13 @@ Adobe Commerce Optimizer prend en charge la gestion de catalogues, la découvert
 
 Utilisez cette option lorsque la modernisation face au client est l’objectif et que le remplacement du serveur principal transactionnel n’est pas nécessaire. Planifiez explicitement l’ingestion de catalogue et les intégrations de panier et de passage en caisse. ACCS et ACO sont des options d’architecture distinctes, et non une pile combinée requise. Vérifiez la prise en charge actuelle de l’intégration avant de sélectionner les services pour votre implémentation.
 
-Voir la [présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview).
+Voir la [présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview).
 
 ### Déploiements Adobe Commerce existants
 
 Adobe Commerce sur les déploiements d’infrastructure cloud et sur site peut également adopter des storefronts découplés et des intégrations basées sur les API prises en charge de manière incrémentielle. Selon le déploiement, vous pouvez conserver un storefront existant ou adopter un storefront découplé pris en charge. Le fait de conserver les fonctionnalités commerciales existantes ensemble peut réduire le travail d’intégration tout en permettant à certains services d’évoluer séparément.
 
-La disponibilité des fonctionnalités, la compatibilité des extensions, les licences et les exigences de configuration varient selon l’offre et la version. Comparez les [plateformes et services Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce/information-center/explore-platforms-and-services/platform-and-services) avant de choisir une architecture.
+La disponibilité des fonctionnalités, la compatibilité des extensions, les licences et les exigences de configuration varient selon l’offre et la version. Comparez les [plateformes et services Adobe Commerce](https://experienceleague.adobe.com/fr/docs/commerce/information-center/explore-platforms-and-services/platform-and-services) avant de choisir une architecture.
 
 ## Commerce Storefront optimisé par Edge Delivery Services
 
@@ -172,11 +172,11 @@ Consultez ces tutoriels, vidéos, guides d’implémentation et liste de lecture
 
 ### Documentation sur l’architecture et le développement
 
-* [Migration vers Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/migration/overview)
-* [Intégrations Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/integrations-overview)
+* [Migration vers Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/migration/overview)
+* [Intégrations Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/integrations-overview)
 * [Prise en main du développement du storefront de Commerce](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
 * [Bonnes pratiques pour les MCP et les compétences de développement Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
 
 ### Playlist
 
-* [Prise en main du maillage API avec Adobe App Builder et Adobe Commerce](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Prise en main du maillage API avec Adobe App Builder et Adobe Commerce](https://experienceleague.adobe.com/fr/playlists/commerce-get-started-app-builder-and-api-mesh)
