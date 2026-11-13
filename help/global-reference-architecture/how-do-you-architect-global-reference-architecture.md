@@ -1,6 +1,6 @@
 ---
 title: Comment architecturer l’architecture de référence globale
-description: Découvrez comment architecturer une architecture de référence globale. Découvrez les techniques et les idées pour vous assurer que votre projet d’architecture de référence mondiale démarre sur la bonne voie
+description: Découvrez comment architecturer l’architecture de référence globale pour Adobe Commerce, notamment les techniques de gestion du code, la documentation, les outils et les responsabilités de l’équipe.
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
@@ -42,12 +42,16 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '158'
 ht-degree: 0%
 ---
 # Architecture pour GRA
+
+>[!NOTE]
+>
+>Cette série couvre Adobe Commerce sur les infrastructures cloud et les déploiements auto-hébergés.
 
 Découvrez comment architecturer l’architecture de référence globale (GRA). Pour mieux préparer une GRA à une implémentation réussie, les experts d’Adobe discutent de ce qui est et de ce qui n’est pas GRA. Discussion détaillée sur la gestion du code à l’aide de packages distincts, de Git partagé et de monorepo. D’autres sujets relatifs à la documentation, aux outils et aux attentes du personnel sont abordés afin d’élaborer leurs parties pour une mise en œuvre réussie de la GRA.
 
