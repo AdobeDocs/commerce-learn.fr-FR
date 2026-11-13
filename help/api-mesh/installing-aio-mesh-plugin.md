@@ -45,7 +45,7 @@ ht-degree: 0%
 # Installation de l’interface de ligne de commande Adobe I/O Runtime et du plug-in Mesh
 
 Avant de commencer à utiliser le maillage API pour Adobe Developer App Builder, vous devez installer l’interface de ligne de commande `aio` et le plug-in de maillage API.
-Pour obtenir des instructions d’installation et connaître les conditions préalables requises, consultez la page Prise en main du maillage API [](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/){target="_blank"}.
+Pour obtenir des instructions d’installation et connaître les conditions préalables requises, consultez la page Prise en main du maillage API [&#128279;](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/){target="_blank"}.
 
 ## À qui s&#39;adresse cette vidéo ?
 
