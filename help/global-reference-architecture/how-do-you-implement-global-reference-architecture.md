@@ -1,6 +1,6 @@
 ---
 title: Comment mettre en œuvre l’architecture de référence globale
-description: Découvrez comment mettre en œuvre une architecture de référence globale. Découvrez des idées pour distribuer vos sites web, les clés de la réussite et les rôles nécessaires pour vous assurer que votre projet d’architecture de référence mondiale commence sur la bonne voie.
+description: Découvrez comment mettre en œuvre l’architecture de référence globale pour Adobe Commerce, notamment la distribution de sites web, les facteurs de réussite, le développement de fonctionnalités et les rôles d’équipe.
 jira: KT-14042
 doc-type: Value Video
 duration: 2273
@@ -40,12 +40,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '156'
 ht-degree: 0%
 ---
 # Mise en œuvre de l’architecture de référence globale
+
+>[!NOTE]
+>
+>Cette série couvre Adobe Commerce sur les infrastructures cloud et les déploiements auto-hébergés.
 
 Découvrez comment mettre en œuvre l’architecture de référence globale (GRA). Découvrez les premières décisions qui permettent de mettre en place une GRA performante. Obtenez des idées sur la manière de séparer vos sites web, les clés du succès et certains concepts pour développer des fonctionnalités de manière organisée.
 
@@ -65,6 +69,6 @@ Découvrez comment mettre en œuvre l’architecture de référence globale (GRA
 * Tableau de contrôle global : sur quelles fonctionnalités travailler
 * Concept alternatif pour utiliser GRA comme marketplace de module
 
->[!VIDEO](https://video.tv.adobe.com/v/3457210?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

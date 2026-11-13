@@ -44,12 +44,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 ---
 # Utilisation de l’architecture de référence globale
+
+>[!NOTE]
+>
+>Cette série couvre Adobe Commerce sur les infrastructures cloud et les déploiements auto-hébergés.
 
 Découvrez comment tirer parti de l’architecture de référence globale ou GRA. Afin de mieux préparer une GRA pour une implémentation réussie, les experts Adobe discutent des différentes phases du projet et entrent dans le détail pour la phase de découverte. Les ressources d’assurance qualité sont abordées et expliquent leur utilité pour une implémentation de la GRA.
 
@@ -65,6 +69,6 @@ Découvrez comment tirer parti de l’architecture de référence globale ou GRA
 * Collecte des besoins
 * Quand impliquez-vous l’équipe d’assurance qualité ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3456002?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
