@@ -75,6 +75,6 @@ Découvrez comment Adobe Commerce révolutionne l’e-commerce avec des solution
 
 ## Tutoriels connexes
 
-* [Présentation de Commerce MCP](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+* [Présentation de Commerce MCP](https://experienceleague.adobe.com/fr/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 * [Parcours de formation de l’agent de développement Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
-* [Adobe Commerce Optimizer : modèle de données de catalogue composable](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)
+* [Adobe Commerce Optimizer : modèle de données de catalogue composable](https://experienceleague.adobe.com/fr/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists)

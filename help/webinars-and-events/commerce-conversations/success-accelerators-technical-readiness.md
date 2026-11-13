@@ -54,6 +54,6 @@ Les accélérateurs de succès Adobe Commerce incluent des services tels que la 
 
 ## Tutoriels connexes
 
-* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Présentation de l’observabilité](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Créer un ticket d’assistance](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infrastructure cloud et auto-hébergement : liste de contrôle de pré-lancement](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Présentation de l’observabilité](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Créer un ticket d’assistance](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
