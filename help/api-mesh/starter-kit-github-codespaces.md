@@ -4,7 +4,7 @@ description: Découvrez comment commencer à utiliser le maillage API Adobe Comm
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
-last-substantial-update: 2025-06-17T00:00:00.000Z
+last-substantial-update: 2025-06-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
@@ -41,7 +41,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -62,10 +62,10 @@ Cette session présente le kit de démarrage du maillage API Adobe Commerce. Il 
 * Outils de test intégrés : comprend un serveur GraphQL préconfiguré (Yoga) et des redémarrages automatiques du serveur pour un développement transparent.
 * Apprentissage pratique : clonez le kit de démarrage, configurez des points d’entrée et testez les réponses de l’API directement dans le navigateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464019?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## Documentation connexe
 
 * [Référentiel GitHub du kit de démarrage du maillage API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [documentation Adobe Developer graphql-mesh-gateway](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/fr/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Liste de lecture des vidéos du maillage API](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

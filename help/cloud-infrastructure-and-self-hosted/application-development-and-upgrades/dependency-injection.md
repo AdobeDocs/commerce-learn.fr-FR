@@ -3,7 +3,7 @@ title: Exemple d’injection de dépendance
 description: Découvrez l’injection de dépendance dans Adobe Commerce, un modèle de conception où les objets déclarent leurs dépendances pour une injection externe, ce qui améliore la flexibilité.
 doc-type: Technical Video
 duration: 313
-last-substantial-update: 2026-06-19T00:00:00.000Z
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Developer
@@ -33,7 +33,7 @@ topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
 autotag-review: '2026-11-11T17:28:59.032Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -48,7 +48,7 @@ L’injection de dépendance est un motif de conception qui permet à un objet A
 
 ## Contenu vidéo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412446?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
 
 ## Ressources utiles
 

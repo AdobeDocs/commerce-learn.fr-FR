@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 323
-last-substantial-update: 2024-07-6
+last-substantial-update: 2024-07-06
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
 TQID: 'https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM'
@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '1305'
 ht-degree: 0%
@@ -74,15 +74,15 @@ Dans l&#39;ensemble, comprendre le commerce composable permet aux entreprises de
 
 Les entreprises peuvent tirer parti du commerce composable de plusieurs manières :
 
-**Flexibilité et personnalisation :** commerce composable permet aux entreprises de sélectionner et de combiner les meilleurs composants ou microservices pour créer une solution de commerce électronique personnalisée qui répond à leurs besoins spécifiques. Il permet aux entreprises d’adapter leur plateforme pour offrir des expériences client uniques, mettre en œuvre des fonctionnalités spécialisées et se différencier sur le marché.
+**Flexibilité et personnalisation :** Le commerce composable permet aux entreprises de sélectionner et de combiner les meilleurs composants ou microservices pour créer une solution de commerce électronique personnalisée qui répond à leurs besoins spécifiques. Il permet aux entreprises d’adapter leur plateforme pour offrir des expériences client uniques, mettre en œuvre des fonctionnalités spécialisées et se différencier sur le marché.
 
-**Évolutivité et agilité :** grâce à une architecture composable, les entreprises peuvent mettre à l’échelle différents composants de leur plateforme d’e-commerce de manière indépendante. Cela signifie qu’elles peuvent allouer des ressources et adapter des fonctionnalités spécifiques en fonction de la demande, pour garantir des performances optimales et une rentabilité optimale. Le commerce composable permet également des pratiques de développement agiles, ce qui permet aux équipes de travailler sur différents composants simultanément et de déployer les modifications indépendamment, ce qui accélère le délai de mise sur le marché.
+**Évolutivité et agilité :** Grâce à une architecture composable, les entreprises peuvent mettre à l’échelle différents composants de leur plateforme d’e-commerce de manière indépendante. Cela signifie qu’elles peuvent allouer des ressources et adapter des fonctionnalités spécifiques en fonction de la demande, pour garantir des performances optimales et une rentabilité optimale. Le commerce composable permet également des pratiques de développement agiles, ce qui permet aux équipes de travailler sur différents composants simultanément et de déployer les modifications indépendamment, ce qui accélère le délai de mise sur le marché.
 
-**Fonctionnalités d’intégration :** commerce composable facilite l’intégration transparente aux systèmes, services et technologies tiers. Les entreprises peuvent facilement connecter leur plateforme de commerce électronique à divers outils tels que des passerelles de paiement, des systèmes ERP, des systèmes CRM, des plateformes d&#39;automatisation du marketing, etc. Cette fonctionnalité d’intégration permet aux entreprises d’exploiter les solutions les plus performantes et de créer un écosystème unifié qui améliore l’efficacité opérationnelle et l’expérience client.
+**Fonctionnalités d’intégration :** le commerce composable facilite l’intégration transparente aux systèmes, services et technologies tiers. Les entreprises peuvent facilement connecter leur plateforme de commerce électronique à divers outils tels que des passerelles de paiement, des systèmes ERP, des systèmes CRM, des plateformes d&#39;automatisation du marketing, etc. Cette fonctionnalité d’intégration permet aux entreprises d’exploiter les solutions les plus performantes et de créer un écosystème unifié qui améliore l’efficacité opérationnelle et l’expérience client.
 
-**Prévoyance :** commerce composable offre aux entreprises la flexibilité nécessaire pour adapter et faire évoluer leur plateforme de commerce électronique à mesure que les tendances technologiques et du marché changent. Il permet aux entreprises d&#39;ajouter ou de remplacer facilement des composants, d&#39;intégrer de nouvelles technologies et de devancer la concurrence. Cette fonctionnalité à l’épreuve du temps permet aux entreprises d’innover en permanence et de répondre aux attentes changeantes des clients.
+**Le commerce composable** offre aux entreprises la flexibilité nécessaire pour adapter et faire évoluer leur plateforme de commerce électronique à mesure que les tendances technologiques et du marché changent. Il permet aux entreprises d&#39;ajouter ou de remplacer facilement des composants, d&#39;intégrer de nouvelles technologies et de devancer la concurrence. Cette fonctionnalité à l’épreuve du temps permet aux entreprises d’innover en permanence et de répondre aux attentes changeantes des clients.
 
-**Autonomisation des développeurs et développeuses :** le commerce composable donne aux développeurs et aux développeuses la possibilité de travailler avec différentes technologies, langues et structures. Il permet aux développeurs de se concentrer sur des composants ou des microservices spécifiques, permettant la spécialisation et l&#39;expertise. Cette autonomisation permet d’accroître la productivité des développeurs, d’accélérer les cycles de développement et d’exploiter les outils et technologies les plus récents.
+**Autonomisation des développeurs :** le commerce composable donne aux développeurs la possibilité de travailler avec différentes technologies, langues et structures. Il permet aux développeurs de se concentrer sur des composants ou des microservices spécifiques, permettant la spécialisation et l&#39;expertise. Cette autonomisation permet d’accroître la productivité des développeurs, d’accélérer les cycles de développement et d’exploiter les outils et technologies les plus récents.
 
 Dans l’ensemble, le commerce composable permet aux entreprises de créer une plateforme d’e-commerce hautement flexible, évolutive et personnalisable qui peut s’adapter à l’évolution des besoins de l’entreprise, offrir des expériences client exceptionnelles et stimuler la croissance et le succès sur le marché numérique.
 
@@ -90,9 +90,9 @@ Dans l’ensemble, le commerce composable permet aux entreprises de créer une p
 
 Adobe Commerce offre plusieurs fonctionnalités pour aider les commerçants à adopter et à mettre en œuvre le commerce composable :
 
-**Méthodologie de Commerce composable :** Adobe Commerce propose une méthodologie de commerce composable qui guide les commerçants dans la compréhension et la mise en œuvre des principes de l’architecture composable. Cette méthodologie aide les entreprises à tirer parti des avantages de la flexibilité, de l’évolutivité et de la personnalisation tout en tenant compte de facteurs tels que la complexité, la maturité technique et la taille du projet.
+**Méthodologie Commerce composable :** Adobe Commerce propose une méthodologie de commerce composable qui guide les commerçants dans la compréhension et la mise en œuvre des principes de l’architecture composable. Cette méthodologie aide les entreprises à tirer parti des avantages de la flexibilité, de l’évolutivité et de la personnalisation tout en tenant compte de facteurs tels que la complexité, la maturité technique et la taille du projet.
 
-**Fonctionnalités riches en fonctionnalités :** Adobe Commerce fournit un ensemble complet de fonctionnalités accessibles via son API GraphQL. Cette fonctionnalité riche en fonctionnalités permet aux commerçants de minimiser le nombre de fournisseurs requis dans leur pile commerciale, ce qui réduit les défis de délai de mise sur le marché. Il permet aux entreprises de se lancer plus rapidement tout en conservant la flexibilité de composer et d’intégrer d’autres services ou fonctionnalités tiers au fur et à mesure de l’évolution de leur pile commerciale.
+**Fonctionnalités riches en fonctionnalités :** Adobe Commerce fournit un ensemble complet de fonctionnalités accessibles via son GraphQLAPI. Cette fonctionnalité riche en fonctionnalités permet aux commerçants de minimiser le nombre de fournisseurs requis dans leur pile commerciale, ce qui réduit les défis de délai de mise sur le marché. Il permet aux entreprises de se lancer plus rapidement tout en conservant la flexibilité de composer et d’intégrer d’autres services ou fonctionnalités tiers au fur et à mesure de l’évolution de leur pile commerciale.
 
 **Expériences front-end hybrides :** Adobe Commerce prend en charge les expériences front-end découplées et non découplées au sein du même écosystème. Cette flexibilité permet aux commerçants de choisir l’approche architecturale la plus appropriée pour chaque cas d’utilisation front-end spécifique. Il permet une transition progressive vers une architecture découplée et composable sans avoir besoin d’une migration simultanée de l’ensemble du système.
 
@@ -106,14 +106,14 @@ Ces fonctionnalités fournies par Adobe Commerce simplifient l’adoption et la 
 
 Le commerce composable est une approche architecturale du commerce électronique qui implique le découplage de la couche de présentation front-end de la fonctionnalité commerciale back-end. Voici les principaux enseignements tirés du commerce composable :
 
-**Architecture :** commerce composable suit une architecture modulaire et découplée, permettant aux entreprises de sélectionner et de combiner les meilleurs composants ou microservices pour créer une solution personnalisée. Cette architecture offre flexibilité, évolutivité et agilité.
+**Architecture :** Le commerce composable suit une architecture modulaire et découplée, permettant aux entreprises de sélectionner et de combiner les meilleurs composants ou microservices pour créer une solution personnalisée. Cette architecture offre flexibilité, évolutivité et agilité.
 
-**Avantages :** le commerce composable offre plusieurs avantages, notamment la flexibilité et la personnalisation, l’évolutivité et l’agilité, les fonctionnalités d’intégration, la pérennisation et l’autonomisation des développeurs. Il permet aux entreprises de s’adapter, de prendre de l’expansion, d’intégrer, d’innover et de tirer parti de l’expertise des développeurs.
+**Avantages :** Le commerce composable offre plusieurs avantages, notamment la flexibilité et la personnalisation, l’évolutivité et l’agilité, les fonctionnalités d’intégration, la pérennisation et l’autonomisation des développeurs. Il permet aux entreprises de s’adapter, de prendre de l’expansion, d’intégrer, d’innover et de tirer parti de l’expertise des développeurs.
 
-**Considérations :** lorsque vous envisagez un commerce composable, il convient d’évaluer soigneusement des facteurs tels que la complexité, la maturité technique interne, la taille et la structure du projet, la personnalisation par rapport à la normalisation, le coût total de possession, ainsi que la sécurité et la confidentialité des données.
+**Considérations :** Lorsque vous envisagez un commerce composable, il convient d&#39;évaluer soigneusement des facteurs tels que la complexité, la maturité technique interne, la taille et la structure du projet, la personnalisation par rapport à la normalisation, le coût total de possession, la sécurité et la confidentialité des données.
 
-**Adobe Commerce:** Adobe Commerce fournit des fonctionnalités et des outils pour aider les commerçants à adopter et à mettre en œuvre le commerce composable. Il s’agit notamment d’une méthodologie de commerce composable, de fonctionnalités riches en fonctionnalités, d’expériences front-end hybrides, d’un maillage API pour l’intégration et d’Adobe App Builder pour les microservices personnalisés.
+**Adobe Commerce :** Adobe Commerce fournit des fonctionnalités et des outils pour aider les commerçants à adopter et à mettre en œuvre le commerce composable. Il s’agit notamment d’une méthodologie de commerce composable, de fonctionnalités riches en fonctionnalités, d’expériences front-end hybrides, d’un maillage API pour l’intégration et d’Adobe App Builder pour les microservices personnalisés.
 
-**Impact commercial :** commerce composable permet aux entreprises de créer une plateforme d’e-commerce hautement flexible, évolutive et personnalisable. Il leur permet de fournir des expériences client uniques, de s’adapter en fonction de la demande, d’intégrer d’autres systèmes, de pérenniser leurs opérations et de tirer parti de l’expertise des développeurs.
+**Impact commercial :** Le commerce composable permet aux entreprises de créer une plateforme d’e-commerce hautement flexible, évolutive et personnalisable. Il leur permet de fournir des expériences client uniques, de s’adapter en fonction de la demande, d’intégrer d’autres systèmes, de pérenniser leurs opérations et de tirer parti de l’expertise des développeurs.
 
 Comprendre le commerce composable est essentiel pour que les entreprises du secteur du commerce électronique restent compétitives, s&#39;adaptent aux conditions changeantes du marché et offrent des expériences client exceptionnelles. En adoptant le commerce composable, les entreprises peuvent tirer parti des avantages de la flexibilité, de l’évolutivité, de la personnalisation, de l’agilité et des capacités d’intégration, ce qui stimule la croissance et le succès sur le marché numérique.

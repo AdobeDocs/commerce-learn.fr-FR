@@ -4,7 +4,7 @@ description: Découvrez comment Experience Workspace utilise un assistant d’IA
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21574
 duration: 376
 product_v2:
@@ -16,14 +16,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
 ---
 # Création d’agent
 
-[!BADGE Bientôt Disponible]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
+[!BADGE Prochainement]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
 
 Experience Workspace est l’environnement de création d’agent qui fournit aux marketeurs et aux développeurs une surface unifiée (structure de fichiers, contenu de page, métadonnées et aperçu en direct), le tout à un seul endroit. Son assistant de création d’IA s’exécute sur MCP. Il se connecte directement à votre catalogue de produits et au contenu de votre marque afin que vous puissiez décrire ce que vous souhaitez créer et le voir apparaître, sans changer d’onglet, ni procéder à un copier-coller ou classer des tickets.
 
@@ -41,7 +41,7 @@ Experience Workspace est l’environnement de création d’agent qui fournit au
 * Le langage naturel vous invite à interroger le catalogue et à générer des pages de campagne complètes
 * Modification au niveau du bloc et aperçu généré en direct avant publication
 
->[!VIDEO](https://video.tv.adobe.com/v/3492298?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3492281)
 
 <!-- ## Additional resources -->
 

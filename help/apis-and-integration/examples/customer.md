@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: 'https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0'
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 0%
@@ -63,7 +63,7 @@ Découvrez comment utiliser les nouvelles API REST client dans Adobe Commerce as
 * Utiliser le format de point d’entrée de l’API REST approprié pour Commerce as a Cloud Service
 * Créez et mettez à jour des comptes clients par programmation à l’aide de requêtes POST et PUT avec des payloads JSON appropriées
 
->[!VIDEO](https://video.tv.adobe.com/v/3479364?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Exemples de code
 
@@ -104,7 +104,7 @@ curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
   -d 'grant_type=client_credentials&client_id=<client_id>&client_secret=<client_secret>&scope=openid,AdobeID,email,additional_info.projectedProductContext,profile,commerce.aco.ingestion,commerce.accs,org.read,additional_info.roles'
 ```
 
-**Exemple de réponse :**
+**Exemple De Réponse :**
 
 ```json
 {
@@ -118,11 +118,11 @@ curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
 
 >[!IMPORTANT]
 >
-> L’URL fournie dans cet exemple n’est pas valide. Utilisez votre URL de base REST. Échangez « &lt;rest_endpoint> » avec votre URL. Il ressemble à ce `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
+> L’URL fournie dans cet exemple n’est pas valide. Utilisez votre URL de base REST. Échangez « &lt;rest_endpoint> » avec votre URL. Il ressemble à ce(tte) `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 >
 > /rest/ n’est pas inclus dans l’URL de ce point d’entrée. L’inclusion de entraîne une erreur.
 
-**Endpoint:** `POST /V1/customers`
+**Point D’Entrée :** `POST /V1/customers`
 
 ```bash
 curl -X POST \
@@ -141,7 +141,7 @@ curl -X POST \
   }'
 ```
 
-**Réponse:**
+**Réponse :**
 
 ```json
 {
@@ -164,11 +164,11 @@ curl -X POST \
 
 >[!IMPORTANT]
 >
-> L’URL fournie dans cet exemple n’est pas valide. Utilisez votre URL de base REST. Échangez « &lt;rest_endpoint> » avec votre URL. Il ressemble à ce `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
+> L’URL fournie dans cet exemple n’est pas valide. Utilisez votre URL de base REST. Échangez « &lt;rest_endpoint> » avec votre URL. Il ressemble à ce(tte) `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 
-Le nombre `5` dans l’exemple suivant est l’ID du client précédemment créé à l’aide de l’`"id": 5,` POST. Veillez à remplacer `5` par l’identifiant renvoyé dans votre demande.
+Le nombre `5` dans l’exemple suivant est l’ID du client précédemment créé à l’aide de l’option POST `"id": 5,`. Veillez à remplacer `5` par l&#39;ID renvoyé dans votre requête.
 
-**Endpoint:** `PUT /V1/customers/{customerId}`
+**Point D’Entrée :** `PUT /V1/customers/{customerId}`
 
 ```bash
 curl -X PUT \
@@ -185,7 +185,7 @@ curl -X PUT \
   }'
 ```
 
-**Réponse:**
+**Réponse :**
 
 ```json
 {
@@ -207,7 +207,7 @@ curl -X PUT \
 
 >[!IMPORTANT]
 >
-> Les variables affichées dans cet exemple ne sont pas valides. Utilisez l’ID client et le secret client à partir des informations d’identification du projet. Utilisez votre URL de base REST. Échangez « &lt;rest_endpoint> » avec votre URL de point d’entrée REST à partir de experience.adobe.com. Il ressemble à ce `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
+> Les variables affichées dans cet exemple ne sont pas valides. Utilisez l’ID client et le secret client à partir des informations d’identification du projet. Utilisez votre URL de base REST. Échangez « &lt;rest_endpoint> » avec votre URL de point d’entrée REST à partir de experience.adobe.com. Il ressemble à ce(tte) `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
 
 ```bash
 #!/bin/bash
@@ -269,13 +269,13 @@ curl -s -X PUT \
 
 ## Remarques importantes à propos de ce tutoriel
 
-1. **Chemin d’accès à l’URL** : utilisez `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
-1. **Authentification** : ce tutoriel a utilisé une méthode de serveur à serveur (type d’octroi `client_credentials`).
-1. **Portée requise** : `commerce.accs`
+1. **Chemin D’URL** : Utilisez `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **PAS** `https://<host>/rest/<store-view-code>/V1/customers`
+1. **Authentification** : ce tutoriel a utilisé une authentification de serveur à serveur (`client_credentials` type d’octroi)
+1. **Portée Requise** : `commerce.accs`
 1. **Expiration du jeton** : 86400 secondes (24 heures)
 
 ## Références
 
-* [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/fr/docs/commerce/cloud-service/release-notes)
+* [Notes de mise à jour d’Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Référence de l’API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guide d’authentification de l’utilisateur](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

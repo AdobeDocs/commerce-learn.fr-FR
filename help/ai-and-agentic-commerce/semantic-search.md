@@ -4,7 +4,7 @@ description: Découvrez comment la recherche sémantique Adobe Commerce interpr�
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21573
 duration: 192
 product_v2:
@@ -16,7 +16,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 0%
@@ -40,9 +40,9 @@ La recherche traditionnelle par mot-clé correspond à des mots exacts, mais les
 * Exemples réels d’intention d’achat et pertinence améliorée de la recherche
 * Avantages clés : pertinence améliorée, moins de recherches sans résultat et de meilleures expériences client
 
->[!VIDEO](https://video.tv.adobe.com/v/3492307?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## Ressources supplémentaires
 
-- Pour les déploiements sur Adobe Commerce on Cloud, on-prem et Adobe Commerce as a Cloud Service, voir [[!DNL Live Search] recherche sémantique](https://experienceleague.adobe.com/fr/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} dans le _guide Live Search_.
-- Pour les déploiements à l’aide de Adobe Commerce Optimizer, consultez [Recherche sémantique](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/setup/semantic-search){target="_blank"} dans le _Guide de Commerce Optimizer_.
+- Pour les déploiements sur Adobe Commerce on Cloud, on-prem et Adobe Commerce as a Cloud Service, voir [[!DNL Live Search] recherche sémantique](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} dans le _Guide de Live Search_.
+- Pour les déploiements à l’aide de Adobe Commerce Optimizer, consultez [Recherche sémantique](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/semantic-search){target="_blank"} dans le _Guide de Commerce Optimizer_.

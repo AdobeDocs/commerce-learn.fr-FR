@@ -4,7 +4,7 @@ description: Découvrez comment le développement agentique dans Adobe Commerce 
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00.000Z
+last-substantial-update: 2026-06-11
 jira: KT-21575
 duration: 225
 product_v2:
@@ -16,14 +16,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
 ---
 # Développement des agences
 
-[!BADGE Bientôt Disponible]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
+[!BADGE Prochainement]{type=Informative tooltip="Cette fonctionnalité sera bientôt disponible et peut faire l’objet de modifications."}
 
 La création de personnalisations commerciales a toujours nécessité plusieurs équipes, outils et journées d’effort réparties entre l’analyse, la conception, le développement et le déploiement. Le développement d’agent dans Adobe Commerce réduit cela en une seule boucle intelligente. Un agent d’IA comprend votre système existant, pas seulement ce que fait le code, mais ce qu’il est censé faire, génère un plan directeur, écrit du code prêt pour la production, valide lors de sa création et orchestre le déploiement sans transfert ni perte de contexte.
 
@@ -41,7 +41,7 @@ La création de personnalisations commerciales a toujours nécessité plusieurs 
 * Validation et optimisation simultanées dans la vue système complète
 * Flux de déploiement continu sans transfert ni perte de contexte
 
->[!VIDEO](https://video.tv.adobe.com/v/3492289?captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3492284)
 
 <!-- ## Additional resources -->
 

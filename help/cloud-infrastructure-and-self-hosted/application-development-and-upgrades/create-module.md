@@ -4,7 +4,7 @@ description: Créez et enregistrez un module dans Adobe Commerce, exécutez le p
 jira: KT-5614
 doc-type: Technical Video
 duration: 958
-last-substantial-update: 2026-03-23T00:00:00.000Z
+last-substantial-update: 2026-03-23
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
@@ -28,7 +28,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-11-11T17:28:59.029Z'
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -53,7 +53,7 @@ Un module est un élément structurel de [!DNL Commerce]. Les modules constituen
 4. Pour enregistrer et installer le module, exécutez `bin/magento setup:upgrade`.
 5. Vérifiez que le module fonctionne.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412452?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
 ### Le fichier module.xml
 
