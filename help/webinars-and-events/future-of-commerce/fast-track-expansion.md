@@ -34,9 +34,9 @@ topic_v2:
     internal-label: Data modeling
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '235'
 ht-degree: 0%
 ---
 # Expansion rapide
@@ -58,12 +58,12 @@ Découvrez comment Adobe Commerce permet aux entreprises d’accélérer leur ex
 * Intégration transparente d’assortiments de produits propriétaires et tiers
 * Développement de storefront accéléré avec des listes déroulantes et des thèmes
 
->[!VIDEO](https://video.tv.adobe.com/v/3505302?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
 
 ## Tutoriels connexes
 
-* [Adobe Commerce Optimizer : vues de catalogue](https://experienceleague.adobe.com/fr/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
-* [Adobe Commerce as a Cloud Service : gestion des catalogues et marchandisage](https://experienceleague.adobe.com/fr/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
+* [Adobe Commerce Optimizer : vues de catalogue](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views)
+* [Adobe Commerce as a Cloud Service : gestion des catalogues et marchandisage](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services)
 
 ## Autres vidéos de cette série
 

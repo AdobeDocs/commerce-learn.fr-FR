@@ -30,9 +30,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 0%
 ---
 # Gestion des instances de Adobe Commerce Optimizer
@@ -51,11 +51,10 @@ Découvrez comment gérer une instance Adobe Commerce Optimizer pour mettre à j
 * Mettre à jour le nom et les descriptions
 * Rechercher les points d’entrée et les identifiants clés pour les intégrations
 
->[!VIDEO](https://video.tv.adobe.com/v/3470234?captions=fre_fr&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
 
 ## Contenu connexe
 
-* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/overview){target="_blank"}
-* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce-learn/adobe-commerce-optimizer/overview){target="_blank"}
-* [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/fr/docs/commerce/optimizer/get-started){target="_blank"}
-
+* [Guide [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Présentation de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Prise en main de Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
